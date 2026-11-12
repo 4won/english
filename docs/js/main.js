@@ -58,10 +58,10 @@ onRemoteChange(() => {
 });
 
 function updateSync() {
-  const d = $('#syncDot'); if (!d) return;
-  const map = { ok: ['ok', '동기화됨'], saving: ['wait', '저장 중…'], error: ['err', '동기화 오류 · 다시 시도합니다'], idle: ['', CLOUD ? '' : '이 기기에만 저장'] };
+  const map = { ok: ['ok', '동기화됨'], saving: ['wait', '저장 중…'], error: ['err', '동기화 오류 · 다시 시도합니다'], idle: ['', CLOUD ? '연결 중…' : '이 기기에만 저장'] };
   const [cls, text] = map[session.sync] || map.idle;
-  d.className = 'sync-dot ' + cls; d.title = text; d.setAttribute('aria-label', text);
+  $$('.js-sync-dot').forEach(d => { d.className = 'sync-dot js-sync-dot ' + cls; });
+  $$('.js-sync-note').forEach(n => { n.textContent = text; });
 }
 
 // ---------- settings sheet ----------
@@ -118,7 +118,7 @@ function boot() {
     if (leaveGuard && !leaveGuard()) return;
     go(b.dataset.tab);
   }));
-  $('#settingsBtn').addEventListener('click', openSettings);
+  $$('.js-settings').forEach(b => b.addEventListener('click', openSettings));
   $('#settingsClose').addEventListener('click', () => $('#settings').close());
   $('#authForm').addEventListener('submit', onLogin);
   window.addEventListener('hashchange', route);
