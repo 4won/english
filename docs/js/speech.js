@@ -135,4 +135,5 @@ export function matches(item, heard) {
 }
 
 // Typing quiz: exact word, ignoring case and outer spaces.
-export const sameWord = (typed, en) => String(typed || '').trim().toLowerCase().replace(/\s+/g, ' ') === en.toLowerCase();
+const plain = s => String(s || '').trim().toLowerCase().replace(/[’‘`]/g, "'").replace(/\s+/g, ' ');
+export const sameWord = (typed, en) => plain(typed) === plain(en);

@@ -88,12 +88,18 @@ export function choiceQuiz(root, words, pool, { onWrong } = {}) {
 
 // ---------- Quiz 2: see the Korean, type the English. Each wrong try reveals one more hint. ----------
 export const HINT_LEVELS = 4;
+// Spaces and apostrophes stay visible so a phrase shows its word breaks ("l _ _ _   f _ _").
 export function hintText(en, level) {
-  const letters = [...en];
+  const chars = [...en];
+  const letters = chars.filter(c => /[a-z]/i.test(c)).length;
+  const words = en.split(' ').length;
+  let k = -1; // index among letters only
+  const show = (c, rule) => { if (c === ' ') return ' '; if (!/[a-z]/i.test(c)) return c; k++; return rule(k, c) ? c : '_'; };
+  const firsts = new Set(); let pos = 0; en.split(' ').forEach(w => { firsts.add(pos); pos += [...w].filter(c => /[a-z]/i.test(c)).length; });
   if (level <= 0) return '';
-  if (level === 1) return `${letters.map(() => '_').join(' ')}   (${letters.length}글자)`;
-  if (level === 2) return letters.map((c, i) => (i === 0 ? c : '_')).join(' ');
-  if (level === 3) return letters.map((c, i) => (i === 0 || i % 2 === 0 || i === letters.length - 1 ? c : '_')).join(' ');
+  if (level === 1) return `${chars.map(c => show(c, () => false)).join(' ')}   (${words > 1 ? `${words}단어 · ` : ''}${letters}글자)`;
+  if (level === 2) return chars.map(c => show(c, i => firsts.has(i))).join(' ');
+  if (level === 3) return chars.map(c => show(c, i => firsts.has(i) || i % 2 === 0)).join(' ');
   return en;
 }
 

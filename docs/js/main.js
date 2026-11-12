@@ -10,8 +10,8 @@ import { renderWrong } from './views/wrong.js';
 export const VERSION = 'v1';
 
 // ---------- routing ----------
-// #home · #words · #words/<level> · #ch/<level>/<n>[/<step>] · #speak · #sp/<n> · #wrong
-const TABS = { home: 'home', words: 'words', ch: 'words', speak: 'speak', sp: 'speak', wrong: 'wrong' };
+// #home · #words · #idioms · #words/<level> · #ch/<level>/<n>[/<step>] · #speak · #sp/<n> · #wrong
+const TABS = { home: 'home', words: 'words', idioms: 'words', ch: 'words', speak: 'speak', sp: 'speak', wrong: 'wrong' };
 let renderToken = 0;
 let leaveGuard = null; // a running quiz can ask before the user leaves it
 
@@ -32,7 +32,8 @@ async function route() {
   const ctx = { box, alive: () => token === renderToken };
   try {
     if (name === 'home') await renderHome(ctx);
-    else if (name === 'words') await (parts[1] ? renderLevel(ctx, parts[1]) : renderWords(ctx));
+    else if (name === 'words') await (parts[1] ? renderLevel(ctx, parts[1]) : renderWords(ctx, 'word'));
+    else if (name === 'idioms') await renderWords(ctx, 'idiom');
     else if (name === 'ch') await renderChapter(ctx, parts[1], +parts[2], parts[3]);
     else if (name === 'speak') await renderSpeakList(ctx);
     else if (name === 'sp') await renderSession(ctx, +parts[1]);
@@ -52,7 +53,7 @@ let syncRerender = null;
 onChange(updateSync);
 onRemoteChange(() => {
   const parts = (location.hash || '#home').slice(1).split('/');
-  if (!['home', 'words', 'speak'].includes(parts[0])) return; // never interrupt a chapter, session or review
+  if (!['home', 'words', 'idioms', 'speak'].includes(parts[0])) return; // never interrupt a chapter, session or review
   clearTimeout(syncRerender);
   syncRerender = setTimeout(() => { if (!document.querySelector('.view-inner [data-busy]')) route(); }, 250);
 });

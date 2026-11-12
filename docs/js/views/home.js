@@ -1,13 +1,13 @@
 import { el, btn, h, progressBar } from '../ui.js';
 import { chapter, chapterDone, speakRec, streak, studiedToday, wrongList, get, ymd } from '../state.js';
-import { LEVELS, CHAPTERS, SESSIONS, readyChapters, readySessions, session as getSession, levelInfo } from '../data.js';
+import { LEVELS, COURSES, CHAPTERS, SESSIONS, courseLevels, readyChapters, readySessions, session as getSession, levelInfo } from '../data.js';
 import { go } from '../main.js';
 
 const STEP_TEXT = { cards: '단어 보기', quiz1: '퀴즈 1단계', quiz2: '퀴즈 2단계', done: '완료' };
 
-// The chapter to study today: the first unfinished chapter of the first level that still has one.
-export async function nextChapter() {
-  for (const L of LEVELS) {
+// The chapter to study today: the first unfinished chapter of the first level of the course that still has one.
+export async function nextChapter(course = 'word') {
+  for (const L of courseLevels(course)) {
     const n = await readyChapters(L.id);
     for (let ch = 1; ch <= n; ch++) if (!chapterDone(L.id, ch)) return { lv: L.id, ch };
   }
@@ -28,18 +28,25 @@ export async function renderHome({ box }) {
     h('p', 'eyebrow', `${today.getMonth() + 1}월 ${today.getDate()}일 ${days[today.getDay()]}요일`),
     h('h1', '', studiedToday() ? '오늘도 해냈어요' : '오늘의 영어')));
 
-  // Today's chapter
-  const nc = await nextChapter();
-  const wordCard = el('section', 'card today');
-  if (nc) {
-    const rec = chapter(nc.lv, nc.ch);
-    const started = rec.step !== 'cards';
-    wordCard.append(
-      h('div', 'today-top', h('span', 'chip', '단어'), h('span', 'today-meta', `${levelInfo(nc.lv).name} · ${nc.ch}/${CHAPTERS} 챕터`)),
-      h('h2', '', `${nc.ch}챕터 단어 20개`),
-      h('p', 'muted', started ? `${STEP_TEXT[rec.step]}부터 이어서 합니다.` : '카드로 단어를 보고 → 객관식 퀴즈 → 철자 쓰기 퀴즈'),
-      btn('btn primary block', started ? '이어서 하기' : '시작하기', () => go(`ch/${nc.lv}/${nc.ch}`)));
-  } else wordCard.append(h('div', 'today-top', h('span', 'chip', '단어')), h('h2', '', '준비된 챕터를 모두 끝냈어요'), h('p', 'muted', '다음 단계 단어가 추가되면 여기에 나타납니다.'));
+  // Today's chapter, one card per course
+  const courseCard = async course => {
+    const C = COURSES[course];
+    const nc = await nextChapter(course);
+    const card = el('section', 'card today');
+    const chip = h('span', 'chip' + (course === 'idiom' ? ' idiom' : ''), C.name);
+    if (nc) {
+      const rec = chapter(nc.lv, nc.ch);
+      const started = rec.step !== 'cards';
+      card.append(
+        h('div', 'today-top', chip, h('span', 'today-meta', `${levelInfo(nc.lv).name} · ${nc.ch}/${CHAPTERS} 챕터`)),
+        h('h2', '', `${nc.ch}챕터 ${C.unit} ${C.per}개`),
+        h('p', 'muted', started ? `${STEP_TEXT[rec.step]}부터 이어서 합니다.` : '카드로 보고 → 객관식 퀴즈 → 철자 쓰기 퀴즈'),
+        btn('btn primary block', started ? '이어서 하기' : '시작하기', () => go(`ch/${nc.lv}/${nc.ch}`)));
+    } else card.append(h('div', 'today-top', chip), h('h2', '', '준비된 챕터를 모두 끝냈어요'), h('p', 'muted', '다음 단계가 추가되면 여기에 나타납니다.'));
+    return card;
+  };
+  const wordCard = await courseCard('word');
+  const idiomCard = await courseCard('idiom');
 
   // Today's speaking session
   const ns = await nextSession();
@@ -53,7 +60,7 @@ export async function renderHome({ box }) {
       h('p', 'muted', s.title),
       btn('btn primary block alt', rec.idx ? `${rec.idx + 1}번째 문장부터 이어서` : '말하기 시작', () => go(`sp/${ns}`)));
   } else spCard.append(h('div', 'today-top', h('span', 'chip alt', '말하기')), h('h2', '', '준비된 회차를 모두 끝냈어요'), h('p', 'muted', '다음 회차가 추가되면 여기에 나타납니다.'));
-  box.append(h('div', 'today-grid', wordCard, spCard));
+  box.append(h('div', 'today-grid', wordCard, idiomCard, spCard));
 
   // Stats
   const st = streak();
@@ -70,7 +77,7 @@ export async function renderHome({ box }) {
   for (const L of LEVELS) {
     const n = doneCount(L.id);
     prog.append(h('button', 'prog-row' + (L.ready ? '' : ' off'),
-      h('span', 'prog-name', L.name), progressBar(n, CHAPTERS), h('span', 'prog-num', L.ready ? `${n}/${CHAPTERS}` : '준비 중')));
+      h('span', 'prog-name', L.full), progressBar(n, CHAPTERS), h('span', 'prog-num', L.ready ? `${n}/${CHAPTERS}` : '준비 중')));
     prog.lastChild.type = 'button';
     prog.lastChild.addEventListener('click', () => go(`words/${L.id}`));
   }

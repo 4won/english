@@ -23,7 +23,7 @@ export async function renderWrong(ctx) {
   const ul = el('ul', 'word-list wrong');
   list.forEach(w => {
     const li = h('li', '', h('b', '', w.en), h('span', '', w.ko),
-      h('small', 'muted', `${levelInfo(w.lv).name} ${w.ch}챕터${w.n > 1 ? ` · ${w.n}번 틀림` : ''}`),
+      h('small', 'muted', `${levelInfo(w.lv).full} ${w.ch}챕터${w.n > 1 ? ` · ${w.n}번 틀림` : ''}`),
       speakBtn(() => say(w.en)),
       btn('icon-btn x', '×', () => { clearWrong(w.id); li.remove(); }, { 'aria-label': `${w.en} 오답 노트에서 빼기`, title: '목록에서 빼기' }));
     ul.append(li);

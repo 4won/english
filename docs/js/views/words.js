@@ -1,18 +1,30 @@
 import { el, btn, h, progressBar } from '../ui.js';
 import { chapter, chapterDone, get } from '../state.js';
-import { LEVELS, CHAPTERS, readyChapters, levelInfo } from '../data.js';
+import { COURSES, CHAPTERS, courseLevels, readyChapters, levelInfo } from '../data.js';
 import { go } from '../main.js';
 
-const doneCount = lv => Object.values(get().words[lv] || {}).filter(c => c.step === 'done').length;
+export const doneCount = lv => Object.values(get().words[lv] || {}).filter(c => c.step === 'done').length;
 
-export async function renderWords({ box }) {
-  box.append(h('header', 'page-head', h('p', 'eyebrow', '단어'), h('h1', '', '단계를 고르세요'),
-    h('p', 'muted', '단계마다 30챕터, 챕터마다 20단어입니다. 하루에 한 챕터씩 하면 한 달에 한 단계를 끝내요.')));
+// 단어 / 숙어 switch shown at the top of the vocabulary screens.
+function courseSwitch(current) {
+  const seg = el('div', 'course-seg');
+  seg.setAttribute('role', 'tablist');
+  Object.values(COURSES).forEach(c => {
+    const b = btn('course-btn' + (c.id === current ? ' on' : ''), c.name, () => go(c.route), { role: 'tab', 'aria-selected': String(c.id === current) });
+    seg.append(b);
+  });
+  return seg;
+}
+
+export async function renderWords({ box }, course = 'word') {
+  const C = COURSES[course];
+  box.append(h('header', 'page-head', h('p', 'eyebrow', '단어장'), courseSwitch(course),
+    h('p', 'muted', `단계마다 30챕터, 챕터마다 ${C.per}개 ${C.unit}입니다. 하루에 한 챕터씩 하면 한 달에 한 단계를 끝내요.`)));
   const list = el('div', 'level-list');
-  for (const L of LEVELS) {
+  for (const L of courseLevels(course)) {
     const n = doneCount(L.id);
     const b = h('button', 'card level' + (L.ready ? '' : ' off'),
-      h('div', 'level-top', h('b', '', L.name), h('span', 'muted', L.ready ? `${n}/${CHAPTERS} 챕터 완료` : '다음 업데이트에서 추가')),
+      h('div', 'level-top', h('b', '', L.full), h('span', 'muted', L.ready ? `${n}/${CHAPTERS} 챕터 완료` : '다음 업데이트에서 추가')),
       h('p', 'muted', L.desc), progressBar(n, CHAPTERS));
     b.type = 'button';
     if (L.ready) b.addEventListener('click', () => go(`words/${L.id}`)); else b.disabled = true;
@@ -26,11 +38,12 @@ export const unlocked = (lv, ch) => ch === 1 || chapterDone(lv, ch - 1);
 
 export async function renderLevel({ box }, lv) {
   const L = levelInfo(lv);
+  const C = COURSES[L.course];
   const ready = await readyChapters(lv);
   box.append(h('header', 'page-head',
-    btn('back', '‹ 단계 목록', () => go('words')),
-    h('h1', '', `${L.name} 단어`),
-    h('p', 'muted', `${doneCount(lv)}/${CHAPTERS} 챕터 완료`)));
+    btn('back', `‹ ${C.name} 단계 목록`, () => go(C.route)),
+    h('h1', '', L.full),
+    h('p', 'muted', `${doneCount(lv)}/${CHAPTERS} 챕터 완료 · 챕터마다 ${C.per}개`)));
   const grid = el('div', 'ch-grid');
   for (let ch = 1; ch <= CHAPTERS; ch++) {
     const rec = chapter(lv, ch);

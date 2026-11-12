@@ -13,12 +13,12 @@ export async function renderChapter(ctx, lv, ch, wanted) {
   const { box } = ctx;
   const L = levelInfo(lv);
   const words = await chapterWords(lv, ch);
-  box.append(h('header', 'page-head tight', btn('back', `‹ ${L.name} 챕터 목록`, () => go(`words/${lv}`))));
+  box.append(h('header', 'page-head tight', btn('back', `‹ ${L.full} 챕터 목록`, () => go(`words/${lv}`))));
   if (!words.length || !unlocked(lv, ch)) {
     box.append(h('div', 'empty', h('p', '', words.length ? '앞 챕터를 먼저 끝내면 열립니다.' : '아직 준비되지 않은 챕터입니다.'), btn('btn', '챕터 목록', () => go(`words/${lv}`))));
     return;
   }
-  const title = h('h1', '', `${L.name} ${ch}챕터`);
+  const title = h('h1', '', `${L.full} ${ch}챕터`);
   const stepper = el('ol', 'stepper');
   box.querySelector('.page-head').append(title, stepper);
   const stage = el('div', 'stage');
@@ -76,16 +76,17 @@ export async function renderChapter(ctx, lv, ch, wanted) {
 
       function card(w) {
         const c = el('article', 'wcard');
+        const main = h('div', 'wcard-main', h('div', 'wcard-text', h('div', 'wcard-en' + (w.en.includes(' ') ? ' phrase' : ''), w.en), h('div', 'wcard-ko', w.ko)));
+        if (w.img) { const im = el('img', 'wcard-img'); Object.assign(im, { src: w.img, alt: '', width: 120, height: 120, loading: 'lazy', decoding: 'async' }); main.append(im); }
         c.append(
           h('div', 'wcard-head', h('span', 'pos', w.pos), speakBtn(() => say(w.en), `${w.en} 발음 듣기`)),
-          h('div', 'wcard-en', w.en),
-          h('div', 'wcard-ko', w.ko),
+          main,
           h('div', 'wcard-ex', h('p', 'ex-en', highlight(w.ex, w.en), speakBtn(() => say(w.ex), '예문 듣기', 'small')), h('p', 'ex-ko', w.exKo)));
         return c;
       }
       function paint() {
         body.textContent = '';
-        top.firstChild.textContent = listMode ? '20개 단어 전체' : `${i + 1} / ${words.length}`;
+        top.firstChild.textContent = listMode ? `${words.length}개 전체` : `${i + 1} / ${words.length}`;
         top.lastChild.textContent = listMode ? '카드로 보기' : '전체 목록';
         if (listMode) {
           const ul = el('ul', 'word-list');
@@ -95,6 +96,7 @@ export async function renderChapter(ctx, lv, ch, wanted) {
         }
         const w = words[i];
         const c = card(w);
+        const nx = words[i + 1]; if (nx && nx.img) { const p = new Image(); p.src = nx.img; }
         const nav = h('div', 'cards-nav',
           btn('btn', '이전', () => { if (i > 0) { i--; paint(); auto(); } }, i === 0 ? { disabled: '' } : {}),
           i < words.length - 1 ? btn('btn primary', '다음', () => { i++; paint(); auto(); }) : btn('btn primary', '퀴즈 1단계 시작', resolve));
@@ -131,9 +133,9 @@ export async function renderChapter(ctx, lv, ch, wanted) {
     stage.append(h('div', 'card done-card',
       h('span', 'chip ok', '완료한 챕터'),
       h('h2', '', '다시 복습할 부분을 고르세요'),
-      h('p', 'muted', `최고 기록 · 퀴즈 1단계 ${r.best1 || 0}/20 · 퀴즈 2단계 ${r.best2 || 0}/20 (한 번에 맞힌 수)`),
+      h('p', 'muted', `최고 기록 · 퀴즈 1단계 ${r.best1 || 0}/${words.length} · 퀴즈 2단계 ${r.best2 || 0}/${words.length} (한 번에 맞힌 수)`),
       h('div', 'menu-btns',
-        btn('btn', '단어 카드', () => run('cards')),
+        btn('btn', '카드 보기', () => run('cards')),
         btn('btn', '퀴즈 1단계', () => run('quiz1')),
         btn('btn', '퀴즈 2단계', () => run('quiz2')))));
     nextButtons();
@@ -142,7 +144,7 @@ export async function renderChapter(ctx, lv, ch, wanted) {
     const ready = await readyChapters(lv);
     const row = el('div', 'result-btns');
     if (ch < ready) row.append(btn('btn primary', `${ch + 1}챕터로`, () => go(`ch/${lv}/${ch + 1}`)));
-    else if (ch === CHAPTERS) row.append(h('p', 'muted', `${L.name} 30챕터를 모두 끝냈어요!`));
+    else if (ch === CHAPTERS) row.append(h('p', 'muted', `${L.full} 30챕터를 모두 끝냈어요!`));
     row.append(btn('btn', '홈으로', () => go('home')));
     stage.append(row);
   }
@@ -155,14 +157,14 @@ export async function renderChapter(ctx, lv, ch, wanted) {
     [...(q1 ? q1.missed : []), ...(q2 ? q2.missed : [])].forEach(w => missed.set(w.id, w));
     const card = h('div', 'card done-card celebrate',
       h('span', 'chip ok', `${ch}챕터 완료`),
-      h('h2', '', missed.size ? '수고했어요! 틀린 단어는 오답 노트에 담았어요' : '완벽해요! 모두 한 번에 맞혔어요'),
+      h('h2', '', missed.size ? '수고했어요! 틀린 것은 오답 노트에 담았어요' : '완벽해요! 모두 한 번에 맞혔어요'),
       h('div', 'score-row',
         q1 ? h('div', 'score', h('b', '', `${q1.firstTry}/${q1.total}`), h('span', '', '퀴즈 1단계')) : null,
         q2 ? h('div', 'score', h('b', '', `${q2.firstTry}/${q2.total}`), h('span', '', '퀴즈 2단계')) : null));
     if (missed.size) {
       const ul = el('ul', 'word-list compact');
       [...missed.values()].forEach(w => ul.append(h('li', '', h('b', '', w.en), h('span', '', w.ko), speakBtn(() => say(w.en)))));
-      card.append(h('p', 'muted small', '헷갈렸던 단어'), ul);
+      card.append(h('p', 'muted small', '헷갈렸던 것'), ul);
     }
     stage.textContent = '';
     stage.append(card);
