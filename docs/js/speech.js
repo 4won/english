@@ -1,0 +1,138 @@
+// Text-to-speech, speech recognition and answer matching — all built into the browser, no cost.
+import { prefs } from './state.js';
+
+// ---------- speaking aloud ----------
+const synth = window.speechSynthesis;
+export const canSpeak = !!synth;
+let voice = null;
+function pickVoice() {
+  if (!synth) return;
+  const vs = synth.getVoices().filter(v => /^en[-_]/i.test(v.lang));
+  const pref = [/Samantha/i, /Google US English/i, /Aria|Jenny|Guy/i, /Natural/i, /en[-_]US/i];
+  voice = null;
+  for (const re of pref) { voice = vs.find(v => re.test(v.name) || re.test(v.lang)); if (voice) break; }
+  if (!voice) voice = vs[0] || null;
+}
+if (synth) { pickVoice(); synth.addEventListener && synth.addEventListener('voiceschanged', pickVoice); }
+
+export function say(text, { rate } = {}) {
+  if (!synth || !text) return Promise.resolve();
+  return new Promise(resolve => {
+    synth.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = 'en-US';
+    if (voice) u.voice = voice;
+    u.rate = rate || prefs().rate || 0.9;
+    u.onend = u.onerror = () => resolve();
+    synth.speak(u);
+    setTimeout(resolve, 8000 + text.length * 120); // some browsers never fire onend
+  });
+}
+export const stopSaying = () => synth && synth.cancel();
+
+// ---------- listening ----------
+const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
+export const canListen = !!SR;
+let active = null;
+
+// Resolves with { alts: [transcripts…] } or rejects with an Error whose .code is the recognizer's error.
+export function listen({ onInterim } = {}) {
+  stopListening();
+  return new Promise((resolve, reject) => {
+    if (!SR) { const e = new Error('unsupported'); e.code = 'unsupported'; reject(e); return; }
+    const rec = new SR();
+    rec.lang = 'en-US';
+    rec.interimResults = true;
+    rec.maxAlternatives = 5;
+    rec.continuous = false;
+    let alts = [], interim = '', settled = false;
+    const finish = (err) => {
+      if (settled) return; settled = true; clearTimeout(timer); active = null;
+      if (err) reject(err);
+      else resolve({ alts: alts.length ? alts : (interim ? [interim] : []) });
+    };
+    rec.onresult = ev => {
+      interim = '';
+      for (let i = ev.resultIndex; i < ev.results.length; i++) {
+        const r = ev.results[i];
+        if (r.isFinal) { alts = [...r].map(a => a.transcript.trim()).filter(Boolean); }
+        else interim += r[0].transcript;
+      }
+      if (onInterim) onInterim(alts[0] || interim);
+    };
+    rec.onerror = ev => {
+      if (ev.error === 'no-speech' || ev.error === 'aborted') { finish(); return; }
+      const e = new Error(ev.error); e.code = ev.error; finish(e);
+    };
+    rec.onend = () => finish();
+    const timer = setTimeout(() => { try { rec.stop(); } catch (e) {} }, 15000);
+    active = rec;
+    try { rec.start(); } catch (e) { e.code = 'start'; finish(e); }
+  });
+}
+export function stopListening() { if (active) { try { active.stop(); } catch (e) {} } }
+
+export function listenErrorText(code) {
+  if (code === 'not-allowed' || code === 'service-not-allowed') return '마이크 권한이 꺼져 있습니다. 브라우저 설정에서 마이크를 허용하거나, "입력하기"로 답하세요.';
+  if (code === 'network') return '음성 인식 서버에 연결하지 못했습니다. 인터넷 연결을 확인하거나 "입력하기"로 답하세요.';
+  if (code === 'audio-capture') return '마이크를 찾지 못했습니다. "입력하기"로 답하세요.';
+  if (code === 'unsupported') return '이 브라우저는 음성 인식을 지원하지 않습니다. "입력하기"로 답하세요.';
+  return '음성을 인식하지 못했습니다. 다시 말하거나 "입력하기"로 답하세요.';
+}
+
+// ---------- matching ----------
+const CONTRACTIONS = {
+  "i'm": 'i am', "i'd": 'i would', "i've": 'i have', "i'll": 'i will', "you're": 'you are', "you'd": 'you would', "you've": 'you have', "you'll": 'you will',
+  "he's": 'he is', "she's": 'she is', "it's": 'it is', "we're": 'we are', "they're": 'they are', "that's": 'that is', "there's": 'there is', "here's": 'here is',
+  "what's": 'what is', "where's": 'where is', "who's": 'who is', "how's": 'how is', "let's": 'let us',
+  "don't": 'do not', "doesn't": 'does not', "didn't": 'did not', "can't": 'can not', cannot: 'can not', "won't": 'will not', "isn't": 'is not', "aren't": 'are not',
+  "wasn't": 'was not', "weren't": 'were not', "haven't": 'have not', "hasn't": 'has not', "couldn't": 'could not', "wouldn't": 'would not', "shouldn't": 'should not',
+  gonna: 'going to', wanna: 'want to', gotta: 'got to',
+};
+const NUM = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten', 'eleven', 'twelve', 'thirteen', 'fourteen', 'fifteen', 'sixteen', 'seventeen', 'eighteen', 'nineteen', 'twenty'];
+// Words that may be left out or added without failing the answer.
+const OPTIONAL = new Set(['please', 'some', 'a', 'an', 'the', 'um', 'uh', 'oh', 'okay', 'ok', 'hmm', 'er']);
+
+export function tokens(s) {
+  let t = ' ' + String(s || '').toLowerCase().replace(/[’‘`]/g, "'") + ' ';
+  t = t.replace(/(\d+):00/g, "$1 o'clock").replace(/(\d+)\s*(am|pm|a\.m\.|p\.m\.)/g, '$1');
+  t = t.replace(/-/g, '');                                   // wi-fi → wifi
+  t = t.replace(/[^a-z0-9' ]+/g, ' ');
+  t = t.replace(/[a-z']+/g, w => CONTRACTIONS[w] || w);
+  t = t.replace(/\b\d+\b/g, d => NUM[+d] || d);
+  t = t.replace(/'/g, '');                                   // o'clock → oclock
+  return t.split(/\s+/).filter(w => w && !OPTIONAL.has(w));
+}
+
+function editDistance(a, b) {
+  const dp = Array.from({ length: a.length + 1 }, (_, i) => [i, ...Array(b.length).fill(0)]);
+  for (let j = 1; j <= b.length; j++) dp[0][j] = j;
+  for (let i = 1; i <= a.length; i++) for (let j = 1; j <= b.length; j++)
+    dp[i][j] = Math.min(dp[i - 1][j] + 1, dp[i][j - 1] + 1, dp[i - 1][j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+  return dp[a.length][b.length];
+}
+
+// Same words in the same order; one slightly misheard word (≤2 letters off) is forgiven in longer sentences.
+function sameSentence(said, target) {
+  if (said.length !== target.length) return false;
+  let off = 0;
+  for (let i = 0; i < target.length; i++) {
+    if (said[i] === target[i]) continue;
+    if (target.length >= 4 && editDistance(said[i], target[i]) <= 2) { off++; continue; }
+    return false;
+  }
+  return off <= 1;
+}
+
+// item: { en, alt: [] }; heard: array of transcripts. Returns the matched transcript or null.
+export function matches(item, heard) {
+  const targets = [item.en, ...(item.alt || [])].map(tokens);
+  for (const h of heard) {
+    const t = tokens(h);
+    if (t.length && targets.some(g => sameSentence(t, g))) return h;
+  }
+  return null;
+}
+
+// Typing quiz: exact word, ignoring case and outer spaces.
+export const sameWord = (typed, en) => String(typed || '').trim().toLowerCase().replace(/\s+/g, ' ') === en.toLowerCase();
