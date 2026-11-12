@@ -1,7 +1,7 @@
 // Speaking practice: say the Korean sentence in English. A miss shows the answer,
 // and the sentence passes only after it is said correctly twice.
 import { el, btn, h, speakBtn, progressBar, MIC, sleep } from '../ui.js';
-import { speakRec, setSpeak, markStudied } from '../state.js';
+import { speakRec, setSpeak, markStudied, chatRec } from '../state.js';
 import { sessions, session as getSession, SESSIONS } from '../data.js';
 import { say, listen, stopListening, canListen, matches, listenErrorText } from '../speech.js';
 import { go, setLeaveGuard } from '../main.js';
@@ -26,7 +26,13 @@ export async function renderSpeakList({ box }) {
       h('span', 'sess-state', rec.done ? '완료' : !s ? '' : !open ? '잠김' : rec.idx ? `${rec.idx}/10` : '시작'));
     b.type = 'button';
     if (open) b.addEventListener('click', () => go(`sp/${n}`)); else b.disabled = true;
-    list.append(b);
+    const row = h('div', 'sess-row', b);
+    if (s && s.chat && rec.done) {
+      const cr = chatRec(n);
+      row.append(btn('sess-chat' + (cr.done ? ' done' : ''), '', () => go(`chat/${n}`), { 'aria-label': `${n}회차 AI 상황극: ${s.chat.title}` }));
+      row.lastChild.append(h('b', '', 'AI 상황극'), h('small', '', cr.done ? (cr.mission ? '미션 성공' : '완료') : s.chat.title));
+    }
+    list.append(row);
   }
   box.append(h('p', 'muted small', `${done}/${SESSIONS} 회차 완료`), list);
 }
@@ -55,6 +61,7 @@ export async function renderSession(ctx, n) {
       h('div', 'sp-example', h('span', 'muted small', '예시'), h('p', '', ex.ko), h('p', 'en', ex.en, speakBtn(() => say(ex.en)))),
       btn('btn primary block alt', idx ? `${idx + 1}번째 문장부터 이어서` : '시작하기', () => item())));
     if (rec.done) stage.append(h('p', 'muted small center', '이미 끝낸 회차입니다. 다시 연습할 수 있어요.'));
+    if (rec.done && s.chat) stage.append(chatInvite());
   }
 
   // ---------- one sentence ----------
@@ -157,6 +164,12 @@ export async function renderSession(ctx, n) {
     paintControls();
   }
 
+  function chatInvite() {
+    return h('section', 'card chat-invite',
+      h('div', '', h('span', 'chip alt', 'AI 상황극'), h('h3', '', s.chat.title), h('p', 'muted small', `나: ${s.chat.you} · AI: ${s.chat.ai} — 배운 "${s.pattern}"를 실전처럼 써 보세요.`)),
+      btn('btn primary alt', '상황극 시작', () => go(`chat/${n}`)));
+  }
+
   // ---------- finished ----------
   async function finish() {
     stage.textContent = '';
@@ -172,7 +185,9 @@ export async function renderSession(ctx, n) {
     const row = el('div', 'result-btns');
     if (all.some(x => x.n === n + 1)) row.append(btn('btn primary alt', `${n + 1}회차로`, () => go(`sp/${n + 1}`)));
     row.append(btn('btn', '홈으로', () => go('home')));
-    stage.append(card, row);
+    stage.append(card);
+    if (s.chat) stage.append(chatInvite());
+    stage.append(row);
   }
 
   intro();

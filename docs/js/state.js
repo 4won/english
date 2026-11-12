@@ -20,7 +20,7 @@ export const onRemoteChange = fn => remoteListeners.add(fn);
 const notify = () => listeners.forEach(fn => fn());
 
 function blank() {
-  return { v: 1, words: {}, speak: {}, wrong: {}, days: {}, prefs: { rate: 0.9, autoSpeak: true }, prefsAt: 0, at: 0 };
+  return { v: 1, words: {}, speak: {}, chat: {}, wrong: {}, days: {}, prefs: { rate: 0.9, autoSpeak: true }, prefsAt: 0, at: 0 };
 }
 const key = () => `eng.v1.state.${session.uid || 'local'}`;
 function loadLocal() {
@@ -50,6 +50,10 @@ export function merge(a, b) {
     const x = a.speak[n] || {}, y = b.speak[n] || {};
     out.speak[n] = { done: !!(x.done || y.done), doneAt: [x.doneAt, y.doneAt].filter(Boolean).sort()[0] || null, idx: Math.max(x.idx || 0, y.idx || 0), at: Math.max(x.at || 0, y.at || 0) };
   }
+  for (const n of new Set([...Object.keys(a.chat), ...Object.keys(b.chat)])) {
+    const x = a.chat[n] || {}, y = b.chat[n] || {};
+    out.chat[n] = { done: !!(x.done || y.done), mission: !!(x.mission || y.mission), times: Math.max(x.times || 0, y.times || 0), at: Math.max(x.at || 0, y.at || 0) };
+  }
   for (const id of new Set([...Object.keys(a.wrong), ...Object.keys(b.wrong)])) {
     const x = a.wrong[id], y = b.wrong[id];
     out.wrong[id] = !x ? y : !y ? x : ((x.at || 0) >= (y.at || 0) ? x : y);
@@ -69,6 +73,7 @@ export const chapter = (lv, ch) => (S.words[lv] || {})[ch] || { step: 'cards' };
 export const chapterDone = (lv, ch) => chapter(lv, ch).step === 'done';
 export const speakRec = n => S.speak[n] || { done: false, idx: 0 };
 export const prefs = () => S.prefs;
+export const chatRec = n => S.chat[n] || { done: false };
 export const wrongList = () => Object.entries(S.wrong).filter(([, w]) => w && !w.off).map(([id, w]) => ({ id, ...w })).sort((a, b) => (b.at || 0) - (a.at || 0));
 
 const pad = n => String(n).padStart(2, '0');
@@ -108,6 +113,12 @@ export function setSpeak(n, patch) {
     next.done = !!(cur.done || patch.done);
     s.speak[n] = next;
     if (patch.done) s.days[ymd()] = 1;
+  });
+}
+export function setChat(n, patch) {
+  update(s => {
+    const cur = s.chat[n] || {};
+    s.chat[n] = { done: !!(cur.done || patch.done), mission: !!(cur.mission || patch.mission), times: (cur.times || 0) + 1, at: Date.now() };
   });
 }
 export function addWrong(word) {

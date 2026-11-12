@@ -1,162 +1,839 @@
 [
   {
-    "n": 1, "pattern": "Can I get ~?", "title": "~ 주시겠어요? · 주문하고 요청하기",
+    "n": 1,
+    "pattern": "Can I get ~?",
+    "title": "~ 주시겠어요? · 주문하고 요청하기",
     "tip": "가게나 식당에서 무언가를 달라고 할 때 가장 자연스럽게 쓰는 표현입니다. 끝에 please를 붙이면 더 공손해요. Can I have ~? 도 같은 뜻입니다.",
     "items": [
-      { "ko": "물 좀 먹을 수 있을까요?", "en": "Can I get some water, please?", "alt": ["Can I have some water, please?"] },
-      { "ko": "아이스 아메리카노 한 잔 주세요.", "en": "Can I get an iced americano, please?", "alt": ["Can I have an iced americano, please?"] },
-      { "ko": "메뉴판 좀 받을 수 있을까요?", "en": "Can I get a menu, please?", "alt": ["Can I have a menu, please?", "Can I see the menu, please?"] },
-      { "ko": "영수증 받을 수 있을까요?", "en": "Can I get a receipt, please?", "alt": ["Can I have a receipt, please?"] },
-      { "ko": "계산서 좀 주시겠어요?", "en": "Can I get the check, please?", "alt": ["Can I get the bill, please?", "Can I have the check, please?", "Can I have the bill, please?"] },
-      { "ko": "이거 포장해 갈 수 있을까요?", "en": "Can I get this to go?", "alt": ["Can I have this to go?", "Can I get it to go?"] },
-      { "ko": "봉투 하나 받을 수 있을까요?", "en": "Can I get a bag, please?", "alt": ["Can I have a bag, please?"] },
-      { "ko": "큰 사이즈로 받을 수 있을까요?", "en": "Can I get a large size?", "alt": ["Can I get a large one?", "Can I get a large?", "Can I have a large size?"] },
-      { "ko": "냅킨 좀 더 받을 수 있을까요?", "en": "Can I get some more napkins?", "alt": ["Can I have some more napkins?", "Can I get extra napkins?"] },
-      { "ko": "창가 자리로 받을 수 있을까요?", "en": "Can I get a window seat, please?", "alt": ["Can I have a window seat, please?"] }
-    ]
+      {
+        "ko": "물 좀 먹을 수 있을까요?",
+        "en": "Can I get some water, please?",
+        "alt": [
+          "Can I have some water, please?"
+        ]
+      },
+      {
+        "ko": "아이스 아메리카노 한 잔 주세요.",
+        "en": "Can I get an iced americano, please?",
+        "alt": [
+          "Can I have an iced americano, please?"
+        ]
+      },
+      {
+        "ko": "메뉴판 좀 받을 수 있을까요?",
+        "en": "Can I get a menu, please?",
+        "alt": [
+          "Can I have a menu, please?",
+          "Can I see the menu, please?"
+        ]
+      },
+      {
+        "ko": "영수증 받을 수 있을까요?",
+        "en": "Can I get a receipt, please?",
+        "alt": [
+          "Can I have a receipt, please?"
+        ]
+      },
+      {
+        "ko": "계산서 좀 주시겠어요?",
+        "en": "Can I get the check, please?",
+        "alt": [
+          "Can I get the bill, please?",
+          "Can I have the check, please?",
+          "Can I have the bill, please?"
+        ]
+      },
+      {
+        "ko": "이거 포장해 갈 수 있을까요?",
+        "en": "Can I get this to go?",
+        "alt": [
+          "Can I have this to go?",
+          "Can I get it to go?"
+        ]
+      },
+      {
+        "ko": "봉투 하나 받을 수 있을까요?",
+        "en": "Can I get a bag, please?",
+        "alt": [
+          "Can I have a bag, please?"
+        ]
+      },
+      {
+        "ko": "큰 사이즈로 받을 수 있을까요?",
+        "en": "Can I get a large size?",
+        "alt": [
+          "Can I get a large one?",
+          "Can I get a large?",
+          "Can I have a large size?"
+        ]
+      },
+      {
+        "ko": "냅킨 좀 더 받을 수 있을까요?",
+        "en": "Can I get some more napkins?",
+        "alt": [
+          "Can I have some more napkins?",
+          "Can I get extra napkins?"
+        ]
+      },
+      {
+        "ko": "창가 자리로 받을 수 있을까요?",
+        "en": "Can I get a window seat, please?",
+        "alt": [
+          "Can I have a window seat, please?"
+        ]
+      }
+    ],
+    "chat": {
+      "title": "카페에서 주문하기",
+      "you": "카페 손님",
+      "ai": "바리스타",
+      "goal": "음료 하나와 디저트 하나를 주문하고, 영수증도 달라고 해 보세요.",
+      "setting": "You are a friendly barista at a small coffee shop. The customer has just walked up to the counter. Take their order, suggest a dessert, mention sizes, and handle payment and the receipt."
+    }
   },
   {
-    "n": 2, "pattern": "I'd like ~ / I'd like to ~", "title": "~ 주세요 · ~하고 싶어요",
+    "n": 2,
+    "pattern": "I'd like ~ / I'd like to ~",
+    "title": "~ 주세요 · ~하고 싶어요",
     "tip": "I'd like는 I would like의 줄임말로, I want보다 훨씬 공손한 표현입니다. 뒤에 물건이 오면 I'd like + 명사, 하고 싶은 행동이 오면 I'd like to + 동사로 말해요.",
     "items": [
-      { "ko": "커피 한 잔 주세요.", "en": "I'd like a cup of coffee.", "alt": ["I'd like a coffee.", "I'd like some coffee."] },
-      { "ko": "예약하고 싶어요.", "en": "I'd like to make a reservation.", "alt": [] },
-      { "ko": "체크인하고 싶어요.", "en": "I'd like to check in.", "alt": [] },
-      { "ko": "이걸로 할게요.", "en": "I'd like this one.", "alt": ["I'd like this."] },
-      { "ko": "방을 바꾸고 싶어요.", "en": "I'd like to change my room.", "alt": ["I'd like to change rooms."] },
-      { "ko": "환불받고 싶어요.", "en": "I'd like to get a refund.", "alt": ["I'd like a refund."] },
-      { "ko": "이거 입어 보고 싶어요.", "en": "I'd like to try this on.", "alt": ["I'd like to try it on."] },
-      { "ko": "카드로 계산하고 싶어요.", "en": "I'd like to pay by card.", "alt": ["I'd like to pay with a card.", "I'd like to pay by credit card.", "I'd like to pay with my card."] },
-      { "ko": "스테이크는 미디엄으로 해 주세요.", "en": "I'd like my steak medium.", "alt": ["I'd like my steak medium, please."] },
-      { "ko": "계좌를 개설하고 싶어요.", "en": "I'd like to open an account.", "alt": ["I'd like to open a bank account."] }
-    ]
+      {
+        "ko": "커피 한 잔 주세요.",
+        "en": "I'd like a cup of coffee.",
+        "alt": [
+          "I'd like a coffee.",
+          "I'd like some coffee."
+        ]
+      },
+      {
+        "ko": "예약하고 싶어요.",
+        "en": "I'd like to make a reservation.",
+        "alt": []
+      },
+      {
+        "ko": "체크인하고 싶어요.",
+        "en": "I'd like to check in.",
+        "alt": []
+      },
+      {
+        "ko": "이걸로 할게요.",
+        "en": "I'd like this one.",
+        "alt": [
+          "I'd like this."
+        ]
+      },
+      {
+        "ko": "방을 바꾸고 싶어요.",
+        "en": "I'd like to change my room.",
+        "alt": [
+          "I'd like to change rooms."
+        ]
+      },
+      {
+        "ko": "환불받고 싶어요.",
+        "en": "I'd like to get a refund.",
+        "alt": [
+          "I'd like a refund."
+        ]
+      },
+      {
+        "ko": "이거 입어 보고 싶어요.",
+        "en": "I'd like to try this on.",
+        "alt": [
+          "I'd like to try it on."
+        ]
+      },
+      {
+        "ko": "카드로 계산하고 싶어요.",
+        "en": "I'd like to pay by card.",
+        "alt": [
+          "I'd like to pay with a card.",
+          "I'd like to pay by credit card.",
+          "I'd like to pay with my card."
+        ]
+      },
+      {
+        "ko": "스테이크는 미디엄으로 해 주세요.",
+        "en": "I'd like my steak medium.",
+        "alt": [
+          "I'd like my steak medium, please."
+        ]
+      },
+      {
+        "ko": "계좌를 개설하고 싶어요.",
+        "en": "I'd like to open an account.",
+        "alt": [
+          "I'd like to open a bank account."
+        ]
+      }
+    ],
+    "chat": {
+      "title": "호텔 체크인",
+      "you": "호텔 투숙객",
+      "ai": "프런트 직원",
+      "goal": "체크인하고, 방 조건(창가·높은 층 등)과 결제 방법을 원하는 대로 말해 보세요.",
+      "setting": "You are a front desk clerk at a city hotel. A guest arrives to check in. Ask for their name and reservation, offer room options, and ask how they would like to pay."
+    }
   },
   {
-    "n": 3, "pattern": "Could you ~?", "title": "~해 주시겠어요? · 부탁하기",
+    "n": 3,
+    "pattern": "Could you ~?",
+    "title": "~해 주시겠어요? · 부탁하기",
     "tip": "다른 사람에게 무언가를 해 달라고 공손하게 부탁할 때 씁니다. Can you ~? 보다 정중해요. 뒤에는 동사 원형이 옵니다.",
     "items": [
-      { "ko": "다시 한번 말씀해 주시겠어요?", "en": "Could you say that again, please?", "alt": ["Could you repeat that, please?"] },
-      { "ko": "좀 더 천천히 말씀해 주시겠어요?", "en": "Could you speak more slowly?", "alt": ["Could you speak slowly?", "Could you speak a little slower?", "Could you speak slower?"] },
-      { "ko": "사진 좀 찍어 주시겠어요?", "en": "Could you take a picture for me?", "alt": ["Could you take a picture of us?", "Could you take a photo for me?", "Could you take our picture?", "Could you take a picture?"] },
-      { "ko": "문 좀 열어 주시겠어요?", "en": "Could you open the door?", "alt": [] },
-      { "ko": "저 좀 도와주시겠어요?", "en": "Could you help me?", "alt": ["Could you help me, please?"] },
-      { "ko": "창문 좀 닫아 주시겠어요?", "en": "Could you close the window?", "alt": ["Could you shut the window?"] },
-      { "ko": "길 좀 알려 주시겠어요?", "en": "Could you show me the way?", "alt": ["Could you tell me the way?"] },
-      { "ko": "잠깐만 기다려 주시겠어요?", "en": "Could you wait a moment?", "alt": ["Could you wait a minute?", "Could you wait a second?"] },
-      { "ko": "그걸 적어 주시겠어요?", "en": "Could you write it down?", "alt": ["Could you write that down?"] },
-      { "ko": "에어컨 좀 켜 주시겠어요?", "en": "Could you turn on the air conditioner?", "alt": ["Could you turn on the AC?", "Could you turn the air conditioner on?", "Could you turn the AC on?"] }
-    ]
+      {
+        "ko": "다시 한번 말씀해 주시겠어요?",
+        "en": "Could you say that again, please?",
+        "alt": [
+          "Could you repeat that, please?"
+        ]
+      },
+      {
+        "ko": "좀 더 천천히 말씀해 주시겠어요?",
+        "en": "Could you speak more slowly?",
+        "alt": [
+          "Could you speak slowly?",
+          "Could you speak a little slower?",
+          "Could you speak slower?"
+        ]
+      },
+      {
+        "ko": "사진 좀 찍어 주시겠어요?",
+        "en": "Could you take a picture for me?",
+        "alt": [
+          "Could you take a picture of us?",
+          "Could you take a photo for me?",
+          "Could you take our picture?",
+          "Could you take a picture?"
+        ]
+      },
+      {
+        "ko": "문 좀 열어 주시겠어요?",
+        "en": "Could you open the door?",
+        "alt": []
+      },
+      {
+        "ko": "저 좀 도와주시겠어요?",
+        "en": "Could you help me?",
+        "alt": [
+          "Could you help me, please?"
+        ]
+      },
+      {
+        "ko": "창문 좀 닫아 주시겠어요?",
+        "en": "Could you close the window?",
+        "alt": [
+          "Could you shut the window?"
+        ]
+      },
+      {
+        "ko": "길 좀 알려 주시겠어요?",
+        "en": "Could you show me the way?",
+        "alt": [
+          "Could you tell me the way?"
+        ]
+      },
+      {
+        "ko": "잠깐만 기다려 주시겠어요?",
+        "en": "Could you wait a moment?",
+        "alt": [
+          "Could you wait a minute?",
+          "Could you wait a second?"
+        ]
+      },
+      {
+        "ko": "그걸 적어 주시겠어요?",
+        "en": "Could you write it down?",
+        "alt": [
+          "Could you write that down?"
+        ]
+      },
+      {
+        "ko": "에어컨 좀 켜 주시겠어요?",
+        "en": "Could you turn on the air conditioner?",
+        "alt": [
+          "Could you turn on the AC?",
+          "Could you turn the air conditioner on?",
+          "Could you turn the AC on?"
+        ]
+      }
+    ],
+    "chat": {
+      "title": "관광지에서 부탁하기",
+      "you": "여행자",
+      "ai": "지나가는 현지인",
+      "goal": "사진을 찍어 달라고 부탁하고, 길도 알려 달라고 부탁해 보세요.",
+      "setting": "You are a friendly local person walking past a famous landmark. A tourist stops you. You are happy to help but sometimes speak a little fast, so the tourist may need to ask you to repeat or slow down."
+    }
   },
   {
-    "n": 4, "pattern": "Where is ~?", "title": "~가 어디예요? · 장소 묻기",
+    "n": 4,
+    "pattern": "Where is ~?",
+    "title": "~가 어디예요? · 장소 묻기",
     "tip": "찾는 장소 앞에 the를 붙여 Where is the ~? 라고 말하면 됩니다. 말할 때는 Where's로 줄여도 같아요.",
     "items": [
-      { "ko": "화장실이 어디예요?", "en": "Where is the restroom?", "alt": ["Where is the bathroom?", "Where is the toilet?", "Where is the washroom?"] },
-      { "ko": "가장 가까운 지하철역이 어디예요?", "en": "Where is the nearest subway station?", "alt": ["Where is the closest subway station?", "Where is the nearest metro station?"] },
-      { "ko": "출구가 어디예요?", "en": "Where is the exit?", "alt": [] },
-      { "ko": "3번 게이트가 어디예요?", "en": "Where is gate three?", "alt": ["Where is gate number three?"] },
-      { "ko": "엘리베이터가 어디예요?", "en": "Where is the elevator?", "alt": ["Where is the lift?"] },
-      { "ko": "버스 정류장이 어디예요?", "en": "Where is the bus stop?", "alt": [] },
-      { "ko": "택시 타는 곳이 어디예요?", "en": "Where is the taxi stand?", "alt": ["Where is the taxi stop?", "Where is the taxi rank?"] },
-      { "ko": "계산대가 어디예요?", "en": "Where is the cashier?", "alt": ["Where is the checkout?", "Where is the counter?"] },
-      { "ko": "제 자리가 어디예요?", "en": "Where is my seat?", "alt": [] },
-      { "ko": "안내 데스크가 어디예요?", "en": "Where is the information desk?", "alt": ["Where is the information center?", "Where is the help desk?"] }
-    ]
+      {
+        "ko": "화장실이 어디예요?",
+        "en": "Where is the restroom?",
+        "alt": [
+          "Where is the bathroom?",
+          "Where is the toilet?",
+          "Where is the washroom?"
+        ]
+      },
+      {
+        "ko": "가장 가까운 지하철역이 어디예요?",
+        "en": "Where is the nearest subway station?",
+        "alt": [
+          "Where is the closest subway station?",
+          "Where is the nearest metro station?"
+        ]
+      },
+      {
+        "ko": "출구가 어디예요?",
+        "en": "Where is the exit?",
+        "alt": []
+      },
+      {
+        "ko": "3번 게이트가 어디예요?",
+        "en": "Where is gate three?",
+        "alt": [
+          "Where is gate number three?"
+        ]
+      },
+      {
+        "ko": "엘리베이터가 어디예요?",
+        "en": "Where is the elevator?",
+        "alt": [
+          "Where is the lift?"
+        ]
+      },
+      {
+        "ko": "버스 정류장이 어디예요?",
+        "en": "Where is the bus stop?",
+        "alt": []
+      },
+      {
+        "ko": "택시 타는 곳이 어디예요?",
+        "en": "Where is the taxi stand?",
+        "alt": [
+          "Where is the taxi stop?",
+          "Where is the taxi rank?"
+        ]
+      },
+      {
+        "ko": "계산대가 어디예요?",
+        "en": "Where is the cashier?",
+        "alt": [
+          "Where is the checkout?",
+          "Where is the counter?"
+        ]
+      },
+      {
+        "ko": "제 자리가 어디예요?",
+        "en": "Where is my seat?",
+        "alt": []
+      },
+      {
+        "ko": "안내 데스크가 어디예요?",
+        "en": "Where is the information desk?",
+        "alt": [
+          "Where is the information center?",
+          "Where is the help desk?"
+        ]
+      }
+    ],
+    "chat": {
+      "title": "쇼핑몰 안내 데스크",
+      "you": "방문객",
+      "ai": "안내 데스크 직원",
+      "goal": "화장실, 엘리베이터, 식당가 등 장소 두세 곳의 위치를 물어보세요.",
+      "setting": "You work at the information desk of a big shopping mall. A visitor comes to ask where things are. Give short, clear directions (floor, left/right, next to something)."
+    }
   },
   {
-    "n": 5, "pattern": "I'm looking for ~", "title": "~를 찾고 있어요",
+    "n": 5,
+    "pattern": "I'm looking for ~",
+    "title": "~를 찾고 있어요",
     "tip": "물건, 장소, 사람을 찾고 있다고 말할 때 씁니다. 가게에서 점원이 May I help you? 라고 물으면 이 표현으로 답하면 돼요.",
     "items": [
-      { "ko": "제 지갑을 찾고 있어요.", "en": "I'm looking for my wallet.", "alt": [] },
-      { "ko": "이 주소를 찾고 있어요.", "en": "I'm looking for this address.", "alt": [] },
-      { "ko": "선물을 찾고 있어요.", "en": "I'm looking for a gift.", "alt": ["I'm looking for a present."] },
-      { "ko": "약국을 찾고 있어요.", "en": "I'm looking for a pharmacy.", "alt": ["I'm looking for a drugstore."] },
-      { "ko": "운동화를 찾고 있어요.", "en": "I'm looking for sneakers.", "alt": ["I'm looking for running shoes.", "I'm looking for some sneakers."] },
-      { "ko": "일자리를 찾고 있어요.", "en": "I'm looking for a job.", "alt": ["I'm looking for work."] },
-      { "ko": "제 친구를 찾고 있어요.", "en": "I'm looking for my friend.", "alt": [] },
-      { "ko": "더 작은 사이즈를 찾고 있어요.", "en": "I'm looking for a smaller size.", "alt": [] },
-      { "ko": "조용한 카페를 찾고 있어요.", "en": "I'm looking for a quiet cafe.", "alt": ["I'm looking for a quiet coffee shop."] },
-      { "ko": "아파트를 구하고 있어요.", "en": "I'm looking for an apartment.", "alt": ["I'm looking for a place to live."] }
-    ]
+      {
+        "ko": "제 지갑을 찾고 있어요.",
+        "en": "I'm looking for my wallet.",
+        "alt": []
+      },
+      {
+        "ko": "이 주소를 찾고 있어요.",
+        "en": "I'm looking for this address.",
+        "alt": []
+      },
+      {
+        "ko": "선물을 찾고 있어요.",
+        "en": "I'm looking for a gift.",
+        "alt": [
+          "I'm looking for a present."
+        ]
+      },
+      {
+        "ko": "약국을 찾고 있어요.",
+        "en": "I'm looking for a pharmacy.",
+        "alt": [
+          "I'm looking for a drugstore."
+        ]
+      },
+      {
+        "ko": "운동화를 찾고 있어요.",
+        "en": "I'm looking for sneakers.",
+        "alt": [
+          "I'm looking for running shoes.",
+          "I'm looking for some sneakers."
+        ]
+      },
+      {
+        "ko": "일자리를 찾고 있어요.",
+        "en": "I'm looking for a job.",
+        "alt": [
+          "I'm looking for work."
+        ]
+      },
+      {
+        "ko": "제 친구를 찾고 있어요.",
+        "en": "I'm looking for my friend.",
+        "alt": []
+      },
+      {
+        "ko": "더 작은 사이즈를 찾고 있어요.",
+        "en": "I'm looking for a smaller size.",
+        "alt": []
+      },
+      {
+        "ko": "조용한 카페를 찾고 있어요.",
+        "en": "I'm looking for a quiet cafe.",
+        "alt": [
+          "I'm looking for a quiet coffee shop."
+        ]
+      },
+      {
+        "ko": "아파트를 구하고 있어요.",
+        "en": "I'm looking for an apartment.",
+        "alt": [
+          "I'm looking for a place to live."
+        ]
+      }
+    ],
+    "chat": {
+      "title": "옷 가게에서",
+      "you": "손님",
+      "ai": "점원",
+      "goal": "찾는 옷을 설명하고, 사이즈나 색이 다른 것도 찾아 보세요.",
+      "setting": "You are a shop assistant in a clothing store. A customer is browsing. Ask what they need, show items, and ask about size and color."
+    }
   },
   {
-    "n": 6, "pattern": "Do you have ~?", "title": "~ 있어요?",
+    "n": 6,
+    "pattern": "Do you have ~?",
+    "title": "~ 있어요?",
     "tip": "상대에게 무언가가 있는지 물을 때 씁니다. 여러 개 중 아무거나 있는지 물을 때는 any를 넣어 Do you have any ~? 라고 해요.",
     "items": [
-      { "ko": "이거 다른 색상 있어요?", "en": "Do you have this in another color?", "alt": ["Do you have another color?", "Do you have other colors?", "Do you have this in a different color?"] },
-      { "ko": "빈 방 있어요?", "en": "Do you have any rooms available?", "alt": ["Do you have any rooms?", "Do you have a room available?", "Do you have a room?"] },
-      { "ko": "와이파이 있어요?", "en": "Do you have Wi-Fi?", "alt": [] },
-      { "ko": "시간 좀 있어요?", "en": "Do you have time?", "alt": ["Do you have a minute?", "Do you have a moment?"] },
-      { "ko": "펜 있어요?", "en": "Do you have a pen?", "alt": [] },
-      { "ko": "채식 메뉴 있어요?", "en": "Do you have a vegetarian menu?", "alt": ["Do you have vegetarian options?", "Do you have any vegetarian dishes?"] },
-      { "ko": "예약하셨어요?", "en": "Do you have a reservation?", "alt": [] },
-      { "ko": "질문 있으세요?", "en": "Do you have any questions?", "alt": [] },
-      { "ko": "지도 있어요?", "en": "Do you have a map?", "alt": [] },
-      { "ko": "충전기 있어요?", "en": "Do you have a charger?", "alt": ["Do you have a phone charger?"] }
-    ]
+      {
+        "ko": "이거 다른 색상 있어요?",
+        "en": "Do you have this in another color?",
+        "alt": [
+          "Do you have another color?",
+          "Do you have other colors?",
+          "Do you have this in a different color?"
+        ]
+      },
+      {
+        "ko": "빈 방 있어요?",
+        "en": "Do you have any rooms available?",
+        "alt": [
+          "Do you have any rooms?",
+          "Do you have a room available?",
+          "Do you have a room?"
+        ]
+      },
+      {
+        "ko": "와이파이 있어요?",
+        "en": "Do you have Wi-Fi?",
+        "alt": []
+      },
+      {
+        "ko": "시간 좀 있어요?",
+        "en": "Do you have time?",
+        "alt": [
+          "Do you have a minute?",
+          "Do you have a moment?"
+        ]
+      },
+      {
+        "ko": "펜 있어요?",
+        "en": "Do you have a pen?",
+        "alt": []
+      },
+      {
+        "ko": "채식 메뉴 있어요?",
+        "en": "Do you have a vegetarian menu?",
+        "alt": [
+          "Do you have vegetarian options?",
+          "Do you have any vegetarian dishes?"
+        ]
+      },
+      {
+        "ko": "예약하셨어요?",
+        "en": "Do you have a reservation?",
+        "alt": []
+      },
+      {
+        "ko": "질문 있으세요?",
+        "en": "Do you have any questions?",
+        "alt": []
+      },
+      {
+        "ko": "지도 있어요?",
+        "en": "Do you have a map?",
+        "alt": []
+      },
+      {
+        "ko": "충전기 있어요?",
+        "en": "Do you have a charger?",
+        "alt": [
+          "Do you have a phone charger?"
+        ]
+      }
+    ],
+    "chat": {
+      "title": "약국에서",
+      "you": "손님",
+      "ai": "약사",
+      "goal": "두통약이나 감기약처럼 필요한 물건이 있는지 두세 가지 물어보세요.",
+      "setting": "You are a pharmacist at a small pharmacy. A customer comes in looking for some items. Ask about their symptoms and say whether you have what they need."
+    }
   },
   {
-    "n": 7, "pattern": "Is there ~?", "title": "~가 있나요? · 있는지 묻기",
+    "n": 7,
+    "pattern": "Is there ~?",
+    "title": "~가 있나요? · 있는지 묻기",
     "tip": "어떤 장소나 상황에 무언가가 있는지 물을 때 씁니다. 근처를 물을 때는 near here, nearby, around here를 뒤에 붙여요.",
     "items": [
-      { "ko": "이 근처에 은행이 있나요?", "en": "Is there a bank near here?", "alt": ["Is there a bank nearby?", "Is there a bank around here?"] },
-      { "ko": "이 근처에 편의점이 있나요?", "en": "Is there a convenience store around here?", "alt": ["Is there a convenience store near here?", "Is there a convenience store nearby?"] },
-      { "ko": "무료 주차장이 있나요?", "en": "Is there free parking?", "alt": [] },
-      { "ko": "무슨 문제 있나요?", "en": "Is there a problem?", "alt": ["Is there any problem?"] },
-      { "ko": "더 싼 거 있나요?", "en": "Is there anything cheaper?", "alt": ["Is there something cheaper?"] },
-      { "ko": "호텔에 수영장이 있나요?", "en": "Is there a pool in the hotel?", "alt": ["Is there a swimming pool in the hotel?", "Is there a pool at the hotel?"] },
-      { "ko": "공항 가는 버스가 있나요?", "en": "Is there a bus to the airport?", "alt": [] },
-      { "ko": "근처에 괜찮은 식당 있나요?", "en": "Is there a good restaurant nearby?", "alt": ["Is there a good restaurant near here?", "Is there a good restaurant around here?"] },
-      { "ko": "다른 방법이 있나요?", "en": "Is there another way?", "alt": [] },
-      { "ko": "저한테 온 메시지 있나요?", "en": "Is there a message for me?", "alt": ["Are there any messages for me?", "Is there any message for me?"] }
-    ]
+      {
+        "ko": "이 근처에 은행이 있나요?",
+        "en": "Is there a bank near here?",
+        "alt": [
+          "Is there a bank nearby?",
+          "Is there a bank around here?"
+        ]
+      },
+      {
+        "ko": "이 근처에 편의점이 있나요?",
+        "en": "Is there a convenience store around here?",
+        "alt": [
+          "Is there a convenience store near here?",
+          "Is there a convenience store nearby?"
+        ]
+      },
+      {
+        "ko": "무료 주차장이 있나요?",
+        "en": "Is there free parking?",
+        "alt": []
+      },
+      {
+        "ko": "무슨 문제 있나요?",
+        "en": "Is there a problem?",
+        "alt": [
+          "Is there any problem?"
+        ]
+      },
+      {
+        "ko": "더 싼 거 있나요?",
+        "en": "Is there anything cheaper?",
+        "alt": [
+          "Is there something cheaper?"
+        ]
+      },
+      {
+        "ko": "호텔에 수영장이 있나요?",
+        "en": "Is there a pool in the hotel?",
+        "alt": [
+          "Is there a swimming pool in the hotel?",
+          "Is there a pool at the hotel?"
+        ]
+      },
+      {
+        "ko": "공항 가는 버스가 있나요?",
+        "en": "Is there a bus to the airport?",
+        "alt": []
+      },
+      {
+        "ko": "근처에 괜찮은 식당 있나요?",
+        "en": "Is there a good restaurant nearby?",
+        "alt": [
+          "Is there a good restaurant near here?",
+          "Is there a good restaurant around here?"
+        ]
+      },
+      {
+        "ko": "다른 방법이 있나요?",
+        "en": "Is there another way?",
+        "alt": []
+      },
+      {
+        "ko": "저한테 온 메시지 있나요?",
+        "en": "Is there a message for me?",
+        "alt": [
+          "Are there any messages for me?",
+          "Is there any message for me?"
+        ]
+      }
+    ],
+    "chat": {
+      "title": "호텔 컨시어지에게 묻기",
+      "you": "호텔 투숙객",
+      "ai": "컨시어지",
+      "goal": "근처에 식당, 편의점, 공항버스 같은 것이 있는지 물어보세요.",
+      "setting": "You are a hotel concierge. A guest asks about the area around the hotel. Tell them what is nearby and how to get there."
+    }
   },
   {
-    "n": 8, "pattern": "I'm going to ~", "title": "~할 거예요 · 계획 말하기",
+    "n": 8,
+    "pattern": "I'm going to ~",
+    "title": "~할 거예요 · 계획 말하기",
     "tip": "이미 정해 둔 계획이나 할 생각을 말할 때 씁니다. 말할 때는 I'm gonna로 줄여서 많이 발음해요. 뒤에는 동사 원형이 옵니다.",
     "items": [
-      { "ko": "내일 친구를 만날 거예요.", "en": "I'm going to meet my friend tomorrow.", "alt": ["I'm going to meet a friend tomorrow."] },
-      { "ko": "이번 주말에는 쉴 거예요.", "en": "I'm going to rest this weekend.", "alt": ["I'm going to relax this weekend."] },
-      { "ko": "매일 영어 공부를 할 거예요.", "en": "I'm going to study English every day.", "alt": [] },
-      { "ko": "다음 달에 일본에 갈 거예요.", "en": "I'm going to go to Japan next month.", "alt": ["I'm going to visit Japan next month."] },
-      { "ko": "오늘 저녁은 집에서 요리할 거예요.", "en": "I'm going to cook at home tonight.", "alt": ["I'm going to cook dinner at home tonight.", "I'm going to cook at home this evening."] },
-      { "ko": "운동을 시작할 거예요.", "en": "I'm going to start exercising.", "alt": ["I'm going to start working out.", "I'm going to start to exercise."] },
-      { "ko": "택시를 탈 거예요.", "en": "I'm going to take a taxi.", "alt": [] },
-      { "ko": "그에게 전화할 거예요.", "en": "I'm going to call him.", "alt": [] },
-      { "ko": "일찍 잘 거예요.", "en": "I'm going to go to bed early.", "alt": ["I'm going to sleep early."] },
-      { "ko": "새 휴대폰을 살 거예요.", "en": "I'm going to buy a new phone.", "alt": [] }
-    ]
+      {
+        "ko": "내일 친구를 만날 거예요.",
+        "en": "I'm going to meet my friend tomorrow.",
+        "alt": [
+          "I'm going to meet a friend tomorrow."
+        ]
+      },
+      {
+        "ko": "이번 주말에는 쉴 거예요.",
+        "en": "I'm going to rest this weekend.",
+        "alt": [
+          "I'm going to relax this weekend."
+        ]
+      },
+      {
+        "ko": "매일 영어 공부를 할 거예요.",
+        "en": "I'm going to study English every day.",
+        "alt": []
+      },
+      {
+        "ko": "다음 달에 일본에 갈 거예요.",
+        "en": "I'm going to go to Japan next month.",
+        "alt": [
+          "I'm going to visit Japan next month."
+        ]
+      },
+      {
+        "ko": "오늘 저녁은 집에서 요리할 거예요.",
+        "en": "I'm going to cook at home tonight.",
+        "alt": [
+          "I'm going to cook dinner at home tonight.",
+          "I'm going to cook at home this evening."
+        ]
+      },
+      {
+        "ko": "운동을 시작할 거예요.",
+        "en": "I'm going to start exercising.",
+        "alt": [
+          "I'm going to start working out.",
+          "I'm going to start to exercise."
+        ]
+      },
+      {
+        "ko": "택시를 탈 거예요.",
+        "en": "I'm going to take a taxi.",
+        "alt": []
+      },
+      {
+        "ko": "그에게 전화할 거예요.",
+        "en": "I'm going to call him.",
+        "alt": []
+      },
+      {
+        "ko": "일찍 잘 거예요.",
+        "en": "I'm going to go to bed early.",
+        "alt": [
+          "I'm going to sleep early."
+        ]
+      },
+      {
+        "ko": "새 휴대폰을 살 거예요.",
+        "en": "I'm going to buy a new phone.",
+        "alt": []
+      }
+    ],
+    "chat": {
+      "title": "동료와 주말 계획 이야기",
+      "you": "회사원",
+      "ai": "친한 동료",
+      "goal": "이번 주말과 다음 주에 무엇을 할 계획인지 두세 가지 말해 보세요.",
+      "setting": "You are a friendly coworker chatting with the user in the office kitchen on Friday afternoon. Ask about their weekend and next week plans, and share your own plans briefly."
+    }
   },
   {
-    "n": 9, "pattern": "How about ~?", "title": "~ 어때요? · 제안하기",
+    "n": 9,
+    "pattern": "How about ~?",
+    "title": "~ 어때요? · 제안하기",
     "tip": "무언가를 제안하거나 상대 의견을 물을 때 씁니다. 뒤에 명사가 오거나, 행동이면 동사에 -ing를 붙여요. How about you? 는 '당신은요?'라는 뜻이에요.",
     "items": [
-      { "ko": "커피 한잔 어때요?", "en": "How about a cup of coffee?", "alt": ["How about some coffee?", "How about coffee?"] },
-      { "ko": "내일은 어때요?", "en": "How about tomorrow?", "alt": [] },
-      { "ko": "같이 점심 먹는 거 어때요?", "en": "How about having lunch together?", "alt": ["How about lunch together?"] },
-      { "ko": "7시는 어때요?", "en": "How about seven o'clock?", "alt": ["How about seven?"] },
-      { "ko": "이 색깔은 어때요?", "en": "How about this color?", "alt": [] },
-      { "ko": "산책하는 거 어때요?", "en": "How about taking a walk?", "alt": ["How about going for a walk?", "How about a walk?"] },
-      { "ko": "영화 보는 거 어때요?", "en": "How about watching a movie?", "alt": ["How about a movie?", "How about seeing a movie?"] },
-      { "ko": "당신은요?", "en": "How about you?", "alt": [] },
-      { "ko": "이탈리아 음식 어때요?", "en": "How about Italian food?", "alt": [] },
-      { "ko": "다음 주 월요일은 어때요?", "en": "How about next Monday?", "alt": [] }
-    ]
+      {
+        "ko": "커피 한잔 어때요?",
+        "en": "How about a cup of coffee?",
+        "alt": [
+          "How about some coffee?",
+          "How about coffee?"
+        ]
+      },
+      {
+        "ko": "내일은 어때요?",
+        "en": "How about tomorrow?",
+        "alt": []
+      },
+      {
+        "ko": "같이 점심 먹는 거 어때요?",
+        "en": "How about having lunch together?",
+        "alt": [
+          "How about lunch together?"
+        ]
+      },
+      {
+        "ko": "7시는 어때요?",
+        "en": "How about seven o'clock?",
+        "alt": [
+          "How about seven?"
+        ]
+      },
+      {
+        "ko": "이 색깔은 어때요?",
+        "en": "How about this color?",
+        "alt": []
+      },
+      {
+        "ko": "산책하는 거 어때요?",
+        "en": "How about taking a walk?",
+        "alt": [
+          "How about going for a walk?",
+          "How about a walk?"
+        ]
+      },
+      {
+        "ko": "영화 보는 거 어때요?",
+        "en": "How about watching a movie?",
+        "alt": [
+          "How about a movie?",
+          "How about seeing a movie?"
+        ]
+      },
+      {
+        "ko": "당신은요?",
+        "en": "How about you?",
+        "alt": []
+      },
+      {
+        "ko": "이탈리아 음식 어때요?",
+        "en": "How about Italian food?",
+        "alt": []
+      },
+      {
+        "ko": "다음 주 월요일은 어때요?",
+        "en": "How about next Monday?",
+        "alt": []
+      }
+    ],
+    "chat": {
+      "title": "친구와 약속 잡기",
+      "you": "친구",
+      "ai": "친구",
+      "goal": "만날 시간, 장소, 할 일을 제안해서 약속을 정해 보세요.",
+      "setting": "You are the user's friend. You both want to meet this weekend but have not decided when, where, or what to do. Be a little picky so the user has to suggest options."
+    }
   },
   {
-    "n": 10, "pattern": "Have you ever ~?", "title": "~해 본 적 있어요? · 경험 묻기",
+    "n": 10,
+    "pattern": "Have you ever ~?",
+    "title": "~해 본 적 있어요? · 경험 묻기",
     "tip": "상대가 무언가를 해 본 경험이 있는지 물을 때 씁니다. ever 뒤에는 과거분사(been, eaten, seen 등)가 와요. 가 본 적 있냐고 물을 때는 been to를 씁니다.",
     "items": [
-      { "ko": "해외여행 가 본 적 있어요?", "en": "Have you ever traveled abroad?", "alt": ["Have you ever travelled abroad?", "Have you ever been abroad?"] },
-      { "ko": "스시 먹어 본 적 있어요?", "en": "Have you ever eaten sushi?", "alt": ["Have you ever tried sushi?", "Have you ever had sushi?"] },
-      { "ko": "서울에 와 본 적 있어요?", "en": "Have you ever been to Seoul?", "alt": [] },
-      { "ko": "이 영화 본 적 있어요?", "en": "Have you ever seen this movie?", "alt": ["Have you ever watched this movie?"] },
-      { "ko": "골프 쳐 본 적 있어요?", "en": "Have you ever played golf?", "alt": [] },
-      { "ko": "비행기를 놓쳐 본 적 있어요?", "en": "Have you ever missed a flight?", "alt": ["Have you ever missed your flight?"] },
-      { "ko": "그 사람 만나 본 적 있어요?", "en": "Have you ever met him?", "alt": ["Have you ever met that person?", "Have you ever met her?"] },
-      { "ko": "혼자 여행해 본 적 있어요?", "en": "Have you ever traveled alone?", "alt": ["Have you ever travelled alone?", "Have you ever traveled by yourself?"] },
-      { "ko": "김치 만들어 본 적 있어요?", "en": "Have you ever made kimchi?", "alt": [] },
-      { "ko": "스키 타 본 적 있어요?", "en": "Have you ever tried skiing?", "alt": ["Have you ever been skiing?", "Have you ever gone skiing?", "Have you ever skied?"] }
-    ]
+      {
+        "ko": "해외여행 가 본 적 있어요?",
+        "en": "Have you ever traveled abroad?",
+        "alt": [
+          "Have you ever travelled abroad?",
+          "Have you ever been abroad?"
+        ]
+      },
+      {
+        "ko": "스시 먹어 본 적 있어요?",
+        "en": "Have you ever eaten sushi?",
+        "alt": [
+          "Have you ever tried sushi?",
+          "Have you ever had sushi?"
+        ]
+      },
+      {
+        "ko": "서울에 와 본 적 있어요?",
+        "en": "Have you ever been to Seoul?",
+        "alt": []
+      },
+      {
+        "ko": "이 영화 본 적 있어요?",
+        "en": "Have you ever seen this movie?",
+        "alt": [
+          "Have you ever watched this movie?"
+        ]
+      },
+      {
+        "ko": "골프 쳐 본 적 있어요?",
+        "en": "Have you ever played golf?",
+        "alt": []
+      },
+      {
+        "ko": "비행기를 놓쳐 본 적 있어요?",
+        "en": "Have you ever missed a flight?",
+        "alt": [
+          "Have you ever missed your flight?"
+        ]
+      },
+      {
+        "ko": "그 사람 만나 본 적 있어요?",
+        "en": "Have you ever met him?",
+        "alt": [
+          "Have you ever met that person?",
+          "Have you ever met her?"
+        ]
+      },
+      {
+        "ko": "혼자 여행해 본 적 있어요?",
+        "en": "Have you ever traveled alone?",
+        "alt": [
+          "Have you ever travelled alone?",
+          "Have you ever traveled by yourself?"
+        ]
+      },
+      {
+        "ko": "김치 만들어 본 적 있어요?",
+        "en": "Have you ever made kimchi?",
+        "alt": []
+      },
+      {
+        "ko": "스키 타 본 적 있어요?",
+        "en": "Have you ever tried skiing?",
+        "alt": [
+          "Have you ever been skiing?",
+          "Have you ever gone skiing?",
+          "Have you ever skied?"
+        ]
+      }
+    ],
+    "chat": {
+      "title": "처음 만난 사람과 대화",
+      "you": "모임 참석자",
+      "ai": "처음 만난 외국인",
+      "goal": "상대에게 경험(여행, 음식, 취미 등)을 두세 가지 물어보세요.",
+      "setting": "You just met the user at a casual meetup. You are a curious traveler who has visited a few countries. Answer questions about your experiences and ask the user simple questions back."
+    }
   }
 ]
