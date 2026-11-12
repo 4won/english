@@ -92,6 +92,8 @@ p { margin: 0; }
 .field input:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px var(--soft); }
 .auth-msg { min-height: 1.3em; font-size: .86rem; color: var(--ink-2); }
 .auth-msg.err { color: var(--late); }
+.auth-acts { display: flex; gap: 8px; flex-wrap: wrap; }
+.auth-acts .btn { flex: 1 1 140px; }
 
 /* ---------- shell: desktop = glass sidebar, phones = top row + floating tab bar ---------- */
 .shell { min-height: 100dvh; }

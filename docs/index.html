@@ -25,17 +25,20 @@
   <form class="auth-card" id="authForm" novalidate>
     <img src="icons/icon-192.png" alt="" width="56" height="56">
     <h1>4WON'S ENGLISH</h1>
-    <p>4WON'S PLANNER 계정으로 로그인하면 PC와 휴대폰에서 같은 진도로 이어서 공부합니다.</p>
+    <p>로그인하면 PC와 휴대폰에서 같은 진도로 이어서 공부합니다. 4WON'S PLANNER와 같은 계정을 씁니다.</p>
     <div class="field">
       <label for="a-email">이메일</label>
       <input type="email" id="a-email" autocomplete="username" required>
     </div>
     <div class="field">
       <label for="a-pw">비밀번호</label>
-      <input type="password" id="a-pw" autocomplete="current-password" required>
+      <input type="password" id="a-pw" autocomplete="current-password" minlength="8" required>
     </div>
     <div class="auth-msg" id="authMsg" role="status"></div>
-    <button type="submit" class="btn primary block" id="authLogin">로그인</button>
+    <div class="auth-acts">
+      <button type="submit" class="btn primary" id="authLogin">로그인</button>
+      <button type="button" class="btn" id="authSignup">처음이에요 · 가입</button>
+    </div>
   </form>
 </section>
 
