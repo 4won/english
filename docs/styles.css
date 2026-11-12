@@ -369,6 +369,6 @@ p { margin: 0; }
 .wcard-main { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 12px; margin-top: 16px; }
 .wcard-main .wcard-en { margin-top: 0; }
 .wcard-en.phrase { font-size: clamp(30px, 8vw, 42px); }
-.wcard-img { width: 120px; height: 120px; object-fit: contain; filter: drop-shadow(0 10px 14px rgba(58, 64, 170, .22)); animation: pop .35s cubic-bezier(.2, .9, .3, 1.2); }
+.wcard-img { width: 120px; height: 120px; object-fit: contain; filter: drop-shadow(0 10px 14px rgba(58, 64, 170, .22)); animation: pop .35s cubic-bezier(.22, 1, .36, 1); }
 @media (max-width: 480px) { .wcard-img { width: 92px; height: 92px; } }
 @keyframes pop { from { opacity: 0; transform: scale(.85); } }
