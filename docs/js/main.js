@@ -8,6 +8,7 @@ import { renderSpeakList, renderSession } from './views/speak.js';
 import { renderWrong } from './views/wrong.js';
 import { renderChat } from './views/chat.js';
 import { renderTest } from './views/test.js';
+import { reminderSection, dropThisDevice } from './remind.js';
 
 export const VERSION = 'v1';
 
@@ -85,9 +86,9 @@ function openSettings() {
   auto.addEventListener('change', () => setPrefs({ autoSpeak: auto.checked }));
   const autoRow = h('label', 'set-row', h('div', 'set-label', '단어 카드를 넘기면 자동으로 발음'), auto);
   autoRow.htmlFor = 'setAuto';
-  body.append(rateRow, autoRow);
+  body.append(rateRow, autoRow, reminderSection());
   if (CLOUD && session.uid) {
-    body.append(h('div', 'set-row', h('div', 'set-label', '계정', h('small', '', session.email)), btn('btn', '로그아웃', async () => { d.close(); await sb.auth.signOut(); })));
+    body.append(h('div', 'set-row', h('div', 'set-label', '계정', h('small', '', session.email)), btn('btn', '로그아웃', async () => { d.close(); await dropThisDevice(); await sb.auth.signOut(); })));
   } else body.append(h('p', 'set-note', '로그인하지 않아 이 기기에만 저장됩니다.'));
   body.append(h('p', 'set-note', `4WON'S ENGLISH ${VERSION} · 4WON'S PLANNER 계정으로 로그인합니다.`));
   d.showModal();

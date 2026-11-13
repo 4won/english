@@ -443,3 +443,11 @@ p { margin: 0; }
 .test-level small { font-size: 1rem; color: var(--muted); font-weight: 700; }
 .test-starts { list-style: none; padding: 0; display: grid; gap: 8px; margin: 6px 0 4px; }
 .test-starts li { display: flex; align-items: center; gap: 10px; }
+
+/* ---------- study reminder (settings) ---------- */
+.set-block { display: grid; gap: 4px; padding: 14px 0; border-bottom: 1px solid var(--line); }
+.set-block > .set-row { border-bottom: 0; padding: 8px 0 4px; }
+.set-select { height: 36px; padding: 0 10px; border: 1px solid var(--line); border-radius: 10px; background: #fff; font: inherit; font-size: .9rem; color: var(--ink); }
+.set-acts { display: flex; flex-wrap: wrap; gap: 8px; }
+.set-acts .btn[hidden] { display: none; }
+.set-note.err { color: var(--late); }
