@@ -22,12 +22,12 @@ export async function dropThisDevice() {
 }
 
 const TIMES = [];
-for (let m = 7 * 60; m <= 23 * 60 + 30; m += 30) TIMES.push(`${String(Math.floor(m / 60)).padStart(2, '0')}:${String(m % 60).padStart(2, '0')}`);
-const label = t => { const hh = +t.slice(0, 2); return `${hh < 12 ? '오전' : '오후'} ${hh % 12 || 12}시${t.endsWith('30') ? ' 30분' : ''}`; };
+for (let m = 6 * 60; m <= 23 * 60 + 50; m += 10) TIMES.push(`${String(Math.floor(m / 60)).padStart(2, '0')}:${String(m % 60).padStart(2, '0')}`);
+const label = t => { const hh = +t.slice(0, 2), mm = +t.slice(3); return `${hh < 12 ? '오전' : '오후'} ${hh % 12 || 12}시${mm ? ` ${mm}분` : ''}`; };
 
 export function reminderSection() {
   const box = el('div', 'set-block');
-  box.append(h('div', 'set-label', '매일 학습 알림', h('small', '', '정한 시간에 그날 공부를 아직 안 했으면 한 번 알려 드려요. 이미 했으면 보내지 않아요.')));
+  box.append(h('div', 'set-label', '매일 학습 알림', h('small', '', '그날 공부를 아직 안 했으면 정한 시간에 알려 드리고, 그래도 안 했으면 밤 9시·10시·11시에 한 번씩 더 알려 드려요. 공부를 끝내면 그날 알림은 멈춰요.')));
   if (!CLOUD || !session.uid) { box.append(h('p', 'set-note', '로그인하면 알림을 켤 수 있어요.')); return box; }
 
   const sel = el('select', 'set-select');

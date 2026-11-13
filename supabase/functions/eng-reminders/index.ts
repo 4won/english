@@ -1,7 +1,9 @@
-// Daily study reminder for 4WON'S ENGLISH, run every 10 minutes by pg_cron.
-// Each learner picks a time (eng_state.data.prefs.remindTime, Seoul time, default 21:00). From that time
-// until three hours later, a learner who has not studied today (no data.days[today]) gets one push on
-// every device in eng_push_subscriptions. eng_remind_log keeps it to one per day.
+// Daily study reminders for 4WON'S ENGLISH, run every 10 minutes by pg_cron.
+// A learner who has not studied today (no data.days[today]) gets a push on every device in
+// eng_push_subscriptions at their chosen time (eng_state.data.prefs.remindTime, Seoul time, 10-minute
+// steps, default 21:00) and again at 21:00, 22:00 and 23:00 ("not done yet"). A nudge within 30 minutes of
+// the chosen time is skipped so two pushes don't arrive back to back. eng_remind_log
+// (user_id, day, slot) sends each slot once; a slot missed by a late cron tick still goes out within an hour.
 // A signed-in user can POST { test: true } to get a test push on their own devices right away.
 // Deploy: npx -y supabase functions deploy eng-reminders --project-ref <ref> --no-verify-jwt
 // Uses the planner's project secrets: CRON_SECRET, VAPID_SUBJECT, VAPID_PUBLIC_KEY, VAPID_PRIVATE_KEY.
@@ -16,7 +18,9 @@ const CORS = {
 const json = (body: unknown, status = 200) => new Response(JSON.stringify(body), { status, headers: { ...CORS, 'Content-Type': 'application/json' } });
 
 const DEFAULT_TIME = '21:00';
-const LATE = 180; // minutes after the chosen time during which a missed reminder still goes out
+const LATE = 60;                         // minutes after a slot's time during which it still goes out
+const NUDGES = [21 * 60, 22 * 60, 23 * 60]; // fixed "not done yet" reminders
+const GAP = 30;                          // skip a nudge within this many minutes of the chosen time
 const TABLE = 'eng_push_subscriptions';
 
 type Sub = { endpoint: string; user_id: string; p256dh: string; auth: string };
@@ -35,6 +39,21 @@ function streak(days: Record<string, number>, today: string) {
   d.setUTCDate(d.getUTCDate() - 1); // today not studied yet: count up to yesterday
   while (days[d.toISOString().slice(0, 10)]) { n++; d.setUTCDate(d.getUTCDate() - 1); }
   return n;
+}
+
+// Chosen-time reminder is a gentle start; the 21/22/23 nudges say plainly that today isn't done yet.
+function message(slot: string, n: number) {
+  const base = { url: './#home', tag: 'eng-daily' };
+  if (slot === 'pick') return { ...base,
+    title: n ? `${n}일 연속 학습 중이에요` : '오늘의 영어, 아직 시작 전이에요',
+    body: n ? '오늘도 이어가면 연속 기록이 하루 늘어나요. 한 챕터면 충분해요.' : '단어 한 챕터나 말하기 한 회차, 10분이면 끝나요.' };
+  const hour = +slot.slice(1);
+  const keep = n ? ` ${n}일 연속 기록을 지켜요.` : '';
+  return { ...base,
+    title: '오늘 학습이 아직 완료되지 않았어요',
+    body: hour === 23 ? `오늘이 1시간 남았어요.${keep} 단어 한 챕터면 돼요.`
+      : hour === 22 ? `자기 전에 10분만 해 볼까요?${keep}`
+      : `단어 한 챕터나 말하기 한 회차로 오늘을 채워 보세요.${keep}` };
 }
 
 let vapidReady = false;
@@ -85,22 +104,22 @@ Deno.serve(async req => {
   for (const [uid, mine] of byUser) {
     const doc = docs.get(uid) ?? {};
     const days = doc.days ?? {};
-    const at = toMinutes(doc.prefs?.remindTime ?? DEFAULT_TIME);
-    if (now.minutes < at || now.minutes >= at + LATE) continue;
     if (days[now.day]) continue; // already studied today
+    const at = toMinutes(doc.prefs?.remindTime ?? DEFAULT_TIME);
+    // Slots due now: the latest one whose time has passed within LATE minutes. Older missed ones are
+    // superseded by it, so a late tick never sends a burst.
+    const slots = [{ slot: 'pick', at }, ...NUDGES.filter(m => Math.abs(m - at) >= GAP).map(m => ({ slot: `n${m / 60}`, at: m }))]
+      .filter(x => now.minutes >= x.at && now.minutes < x.at + LATE)
+      .sort((a, b) => b.at - a.at);
+    if (!slots.length) continue;
+    const pick = slots[0];
     due++;
-    // Claim today's reminder first so overlapping runs can't both send it.
+    // Claim the slot first so overlapping runs can't both send it.
     const { data: claimed, error: claimErr } = await admin.from('eng_remind_log')
-      .upsert({ user_id: uid, day: now.day }, { onConflict: 'user_id,day', ignoreDuplicates: true }).select('user_id');
+      .upsert({ user_id: uid, day: now.day, slot: pick.slot }, { onConflict: 'user_id,day,slot', ignoreDuplicates: true }).select('user_id');
     if (claimErr) { failures.push(claimErr.message); continue; }
     if (!claimed?.length) continue;
-    const n = streak(days, now.day);
-    const r = await send(admin, mine, {
-      title: n ? `${n}일 연속 학습 중이에요` : '오늘의 영어, 아직 시작 전이에요',
-      body: n ? '오늘도 이어가면 연속 기록이 하루 늘어나요. 한 챕터면 충분해요.' : '단어 한 챕터나 말하기 한 회차, 10분이면 끝나요.',
-      url: './#home',
-      tag: 'eng-daily',
-    });
+    const r = await send(admin, mine, message(pick.slot, streak(days, now.day)));
     sent += r.sent; failures.push(...r.failures);
   }
   return json({ users: byUser.size, due, sent, failures });

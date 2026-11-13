@@ -1,6 +1,6 @@
 // App shell: network first so a new deploy shows up right away, cache as the offline fallback.
 // Scoped to /english/, so it never touches the planner's cache or pages.
-const CACHE = 'eng-v9';
+const CACHE = 'eng-v10';
 const SHELL = ['./', 'index.html', 'styles.css', 'config.js', 'vendor/supabase.js', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png',
   'js/main.js', 'js/state.js', 'js/data.js', 'js/ui.js', 'js/speech.js', 'js/quiz.js',
   'js/views/home.js', 'js/views/words.js', 'js/views/chapter.js', 'js/views/speak.js', 'js/views/wrong.js', 'js/views/chat.js', 'js/views/test.js', 'js/remind.js',
