@@ -41,20 +41,31 @@ let active = null;
 // if a session ends empty without the learner pressing stop, start a fresh one until LISTEN_MS is up.
 const LISTEN_MS = 15000;
 let userStopped = false;
+let emptyStreak = 0; // listens in a row that heard nothing
+
+// Shown when a listen comes back empty; from the second miss in a row it also names the usual cause.
+export function emptyText() {
+  if (emptyStreak < 2) return '목소리가 들리지 않았어요. 다시 눌러 말해 보세요.';
+  return '계속 목소리가 들리지 않아요. 블루투스(차량·이어폰)에 연결되어 있으면 끊거나 소리 출력을 휴대폰으로 바꿔 보세요. "입력하기"로 답해도 돼요.';
+}
 export function listen({ onInterim } = {}) {
   stopListening();
   userStopped = false;
   return new Promise((resolve, reject) => {
     if (!SR) { const e = new Error('unsupported'); e.code = 'unsupported'; reject(e); return; }
     const deadline = Date.now() + LISTEN_MS;
-    let alts = [], interim = '', settled = false, rec = null, tries = 0;
+    // lastHeard keeps the longest text shown so far: iPhone Safari sometimes sends a last, empty result
+    // event (or none at all) when the learner taps stop, which used to throw away what was on screen.
+    let alts = [], lastHeard = '', settled = false, rec = null, tries = 0;
     const timer = setTimeout(() => { userStopped = true; if (rec) try { rec.stop(); } catch (e) {} }, LISTEN_MS);
     const finish = (err) => {
       if (settled) return; settled = true; clearTimeout(timer); active = null;
-      if (err) reject(err);
-      else resolve({ alts: alts.length ? alts : (interim ? [interim] : []) });
+      if (err) { reject(err); return; }
+      const out = alts.length ? alts : (lastHeard ? [lastHeard] : []);
+      emptyStreak = out.length ? 0 : emptyStreak + 1;
+      resolve({ alts: out });
     };
-    const heardSomething = () => alts.length || interim;
+    const heardSomething = () => alts.length || lastHeard;
     const start = () => {
       tries++;
       rec = new SR();
@@ -63,13 +74,15 @@ export function listen({ onInterim } = {}) {
       rec.maxAlternatives = 5;
       rec.continuous = false;
       rec.onresult = ev => {
-        interim = '';
-        for (let i = ev.resultIndex; i < ev.results.length; i++) {
-          const r = ev.results[i];
-          if (r.isFinal) { alts = [...r].map(a => a.transcript.trim()).filter(Boolean); }
-          else interim += r[0].transcript;
-        }
-        if (onInterim) onInterim(alts[0] || interim);
+        // Rebuild the whole sentence from every result each time (resultIndex is unreliable on iPhone).
+        const res = [...ev.results];
+        const text = res.map(r => (r[0] && r[0].transcript) || '').join(' ').replace(/\s+/g, ' ').trim();
+        if (res.length === 1 && res[0].isFinal) {
+          const a = [...res[0]].map(x => x.transcript.trim()).filter(Boolean);
+          if (a.length) alts = a;
+        } else if (res.length && res.every(r => r.isFinal) && text) alts = [text];
+        if (text) lastHeard = text;
+        if (onInterim) onInterim(alts[0] || lastHeard);
       };
       let failed = null;
       rec.onerror = ev => {

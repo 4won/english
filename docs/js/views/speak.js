@@ -3,7 +3,7 @@
 import { el, btn, h, speakBtn, progressBar, MIC, sleep } from '../ui.js';
 import { speakRec, setSpeak, markStudied, chatRec, placement } from '../state.js';
 import { sessions, session as getSession, SESSIONS, SPEAK_PER, sessionTier } from '../data.js';
-import { say, listen, stopListening, canListen, matches, listenErrorText } from '../speech.js';
+import { say, listen, stopListening, canListen, matches, listenErrorText, emptyText } from '../speech.js';
 import { go, setLeaveGuard } from '../main.js';
 
 const REPEAT = 2;
@@ -129,7 +129,7 @@ export async function renderSession(ctx, n) {
       heard.textContent = ''; status.textContent = ''; status.className = 'sp-status';
       try {
         const r = await listen({ onInterim: t => { heard.textContent = t; } });
-        if (!r.alts.length) { status.className = 'sp-status err'; status.textContent = '목소리가 들리지 않았어요. 다시 눌러 말해 보세요.'; }
+        if (!r.alts.length) { status.className = 'sp-status err'; status.textContent = emptyText(); }
         else check(r.alts);
       } catch (e) {
         status.className = 'sp-status err'; status.textContent = listenErrorText(e.code);

@@ -4,7 +4,7 @@
 import { el, btn, h, speakBtn, MIC } from '../ui.js';
 import { CLOUD, sb, session as auth, speakRec, setChat, chatRec, markStudied } from '../state.js';
 import { session as getSession } from '../data.js';
-import { say, listen, stopListening, canListen, listenErrorText } from '../speech.js';
+import { say, listen, stopListening, canListen, listenErrorText, emptyText } from '../speech.js';
 import { go, setLeaveGuard } from '../main.js';
 
 const MAX_TURNS = 12;   // learner lines per conversation
@@ -130,7 +130,7 @@ export async function renderChat(ctx, n) {
     const live = el('p', 'sp-heard'); composer.prepend(live);
     try {
       const r = await listen({ onInterim: t => { live.textContent = t; } });
-      if (!r.alts.length) { status.className = 'sp-status err'; status.textContent = '목소리가 들리지 않았어요. 다시 눌러 말해 보세요.'; }
+      if (!r.alts.length) { status.className = 'sp-status err'; status.textContent = emptyText(); }
       else send(r.alts[0]);
     } catch (e) {
       status.className = 'sp-status err'; status.textContent = listenErrorText(e.code);
