@@ -1,0 +1,2162 @@
+{
+ "1": [
+  {
+   "en": "touch base",
+   "ko": "가볍게 연락해 안부·진행 확인하다",
+   "pos": "숙어",
+   "ex": "I'll touch base with the client on Friday to confirm the final schedule.",
+   "exKo": "금요일에 고객에게 연락해서 최종 일정을 확인하겠습니다."
+  },
+  {
+   "en": "a ballpark figure",
+   "ko": "대략적인 추정 수치",
+   "pos": "표현",
+   "ex": "Can you give me a ballpark figure for the total installation cost?",
+   "exKo": "설치 총비용에 대한 대략적인 수치를 알려 주시겠어요?"
+  },
+  {
+   "en": "on the fence",
+   "ko": "결정을 못 하고 망설이는",
+   "pos": "숙어",
+   "ex": "We are still on the fence about renewing the contract with that vendor.",
+   "exKo": "저희는 그 업체와의 계약 갱신을 두고 아직 결정을 못 내리고 있습니다."
+  },
+  {
+   "en": "loop in",
+   "ko": "(메일·회의에) 참조로 넣다",
+   "pos": "구동사",
+   "ex": "Please loop in the legal team before we send the contract to the client.",
+   "exKo": "고객에게 계약서를 보내기 전에 법무팀도 참조에 넣어 주세요."
+  },
+  {
+   "en": "circle back",
+   "ko": "(나중에) 다시 다루다",
+   "pos": "구동사",
+   "ex": "Let's circle back to this issue after we review the sales numbers.",
+   "exKo": "매출 수치를 검토한 뒤에 이 문제로 다시 돌아오죠."
+  },
+  {
+   "en": "heads up",
+   "ko": "사전 알림, 미리 주는 귀띔",
+   "pos": "표현",
+   "ex": "Thanks for the heads up about the schedule change before the client meeting.",
+   "exKo": "고객 미팅 전에 일정 변경을 미리 알려 주셔서 감사합니다."
+  },
+  {
+   "en": "touch on",
+   "ko": "(주제를) 간단히 언급하다",
+   "pos": "구동사",
+   "ex": "I will briefly touch on the budget at the end of my presentation.",
+   "exKo": "발표 마지막에 예산에 대해 간단히 언급하겠습니다."
+  },
+  {
+   "en": "run it by",
+   "ko": "~에게 먼저 보여 의견을 구하다",
+   "pos": "구동사",
+   "ex": "Let me run it by my manager before I give you a final answer.",
+   "exKo": "최종 답변을 드리기 전에 팀장님께 먼저 확인받아 보겠습니다."
+  },
+  {
+   "en": "bring to the table",
+   "ko": "(강점·자원 등을) 협상 테이블에 내놓다",
+   "pos": "숙어",
+   "ex": "Each partner will bring to the table different skills and market knowledge.",
+   "exKo": "각 파트너는 서로 다른 기술과 시장 지식을 가지고 올 것입니다."
+  },
+  {
+   "en": "on board",
+   "ko": "동참한, 합류해 한배를 탄",
+   "pos": "숙어",
+   "ex": "Everyone is on board with the new plan, so we can start next week.",
+   "exKo": "모두가 새 계획에 동의하고 있어서 다음 주에 시작할 수 있습니다."
+  }
+ ],
+ "2": [
+  {
+   "en": "get the ball rolling",
+   "ko": "일을 시작하다, 시동을 걸다",
+   "pos": "숙어",
+   "ex": "Let's get the ball rolling by assigning tasks to each team member today.",
+   "exKo": "오늘 팀원들에게 업무를 배정하면서 일을 시작해 봅시다."
+  },
+  {
+   "en": "drop the ball",
+   "ko": "맡은 일을 놓치다, 실수하다",
+   "pos": "숙어",
+   "ex": "Please do not drop the ball on the invoice.",
+   "exKo": "이 청구서 건은 일을 놓치지 말아 주세요."
+  },
+  {
+   "en": "take the lead",
+   "ko": "주도권을 잡다, 앞장서다",
+   "pos": "숙어",
+   "ex": "Maria agreed to take the lead on the product launch this quarter.",
+   "exKo": "마리아는 이번 분기 제품 출시를 맡아 이끌기로 했습니다."
+  },
+  {
+   "en": "hit the ground running",
+   "ko": "처음부터 곧바로 성과를 내다",
+   "pos": "숙어",
+   "ex": "The new manager hit the ground running and fixed the reporting issues within weeks.",
+   "exKo": "새 매니저는 부임하자마자 속도를 내서 몇 주 만에 보고 문제를 해결했습니다."
+  },
+  {
+   "en": "back to the drawing board",
+   "ko": "원점에서 다시 시작하다",
+   "pos": "숙어",
+   "ex": "The prototype failed testing, so it's back to the drawing board for the team.",
+   "exKo": "시제품이 테스트에서 실패해서 팀은 다시 처음부터 시작해야 합니다."
+  },
+  {
+   "en": "in the pipeline",
+   "ko": "준비·진행 중인",
+   "pos": "표현",
+   "ex": "Several new product lines are in the pipeline for next year.",
+   "exKo": "내년에 출시될 신제품 라인이 여러 개 준비 중입니다."
+  },
+  {
+   "en": "on the back burner",
+   "ko": "뒷전으로 미뤄 둔 상태인",
+   "pos": "숙어",
+   "ex": "The expansion project is on the back burner until we secure more funding.",
+   "exKo": "확장 프로젝트는 자금을 더 확보할 때까지 뒤로 미뤄져 있습니다."
+  },
+  {
+   "en": "up in the air",
+   "ko": "아직 정해지지 않은, 불확실한",
+   "pos": "숙어",
+   "ex": "The launch date is still up in the air because of the supplier delay.",
+   "exKo": "공급업체 지연 때문에 출시일은 아직 확정되지 않았습니다."
+  },
+  {
+   "en": "at stake",
+   "ko": "걸려 있는, 위태로운",
+   "pos": "표현",
+   "ex": "Thousands of jobs are at stake if the merger falls through.",
+   "exKo": "합병이 무산되면 수천 개의 일자리가 위태롭습니다."
+  },
+  {
+   "en": "in the red",
+   "ko": "적자인",
+   "pos": "숙어",
+   "ex": "The division has been in the red for three consecutive quarters.",
+   "exKo": "그 사업부는 3분기 연속으로 적자 상태입니다."
+  }
+ ],
+ "3": [
+  {
+   "en": "meet the deadline",
+   "ko": "마감 기한을 맞추다",
+   "pos": "숙어",
+   "ex": "We must meet the deadline, or the client will cancel the order.",
+   "exKo": "마감을 지켜야 합니다. 그러지 않으면 고객이 주문을 취소할 겁니다."
+  },
+  {
+   "en": "stay on track",
+   "ko": "계획대로 진행되다",
+   "pos": "숙어",
+   "ex": "Weekly check-ins help us stay on track with the project timeline.",
+   "exKo": "주간 점검 덕분에 프로젝트 일정대로 진행할 수 있습니다."
+  },
+  {
+   "en": "fall behind schedule",
+   "ko": "일정에 뒤처지다",
+   "pos": "숙어",
+   "ex": "We will fall behind schedule if the parts don't arrive by Monday.",
+   "exKo": "월요일까지 부품이 오지 않으면 일정이 늦어질 겁니다."
+  },
+  {
+   "en": "ahead of the curve",
+   "ko": "시대·경쟁에서 앞서 있는",
+   "pos": "숙어",
+   "ex": "Investing in automation keeps our company ahead of the curve in the industry.",
+   "exKo": "자동화에 투자하면 우리 회사가 업계에서 앞서 나갈 수 있습니다."
+  },
+  {
+   "en": "wrap up",
+   "ko": "마무리하다, 끝내다",
+   "pos": "구동사",
+   "ex": "Let's wrap up the meeting and send the notes to everyone.",
+   "exKo": "회의를 마무리하고 모두에게 회의록을 보냅시다."
+  },
+  {
+   "en": "tie up loose ends",
+   "ko": "남은 자잘한 일을 정리하다",
+   "pos": "숙어",
+   "ex": "I need to tie up loose ends before I leave for vacation on Friday.",
+   "exKo": "금요일 휴가를 떠나기 전에 남은 잔업들을 정리해야 합니다."
+  },
+  {
+   "en": "push the deadline",
+   "ko": "마감 기한을 미루다",
+   "pos": "숙어",
+   "ex": "The board decided to push the deadline to the end of next month.",
+   "exKo": "이사회는 마감 기한을 다음 달 말로 미루기로 결정했습니다."
+  },
+  {
+   "en": "run behind",
+   "ko": "예정보다 늦어지다",
+   "pos": "숙어",
+   "ex": "We may run behind schedule if the customs inspection takes longer.",
+   "exKo": "통관 검사가 길어지면 일정이 예정보다 늦어질 수 있습니다."
+  },
+  {
+   "en": "cut it close",
+   "ko": "아슬아슬하게 시간에 맞추다",
+   "pos": "숙어",
+   "ex": "We cut it close, but the report reached the client before noon.",
+   "exKo": "아슬아슬했지만 보고서는 정오 전에 고객에게 도착했습니다."
+  },
+  {
+   "en": "down to the wire",
+   "ko": "마감 직전까지 가서(아슬아슬한 상황에서)",
+   "pos": "숙어",
+   "ex": "The negotiation went down to the wire before both sides finally signed.",
+   "exKo": "협상은 마지막 순간까지 이어지다가 결국 양측이 서명했습니다."
+  }
+ ],
+ "4": [
+  {
+   "en": "take it offline",
+   "ko": "(회의 밖에서 따로) 이야기하다",
+   "pos": "숙어",
+   "ex": "Can we take it offline and discuss the details after the meeting?",
+   "exKo": "회의 끝나고 따로 세부 사항을 이야기해도 될까요?"
+  },
+  {
+   "en": "table the discussion",
+   "ko": "논의를 보류하다",
+   "pos": "숙어",
+   "ex": "Let's table the discussion until we have the final cost estimates.",
+   "exKo": "최종 비용 견적이 나올 때까지 논의를 보류합시다."
+  },
+  {
+   "en": "put it on the agenda",
+   "ko": "안건에 올리다",
+   "pos": "숙어",
+   "ex": "I'll put it on the agenda for Thursday's management meeting.",
+   "exKo": "목요일 경영 회의 안건에 올려 두겠습니다."
+  },
+  {
+   "en": "raise a concern",
+   "ko": "우려를 제기하다",
+   "pos": "숙어",
+   "ex": "Several employees raise a concern about the new overtime policy.",
+   "exKo": "여러 직원이 새 초과근무 정책에 대해 우려를 제기합니다."
+  },
+  {
+   "en": "flag an issue",
+   "ko": "문제를 지적하며 알리다",
+   "pos": "숙어",
+   "ex": "Please flag an issue as soon as you notice a quality problem.",
+   "exKo": "품질 문제를 발견하면 바로 문제점을 알려 주세요."
+  },
+  {
+   "en": "weigh in",
+   "ko": "(논의에) 의견을 보태다",
+   "pos": "구동사",
+   "ex": "The CEO will weigh in on the proposal during tomorrow's meeting.",
+   "exKo": "CEO가 내일 회의에서 그 제안에 대해 의견을 밝힐 예정입니다."
+  },
+  {
+   "en": "chime in",
+   "ko": "(대화 중에) 끼어들어 한마디 하다",
+   "pos": "구동사",
+   "ex": "Feel free to chime in if you have any questions or ideas.",
+   "exKo": "질문이나 아이디어가 있으면 언제든 말씀해 주세요."
+  },
+  {
+   "en": "speak up for",
+   "ko": "~을 옹호하며 나서다",
+   "pos": "구동사",
+   "ex": "Thank you for choosing to speak up for our junior staff in that meeting.",
+   "exKo": "그 회의에서 우리 후배 직원들을 위해 나서 주셔서 감사합니다."
+  },
+  {
+   "en": "talk through",
+   "ko": "차근차근 이야기해 풀다",
+   "pos": "구동사",
+   "ex": "Let me talk through the proposal step by step so everyone follows.",
+   "exKo": "모두가 이해하도록 제안서를 단계별로 차근차근 설명드리겠습니다."
+  },
+  {
+   "en": "go over the details",
+   "ko": "세부 내용을 훑어보다",
+   "pos": "구동사",
+   "ex": "We should go over the details of the contract before signing it.",
+   "exKo": "서명하기 전에 계약서의 세부 내용을 검토해야 합니다."
+  }
+ ],
+ "5": [
+  {
+   "en": "a win-win situation",
+   "ko": "양쪽 모두에게 이득인 상황",
+   "pos": "표현",
+   "ex": "The partnership is a win-win situation for both companies.",
+   "exKo": "그 제휴는 두 회사 모두에게 이득이 되는 상황입니다."
+  },
+  {
+   "en": "a tough sell",
+   "ko": "설득하기 어려운 제안",
+   "pos": "표현",
+   "ex": "Raising prices in this economy is going to be a tough sell.",
+   "exKo": "이런 경기에 가격을 올리는 것은 설득하기 어려울 것입니다."
+  },
+  {
+   "en": "a deal breaker",
+   "ko": "협상을 깨는 결정적 걸림돌",
+   "pos": "표현",
+   "ex": "Exclusive distribution rights were a deal breaker for the buyer.",
+   "exKo": "독점 유통권은 구매자에게 협상 결렬 요인이었습니다."
+  },
+  {
+   "en": "a sticking point",
+   "ko": "협상의 쟁점이 되는 걸림돌",
+   "pos": "표현",
+   "ex": "Payment terms remain a sticking point in the negotiations.",
+   "exKo": "결제 조건이 협상에서 여전히 걸림돌로 남아 있습니다."
+  },
+  {
+   "en": "common ground",
+   "ko": "공통분모, 의견이 일치하는 부분",
+   "pos": "표현",
+   "ex": "Both sides need to find common ground before talks can continue.",
+   "exKo": "대화를 이어 가려면 양측이 공통분모를 찾아야 합니다."
+  },
+  {
+   "en": "meet halfway",
+   "ko": "서로 양보해 타협하다",
+   "pos": "숙어",
+   "ex": "If you can lower the price, we will meet halfway on the delivery date.",
+   "exKo": "가격을 낮춰 주시면 저희도 납기일에서 양보하겠습니다."
+  },
+  {
+   "en": "bargaining chip",
+   "ko": "협상 카드",
+   "pos": "표현",
+   "ex": "The exclusive license is our best bargaining chip in this negotiation.",
+   "exKo": "독점 라이선스는 이번 협상에서 우리의 가장 좋은 협상 카드입니다."
+  },
+  {
+   "en": "split the difference",
+   "ko": "차액을 반씩 나누어 절충하다",
+   "pos": "숙어",
+   "ex": "Let's split the difference and settle at fifty thousand dollars.",
+   "exKo": "차액을 절반씩 부담해서 5만 달러에 합의합시다."
+  },
+  {
+   "en": "close the deal",
+   "ko": "계약을 성사시키다",
+   "pos": "숙어",
+   "ex": "The sales team worked all week to close the deal with the retailer.",
+   "exKo": "영업팀은 소매업체와 계약을 성사시키려고 일주일 내내 일했습니다."
+  },
+  {
+   "en": "seal the deal",
+   "ko": "계약을 확정 짓다",
+   "pos": "숙어",
+   "ex": "Both parties signed the papers to seal the deal on Monday morning.",
+   "exKo": "양측은 월요일 아침에 서류에 서명해 계약을 확정지었습니다."
+  }
+ ],
+ "6": [
+  {
+   "en": "raise the bar",
+   "ko": "기준을 높이다",
+   "pos": "숙어",
+   "ex": "The new director wants to raise the bar for customer service across the company.",
+   "exKo": "새 이사는 회사 전체의 고객 서비스 기준을 높이고 싶어 합니다."
+  },
+  {
+   "en": "set the tone",
+   "ko": "분위기·기조를 정하다",
+   "pos": "숙어",
+   "ex": "The CEO's opening speech helped set the tone for the whole conference.",
+   "exKo": "CEO의 개회사는 컨퍼런스 전체의 분위기를 잡는 데 도움이 되었습니다."
+  },
+  {
+   "en": "lead by example",
+   "ko": "솔선수범하다",
+   "pos": "숙어",
+   "ex": "Good managers lead by example and follow the same rules as their staff.",
+   "exKo": "좋은 관리자는 솔선수범해서 직원들과 같은 규칙을 따릅니다."
+  },
+  {
+   "en": "set a precedent",
+   "ko": "선례를 만들다",
+   "pos": "숙어",
+   "ex": "Approving this exception could set a precedent for future budget requests.",
+   "exKo": "이 예외를 승인하면 앞으로의 예산 요청에 선례가 될 수 있습니다."
+  },
+  {
+   "en": "call the shots",
+   "ko": "결정권을 쥐고 지휘하다",
+   "pos": "숙어",
+   "ex": "Everyone knows the founder will call the shots at this company.",
+   "exKo": "창업자가 이 회사의 결정을 계속 좌우하리라는 것은 모두가 압니다."
+  },
+  {
+   "en": "pull strings",
+   "ko": "뒤에서 영향력을 행사하다",
+   "pos": "숙어",
+   "ex": "He tried to pull strings behind the scenes to get his proposal approved.",
+   "exKo": "그는 자신의 제안을 통과시키려고 막후에서 영향력을 행사하려 했습니다."
+  },
+  {
+   "en": "have a say",
+   "ko": "발언권이 있다, 의견을 낼 수 있다",
+   "pos": "숙어",
+   "ex": "Employees should have a say in decisions that affect their workload.",
+   "exKo": "직원들은 자신의 업무량에 영향을 주는 결정에 발언권을 가져야 합니다."
+  },
+  {
+   "en": "take responsibility for",
+   "ko": "~에 대한 책임을 지다",
+   "pos": "숙어",
+   "ex": "The project lead must take responsibility for the missed delivery date.",
+   "exKo": "프로젝트 리더는 납기 지연에 대해 책임을 져야 합니다."
+  },
+  {
+   "en": "hold accountable",
+   "ko": "책임을 묻다",
+   "pos": "숙어",
+   "ex": "We need a system that can hold accountable anyone who breaks the rules.",
+   "exKo": "규칙을 어기는 사람에게 책임을 물을 수 있는 체계가 필요합니다."
+  },
+  {
+   "en": "pass the buck",
+   "ko": "책임을 남에게 떠넘기다",
+   "pos": "숙어",
+   "ex": "Instead of admitting the error, he tried to pass the buck to the vendor.",
+   "exKo": "그는 실수를 인정하는 대신 책임을 공급업체에 떠넘기려 했습니다."
+  }
+ ],
+ "7": [
+  {
+   "en": "cut corners",
+   "ko": "부실하게 편법으로 처리하다",
+   "pos": "숙어",
+   "ex": "If you cut corners on safety, you risk fines and serious damage to our reputation.",
+   "exKo": "안전을 대충 처리하면 벌금과 평판 훼손이라는 위험을 감수하게 됩니다."
+  },
+  {
+   "en": "cut costs",
+   "ko": "비용을 줄이다",
+   "pos": "숙어",
+   "ex": "The company plans to cut costs by consolidating its warehouses.",
+   "exKo": "회사는 창고를 통합해서 비용을 절감할 계획입니다."
+  },
+  {
+   "en": "cut back on",
+   "ko": "~을 줄이다, 삭감하다",
+   "pos": "구동사",
+   "ex": "We need to cut back on travel expenses for the rest of the year.",
+   "exKo": "올해 남은 기간 동안 출장비를 줄여야 합니다."
+  },
+  {
+   "en": "scale back",
+   "ko": "규모를 축소하다",
+   "pos": "구동사",
+   "ex": "The firm decided to scale back its expansion plans in Asia.",
+   "exKo": "그 회사는 아시아 확장 계획의 규모를 축소하기로 했습니다."
+  },
+  {
+   "en": "rein in spending",
+   "ko": "지출을 억제하다",
+   "pos": "숙어",
+   "ex": "The board asked managers to rein in spending until the market improves.",
+   "exKo": "이사회는 시장이 나아질 때까지 지출을 억제하라고 관리자들에게 요청했습니다."
+  },
+  {
+   "en": "tighten the belt",
+   "ko": "허리띠를 졸라매다",
+   "pos": "숙어",
+   "ex": "After the sales drop, we all have to tighten the belt this year.",
+   "exKo": "매출이 줄어든 만큼 올해는 우리 모두 허리띠를 졸라매야 합니다."
+  },
+  {
+   "en": "stretch the budget",
+   "ko": "빠듯한 예산으로 꾸려 나가다",
+   "pos": "숙어",
+   "ex": "We have to stretch the budget to cover the marketing campaign.",
+   "exKo": "마케팅 캠페인을 감당하려면 빠듯한 예산을 최대한 늘려 써야 합니다."
+  },
+  {
+   "en": "run over budget",
+   "ko": "예산을 초과하다",
+   "pos": "숙어",
+   "ex": "The construction project will run over budget if prices keep rising.",
+   "exKo": "가격이 계속 오르면 건설 프로젝트는 예산을 초과할 것입니다."
+  },
+  {
+   "en": "break the bank",
+   "ko": "(비싸서) 재정이 거덜 날 정도로 부담이 되다",
+   "pos": "숙어",
+   "ex": "Upgrading the whole system won't break the bank if we do it in phases.",
+   "exKo": "단계적으로 하면 전체 시스템을 업그레이드해도 큰 부담은 되지 않을 겁니다."
+  },
+  {
+   "en": "foot the bill",
+   "ko": "비용을 떠안다, 계산서를 치르다",
+   "pos": "숙어",
+   "ex": "Who is going to foot the bill for the repairs to the factory?",
+   "exKo": "공장 수리 비용은 누가 부담할 건가요?"
+  }
+ ],
+ "8": [
+  {
+   "en": "in the long run",
+   "ko": "장기적으로 보면",
+   "pos": "표현",
+   "ex": "In the long run, investing in training will save us money.",
+   "exKo": "장기적으로는 교육에 투자하는 것이 비용을 아껴 줄 것입니다."
+  },
+  {
+   "en": "in the short term",
+   "ko": "단기적으로는",
+   "pos": "표현",
+   "ex": "In the short term, the new policy may reduce our profits.",
+   "exKo": "단기적으로는 새 정책이 이익을 줄일 수 있습니다."
+  },
+  {
+   "en": "at the end of the day",
+   "ko": "결국에는, 따지고 보면",
+   "pos": "표현",
+   "ex": "At the end of the day, the customer decides whether our product succeeds.",
+   "exKo": "결국 우리 제품의 성패는 고객이 결정합니다."
+  },
+  {
+   "en": "all things considered",
+   "ko": "모든 점을 고려하면",
+   "pos": "표현",
+   "ex": "All things considered, the quarter went better than we expected.",
+   "exKo": "모든 점을 고려하면 이번 분기는 예상보다 잘 풀렸습니다."
+  },
+  {
+   "en": "by and large",
+   "ko": "대체로, 전반적으로",
+   "pos": "표현",
+   "ex": "By and large, customers were happy with the new mobile app.",
+   "exKo": "대체로 고객들은 새 모바일 앱에 만족했습니다."
+  },
+  {
+   "en": "for the most part",
+   "ko": "대부분의 경우에는",
+   "pos": "표현",
+   "ex": "For the most part, the team met every target set last quarter.",
+   "exKo": "대부분의 경우 팀은 지난 분기에 설정한 모든 목표를 달성했습니다."
+  },
+  {
+   "en": "on balance",
+   "ko": "종합적으로 보면",
+   "pos": "표현",
+   "ex": "On balance, the merger looks like a smart move for both firms.",
+   "exKo": "종합해 보면 그 합병은 두 회사 모두에게 현명한 선택으로 보입니다."
+  },
+  {
+   "en": "to a certain extent",
+   "ko": "어느 정도까지는",
+   "pos": "표현",
+   "ex": "To a certain extent, rising costs are the reason for the delay.",
+   "exKo": "어느 정도는 비용 상승이 지연의 이유입니다."
+  },
+  {
+   "en": "in the grand scheme of things",
+   "ko": "큰 틀에서 보면",
+   "pos": "표현",
+   "ex": "In the grand scheme of things, one late shipment won't hurt our reputation.",
+   "exKo": "큰 틀에서 보면 선적 한 번 늦는다고 우리 평판이 나빠지지는 않을 겁니다."
+  },
+  {
+   "en": "when it comes down to it",
+   "ko": "결국 핵심으로 들어가면",
+   "pos": "표현",
+   "ex": "When it comes down to it, price matters more than brand to most buyers.",
+   "exKo": "결국 핵심을 따져 보면 대부분의 구매자에게는 브랜드보다 가격이 더 중요합니다."
+  }
+ ],
+ "9": [
+  {
+   "en": "a steep learning curve",
+   "ko": "가파른 학습 곡선",
+   "pos": "표현",
+   "ex": "The new accounting software has a steep learning curve for beginners.",
+   "exKo": "새 회계 소프트웨어는 초보자에게 학습 장벽이 높습니다."
+  },
+  {
+   "en": "a rough patch",
+   "ko": "힘든 시기, 부진한 구간",
+   "pos": "표현",
+   "ex": "The company is going through a rough patch after losing two major clients.",
+   "exKo": "그 회사는 주요 고객 두 곳을 잃은 뒤 힘든 시기를 겪고 있습니다."
+  },
+  {
+   "en": "a silver lining",
+   "ko": "(나쁜 일의) 한 줄기 긍정적인 면",
+   "pos": "표현",
+   "ex": "The delay had a silver lining, because we got extra time to test.",
+   "exKo": "지연에는 한 줄기 긍정적인 면도 있었는데, 테스트할 시간을 더 얻었다는 점입니다."
+  },
+  {
+   "en": "a golden opportunity",
+   "ko": "둘도 없는 좋은 기회",
+   "pos": "표현",
+   "ex": "This partnership is a golden opportunity to enter the European market.",
+   "exKo": "이 제휴는 유럽 시장에 진출할 절호의 기회입니다."
+  },
+  {
+   "en": "a gray area",
+   "ko": "모호한 영역, 애매한 부분",
+   "pos": "표현",
+   "ex": "The regulation leaves a gray area around remote work abroad.",
+   "exKo": "그 규정은 해외 원격 근무에 대해서는 애매한 부분을 남겨 둡니다."
+  },
+  {
+   "en": "a double standard",
+   "ko": "이중잣대",
+   "pos": "표현",
+   "ex": "Critics say the policy is a double standard that favors senior staff.",
+   "exKo": "비평가들은 그 정책이 고위 직원에게 유리한 이중잣대라고 말합니다."
+  },
+  {
+   "en": "a vicious circle",
+   "ko": "악순환",
+   "pos": "표현",
+   "ex": "Low pay causes high turnover, which is a vicious circle for the company.",
+   "exKo": "낮은 급여는 높은 이직률을 낳고, 이는 회사에 악순환이 됩니다."
+  },
+  {
+   "en": "a lose-lose situation",
+   "ko": "어느 쪽을 택해도 손해인 상황",
+   "pos": "표현",
+   "ex": "Raising prices or cutting quality is a lose-lose situation for us.",
+   "exKo": "가격을 올리든 품질을 낮추든 우리에게는 손해인 상황입니다."
+  },
+  {
+   "en": "a necessary evil",
+   "ko": "어쩔 수 없이 필요한 악",
+   "pos": "표현",
+   "ex": "Many managers see layoffs as a necessary evil during a downturn.",
+   "exKo": "많은 관리자가 불황기에 감원을 불가피한 악으로 봅니다."
+  },
+  {
+   "en": "a mixed bag",
+   "ko": "좋고 나쁜 것이 섞인 것",
+   "pos": "표현",
+   "ex": "The quarterly results were a mixed bag, with strong sales but weak margins.",
+   "exKo": "분기 실적은 매출은 좋고 마진은 약해서 엇갈렸습니다."
+  }
+ ],
+ "10": [
+  {
+   "en": "get the green light",
+   "ko": "승인을 받다",
+   "pos": "숙어",
+   "ex": "The design team will get the green light to start production this week.",
+   "exKo": "디자인팀은 이번 주에 생산 시작 승인을 받게 될 것입니다."
+  },
+  {
+   "en": "give the go-ahead",
+   "ko": "승낙·허가를 내주다",
+   "pos": "숙어",
+   "ex": "The director will give the go-ahead once the budget is confirmed.",
+   "exKo": "예산이 확정되면 이사님이 진행을 허락해 줄 것입니다."
+  },
+  {
+   "en": "sign off on",
+   "ko": "~을 최종 승인하다",
+   "pos": "구동사",
+   "ex": "The CFO must sign off on every purchase over ten thousand dollars.",
+   "exKo": "CFO는 1만 달러가 넘는 모든 구매를 최종 승인해야 합니다."
+  },
+  {
+   "en": "rubber-stamp",
+   "ko": "형식적으로 승인해 주다",
+   "pos": "숙어",
+   "ex": "The committee tends to rubber-stamp whatever the chairman proposes.",
+   "exKo": "위원회는 의장이 제안하는 것이면 무엇이든 형식적으로 승인하는 경향이 있습니다."
+  },
+  {
+   "en": "clear the way",
+   "ko": "장애물을 치워 길을 열다",
+   "pos": "숙어",
+   "ex": "The new law will clear the way for foreign investment in the sector.",
+   "exKo": "새 법은 그 분야에 대한 외국인 투자의 길을 열어 줄 것입니다."
+  },
+  {
+   "en": "pave the way",
+   "ko": "~의 길을 닦다",
+   "pos": "숙어",
+   "ex": "This agreement could pave the way for a long-term partnership.",
+   "exKo": "이 계약은 장기 제휴의 길을 닦을 수 있습니다."
+  },
+  {
+   "en": "open the door to",
+   "ko": "~의 가능성을 열어 주다",
+   "pos": "숙어",
+   "ex": "The pilot project may open the door to larger contracts next year.",
+   "exKo": "시범 프로젝트는 내년에 더 큰 계약으로 이어질 가능성을 열어 줄 수 있습니다."
+  },
+  {
+   "en": "lay the groundwork",
+   "ko": "기초를 다지다, 토대를 마련하다",
+   "pos": "숙어",
+   "ex": "We need to lay the groundwork before we announce the new strategy.",
+   "exKo": "새 전략을 발표하기 전에 기반을 닦아야 합니다."
+  },
+  {
+   "en": "set the stage",
+   "ko": "무대를 마련하다, 여건을 조성하다",
+   "pos": "숙어",
+   "ex": "The strong earnings report helped set the stage for a rise in share prices.",
+   "exKo": "호실적 발표는 주가 상승의 발판을 마련하는 데 도움이 되었습니다."
+  },
+  {
+   "en": "plant the seeds",
+   "ko": "씨앗을 심다, 훗날의 계기를 만들다",
+   "pos": "숙어",
+   "ex": "The early talks helped plant the seeds for the merger two years later.",
+   "exKo": "초기 논의는 2년 뒤 합병의 씨앗을 심는 역할을 했습니다."
+  }
+ ],
+ "11": [
+  {
+   "en": "think outside the box",
+   "ko": "틀을 벗어나 창의적으로 생각하다",
+   "pos": "숙어",
+   "ex": "We need to think outside the box to stand out from our competitors.",
+   "exKo": "경쟁사와 차별화하려면 틀에서 벗어나 생각해야 합니다."
+  },
+  {
+   "en": "brainstorm ideas",
+   "ko": "(함께) 아이디어를 내다",
+   "pos": "표현",
+   "ex": "Let's brainstorm ideas for the new campaign on Monday morning.",
+   "exKo": "월요일 아침에 새 캠페인 아이디어를 함께 내 봅시다."
+  },
+  {
+   "en": "throw around ideas",
+   "ko": "아이디어를 자유롭게 던져 보다",
+   "pos": "숙어",
+   "ex": "The team likes to throw around ideas before choosing a final direction.",
+   "exKo": "팀은 최종 방향을 고르기 전에 아이디어를 자유롭게 던져 보는 것을 좋아합니다."
+  },
+  {
+   "en": "bounce ideas off",
+   "ko": "~에게 아이디어를 말해 반응을 보다",
+   "pos": "숙어",
+   "ex": "I often bounce ideas off my colleagues before I write a proposal.",
+   "exKo": "저는 제안서를 쓰기 전에 동료들에게 아이디어를 던져 보곤 합니다."
+  },
+  {
+   "en": "get the picture",
+   "ko": "상황을 이해하다, 감을 잡다",
+   "pos": "숙어",
+   "ex": "After the presentation, I finally get the picture of their business model.",
+   "exKo": "발표가 끝나고서야 저는 그들의 비즈니스 모델이 어떤 건지 감이 잡혔습니다."
+  },
+  {
+   "en": "put your heads together",
+   "ko": "머리를 맞대다",
+   "pos": "숙어",
+   "ex": "If you all put your heads together, you can solve this problem before Friday.",
+   "exKo": "모두 머리를 맞대면 금요일 전에 이 문제를 풀 수 있을 겁니다."
+  },
+  {
+   "en": "come up with a solution",
+   "ko": "해결책을 생각해 내다",
+   "pos": "숙어",
+   "ex": "We need to come up with a solution before the customer calls again.",
+   "exKo": "고객이 다시 전화하기 전에 해결책을 찾아야 합니다."
+  },
+  {
+   "en": "reinvent the wheel",
+   "ko": "이미 있는 것을 처음부터 다시 만들다",
+   "pos": "숙어",
+   "ex": "There's no need to reinvent the wheel when a proven template already exists.",
+   "exKo": "검증된 템플릿이 이미 있는데 처음부터 다시 만들 필요는 없습니다."
+  },
+  {
+   "en": "back to basics",
+   "ko": "기본으로 돌아가다",
+   "pos": "표현",
+   "ex": "When sales drop, it is smart to go back to basics and listen to customers.",
+   "exKo": "매출이 떨어지면 기본으로 돌아가 고객의 말을 듣는 것이 현명합니다."
+  },
+  {
+   "en": "a game changer",
+   "ko": "판도를 바꾸는 것",
+   "pos": "표현",
+   "ex": "This technology could be a game changer for the logistics industry.",
+   "exKo": "이 기술은 물류 산업의 판도를 바꿀 수 있습니다."
+  }
+ ],
+ "12": [
+  {
+   "en": "read the fine print",
+   "ko": "(계약서의) 작은 글씨를 꼼꼼히 읽다",
+   "pos": "숙어",
+   "ex": "Always read the fine print before you sign a service agreement.",
+   "exKo": "서비스 계약서에 서명하기 전에는 항상 세부 조항을 꼼꼼히 읽으세요."
+  },
+  {
+   "en": "raise the question",
+   "ko": "질문을 제기하다",
+   "pos": "숙어",
+   "ex": "I'd like to raise the question of who will manage the new account.",
+   "exKo": "새 계정을 누가 관리할지에 대한 문제를 제기하고 싶습니다."
+  },
+  {
+   "en": "get back to you",
+   "ko": "다시 연락드리다",
+   "pos": "숙어",
+   "ex": "I'll check the numbers and get back to you by tomorrow afternoon.",
+   "exKo": "숫자를 확인하고 내일 오후까지 답변드리겠습니다."
+  },
+  {
+   "en": "reach out to",
+   "ko": "~에게 연락하다",
+   "pos": "구동사",
+   "ex": "Please reach out to our support team if you have any technical issues.",
+   "exKo": "기술적인 문제가 있으면 지원팀에 연락해 주세요."
+  },
+  {
+   "en": "follow through",
+   "ko": "끝까지 해내다, 약속을 이행하다",
+   "pos": "구동사",
+   "ex": "Customers trust us because we always follow through on our promises.",
+   "exKo": "저희는 약속을 항상 끝까지 지키기 때문에 고객들이 신뢰합니다."
+  },
+  {
+   "en": "follow suit",
+   "ko": "남을 따라서 같은 행동을 하다",
+   "pos": "숙어",
+   "ex": "If one bank lowers its rates, others will quickly follow suit.",
+   "exKo": "한 은행이 금리를 내리면 다른 은행들도 곧바로 따라 할 것입니다."
+  },
+  {
+   "en": "stay in the loop",
+   "ko": "상황을 계속 알고 있다",
+   "pos": "숙어",
+   "ex": "Please send weekly updates so everyone can stay in the loop.",
+   "exKo": "모두가 소식을 계속 알 수 있도록 주간 업데이트를 보내 주세요."
+  },
+  {
+   "en": "out of the loop",
+   "ko": "진행 상황을 모르는",
+   "pos": "숙어",
+   "ex": "I was out of the loop, so I missed the change in the deadline.",
+   "exKo": "저는 상황을 몰랐고, 그래서 마감 변경을 놓쳤습니다."
+  },
+  {
+   "en": "on short notice",
+   "ko": "갑작스러운 통보로",
+   "pos": "표현",
+   "ex": "They asked us to prepare the presentation on short notice.",
+   "exKo": "그들은 갑작스러운 요청으로 발표 준비를 요구했습니다."
+  },
+  {
+   "en": "at your earliest convenience",
+   "ko": "가능한 한 빨리, 편하실 때 바로",
+   "pos": "표현",
+   "ex": "Please send us the signed contract at your earliest convenience.",
+   "exKo": "서명된 계약서를 가능한 한 빠른 시일 내에 보내 주십시오."
+  }
+ ],
+ "13": [
+  {
+   "en": "be swamped with",
+   "ko": "~으로 정신없이 바쁘다",
+   "pos": "숙어",
+   "ex": "We will be swamped with year-end reports for the whole week.",
+   "exKo": "우리는 이번 주 내내 연말 보고서로 정신없이 바쁠 것입니다."
+  },
+  {
+   "en": "be snowed under",
+   "ko": "일에 파묻혀 있다",
+   "pos": "숙어",
+   "ex": "I expect to be snowed under with emails after the conference.",
+   "exKo": "컨퍼런스가 끝나면 이메일에 파묻힐 것 같습니다."
+  },
+  {
+   "en": "burn the midnight oil",
+   "ko": "밤늦게까지 일하다",
+   "pos": "숙어",
+   "ex": "The engineers had to burn the midnight oil to fix the server problem.",
+   "exKo": "엔지니어들은 서버 문제를 고치려고 밤늦게까지 일해야 했습니다."
+  },
+  {
+   "en": "work around the clock",
+   "ko": "쉬지 않고 24시간 일하다",
+   "pos": "숙어",
+   "ex": "Our support staff work around the clock during the holiday sale.",
+   "exKo": "우리 지원팀은 연휴 세일 기간에 밤낮없이 일합니다."
+  },
+  {
+   "en": "pull an all-nighter",
+   "ko": "밤을 새워 일하다",
+   "pos": "숙어",
+   "ex": "I had to pull an all-nighter to finish the proposal before the deadline.",
+   "exKo": "마감 전에 제안서를 끝내려고 밤을 새워야 했습니다."
+  },
+  {
+   "en": "put in extra hours",
+   "ko": "추가 근무를 하다",
+   "pos": "숙어",
+   "ex": "Many employees put in extra hours during the busy season.",
+   "exKo": "많은 직원이 성수기에 초과 근무를 합니다."
+  },
+  {
+   "en": "wear many hats",
+   "ko": "여러 역할을 맡다",
+   "pos": "숙어",
+   "ex": "In a small startup, you have to wear many hats every single day.",
+   "exKo": "작은 스타트업에서는 매일 여러 역할을 맡아야 합니다."
+  },
+  {
+   "en": "juggle priorities",
+   "ko": "여러 우선순위를 조율해 처리하다",
+   "pos": "숙어",
+   "ex": "Managers need to juggle priorities when several projects are urgent.",
+   "exKo": "여러 프로젝트가 급할 때 관리자는 우선순위를 조율해야 합니다."
+  },
+  {
+   "en": "spread yourself thin",
+   "ko": "일을 너무 벌여 힘이 분산되다",
+   "pos": "숙어",
+   "ex": "You will burn out if you spread yourself thin across too many projects.",
+   "exKo": "프로젝트를 너무 많이 맡아 힘을 분산시키면 지치게 됩니다."
+  },
+  {
+   "en": "bite off more than you can chew",
+   "ko": "감당 못 할 만큼 욕심을 부리다",
+   "pos": "숙어",
+   "ex": "Be careful not to bite off more than you can chew with that timeline.",
+   "exKo": "그 일정으로는 감당 못 할 만큼 욕심내지 않도록 조심하세요."
+  }
+ ],
+ "14": [
+  {
+   "en": "call in sick",
+   "ko": "병가를 내다, 아프다고 연락하다",
+   "pos": "구동사",
+   "ex": "Jason will call in sick if his fever doesn't go down by morning.",
+   "exKo": "제이슨은 아침까지 열이 내리지 않으면 아프다고 연락할 겁니다."
+  },
+  {
+   "en": "take a day off",
+   "ko": "하루 휴가를 내다",
+   "pos": "숙어",
+   "ex": "I'd like to take a day off next Friday to attend a family event.",
+   "exKo": "다음 주 금요일에 가족 행사가 있어서 하루 쉬고 싶습니다."
+  },
+  {
+   "en": "work from home",
+   "ko": "재택근무하다",
+   "pos": "표현",
+   "ex": "Many staff members work from home two days a week.",
+   "exKo": "많은 직원이 일주일에 이틀은 재택근무를 합니다."
+  },
+  {
+   "en": "be on leave",
+   "ko": "휴가·휴직 중이다",
+   "pos": "숙어",
+   "ex": "The sales director will be on leave until the end of the month.",
+   "exKo": "영업 이사는 이달 말까지 휴직 중일 것입니다."
+  },
+  {
+   "en": "clock in",
+   "ko": "(출근 시) 근태를 기록하다",
+   "pos": "구동사",
+   "ex": "Employees must clock in before nine o'clock every morning.",
+   "exKo": "직원들은 매일 아침 9시 전에 출근 기록을 해야 합니다."
+  },
+  {
+   "en": "clock out",
+   "ko": "(퇴근 시) 근태를 기록하다",
+   "pos": "구동사",
+   "ex": "Please clock out before you leave the building for the day.",
+   "exKo": "그날 건물을 떠나기 전에 퇴근 기록을 해 주세요."
+  },
+  {
+   "en": "hand in your notice",
+   "ko": "사직서를 제출하다",
+   "pos": "숙어",
+   "ex": "You should hand in your notice in writing to the HR department.",
+   "exKo": "사직서는 인사부에 서면으로 제출하셔야 합니다."
+  },
+  {
+   "en": "land a job",
+   "ko": "일자리를 얻다",
+   "pos": "숙어",
+   "ex": "After three interviews, he managed to land a job at a major bank.",
+   "exKo": "세 번의 면접 끝에 그는 대형 은행에 취직하는 데 성공했습니다."
+  },
+  {
+   "en": "get promoted",
+   "ko": "승진하다",
+   "pos": "숙어",
+   "ex": "Employees who exceed their targets can get promoted within two years.",
+   "exKo": "목표를 초과 달성한 직원은 2년 안에 승진할 수 있습니다."
+  },
+  {
+   "en": "climb the corporate ladder",
+   "ko": "출세의 사다리를 오르다",
+   "pos": "숙어",
+   "ex": "Many young professionals want to climb the corporate ladder as fast as possible.",
+   "exKo": "많은 젊은 직장인이 최대한 빨리 조직에서 올라가기를 원합니다."
+  }
+ ],
+ "15": [
+  {
+   "en": "learn the ropes",
+   "ko": "요령을 익히다",
+   "pos": "숙어",
+   "ex": "It takes a few weeks to learn the ropes at a new company.",
+   "exKo": "새 회사에서 요령을 익히려면 몇 주가 걸립니다."
+  },
+  {
+   "en": "strike while the iron is hot",
+   "ko": "기회가 왔을 때 바로 행동하다",
+   "pos": "숙어",
+   "ex": "Interest rates are low, so let's strike while the iron is hot.",
+   "exKo": "금리가 낮으니 기회가 왔을 때 바로 움직입시다."
+  },
+  {
+   "en": "get up to speed",
+   "ko": "(필요한 정보에) 따라잡다",
+   "pos": "숙어",
+   "ex": "The new hire needs a week to get up to speed on our products.",
+   "exKo": "신입 직원이 우리 제품을 따라잡는 데 일주일이 필요합니다."
+  },
+  {
+   "en": "have it both ways",
+   "ko": "두 가지 이점을 모두 취하려 하다",
+   "pos": "숙어",
+   "ex": "You can't have it both ways: either cut prices or keep the premium image.",
+   "exKo": "둘 다 가질 수는 없습니다. 가격을 내리거나 프리미엄 이미지를 유지하세요."
+  },
+  {
+   "en": "on the job",
+   "ko": "업무 현장에서, 근무 중에",
+   "pos": "표현",
+   "ex": "Employees receive safety training on the job during their first month.",
+   "exKo": "직원들은 첫 달에 현장에서 안전 교육을 받습니다."
+  },
+  {
+   "en": "hands-on experience",
+   "ko": "직접 해 보며 얻은 경험",
+   "pos": "표현",
+   "ex": "The position requires hands-on experience with data analysis tools.",
+   "exKo": "그 직무는 데이터 분석 도구를 직접 다뤄 본 경험을 요구합니다."
+  },
+  {
+   "en": "a track record",
+   "ko": "실적, 이력",
+   "pos": "표현",
+   "ex": "The agency has a track record of delivering projects on time.",
+   "exKo": "그 대행사는 프로젝트를 제때 납품한 실적이 있습니다."
+  },
+  {
+   "en": "a fast learner",
+   "ko": "빨리 배우는 사람",
+   "pos": "표현",
+   "ex": "Don't worry about her lack of experience, she is a fast learner.",
+   "exKo": "그녀의 경험 부족은 걱정하지 마세요. 습득이 빠른 사람입니다."
+  },
+  {
+   "en": "a team player",
+   "ko": "협력을 잘하는 사람",
+   "pos": "표현",
+   "ex": "We are looking for a team player who communicates openly.",
+   "exKo": "우리는 열린 소통을 하는 협업형 인재를 찾고 있습니다."
+  },
+  {
+   "en": "a self-starter",
+   "ko": "스스로 알아서 일하는 사람",
+   "pos": "표현",
+   "ex": "The ideal candidate is a self-starter who needs little supervision.",
+   "exKo": "이상적인 지원자는 감독이 거의 필요 없는 자발적인 사람입니다."
+  }
+ ],
+ "16": [
+  {
+   "en": "come across as",
+   "ko": "~처럼 보이다, ~라는 인상을 주다",
+   "pos": "구동사",
+   "ex": "In emails, short replies can come across as rude to some readers.",
+   "exKo": "이메일에서는 짧은 답장이 어떤 독자에게는 무례하게 보일 수 있습니다."
+  },
+  {
+   "en": "give the impression",
+   "ko": "~라는 인상을 풍기다",
+   "pos": "숙어",
+   "ex": "The report may give the impression that sales are falling faster than they are.",
+   "exKo": "그 보고서는 실제보다 매출이 더 빨리 떨어지고 있다는 인상을 줄 수 있습니다."
+  },
+  {
+   "en": "make a good impression",
+   "ko": "좋은 인상을 남기다",
+   "pos": "숙어",
+   "ex": "You only have one chance to make a good impression on a new client.",
+   "exKo": "새 고객에게 좋은 인상을 줄 기회는 한 번뿐입니다."
+  },
+  {
+   "en": "leave a lasting impression",
+   "ko": "깊은 인상을 남기다",
+   "pos": "숙어",
+   "ex": "Her clear presentation could leave a lasting impression on the board.",
+   "exKo": "그녀의 명쾌한 발표는 이사회에 오래 남는 인상을 줄 수 있습니다."
+  },
+  {
+   "en": "read the room",
+   "ko": "분위기를 파악하다",
+   "pos": "숙어",
+   "ex": "A good negotiator knows how to read the room before making an offer.",
+   "exKo": "훌륭한 협상가는 제안을 하기 전에 분위기를 읽을 줄 압니다."
+  },
+  {
+   "en": "put your best foot forward",
+   "ko": "최선의 모습을 보이다",
+   "pos": "숙어",
+   "ex": "Always put your best foot forward when meeting potential investors.",
+   "exKo": "잠재 투자자를 만날 때는 항상 최선의 모습을 보이세요."
+  },
+  {
+   "en": "play it by ear",
+   "ko": "상황에 맞춰 즉흥적으로 하다",
+   "pos": "숙어",
+   "ex": "We didn't have a formal agenda, so we decided to play it by ear.",
+   "exKo": "공식 안건이 없어서 상황을 보며 즉흥적으로 하기로 했습니다."
+  },
+  {
+   "en": "wing it",
+   "ko": "즉흥으로 대충 해내다",
+   "pos": "숙어",
+   "ex": "I didn't have time to prepare, so I had to wing it in the meeting.",
+   "exKo": "준비할 시간이 없어서 회의에서 즉흥적으로 때워야 했습니다."
+  },
+  {
+   "en": "stick to the script",
+   "ko": "준비된 대본대로만 말하다",
+   "pos": "숙어",
+   "ex": "During the press conference, the spokesperson had to stick to the script.",
+   "exKo": "기자회견에서 대변인은 정해진 대본대로만 말해야 했습니다."
+  },
+  {
+   "en": "stay on message",
+   "ko": "핵심 메시지에서 벗어나지 않다",
+   "pos": "숙어",
+   "ex": "The CEO reminded everyone to stay on message when talking to reporters.",
+   "exKo": "CEO는 기자들과 이야기할 때 핵심 메시지에서 벗어나지 말라고 모두에게 당부했습니다."
+  }
+ ],
+ "17": [
+  {
+   "en": "it goes without saying",
+   "ko": "말할 필요도 없이",
+   "pos": "표현",
+   "ex": "It goes without saying that safety must come before profit.",
+   "exKo": "안전이 이익보다 우선해야 한다는 것은 말할 필요도 없습니다."
+  },
+  {
+   "en": "needless to say",
+   "ko": "두말할 나위 없이",
+   "pos": "표현",
+   "ex": "Needless to say, we were delighted when the contract was renewed.",
+   "exKo": "두말할 나위 없이 계약이 갱신되어 매우 기뻤습니다."
+  },
+  {
+   "en": "to put it mildly",
+   "ko": "아주 부드럽게 말해도",
+   "pos": "표현",
+   "ex": "To put it mildly, the launch did not go as planned.",
+   "exKo": "아주 순화해서 말해도 출시는 계획대로 되지 않았습니다."
+  },
+  {
+   "en": "to be fair",
+   "ko": "공정하게 말하자면",
+   "pos": "표현",
+   "ex": "To be fair, the team had only two weeks to prepare the report.",
+   "exKo": "공정하게 말하면 팀에게는 보고서를 준비할 시간이 2주밖에 없었습니다."
+  },
+  {
+   "en": "to make matters worse",
+   "ko": "설상가상으로",
+   "pos": "표현",
+   "ex": "To make matters worse, the supplier cancelled the shipment at the last minute.",
+   "exKo": "설상가상으로 공급업체가 마지막 순간에 선적을 취소했습니다."
+  },
+  {
+   "en": "to cut a long story short",
+   "ko": "간단히 말하자면",
+   "pos": "표현",
+   "ex": "To cut a long story short, we lost the bid but learned a lot.",
+   "exKo": "간단히 말하면 입찰에는 졌지만 많은 것을 배웠습니다."
+  },
+  {
+   "en": "for what it's worth",
+   "ko": "참고로 말씀드리면",
+   "pos": "표현",
+   "ex": "For what it's worth, I think the new layout is easier to read.",
+   "exKo": "참고로 제 생각에는 새 레이아웃이 읽기 더 쉽습니다."
+  },
+  {
+   "en": "if you ask me",
+   "ko": "제 생각에는",
+   "pos": "표현",
+   "ex": "If you ask me, we should delay the launch until the software is stable.",
+   "exKo": "제 생각에는 소프트웨어가 안정될 때까지 출시를 미뤄야 합니다."
+  },
+  {
+   "en": "speaking of which",
+   "ko": "그 얘기가 나왔으니 말인데",
+   "pos": "표현",
+   "ex": "Speaking of which, have you reviewed the latest sales forecast?",
+   "exKo": "말이 나온 김에, 최근 매출 전망은 검토해 보셨나요?"
+  },
+  {
+   "en": "come to think of it",
+   "ko": "생각해 보니",
+   "pos": "표현",
+   "ex": "Come to think of it, we never confirmed the venue for the workshop.",
+   "exKo": "생각해 보니 워크숍 장소를 아직 확정하지 않았습니다."
+  }
+ ],
+ "18": [
+  {
+   "en": "make a strong case",
+   "ko": "강력한 논거를 제시하다",
+   "pos": "숙어",
+   "ex": "The analyst will make a strong case for investing in renewable energy.",
+   "exKo": "그 애널리스트는 재생에너지 투자를 강하게 뒷받침하는 논거를 제시할 것입니다."
+  },
+  {
+   "en": "play devil's advocate",
+   "ko": "일부러 반대 입장을 취해 보다",
+   "pos": "숙어",
+   "ex": "Let me play devil's advocate and question whether the plan is realistic.",
+   "exKo": "제가 일부러 반대 입장에서 이 계획이 현실적인지 따져 보겠습니다."
+  },
+  {
+   "en": "throw in the towel",
+   "ko": "포기하다",
+   "pos": "숙어",
+   "ex": "After months of losses, the owners decided to throw in the towel.",
+   "exKo": "몇 달간 손실이 이어지자 경영진은 손을 들기로 했습니다."
+  },
+  {
+   "en": "take on board",
+   "ko": "(의견을) 받아들이다, 수용하다",
+   "pos": "숙어",
+   "ex": "Thank you for the feedback, and we will take on board your suggestions.",
+   "exKo": "피드백 감사합니다. 제안해 주신 내용을 수용하겠습니다."
+  },
+  {
+   "en": "take into account",
+   "ko": "~을 고려하다, 감안하다",
+   "pos": "숙어",
+   "ex": "We must take into account seasonal changes when forecasting demand.",
+   "exKo": "수요를 예측할 때는 계절 변화를 감안해야 합니다."
+  },
+  {
+   "en": "take into consideration",
+   "ko": "~을 신중히 고려하다",
+   "pos": "숙어",
+   "ex": "The committee will take into consideration all public comments.",
+   "exKo": "위원회는 모든 대중 의견을 신중히 고려할 것입니다."
+  },
+  {
+   "en": "take issue with",
+   "ko": "~에 이의를 제기하다",
+   "pos": "숙어",
+   "ex": "I take issue with the claim that customer complaints are going down.",
+   "exKo": "저는 고객 불만이 줄고 있다는 주장에 이의를 제기합니다."
+  },
+  {
+   "en": "take it with a grain of salt",
+   "ko": "(말을) 곧이곧대로 믿지 않다",
+   "pos": "숙어",
+   "ex": "You should take it with a grain of salt when analysts predict huge profits.",
+   "exKo": "애널리스트가 큰 수익을 예측할 때는 곧이곧대로 받아들이지 마세요."
+  },
+  {
+   "en": "take a stand",
+   "ko": "입장을 분명히 밝히다",
+   "pos": "숙어",
+   "ex": "It is time for the company to take a stand on environmental issues.",
+   "exKo": "이제 회사가 환경 문제에 대해 분명한 입장을 밝혀야 할 때입니다."
+  },
+  {
+   "en": "take sides",
+   "ko": "한쪽 편을 들다",
+   "pos": "숙어",
+   "ex": "As a mediator, I can't take sides in this disagreement.",
+   "exKo": "중재자로서 저는 이번 의견 충돌에서 어느 한쪽 편을 들 수 없습니다."
+  }
+ ],
+ "19": [
+  {
+   "en": "beyond a shadow of a doubt",
+   "ko": "한 점 의심의 여지 없이",
+   "pos": "표현",
+   "ex": "The data proves beyond a shadow of a doubt that the campaign worked.",
+   "exKo": "그 데이터는 캠페인이 효과가 있었음을 한 점 의심 없이 증명합니다."
+  },
+  {
+   "en": "in all likelihood",
+   "ko": "아마도, 십중팔구",
+   "pos": "표현",
+   "ex": "In all likelihood, interest rates will stay the same this quarter.",
+   "exKo": "아마도 이번 분기에 금리는 그대로일 것입니다."
+  },
+  {
+   "en": "more often than not",
+   "ko": "대개, 보통은",
+   "pos": "표현",
+   "ex": "More often than not, customers prefer the cheaper option.",
+   "exKo": "대개의 경우 고객들은 더 저렴한 쪽을 선호합니다."
+  },
+  {
+   "en": "few and far between",
+   "ko": "드문, 매우 적은",
+   "pos": "표현",
+   "ex": "Experts with this skill set are few and far between.",
+   "exKo": "이런 역량을 갖춘 전문가는 매우 드뭅니다."
+  },
+  {
+   "en": "hit or miss",
+   "ko": "들쭉날쭉한, 성공 여부가 불확실한",
+   "pos": "표현",
+   "ex": "The results of cold calling are often hit or miss.",
+   "exKo": "전화 영업의 결과는 종종 성패가 들쭉날쭉합니다."
+  },
+  {
+   "en": "touch and go",
+   "ko": "위태위태한, 아슬아슬한 상태의",
+   "pos": "표현",
+   "ex": "The patient's condition is touch and go, and the board is waiting for news.",
+   "exKo": "환자의 상태가 위태위태해서 이사회도 소식을 기다리고 있습니다."
+  },
+  {
+   "en": "up and running",
+   "ko": "정상 가동 중인",
+   "pos": "표현",
+   "ex": "The new website is up and running as of this morning.",
+   "exKo": "새 웹사이트는 오늘 아침부터 정상 운영 중입니다."
+  },
+  {
+   "en": "ups and downs",
+   "ko": "기복, 우여곡절",
+   "pos": "표현",
+   "ex": "Every startup has its ups and downs in the first few years.",
+   "exKo": "모든 스타트업은 초기 몇 년간 기복을 겪습니다."
+  },
+  {
+   "en": "pros and cons",
+   "ko": "장단점",
+   "pos": "표현",
+   "ex": "We should weigh the pros and cons before choosing a supplier.",
+   "exKo": "공급업체를 고르기 전에 장단점을 따져 봐야 합니다."
+  },
+  {
+   "en": "give and take",
+   "ko": "서로 주고받기, 양보",
+   "pos": "표현",
+   "ex": "A good partnership requires a lot of give and take.",
+   "exKo": "좋은 제휴 관계에는 상당한 상호 양보가 필요합니다."
+  }
+ ],
+ "20": [
+  {
+   "en": "run into trouble",
+   "ko": "문제에 부딪히다",
+   "pos": "숙어",
+   "ex": "The project may run into trouble if the funding is not approved soon.",
+   "exKo": "자금이 곧 승인되지 않으면 프로젝트가 문제에 부딪힐 수 있습니다."
+  },
+  {
+   "en": "hit a snag",
+   "ko": "(예상치 못한) 문제에 걸리다",
+   "pos": "숙어",
+   "ex": "We hit a snag when the software refused to sync the data.",
+   "exKo": "소프트웨어가 데이터 동기화를 거부해서 걸림돌이 생겼습니다."
+  },
+  {
+   "en": "hit a wall",
+   "ko": "벽에 부딪히다",
+   "pos": "숙어",
+   "ex": "Our sales growth seems to hit a wall at around ten percent.",
+   "exKo": "우리 매출 성장은 10퍼센트 정도에서 벽에 부딪히는 것 같습니다."
+  },
+  {
+   "en": "reach a dead end",
+   "ko": "막다른 길에 이르다",
+   "pos": "숙어",
+   "ex": "The talks could reach a dead end if neither side changes its position.",
+   "exKo": "양측 모두 입장을 바꾸지 않으면 협상은 막다른 길에 이를 수 있습니다."
+  },
+  {
+   "en": "run out of steam",
+   "ko": "기운이 떨어지다",
+   "pos": "숙어",
+   "ex": "The campaign started strong but began to run out of steam in March.",
+   "exKo": "캠페인은 좋은 출발을 했지만 3월에 접어들며 힘이 빠지기 시작했습니다."
+  },
+  {
+   "en": "lose momentum",
+   "ko": "추진력을 잃다",
+   "pos": "숙어",
+   "ex": "We cannot afford to lose momentum now that the product is selling well.",
+   "exKo": "제품이 잘 팔리는 지금 추진력을 잃어서는 안 됩니다."
+  },
+  {
+   "en": "gain traction",
+   "ko": "주목·호응을 얻기 시작하다",
+   "pos": "숙어",
+   "ex": "The new app began to gain traction among younger users last month.",
+   "exKo": "새 앱은 지난달 젊은 사용자들 사이에서 호응을 얻기 시작했습니다."
+  },
+  {
+   "en": "pick up speed",
+   "ko": "속도가 붙다",
+   "pos": "숙어",
+   "ex": "Sales tend to pick up speed once the holiday season begins.",
+   "exKo": "매출은 연휴 시즌이 시작되면 속도가 붙는 경향이 있습니다."
+  },
+  {
+   "en": "get off the ground",
+   "ko": "(사업이) 본궤도에 오르다",
+   "pos": "숙어",
+   "ex": "It took the startup two years to get off the ground.",
+   "exKo": "그 스타트업이 시작 단계를 벗어나 자리를 잡는 데 2년이 걸렸습니다."
+  },
+  {
+   "en": "hit the jackpot",
+   "ko": "대박을 터뜨리다",
+   "pos": "숙어",
+   "ex": "The small studio hit the jackpot with its first mobile game.",
+   "exKo": "그 작은 스튜디오는 첫 모바일 게임으로 대박을 터뜨렸습니다."
+  }
+ ],
+ "21": [
+  {
+   "en": "bear in mind",
+   "ko": "~을 명심하다",
+   "pos": "숙어",
+   "ex": "Please bear in mind that the budget cannot be increased this year.",
+   "exKo": "올해는 예산을 늘릴 수 없다는 점을 명심해 주세요."
+  },
+  {
+   "en": "keep tabs on",
+   "ko": "~을 계속 주시하다, 파악하다",
+   "pos": "숙어",
+   "ex": "I'll keep tabs on the shipment and update you daily.",
+   "exKo": "제가 선적 상황을 계속 확인하며 매일 알려 드리겠습니다."
+  },
+  {
+   "en": "keep a low profile",
+   "ko": "눈에 띄지 않게 처신하다",
+   "pos": "숙어",
+   "ex": "After the scandal, the executive decided to keep a low profile.",
+   "exKo": "스캔들 이후 그 임원은 조용히 지내기로 했습니다."
+  },
+  {
+   "en": "keep your options open",
+   "ko": "선택지를 열어 두다",
+   "pos": "숙어",
+   "ex": "It is wise to keep your options open until the final offer arrives.",
+   "exKo": "최종 제안이 올 때까지 선택지를 열어 두는 것이 현명합니다."
+  },
+  {
+   "en": "keep the peace",
+   "ko": "평화를 유지하다, 갈등을 피하다",
+   "pos": "숙어",
+   "ex": "She tried to keep the peace between the two rival departments.",
+   "exKo": "그녀는 경쟁 관계인 두 부서 사이의 평화를 유지하려고 애썼습니다."
+  },
+  {
+   "en": "keep your head above water",
+   "ko": "간신히 버티다",
+   "pos": "숙어",
+   "ex": "It is hard to keep your head above water during a long recession.",
+   "exKo": "장기 불황 속에서는 간신히 버티기도 쉽지 않습니다."
+  },
+  {
+   "en": "keep a straight face",
+   "ko": "웃음을 참고 진지한 표정을 유지하다",
+   "pos": "숙어",
+   "ex": "It was hard to keep a straight face during the awkward presentation.",
+   "exKo": "어색한 발표 도중에 진지한 표정을 유지하기가 힘들었습니다."
+  },
+  {
+   "en": "keep your fingers crossed",
+   "ko": "(일이 잘되도록) 행운을 빌다",
+   "pos": "숙어",
+   "ex": "Please keep your fingers crossed that the client approves the proposal.",
+   "exKo": "고객이 제안을 승인하도록 행운을 빌어 주세요."
+  },
+  {
+   "en": "keep something under wraps",
+   "ko": "~을 비밀로 해 두다",
+   "pos": "숙어",
+   "ex": "Our team has to keep something under wraps until the launch.",
+   "exKo": "우리 팀은 출시 전까지 무언가를 비밀로 해 두어야 합니다."
+  },
+  {
+   "en": "keep it short",
+   "ko": "짧게 하다, 간결하게 말하다",
+   "pos": "숙어",
+   "ex": "Please keep it short because we only have fifteen minutes left.",
+   "exKo": "남은 시간이 15분뿐이니 짧게 부탁드립니다."
+  }
+ ],
+ "22": [
+  {
+   "en": "play it safe",
+   "ko": "안전하게 가다, 무리하지 않다",
+   "pos": "숙어",
+   "ex": "In an uncertain market, many investors prefer to play it safe.",
+   "exKo": "불확실한 시장에서는 많은 투자자가 안전한 쪽을 택합니다."
+  },
+  {
+   "en": "play hardball",
+   "ko": "강경하게 나오다",
+   "pos": "숙어",
+   "ex": "The union decided to play hardball during the wage negotiations.",
+   "exKo": "노조는 임금 협상에서 강경한 태도로 나가기로 했습니다."
+  },
+  {
+   "en": "play it cool",
+   "ko": "아무렇지 않은 척 침착하게 굴다",
+   "pos": "숙어",
+   "ex": "Try to play it cool when the buyer asks about the price.",
+   "exKo": "구매자가 가격을 물어볼 때는 태연한 척하세요."
+  },
+  {
+   "en": "play for time",
+   "ko": "시간을 벌다",
+   "pos": "숙어",
+   "ex": "The manager asked for more data to play for time before deciding.",
+   "exKo": "매니저는 결정을 내리기 전에 시간을 벌려고 추가 자료를 요청했습니다."
+  },
+  {
+   "en": "play down",
+   "ko": "~을 축소해서 말하다",
+   "pos": "구동사",
+   "ex": "The spokesperson tried to play down the impact of the data leak.",
+   "exKo": "대변인은 정보 유출의 영향을 축소하려고 했습니다."
+  },
+  {
+   "en": "play up",
+   "ko": "~을 강조하다, 부각하다",
+   "pos": "구동사",
+   "ex": "The ad campaign will play up the product's low price.",
+   "exKo": "광고 캠페인은 제품의 낮은 가격을 부각할 것입니다."
+  },
+  {
+   "en": "play along",
+   "ko": "(하는 척) 맞장구치다, 장단을 맞추다",
+   "pos": "구동사",
+   "ex": "I decided to play along until I understood what they really wanted.",
+   "exKo": "저는 그들이 진짜 원하는 것을 알 때까지 장단을 맞추기로 했습니다."
+  },
+  {
+   "en": "play a part",
+   "ko": "역할을 하다",
+   "pos": "숙어",
+   "ex": "Marketing will play a part in the success of the new product.",
+   "exKo": "마케팅은 신제품의 성공에서 한몫을 할 것입니다."
+  },
+  {
+   "en": "play by the rules",
+   "ko": "규칙을 지키며 하다",
+   "pos": "숙어",
+   "ex": "If you want to win the contract, you have to play by the rules.",
+   "exKo": "계약을 따내고 싶다면 규칙을 지켜야 합니다."
+  },
+  {
+   "en": "play your cards right",
+   "ko": "수완 좋게 잘 풀어 가다",
+   "pos": "숙어",
+   "ex": "If you play your cards right, you could land a senior role next year.",
+   "exKo": "일을 잘 풀어 가면 내년에 고위 직책을 얻을 수 있습니다."
+  }
+ ],
+ "23": [
+  {
+   "en": "put your foot down",
+   "ko": "단호하게 반대하다",
+   "pos": "숙어",
+   "ex": "Sometimes you have to put your foot down and refuse extra budget requests.",
+   "exKo": "때로는 단호하게 나서서 추가 예산 요청을 거절해야 합니다."
+  },
+  {
+   "en": "put your cards on the table",
+   "ko": "패를 다 보이다, 솔직히 털어놓다",
+   "pos": "숙어",
+   "ex": "It is time to put your cards on the table and say what you really want.",
+   "exKo": "이제 속내를 솔직히 털어놓고 진짜 원하는 것을 말할 때입니다."
+  },
+  {
+   "en": "put things in perspective",
+   "ko": "상황을 객관적으로 바라보다",
+   "pos": "숙어",
+   "ex": "Comparing our results with last year's helps put things in perspective.",
+   "exKo": "우리 실적을 작년과 비교하면 상황을 균형 있게 볼 수 있습니다."
+  },
+  {
+   "en": "put it bluntly",
+   "ko": "직설적으로 말하다",
+   "pos": "숙어",
+   "ex": "To put it bluntly, the current plan will not work.",
+   "exKo": "직설적으로 말하면 현재 계획은 통하지 않을 것입니다."
+  },
+  {
+   "en": "run the risk",
+   "ko": "위험을 감수하다",
+   "pos": "숙어",
+   "ex": "If we delay the update, we run the risk of losing customer data.",
+   "exKo": "업데이트를 미루면 고객 데이터를 잃을 위험을 감수하는 셈입니다."
+  },
+  {
+   "en": "put something to the test",
+   "ko": "~을 시험해 보다",
+   "pos": "숙어",
+   "ex": "We plan to put something to the test before releasing it to the public.",
+   "exKo": "대중에게 공개하기 전에 시험해 볼 계획입니다."
+  },
+  {
+   "en": "put a stop to",
+   "ko": "~을 막다, 중단시키다",
+   "pos": "숙어",
+   "ex": "The new policy aims to put a stop to unnecessary meetings.",
+   "exKo": "새 정책은 불필요한 회의를 중단시키는 것을 목표로 합니다."
+  },
+  {
+   "en": "put the blame on",
+   "ko": "~의 탓으로 돌리다",
+   "pos": "숙어",
+   "ex": "It is unfair to put the blame on the new employee for the mistake.",
+   "exKo": "그 실수를 신입 직원의 탓으로 돌리는 것은 부당합니다."
+  },
+  {
+   "en": "put at risk",
+   "ko": "~을 위험에 빠뜨리다",
+   "pos": "숙어",
+   "ex": "Using outdated software can put at risk the security of our data.",
+   "exKo": "오래된 소프트웨어를 쓰면 데이터 보안이 위험해질 수 있습니다."
+  },
+  {
+   "en": "come up short",
+   "ko": "기대에 못 미치다",
+   "pos": "숙어",
+   "ex": "Our team may come up short of the quarterly sales target.",
+   "exKo": "우리 팀은 분기 매출 목표에 못 미칠 수도 있습니다."
+  }
+ ],
+ "24": [
+  {
+   "en": "make waves",
+   "ko": "풍파를 일으키다",
+   "pos": "숙어",
+   "ex": "The new manager did not want to make waves in his first month.",
+   "exKo": "새 매니저는 첫 달에는 풍파를 일으키고 싶지 않았습니다."
+  },
+  {
+   "en": "lay out the options",
+   "ko": "선택지를 정리해 제시하다",
+   "pos": "숙어",
+   "ex": "I'll lay out the options so the team can choose the best approach.",
+   "exKo": "팀이 최선의 방법을 고를 수 있도록 선택지를 정리해 드리겠습니다."
+  },
+  {
+   "en": "catch up on",
+   "ko": "(밀린 일 등을) 따라잡다",
+   "pos": "구동사",
+   "ex": "I need to catch up on emails after my week-long business trip.",
+   "exKo": "일주일간의 출장 후라 밀린 이메일을 처리해야 합니다."
+  },
+  {
+   "en": "catch the drift",
+   "ko": "(말뜻·요지를) 알아채다",
+   "pos": "숙어",
+   "ex": "Even without the details, I think I catch the drift of your proposal.",
+   "exKo": "세부 내용이 없어도 제안의 요지는 알아들은 것 같습니다."
+  },
+  {
+   "en": "catch wind of",
+   "ko": "~의 낌새를 알아채다",
+   "pos": "숙어",
+   "ex": "The press may catch wind of the merger before the official announcement.",
+   "exKo": "언론이 공식 발표 전에 합병 소식을 낌새로 알아챌 수도 있습니다."
+  },
+  {
+   "en": "catch your breath",
+   "ko": "숨을 돌리다",
+   "pos": "숙어",
+   "ex": "Take a short break so you can catch your breath.",
+   "exKo": "잠시 쉬면서 숨을 돌리세요."
+  },
+  {
+   "en": "catch a break",
+   "ko": "운 좋은 기회를 잡다",
+   "pos": "숙어",
+   "ex": "The startup finally had the chance to catch a break when a large investor stepped in.",
+   "exKo": "그 스타트업은 큰 투자자가 나타나면서 마침내 운이 트였습니다."
+  },
+  {
+   "en": "catch fire",
+   "ko": "(갑자기) 큰 인기를 얻다",
+   "pos": "숙어",
+   "ex": "The new brand began to catch fire on social media last week.",
+   "exKo": "새 브랜드는 지난주 소셜 미디어에서 급속도로 인기를 얻기 시작했습니다."
+  },
+  {
+   "en": "catch the eye",
+   "ko": "눈길을 끌다",
+   "pos": "숙어",
+   "ex": "A bold slogan will catch the eye of busy customers.",
+   "exKo": "대담한 슬로건은 바쁜 고객들의 눈길을 끌 것입니다."
+  },
+  {
+   "en": "catch on to",
+   "ko": "(속임수·상황을) 알아차리다",
+   "pos": "구동사",
+   "ex": "It took the auditors months to catch on to the accounting error.",
+   "exKo": "감사팀이 그 회계 오류를 알아차리는 데 몇 달이 걸렸습니다."
+  }
+ ],
+ "25": [
+  {
+   "en": "hold your ground",
+   "ko": "입장을 굽히지 않다",
+   "pos": "숙어",
+   "ex": "You must hold your ground and reject the lower offer.",
+   "exKo": "입장을 굽히지 말고 더 낮은 제안을 거절해야 합니다."
+  },
+  {
+   "en": "hold your tongue",
+   "ko": "입을 다물다, 말을 삼가다",
+   "pos": "숙어",
+   "ex": "During the audit, it is wise to hold your tongue until you speak with a lawyer.",
+   "exKo": "감사 중에는 변호사와 상담하기 전까지 말을 삼가는 것이 현명합니다."
+  },
+  {
+   "en": "hold the fort",
+   "ko": "자리를 지키다, 대신 맡다",
+   "pos": "숙어",
+   "ex": "Could you hold the fort while I attend the conference?",
+   "exKo": "제가 컨퍼런스에 가 있는 동안 자리를 좀 지켜 주시겠어요?"
+  },
+  {
+   "en": "hold the line",
+   "ko": "방어선을 지키다, 물러서지 않다",
+   "pos": "숙어",
+   "ex": "The company will hold the line on prices despite rising costs.",
+   "exKo": "회사는 비용 상승에도 불구하고 가격을 현행대로 유지할 것입니다."
+  },
+  {
+   "en": "hold back",
+   "ko": "(감정·행동을) 자제하다, 주저하다",
+   "pos": "구동사",
+   "ex": "Many investors hold back until the central bank makes a decision.",
+   "exKo": "많은 투자자가 중앙은행의 결정이 나올 때까지 관망합니다."
+  },
+  {
+   "en": "hold off",
+   "ko": "미루다, 연기하다",
+   "pos": "구동사",
+   "ex": "We should hold off on hiring until the budget is confirmed.",
+   "exKo": "예산이 확정될 때까지 채용을 보류해야 합니다."
+  },
+  {
+   "en": "pick up the slack",
+   "ko": "(동료의 몫까지) 부족분을 메우다",
+   "pos": "숙어",
+   "ex": "I will pick up the slack while Jim is on leave.",
+   "exKo": "짐이 휴가인 동안 제가 부족한 부분을 메우겠습니다."
+  },
+  {
+   "en": "hold water",
+   "ko": "타당하다, 사실로 입증되다",
+   "pos": "숙어",
+   "ex": "Their argument does not hold water when we look at the data.",
+   "exKo": "데이터를 보면 그들의 주장은 앞뒤가 맞지 않습니다."
+  },
+  {
+   "en": "hold out hope",
+   "ko": "희망을 놓지 않다",
+   "pos": "숙어",
+   "ex": "The team continues to hold out hope that the deal will go through.",
+   "exKo": "팀은 계약이 성사되리라는 희망을 계속 놓지 않고 있습니다."
+  },
+  {
+   "en": "hold your own",
+   "ko": "뒤지지 않고 버티다",
+   "pos": "숙어",
+   "ex": "You need to hold your own when negotiating with much larger competitors.",
+   "exKo": "훨씬 큰 경쟁사와 협상할 때는 밀리지 않고 버텨야 합니다."
+  }
+ ],
+ "26": [
+  {
+   "en": "pull your weight",
+   "ko": "제 몫을 다하다",
+   "pos": "숙어",
+   "ex": "You need to pull your weight on this project, or the deadline will slip.",
+   "exKo": "이 프로젝트에서 제 몫을 하지 않으면 마감이 늦어집니다."
+  },
+  {
+   "en": "pull the plug",
+   "ko": "(사업·프로젝트를) 중단시키다",
+   "pos": "숙어",
+   "ex": "The board decided to pull the plug on the unprofitable project.",
+   "exKo": "이사회는 수익이 나지 않는 그 프로젝트를 중단하기로 결정했습니다."
+  },
+  {
+   "en": "pull some strings",
+   "ko": "인맥을 동원해 손을 쓰다",
+   "pos": "숙어",
+   "ex": "He tried to pull some strings to get the permit approved quickly.",
+   "exKo": "그는 허가가 빨리 나도록 인맥을 동원해 보려 했습니다."
+  },
+  {
+   "en": "pull a fast one",
+   "ko": "속임수를 쓰다",
+   "pos": "숙어",
+   "ex": "The supplier tried to pull a fast one by changing the contract terms.",
+   "exKo": "공급업체는 계약 조건을 슬쩍 바꿔 속임수를 쓰려 했습니다."
+  },
+  {
+   "en": "pull out all the stops",
+   "ko": "온갖 수단을 총동원하다",
+   "pos": "숙어",
+   "ex": "The sales team will pull out all the stops to hit this quarter's target.",
+   "exKo": "영업팀은 이번 분기 목표를 달성하려고 모든 수단을 동원할 것입니다."
+  },
+  {
+   "en": "pull yourself together",
+   "ko": "마음을 다잡다, 정신을 차리다",
+   "pos": "숙어",
+   "ex": "You have to pull yourself together before the meeting starts.",
+   "exKo": "회의가 시작되기 전에 마음을 가다듬어야 합니다."
+  },
+  {
+   "en": "pull the rug out from under",
+   "ko": "(도움·지원을) 갑자기 끊다",
+   "pos": "숙어",
+   "ex": "The investor threatened to pull the rug out from under the startup.",
+   "exKo": "투자자는 그 스타트업에 대한 지원을 갑자기 끊겠다고 위협했습니다."
+  },
+  {
+   "en": "pull ahead",
+   "ko": "앞서 나가다, 격차를 벌리다",
+   "pos": "구동사",
+   "ex": "Our main competitor began to pull ahead in the second quarter.",
+   "exKo": "주요 경쟁사가 2분기에 앞서 나가기 시작했습니다."
+  },
+  {
+   "en": "pull back",
+   "ko": "물러서다, 축소하다",
+   "pos": "구동사",
+   "ex": "The retailer decided to pull back from the overseas market.",
+   "exKo": "그 소매업체는 해외 시장에서 발을 빼기로 했습니다."
+  },
+  {
+   "en": "pull apart",
+   "ko": "산산이 부서지다, 갈기갈기 찢다",
+   "pos": "구동사",
+   "ex": "Poor communication could pull apart even the strongest team.",
+   "exKo": "소통이 부실하면 가장 강한 팀조차 갈라놓을 수 있습니다."
+  }
+ ],
+ "27": [
+  {
+   "en": "rock the boat",
+   "ko": "평지풍파를 일으키다, 현상을 흔들다",
+   "pos": "숙어",
+   "ex": "I don't want to rock the boat, but we need to discuss this issue.",
+   "exKo": "분란을 일으키고 싶지는 않지만 이 문제는 논의해야 합니다."
+  },
+  {
+   "en": "miss the boat",
+   "ko": "기회를 놓치다",
+   "pos": "숙어",
+   "ex": "If we wait any longer, we will miss the boat on this market trend.",
+   "exKo": "더 기다리면 이번 시장 흐름이라는 기회를 놓칠 것입니다."
+  },
+  {
+   "en": "take the initiative",
+   "ko": "주도적으로 나서다",
+   "pos": "숙어",
+   "ex": "Employees who take the initiative are often promoted faster.",
+   "exKo": "주도적으로 나서는 직원은 종종 더 빨리 승진합니다."
+  },
+  {
+   "en": "burn bridges",
+   "ko": "관계를 끊어 버리다",
+   "pos": "숙어",
+   "ex": "It's unwise to burn bridges with former employers.",
+   "exKo": "예전 고용주와의 관계를 끊는 것은 현명하지 않습니다."
+  },
+  {
+   "en": "cross that bridge when we come to it",
+   "ko": "그 문제는 닥쳤을 때 해결하다",
+   "pos": "숙어",
+   "ex": "We'll cross that bridge when we come to it, but for now let's finish the report.",
+   "exKo": "그 문제는 닥쳤을 때 생각하고, 지금은 보고서부터 끝냅시다."
+  },
+  {
+   "en": "jump on the bandwagon",
+   "ko": "유행에 편승하다",
+   "pos": "숙어",
+   "ex": "Many companies decided to jump on the bandwagon and launch AI tools.",
+   "exKo": "많은 기업이 유행에 편승해 AI 도구를 출시하기로 했습니다."
+  },
+  {
+   "en": "fall through the cracks",
+   "ko": "(체계의) 허점으로 빠지다",
+   "pos": "숙어",
+   "ex": "Small tasks can easily fall through the cracks during a busy week.",
+   "exKo": "바쁜 주에는 사소한 업무가 쉽게 누락될 수 있습니다."
+  },
+  {
+   "en": "slip through the net",
+   "ko": "(감시망·체계를) 빠져나가다",
+   "pos": "숙어",
+   "ex": "Some errors may slip through the net even after the final review.",
+   "exKo": "최종 검토를 거쳐도 일부 오류는 걸러지지 않고 빠져나갈 수 있습니다."
+  },
+  {
+   "en": "swim against the tide",
+   "ko": "대세를 거스르다",
+   "pos": "숙어",
+   "ex": "Our brand chose to swim against the tide and keep its prices high.",
+   "exKo": "우리 브랜드는 대세를 거슬러 가격을 높게 유지하기로 했습니다."
+  },
+  {
+   "en": "go against the grain",
+   "ko": "관행·통념에 어긋나다",
+   "pos": "숙어",
+   "ex": "Her proposal seems to go against the grain of our usual approach.",
+   "exKo": "그녀의 제안은 우리의 통상적인 접근법과 맞지 않아 보입니다."
+  }
+ ],
+ "28": [
+  {
+   "en": "by the book",
+   "ko": "규정대로, 원칙대로",
+   "pos": "표현",
+   "ex": "The auditors insisted that everything be done by the book.",
+   "exKo": "감사팀은 모든 일이 규정대로 처리되어야 한다고 강조했습니다."
+  },
+  {
+   "en": "off the record",
+   "ko": "비공식적으로, 기록하지 않는 조건으로",
+   "pos": "표현",
+   "ex": "Off the record, the manager admitted the project was behind schedule.",
+   "exKo": "기록에 남기지 않는 조건으로 매니저는 프로젝트가 늦어지고 있다고 인정했습니다."
+  },
+  {
+   "en": "on the record",
+   "ko": "공식적으로, 기록에 남는",
+   "pos": "표현",
+   "ex": "I'd like to go on the record and say we fully support this plan.",
+   "exKo": "공식적으로 이 계획을 전적으로 지지한다고 밝히고 싶습니다."
+  },
+  {
+   "en": "off the top of my head",
+   "ko": "즉석에서 떠오르는 대로",
+   "pos": "표현",
+   "ex": "Off the top of my head, I think the cost is around fifty thousand.",
+   "exKo": "바로 떠오르는 대로 말하면 비용은 5만 정도일 것 같습니다."
+  },
+  {
+   "en": "behind the scenes",
+   "ko": "막후에서, 보이지 않는 곳에서",
+   "pos": "표현",
+   "ex": "Behind the scenes, the team worked hard to prepare for the event.",
+   "exKo": "보이지 않는 곳에서 팀은 행사 준비에 열심히 일했습니다."
+  },
+  {
+   "en": "under the radar",
+   "ko": "눈에 띄지 않게, 주목받지 않고",
+   "pos": "표현",
+   "ex": "The startup grew under the radar until it won a major award.",
+   "exKo": "그 스타트업은 큰 상을 받기 전까지 주목받지 않고 성장했습니다."
+  },
+  {
+   "en": "in the spotlight",
+   "ko": "주목을 받는",
+   "pos": "표현",
+   "ex": "The company has been in the spotlight since its record profits were announced.",
+   "exKo": "그 회사는 기록적인 이익이 발표된 이후 주목을 받고 있습니다."
+  },
+  {
+   "en": "out of the question",
+   "ko": "말도 안 되는, 절대 안 되는",
+   "pos": "표현",
+   "ex": "Delaying the safety inspection is out of the question.",
+   "exKo": "안전 점검을 미루는 것은 절대 안 됩니다."
+  },
+  {
+   "en": "beyond our control",
+   "ko": "우리가 통제할 수 없는",
+   "pos": "표현",
+   "ex": "The weather delay was beyond our control, but we will make up the time.",
+   "exKo": "날씨로 인한 지연은 우리가 통제할 수 없었지만 시간을 만회하겠습니다."
+  },
+  {
+   "en": "within reach",
+   "ko": "손이 닿는 범위에 있는",
+   "pos": "표현",
+   "ex": "With these new tools, our goal is finally within reach.",
+   "exKo": "이 새로운 도구들 덕분에 목표가 마침내 손에 닿는 곳에 있습니다."
+  }
+ ],
+ "29": [
+  {
+   "en": "a matter of opinion",
+   "ko": "의견이 갈리는 문제",
+   "pos": "표현",
+   "ex": "Whether remote work is more productive is a matter of opinion.",
+   "exKo": "재택근무가 더 생산적인지는 의견이 갈리는 문제입니다."
+  },
+  {
+   "en": "a blessing and a curse",
+   "ko": "장점이자 단점인 것",
+   "pos": "표현",
+   "ex": "Being the market leader is a blessing and a curse for our firm.",
+   "exKo": "시장 선두라는 위치는 우리 회사에 축복이자 짐입니다."
+  },
+  {
+   "en": "a fine line",
+   "ko": "아슬아슬한 경계선",
+   "pos": "표현",
+   "ex": "There is a fine line between confidence and arrogance in negotiations.",
+   "exKo": "협상에서 자신감과 오만 사이에는 미묘한 경계가 있습니다."
+  },
+  {
+   "en": "a close-knit team",
+   "ko": "끈끈하게 뭉친 팀",
+   "pos": "표현",
+   "ex": "Our success is due to a close-knit team that trusts each other.",
+   "exKo": "우리의 성공은 서로 신뢰하는 끈끈한 팀 덕분입니다."
+  },
+  {
+   "en": "a hot topic",
+   "ko": "뜨거운 화제",
+   "pos": "표현",
+   "ex": "Climate regulation is a hot topic at this year's trade fair.",
+   "exKo": "기후 규제는 올해 박람회의 뜨거운 화제입니다."
+  },
+  {
+   "en": "a long way off",
+   "ko": "갈 길이 먼, 아직 멀리 있는",
+   "pos": "표현",
+   "ex": "The new factory is still a long way off from full production.",
+   "exKo": "새 공장이 전면 가동되려면 아직 갈 길이 멉니다."
+  },
+  {
+   "en": "a step in the right direction",
+   "ko": "올바른 방향으로의 한 걸음",
+   "pos": "표현",
+   "ex": "The new safety rules are a step in the right direction.",
+   "exKo": "새 안전 규정은 올바른 방향으로 나아가는 한 걸음입니다."
+  },
+  {
+   "en": "a leap of faith",
+   "ko": "믿고 뛰어드는 도약",
+   "pos": "표현",
+   "ex": "Entering the Asian market was a leap of faith for the small firm.",
+   "exKo": "아시아 시장 진출은 그 작은 회사에게 믿고 뛰어든 도약이었습니다."
+  },
+  {
+   "en": "a tall order",
+   "ko": "감당하기 힘든 과제",
+   "pos": "표현",
+   "ex": "Doubling our sales in six months is a tall order.",
+   "exKo": "6개월 안에 매출을 두 배로 늘리는 것은 만만치 않은 과제입니다."
+  },
+  {
+   "en": "a far cry from",
+   "ko": "~와는 거리가 먼",
+   "pos": "표현",
+   "ex": "The final product was a far cry from what the client had requested.",
+   "exKo": "최종 제품은 고객이 요청한 것과는 거리가 멀었습니다."
+  }
+ ],
+ "30": [
+  {
+   "en": "come to a head",
+   "ko": "위기·절정에 이르다",
+   "pos": "숙어",
+   "ex": "The conflict between the two departments may come to a head next week.",
+   "exKo": "두 부서 간의 갈등은 다음 주에 절정에 이를 수 있습니다."
+  },
+  {
+   "en": "come into play",
+   "ko": "작용하다, 관련되다",
+   "pos": "숙어",
+   "ex": "Several factors come into play when we set the price of a new product.",
+   "exKo": "신제품 가격을 정할 때는 여러 요인이 작용합니다."
+  },
+  {
+   "en": "come to light",
+   "ko": "드러나다, 밝혀지다",
+   "pos": "숙어",
+   "ex": "The truth will come to light during the internal investigation.",
+   "exKo": "내부 조사 중에 진실이 드러날 것입니다."
+  },
+  {
+   "en": "come under fire",
+   "ko": "비난을 받다",
+   "pos": "숙어",
+   "ex": "The company has come under fire for its handling of customer data.",
+   "exKo": "그 회사는 고객 데이터 처리 방식으로 비판을 받고 있습니다."
+  },
+  {
+   "en": "come down to",
+   "ko": "결국 ~의 문제로 귀결되다",
+   "pos": "구동사",
+   "ex": "In the end, it all will come down to trust and consistent service.",
+   "exKo": "결국 모든 것은 신뢰와 일관된 서비스의 문제로 귀결될 것입니다."
+  },
+  {
+   "en": "come in handy",
+   "ko": "유용하다, 쓸모 있다",
+   "pos": "숙어",
+   "ex": "A basic knowledge of Excel can come in handy in many jobs.",
+   "exKo": "엑셀에 대한 기본 지식은 많은 직무에서 유용하게 쓰입니다."
+  },
+  {
+   "en": "come to grips with",
+   "ko": "(문제를) 이해하고 받아들이다",
+   "pos": "숙어",
+   "ex": "The new manager must come to grips with the complex budget system.",
+   "exKo": "새 매니저는 복잡한 예산 체계를 파악하고 받아들여야 합니다."
+  },
+  {
+   "en": "come to a standstill",
+   "ko": "완전히 멈추다",
+   "pos": "숙어",
+   "ex": "Production could come to a standstill if the parts do not arrive.",
+   "exKo": "부품이 도착하지 않으면 생산이 완전히 멈출 수 있습니다."
+  },
+  {
+   "en": "come full circle",
+   "ko": "한 바퀴 돌아 제자리로 오다",
+   "pos": "숙어",
+   "ex": "Her career could come full circle if she returns to head office.",
+   "exKo": "본사로 돌아오면 그녀의 경력은 한 바퀴를 도는 셈이 됩니다."
+  },
+  {
+   "en": "come out ahead",
+   "ko": "결과적으로 이득을 보다",
+   "pos": "숙어",
+   "ex": "Despite the early setbacks, our team may come out ahead in the end.",
+   "exKo": "초반의 차질에도 불구하고 우리 팀은 결국 이득을 볼 수 있습니다."
+  }
+ ]
+}

@@ -1,0 +1,896 @@
+[
+  {
+    "n": 11,
+    "lv": "elementary",
+    "pattern": "I used to ~",
+    "title": "~하곤 했어요 · 예전 습관 말하기",
+    "tip": "지금은 하지 않지만 과거에 반복하던 습관이나 예전 상태를 말할 때 씁니다. 뒤에는 항상 동사원형이 와요. 부정은 I didn't use to ~ 또는 I never used to ~ 로 말합니다.",
+    "items": [
+      {
+        "ko": "나는 고등학교 때 매일 축구를 했어요.",
+        "en": "I used to play soccer every day in high school.",
+        "alt": [
+          "I used to play soccer every day when I was in high school."
+        ]
+      },
+      {
+        "ko": "예전에는 이 동네에 살았어요.",
+        "en": "I used to live in this neighborhood.",
+        "alt": [
+          "I used to live around here."
+        ]
+      },
+      {
+        "ko": "어릴 때 단 음식을 정말 좋아했어요.",
+        "en": "I used to love sweet food when I was a kid.",
+        "alt": [
+          "I used to really like sweet food when I was a kid.",
+          "I used to love sweet food when I was a child."
+        ]
+      },
+      {
+        "ko": "예전엔 아침마다 조깅을 했어요.",
+        "en": "I used to go jogging every morning.",
+        "alt": [
+          "I used to jog every morning."
+        ]
+      },
+      {
+        "ko": "학교 다닐 때 기타를 쳤어요.",
+        "en": "I used to play the guitar in school.",
+        "alt": [
+          "I used to play guitar in school."
+        ]
+      },
+      {
+        "ko": "예전엔 매일 밤 늦게까지 안 잤어요.",
+        "en": "I used to stay up late every night.",
+        "alt": [
+          "I used to stay up late every single night."
+        ]
+      },
+      {
+        "ko": "우리는 방과 후에 자주 같이 놀았어요.",
+        "en": "We used to hang out after school.",
+        "alt": [
+          "We used to spend time together after school."
+        ]
+      },
+      {
+        "ko": "저는 예전엔 커피를 안 마셨어요.",
+        "en": "I never used to drink coffee.",
+        "alt": [
+          "I didn't use to drink coffee."
+        ]
+      },
+      {
+        "ko": "너 예전에는 머리가 길었잖아.",
+        "en": "You used to have long hair.",
+        "alt": [
+          "You used to have really long hair."
+        ]
+      },
+      {
+        "ko": "예전엔 버스로 학교에 다녔어요.",
+        "en": "I used to take the bus to school.",
+        "alt": [
+          "I used to go to school by bus."
+        ]
+      }
+    ],
+    "chat": {
+      "title": "동창회에서 옛 친구 만나기",
+      "you": "고등학교 동창",
+      "ai": "오랜만에 만난 옛 친구",
+      "goal": "학창 시절에 자주 하던 일 두 가지와 예전에 살던 곳을 말해 보세요. 친구에게도 예전 습관을 물어보세요.",
+      "setting": "You are an old high school friend meeting the learner at a class reunion after many years. Be warm and chatty. Ask what the learner used to do in school, where they used to live, and share a few things you used to do too. Keep sentences short and simple."
+    }
+  },
+  {
+    "n": 12,
+    "lv": "elementary",
+    "pattern": "It takes ~ to ~",
+    "title": "~하는 데 …이 걸려요 · 소요 시간 말하기",
+    "tip": "어떤 일을 하는 데 걸리는 시간을 말할 때 씁니다. It takes + 시간 + to + 동사 순서예요. 과거는 It took ~, 시간을 물을 때는 How long does it take to ~? 라고 합니다.",
+    "items": [
+      {
+        "ko": "사무실까지 가는 데 한 시간쯤 걸려요.",
+        "en": "It takes about an hour to get to the office.",
+        "alt": [
+          "It takes around an hour to get to the office.",
+          "It takes about an hour to get to work."
+        ]
+      },
+      {
+        "ko": "역까지 걸어가는 데 십 분 걸려요.",
+        "en": "It takes ten minutes to walk to the station.",
+        "alt": [
+          "It takes about ten minutes to walk to the station."
+        ]
+      },
+      {
+        "ko": "버스로 가면 삼십 분 정도 걸려요.",
+        "en": "It takes about thirty minutes to go by bus.",
+        "alt": [
+          "It takes around thirty minutes by bus.",
+          "It takes about half an hour to go by bus."
+        ]
+      },
+      {
+        "ko": "이 요리를 만드는 데 시간이 오래 걸려요.",
+        "en": "It takes a long time to cook this dish.",
+        "alt": [
+          "It takes a long time to make this dish."
+        ]
+      },
+      {
+        "ko": "영어를 배우는 데는 시간이 걸려요.",
+        "en": "It takes time to learn English.",
+        "alt": []
+      },
+      {
+        "ko": "새 일에 익숙해지는 데 몇 주 걸려요.",
+        "en": "It takes a few weeks to get used to a new job.",
+        "alt": [
+          "It takes a couple of weeks to get used to a new job."
+        ]
+      },
+      {
+        "ko": "공항에 가는 데 얼마나 걸려요?",
+        "en": "How long does it take to get to the airport?",
+        "alt": [
+          "How long does it take to go to the airport?"
+        ]
+      },
+      {
+        "ko": "머리를 말리는 데 오 분밖에 안 걸려요.",
+        "en": "It only takes five minutes to dry my hair.",
+        "alt": [
+          "It takes only five minutes to dry my hair."
+        ]
+      },
+      {
+        "ko": "택시로는 이십 분 정도 걸려요.",
+        "en": "It takes about twenty minutes to go by taxi.",
+        "alt": [
+          "It takes around twenty minutes by taxi.",
+          "It takes about twenty minutes by taxi."
+        ]
+      },
+      {
+        "ko": "새 휴대폰을 설정하는 데 시간이 좀 걸렸어요.",
+        "en": "It took some time to set up my new phone.",
+        "alt": [
+          "It took a while to set up my new phone."
+        ]
+      }
+    ],
+    "chat": {
+      "title": "새 사무실 출퇴근 시간 묻기",
+      "you": "새로 옮기는 직원",
+      "ai": "같은 회사 동료",
+      "goal": "새 사무실까지 가는 데 걸리는 시간을 물어보고, 지하철과 버스 중 어느 쪽이 더 오래 걸리는지 확인해 보세요.",
+      "setting": "You are a friendly coworker who has worked at the new office for years. The learner will move there soon and asks how long the commute takes. Answer using times like twenty minutes or an hour, compare subway, bus and walking, and give a small tip. Keep sentences short."
+    }
+  },
+  {
+    "n": 13,
+    "lv": "elementary",
+    "pattern": "I have to ~",
+    "title": "~해야 해요 · 해야 할 일 말하기",
+    "tip": "해야 할 일이나 어쩔 수 없는 사정을 말할 때 씁니다. 주어가 he나 she면 has to로 바뀌고, 과거는 had to예요. 거절할 때 이유를 붙이면 자연스럽습니다.",
+    "items": [
+      {
+        "ko": "오늘 밤에 일해야 해요.",
+        "en": "I have to work tonight.",
+        "alt": [
+          "I have to work this evening."
+        ]
+      },
+      {
+        "ko": "내일 일찍 일어나야 해요.",
+        "en": "I have to get up early tomorrow.",
+        "alt": [
+          "I have to wake up early tomorrow."
+        ]
+      },
+      {
+        "ko": "숙제를 끝내야 해요.",
+        "en": "I have to finish my homework.",
+        "alt": [
+          "I've got to finish my homework."
+        ]
+      },
+      {
+        "ko": "엄마를 도와드려야 해요.",
+        "en": "I have to help my mom.",
+        "alt": [
+          "I have to help my mother."
+        ]
+      },
+      {
+        "ko": "병원에 가야 해요.",
+        "en": "I have to go to the doctor.",
+        "alt": [
+          "I have to go to the hospital.",
+          "I have to see a doctor."
+        ]
+      },
+      {
+        "ko": "지금 가야 해요.",
+        "en": "I have to go now.",
+        "alt": [
+          "I have to leave now.",
+          "I've got to go now."
+        ]
+      },
+      {
+        "ko": "개를 산책시켜야 해요.",
+        "en": "I have to walk my dog.",
+        "alt": [
+          "I have to take my dog for a walk."
+        ]
+      },
+      {
+        "ko": "오늘 저녁에 동생을 돌봐야 해요.",
+        "en": "I have to take care of my little brother tonight.",
+        "alt": [
+          "I have to look after my little brother tonight.",
+          "I have to watch my little brother tonight."
+        ]
+      },
+      {
+        "ko": "방을 청소해야 해요.",
+        "en": "I have to clean my room.",
+        "alt": [
+          "I have to clean up my room."
+        ]
+      },
+      {
+        "ko": "이번 주에 보고서를 내야 해요.",
+        "en": "I have to turn in a report this week.",
+        "alt": [
+          "I have to hand in a report this week.",
+          "I have to submit a report this week."
+        ]
+      }
+    ],
+    "chat": {
+      "title": "파티 초대 정중히 거절하기",
+      "you": "초대받은 친구",
+      "ai": "파티를 여는 친구",
+      "goal": "오늘 밤 파티에 갈 수 없는 이유를 두 가지 이상 말하고, 다음에 만날 시간을 제안해 보세요.",
+      "setting": "You are a friend who is hosting a party tonight and invites the learner. Be friendly and a little disappointed when they say no. Ask why, listen to their reasons, and suggest meeting another day. Keep sentences short and simple."
+    }
+  },
+  {
+    "n": 14,
+    "lv": "elementary",
+    "pattern": "Do you want me to ~?",
+    "title": "제가 ~해 드릴까요? · 도움 제안하기",
+    "tip": "상대에게 도움을 제안할 때 쓰는 친절한 표현입니다. 뒤에는 동사원형이 와요. Shall I ~? 나 Can I ~? 도 비슷한 뜻이고, Would you like me to ~? 는 조금 더 공손합니다.",
+    "items": [
+      {
+        "ko": "제가 문 열어 드릴까요?",
+        "en": "Do you want me to open the door?",
+        "alt": [
+          "Do you want me to get the door?"
+        ]
+      },
+      {
+        "ko": "제가 가방 들어 드릴까요?",
+        "en": "Do you want me to carry your bag?",
+        "alt": [
+          "Do you want me to carry that bag?"
+        ]
+      },
+      {
+        "ko": "제가 엘리베이터 버튼 눌러 드릴까요?",
+        "en": "Do you want me to press the elevator button?",
+        "alt": [
+          "Do you want me to push the elevator button?",
+          "Do you want me to press the button for the elevator?"
+        ]
+      },
+      {
+        "ko": "제가 도와 드릴까요?",
+        "en": "Do you want me to help you?",
+        "alt": [
+          "Do you want me to give you a hand?",
+          "Do you want me to help?"
+        ]
+      },
+      {
+        "ko": "제가 택시를 불러 드릴까요?",
+        "en": "Do you want me to call a taxi?",
+        "alt": [
+          "Do you want me to get you a taxi?"
+        ]
+      },
+      {
+        "ko": "제가 같이 가 드릴까요?",
+        "en": "Do you want me to go with you?",
+        "alt": [
+          "Do you want me to come with you?"
+        ]
+      },
+      {
+        "ko": "제가 문을 닫아 드릴까요?",
+        "en": "Do you want me to close the door?",
+        "alt": [
+          "Do you want me to shut the door?"
+        ]
+      },
+      {
+        "ko": "제가 사진 찍어 드릴까요?",
+        "en": "Do you want me to take a picture of you?",
+        "alt": [
+          "Do you want me to take your picture?",
+          "Do you want me to take a photo of you?",
+          "Do you want me to take a photo?"
+        ]
+      },
+      {
+        "ko": "제가 나중에 전화드릴까요?",
+        "en": "Do you want me to call you later?",
+        "alt": [
+          "Do you want me to call you back later?",
+          "Do you want me to phone you later?"
+        ]
+      },
+      {
+        "ko": "제가 짐을 위층으로 옮겨 드릴까요?",
+        "en": "Do you want me to take these bags upstairs?",
+        "alt": [
+          "Do you want me to carry these bags upstairs?",
+          "Do you want me to bring these bags upstairs?"
+        ]
+      }
+    ],
+    "chat": {
+      "title": "이웃의 장보기 도와주기",
+      "you": "친절한 이웃",
+      "ai": "짐이 많은 이웃",
+      "goal": "무거운 장바구니를 든 이웃에게 도움을 제안하고, 문 열기와 위층까지 옮기기도 도와주겠다고 말해 보세요.",
+      "setting": "You are a neighbor carrying heavy grocery bags up the stairs of an apartment building. The learner offers help. Accept some offers politely and decline others, say thank you, and chat a little about the building. Keep sentences short and simple."
+    }
+  },
+  {
+    "n": 15,
+    "lv": "elementary",
+    "pattern": "I feel like ~ing",
+    "title": "~하고 싶은 기분이에요 · 지금 하고 싶은 것 말하기",
+    "tip": "지금 문득 하고 싶은 일이나 먹고 싶은 것을 가볍게 말할 때 씁니다. like 뒤에는 동사원형이 아니라 -ing를 써요. 부정은 I don't feel like ~ing, 의문은 What do you feel like ~ing? 입니다.",
+    "items": [
+      {
+        "ko": "오늘은 영화 보고 싶은 기분이에요.",
+        "en": "I feel like watching a movie today.",
+        "alt": [
+          "I feel like seeing a movie today."
+        ]
+      },
+      {
+        "ko": "피자가 먹고 싶어요.",
+        "en": "I feel like eating pizza.",
+        "alt": [
+          "I feel like having pizza."
+        ]
+      },
+      {
+        "ko": "산책하고 싶은 기분이에요.",
+        "en": "I feel like going for a walk.",
+        "alt": [
+          "I feel like taking a walk."
+        ]
+      },
+      {
+        "ko": "오늘은 아무것도 하기 싫어요.",
+        "en": "I don't feel like doing anything today.",
+        "alt": [
+          "I don't feel like doing anything."
+        ]
+      },
+      {
+        "ko": "집에서 쉬고 싶어요.",
+        "en": "I feel like staying home.",
+        "alt": [
+          "I feel like staying at home.",
+          "I feel like resting at home."
+        ]
+      },
+      {
+        "ko": "커피 한잔하고 싶어요.",
+        "en": "I feel like having a cup of coffee.",
+        "alt": [
+          "I feel like drinking coffee.",
+          "I feel like having some coffee.",
+          "I feel like having a coffee."
+        ]
+      },
+      {
+        "ko": "지금은 요리하고 싶지 않아요.",
+        "en": "I don't feel like cooking right now.",
+        "alt": [
+          "I don't feel like cooking now.",
+          "I don't feel like cooking."
+        ]
+      },
+      {
+        "ko": "낮잠 자고 싶어요.",
+        "en": "I feel like taking a nap.",
+        "alt": [
+          "I feel like having a nap."
+        ]
+      },
+      {
+        "ko": "너는 뭐 하고 싶어?",
+        "en": "What do you feel like doing?",
+        "alt": [
+          "What do you feel like doing right now?"
+        ]
+      },
+      {
+        "ko": "바다에 가고 싶은 기분이에요.",
+        "en": "I feel like going to the beach.",
+        "alt": [
+          "I feel like going to the sea."
+        ]
+      }
+    ],
+    "chat": {
+      "title": "나른한 일요일에 뭐 할지 정하기",
+      "you": "느긋한 친구",
+      "ai": "함께 노는 친구",
+      "goal": "오늘 하고 싶은 일과 하기 싫은 일을 각각 말하고, 점심 메뉴도 함께 정해 보세요.",
+      "setting": "You are a friend hanging out with the learner on a lazy Sunday. Ask what they feel like doing and eating, suggest a few easy ideas such as a movie, a walk or pizza, and decide on a plan together. Keep sentences short and simple."
+    }
+  },
+  {
+    "n": 16,
+    "lv": "elementary",
+    "pattern": "What time does ~?",
+    "title": "~는 몇 시에 …해요? · 시간 묻기",
+    "tip": "기차, 가게, 행사 같은 정해진 일정의 시간을 물을 때 씁니다. does 뒤에는 동사원형을 써요. When does ~? 도 가능하지만 정확한 시각을 묻는 데는 What time이 더 자연스럽습니다.",
+    "items": [
+      {
+        "ko": "박물관은 몇 시에 열어요?",
+        "en": "What time does the museum open?",
+        "alt": []
+      },
+      {
+        "ko": "박물관은 몇 시에 닫아요?",
+        "en": "What time does the museum close?",
+        "alt": [
+          "What time does the museum shut?"
+        ]
+      },
+      {
+        "ko": "다음 기차는 몇 시에 출발해요?",
+        "en": "What time does the next train leave?",
+        "alt": [
+          "What time does the next train depart?"
+        ]
+      },
+      {
+        "ko": "그 기차는 몇 시에 도착해요?",
+        "en": "What time does the train arrive?",
+        "alt": [
+          "What time does the train get in?"
+        ]
+      },
+      {
+        "ko": "투어는 몇 시에 시작해요?",
+        "en": "What time does the tour start?",
+        "alt": [
+          "What time does the tour begin?"
+        ]
+      },
+      {
+        "ko": "영화는 몇 시에 끝나요?",
+        "en": "What time does the movie end?",
+        "alt": [
+          "What time does the movie finish?",
+          "What time does the film end?"
+        ]
+      },
+      {
+        "ko": "마지막 버스는 몇 시에 와요?",
+        "en": "What time does the last bus come?",
+        "alt": [
+          "What time does the last bus leave?",
+          "What time does the last bus arrive?"
+        ]
+      },
+      {
+        "ko": "아침 식사는 몇 시에 시작해요?",
+        "en": "What time does breakfast start?",
+        "alt": [
+          "What time does breakfast begin?"
+        ]
+      },
+      {
+        "ko": "가게는 몇 시에 문을 열어요?",
+        "en": "What time does the store open?",
+        "alt": [
+          "What time does the shop open?"
+        ]
+      },
+      {
+        "ko": "공항 버스는 몇 시에 떠나요?",
+        "en": "What time does the airport bus leave?",
+        "alt": [
+          "What time does the airport bus depart?"
+        ]
+      }
+    ],
+    "chat": {
+      "title": "관광 안내소에서 시간 묻기",
+      "you": "여행객",
+      "ai": "관광 안내소 직원",
+      "goal": "박물관 개관 시간과 기차 출발 시간을 묻고, 마지막 버스 시간도 확인해 보세요.",
+      "setting": "You are a helpful staff member at a tourist information desk in a small city. The learner is a traveler asking about opening times, train times and bus times. Give clear answers with times such as nine in the morning or five thirty, and recommend one place to visit. Keep sentences short and simple."
+    }
+  },
+  {
+    "n": 17,
+    "lv": "elementary",
+    "pattern": "I want you to ~",
+    "title": "~해 주면 좋겠어요 · 부탁과 바람 전하기",
+    "tip": "상대에게 어떤 행동을 해 주길 바란다고 직접적으로 말할 때 씁니다. want you to 뒤에 동사원형이 와요. 조금 센 느낌이 들 수 있어서 친한 사이에 쓰거나 would like you to ~로 부드럽게 바꿔도 됩니다.",
+    "items": [
+      {
+        "ko": "손님 오기 전에 방을 치워 주면 좋겠어.",
+        "en": "I want you to clean the room before the guests arrive.",
+        "alt": [
+          "I want you to tidy the room before the guests arrive.",
+          "I want you to clean up the room before the guests arrive."
+        ]
+      },
+      {
+        "ko": "음악 소리를 줄여 주면 좋겠어.",
+        "en": "I want you to turn down the music.",
+        "alt": [
+          "I want you to turn the music down.",
+          "I want you to lower the music."
+        ]
+      },
+      {
+        "ko": "설거지 좀 해 주면 좋겠어.",
+        "en": "I want you to do the dishes.",
+        "alt": [
+          "I want you to wash the dishes."
+        ]
+      },
+      {
+        "ko": "내 친구들을 만나 주면 좋겠어.",
+        "en": "I want you to meet my friends.",
+        "alt": []
+      },
+      {
+        "ko": "제시간에 와 주면 좋겠어.",
+        "en": "I want you to be on time.",
+        "alt": [
+          "I want you to come on time.",
+          "I want you to arrive on time."
+        ]
+      },
+      {
+        "ko": "조용히 해 주면 좋겠어.",
+        "en": "I want you to be quiet.",
+        "alt": [
+          "I want you to keep quiet.",
+          "I want you to stay quiet."
+        ]
+      },
+      {
+        "ko": "신발을 벗어 주면 좋겠어.",
+        "en": "I want you to take off your shoes.",
+        "alt": [
+          "I want you to take your shoes off."
+        ]
+      },
+      {
+        "ko": "내 개를 잘 돌봐 주면 좋겠어.",
+        "en": "I want you to take care of my dog.",
+        "alt": [
+          "I want you to look after my dog."
+        ]
+      },
+      {
+        "ko": "내 말을 잘 들어 주면 좋겠어.",
+        "en": "I want you to listen to me.",
+        "alt": [
+          "I want you to listen to what I say."
+        ]
+      },
+      {
+        "ko": "쓰레기를 내다 버려 주면 좋겠어.",
+        "en": "I want you to take out the trash.",
+        "alt": [
+          "I want you to take out the garbage.",
+          "I want you to take the trash out."
+        ]
+      }
+    ],
+    "chat": {
+      "title": "룸메이트에게 부탁하기",
+      "you": "룸메이트",
+      "ai": "함께 사는 룸메이트",
+      "goal": "손님이 오기 전에 룸메이트가 해 주었으면 하는 일 세 가지를 말하고, 룸메이트의 부탁도 들어 보세요.",
+      "setting": "You are the learner's easygoing roommate. Guests are coming tonight. Listen to what the learner wants you to do, agree to most things, and politely ask for one thing in return. Keep sentences short and simple."
+    }
+  },
+  {
+    "n": 18,
+    "lv": "elementary",
+    "pattern": "Why don't we ~?",
+    "title": "우리 ~하는 게 어때요? · 제안하기",
+    "tip": "함께 하자고 가볍게 제안할 때 쓰는 표현입니다. 실제로 이유를 묻는 게 아니라 권유예요. 뒤에는 동사원형이 오고, Let's ~ 나 How about ~ing? 와 비슷한 뜻입니다.",
+    "items": [
+      {
+        "ko": "우리 영화 볼래?",
+        "en": "Why don't we watch a movie?",
+        "alt": [
+          "Why don't we go see a movie?"
+        ]
+      },
+      {
+        "ko": "우리 기차 타고 갈까?",
+        "en": "Why don't we take the train?",
+        "alt": [
+          "Why don't we go by train?"
+        ]
+      },
+      {
+        "ko": "우리 바다에 가 보면 어때?",
+        "en": "Why don't we go to the beach?",
+        "alt": [
+          "Why don't we go to the sea?"
+        ]
+      },
+      {
+        "ko": "우리 일찍 출발하는 게 어때?",
+        "en": "Why don't we leave early?",
+        "alt": [
+          "Why don't we start early?"
+        ]
+      },
+      {
+        "ko": "우리 호텔을 예약하자.",
+        "en": "Why don't we book a hotel?",
+        "alt": [
+          "Why don't we reserve a hotel?",
+          "Why don't we book a hotel room?"
+        ]
+      },
+      {
+        "ko": "우리 같이 점심 먹을래?",
+        "en": "Why don't we have lunch together?",
+        "alt": [
+          "Why don't we eat lunch together?"
+        ]
+      },
+      {
+        "ko": "우리 사진 찍을까?",
+        "en": "Why don't we take a picture?",
+        "alt": [
+          "Why don't we take a photo?"
+        ]
+      },
+      {
+        "ko": "우리 잠깐 쉬는 게 어때?",
+        "en": "Why don't we take a short break?",
+        "alt": [
+          "Why don't we take a break?",
+          "Why don't we rest for a while?"
+        ]
+      },
+      {
+        "ko": "우리 지도 하나 살까?",
+        "en": "Why don't we buy a map?",
+        "alt": [
+          "Why don't we get a map?"
+        ]
+      },
+      {
+        "ko": "우리 내일 다시 이야기하자.",
+        "en": "Why don't we talk again tomorrow?",
+        "alt": [
+          "Why don't we talk about it tomorrow?",
+          "Why don't we discuss this tomorrow?"
+        ]
+      }
+    ],
+    "chat": {
+      "title": "주말 여행 계획 짜기",
+      "you": "여행을 계획하는 학우",
+      "ai": "함께 갈 학우",
+      "goal": "주말 여행지, 교통수단, 출발 시간에 대해 각각 한 가지씩 제안해 보세요.",
+      "setting": "You are a classmate planning a weekend trip with the learner. You are open to ideas but have small preferences, for example you like trains and dislike waking up early. React to each suggestion, add your own idea, and help reach a final plan. Keep sentences short and simple."
+    }
+  },
+  {
+    "n": 19,
+    "lv": "elementary",
+    "pattern": "I'm good at ~ing",
+    "title": "저는 ~를 잘해요 · 장점과 특기 말하기",
+    "tip": "자신의 특기나 잘하는 일을 소개할 때 씁니다. at 뒤에는 동사원형이 아니라 -ing나 명사가 와요. 못하는 건 I'm not good at ~ing 또는 I'm bad at ~ing 이라고 합니다.",
+    "items": [
+      {
+        "ko": "저는 요리를 잘해요.",
+        "en": "I'm good at cooking.",
+        "alt": []
+      },
+      {
+        "ko": "저는 사람들 앞에서 말하기를 잘해요.",
+        "en": "I'm good at speaking in front of people.",
+        "alt": [
+          "I'm good at talking in front of people.",
+          "I'm good at public speaking."
+        ]
+      },
+      {
+        "ko": "저는 그림을 잘 그려요.",
+        "en": "I'm good at drawing.",
+        "alt": [
+          "I'm good at drawing pictures."
+        ]
+      },
+      {
+        "ko": "저는 수영을 잘해요.",
+        "en": "I'm good at swimming.",
+        "alt": []
+      },
+      {
+        "ko": "저는 새 친구를 잘 사귀어요.",
+        "en": "I'm good at making new friends.",
+        "alt": [
+          "I'm good at making friends."
+        ]
+      },
+      {
+        "ko": "저는 사진을 잘 찍어요.",
+        "en": "I'm good at taking photos.",
+        "alt": [
+          "I'm good at taking pictures.",
+          "I'm good at photography."
+        ]
+      },
+      {
+        "ko": "저는 길을 잘 찾아요.",
+        "en": "I'm good at finding my way.",
+        "alt": [
+          "I'm good at finding the way.",
+          "I'm good at finding places."
+        ]
+      },
+      {
+        "ko": "저는 노래를 잘 불러요.",
+        "en": "I'm good at singing.",
+        "alt": [
+          "I'm good at singing songs."
+        ]
+      },
+      {
+        "ko": "저는 영어 공부는 잘 못해요.",
+        "en": "I'm not good at studying English.",
+        "alt": [
+          "I'm bad at studying English.",
+          "I'm not good at learning English."
+        ]
+      },
+      {
+        "ko": "저는 아이들과 잘 놀아 줘요.",
+        "en": "I'm good at playing with kids.",
+        "alt": [
+          "I'm good at playing with children."
+        ]
+      }
+    ],
+    "chat": {
+      "title": "동호회 첫 모임에서 자기소개",
+      "you": "새 회원",
+      "ai": "동호회 회장",
+      "goal": "내가 잘하는 것 두 가지와 아직 서툰 것 한 가지를 말하고, 동호회에서 하고 싶은 일도 이야기해 보세요.",
+      "setting": "You are the friendly leader of a hobby club at its first meeting. Welcome the learner, ask what they are good at and what they want to try, and suggest which club activity fits them. Keep sentences short and simple."
+    }
+  },
+  {
+    "n": 20,
+    "lv": "elementary",
+    "pattern": "I'm afraid ~",
+    "title": "유감이지만 ~예요 · 나쁜 소식 정중히 전하기",
+    "tip": "안 좋은 소식이나 거절을 정중하게 전할 때 쓰는 표현입니다. 진짜 무서워한다는 뜻이 아니라 유감스럽다는 뜻이에요. 뒤에는 완전한 문장이 오고, 서비스 직원이 자주 씁니다.",
+    "items": [
+      {
+        "ko": "죄송하지만 방이 아직 준비되지 않았어요.",
+        "en": "I'm afraid your room is not ready yet.",
+        "alt": [
+          "I'm afraid your room isn't ready yet.",
+          "I'm afraid the room is not ready yet."
+        ]
+      },
+      {
+        "ko": "죄송하지만 체크인은 세 시부터예요.",
+        "en": "I'm afraid check in starts at three.",
+        "alt": [
+          "I'm afraid check in is at three.",
+          "I'm afraid you can check in at three."
+        ]
+      },
+      {
+        "ko": "유감이지만 지금은 빈 방이 없어요.",
+        "en": "I'm afraid we have no rooms available right now.",
+        "alt": [
+          "I'm afraid we don't have any rooms right now.",
+          "I'm afraid there are no free rooms right now.",
+          "I'm afraid we are full right now."
+        ]
+      },
+      {
+        "ko": "죄송하지만 그건 불가능해요.",
+        "en": "I'm afraid that's not possible.",
+        "alt": [
+          "I'm afraid that is not possible.",
+          "I'm afraid we can't do that."
+        ]
+      },
+      {
+        "ko": "유감이지만 엘리베이터가 고장 났어요.",
+        "en": "I'm afraid the elevator is broken.",
+        "alt": [
+          "I'm afraid the elevator is not working.",
+          "I'm afraid the elevator is out of order."
+        ]
+      },
+      {
+        "ko": "죄송하지만 아침 식사는 끝났어요.",
+        "en": "I'm afraid breakfast is over.",
+        "alt": [
+          "I'm afraid breakfast has ended.",
+          "I'm afraid breakfast is finished."
+        ]
+      },
+      {
+        "ko": "죄송하지만 그분은 지금 자리에 안 계세요.",
+        "en": "I'm afraid he is not here right now.",
+        "alt": [
+          "I'm afraid he isn't here right now.",
+          "I'm afraid she is not here right now.",
+          "I'm afraid he's not in right now."
+        ]
+      },
+      {
+        "ko": "유감이지만 우리 이만 가야 해요.",
+        "en": "I'm afraid we have to go now.",
+        "alt": [
+          "I'm afraid we have to leave now.",
+          "I'm afraid we must go now."
+        ]
+      },
+      {
+        "ko": "죄송하지만 지금 인터넷이 안 돼요.",
+        "en": "I'm afraid the internet is not working right now.",
+        "alt": [
+          "I'm afraid the internet is down right now.",
+          "I'm afraid the internet isn't working."
+        ]
+      },
+      {
+        "ko": "죄송하지만 주차장이 꽉 찼어요.",
+        "en": "I'm afraid the parking lot is full.",
+        "alt": [
+          "I'm afraid the parking lot is full right now.",
+          "I'm afraid the car park is full."
+        ]
+      }
+    ],
+    "chat": {
+      "title": "호텔 프런트에서 나쁜 소식 전하기",
+      "you": "호텔 직원",
+      "ai": "예약한 투숙객",
+      "goal": "예약한 방이 아직 준비되지 않았다고 정중히 알리고, 대안(짐 맡기기, 기다리는 시간)을 제안해 보세요.",
+      "setting": "You are a hotel guest who arrived early and booked a room. You are tired but polite. The learner plays the front desk clerk and gives you bad news such as the room not being ready. React naturally, ask how long you must wait, and accept or decline the options offered. Keep sentences short and simple."
+    }
+  }
+]

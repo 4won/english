@@ -7,12 +7,13 @@ import { renderChapter } from './views/chapter.js';
 import { renderSpeakList, renderSession } from './views/speak.js';
 import { renderWrong } from './views/wrong.js';
 import { renderChat } from './views/chat.js';
+import { renderTest } from './views/test.js';
 
 export const VERSION = 'v1';
 
 // ---------- routing ----------
-// #home · #words · #idioms · #words/<level> · #chat/<n> · #ch/<level>/<n>[/<step>] · #speak · #sp/<n> · #wrong
-const TABS = { home: 'home', words: 'words', idioms: 'words', ch: 'words', speak: 'speak', sp: 'speak', chat: 'speak', wrong: 'wrong' };
+// #home · #test · #words · #idioms · #words/<level> · #chat/<n> · #ch/<level>/<n>[/<step>] · #speak · #sp/<n> · #wrong
+const TABS = { home: 'home', test: 'home', words: 'words', idioms: 'words', ch: 'words', speak: 'speak', sp: 'speak', chat: 'speak', wrong: 'wrong' };
 let renderToken = 0;
 let leaveGuard = null; // a running quiz can ask before the user leaves it
 
@@ -40,6 +41,7 @@ async function route() {
     else if (name === 'sp') await renderSession(ctx, +parts[1]);
     else if (name === 'chat') await renderChat(ctx, +parts[1]);
     else if (name === 'wrong') await renderWrong(ctx);
+    else if (name === 'test') await renderTest(ctx);
   } catch (e) {
     console.error(e);
     box.textContent = '';

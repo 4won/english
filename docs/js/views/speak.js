@@ -1,13 +1,15 @@
 // Speaking practice: say the Korean sentence in English. A miss shows the answer,
 // and the sentence passes only after it is said correctly twice.
 import { el, btn, h, speakBtn, progressBar, MIC, sleep } from '../ui.js';
-import { speakRec, setSpeak, markStudied, chatRec } from '../state.js';
-import { sessions, session as getSession, SESSIONS } from '../data.js';
+import { speakRec, setSpeak, markStudied, chatRec, placement } from '../state.js';
+import { sessions, session as getSession, SESSIONS, SPEAK_PER, sessionTier } from '../data.js';
 import { say, listen, stopListening, canListen, matches, listenErrorText } from '../speech.js';
 import { go, setLeaveGuard } from '../main.js';
 
 const REPEAT = 2;
-const unlockedS = n => n === 1 || speakRec(n - 1).done;
+// A session opens once the one before it is done. The first session of every tier is open, and so is
+// everything up to where the level test placed the learner.
+const unlockedS = n => (n - 1) % SPEAK_PER === 0 || speakRec(n - 1).done || (placement() && n <= (placement().speak || 0));
 
 export async function renderSpeakList({ box }) {
   const all = await sessions();
@@ -16,7 +18,14 @@ export async function renderSpeakList({ box }) {
     h('p', 'muted', '한국어 문장을 보고 영어로 말하세요. 틀리면 정답을 들려주고, 두 번 맞게 말해야 넘어갑니다.')));
   if (!canListen) box.append(h('div', 'notice', '이 브라우저는 음성 인식을 지원하지 않아 입력으로 답합니다. Chrome·Edge·Safari 최신 버전에서는 말로 답할 수 있어요.'));
   const list = el('div', 'sess-list');
+  const start = placement() && placement().speak;
   for (let n = 1; n <= SESSIONS; n++) {
+    if ((n - 1) % SPEAK_PER === 0) {
+      const T = sessionTier(n);
+      const doneT = all.filter(x => x.n >= n && x.n < n + SPEAK_PER && speakRec(x.n).done).length;
+      list.append(h('h3', 'sess-tier', `${T.name}`, h('small', '', ` ${T.cefr} · ${n}~${n + SPEAK_PER - 1}회차 · ${doneT}/${SPEAK_PER} 완료`),
+        start && sessionTier(start) === T ? h('span', 'chip place', '레벨 테스트 시작 위치') : null));
+    }
     const s = all.find(x => x.n === n);
     const rec = speakRec(n);
     const open = s && unlockedS(n);
@@ -34,7 +43,7 @@ export async function renderSpeakList({ box }) {
     }
     list.append(row);
   }
-  box.append(h('p', 'muted small', `${done}/${SESSIONS} 회차 완료`), list);
+  box.append(h('p', 'muted small', `${done}/${SESSIONS} 회차 완료 · 단계마다 ${SPEAK_PER}회차`), list);
 }
 
 export async function renderSession(ctx, n) {
@@ -54,7 +63,7 @@ export async function renderSession(ctx, n) {
     stage.textContent = '';
     const ex = s.items[0];
     stage.append(h('div', 'card sp-intro',
-      h('span', 'chip alt', `${n}회차`),
+      h('span', 'chip alt', `${sessionTier(n).name} · ${n}회차`),
       h('h1', 'pattern big', s.pattern),
       h('p', 'sp-title', s.title),
       h('p', 'sp-tip', s.tip),

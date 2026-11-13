@@ -1,0 +1,30 @@
+1|take care of; be in a hurry; have a day off; go on a picnic; for sale; at the moment; play outside; ride a horse; walk the dog; feed the cat
+2|wake up early; stay up late; go to sleep; take a nap; get some rest; take a photo; do a puzzle; brush your teeth; wash your face; have a bath
+3|cook dinner; make lunch; pay in cash; make a cake; order food; pay by card; have a snack; pay the bill; leave a tip; take away
+4|check the time; clean the room; go home; water the plants; fix the door; tidy up; do the cleaning; hang up; move house; stay home
+5|go for a walk; ride a bike; play the guitar; watch a movie; listen to music; read a book; go camping; go fishing; go swimming; take a trip
+6|stay in bed; in the countryside; at the airport; by plane; by train; on the bus; get a ticket; miss the train; buy a map; pack your bags
+7|turn left; arrive late; go straight; across the street; at the corner; leave early; on the right; near here; right behind; in the middle
+8|leave home; ask for directions; find the way; drive to work; come home; stop at the light; park the car; fill the tank; find a job; lose your keys
+9|make a phone call; send a message; call me; pick up the phone; leave a message; text me; hold on; speak up; talk to; tell the truth
+10|ask a question; give an answer; lose weight; save money; shake hands; say sorry; say thanks; keep a secret; tell a story; tell a joke
+11|come from; live in; grow up in; be born; move to; stay at; work for; work at; study for; learn about
+12|try to; want to; need to; spend money; spend time; be going to; be able to; would like to; be about to; be supposed to
+13|look out; look into; look through; look over; waste time; look forward; look back; look ahead; look good; look tired
+14|wait in line; ask for help; take a look; take a seat; take a bath; take a risk; need help; take time; take place; take turns
+15|call a friend; give out; give a hand; give a ride; give advice; give a call; give it a try; give a speech; give directions; give way
+16|get back; get away; meet a friend; get into; get out of; get through; get up to; get started; invite a friend; visit a friend
+17|put up; put down; put in; put out; put together; open the window; put back; put aside; put on weight; put in order
+18|turn around; turn into; turn over; turn back; turn away; turn out; turn in; close the door; turn the page; turn the corner
+19|make a decision; make a wish; make money; make a call; make noise; make progress; make a plan; make an effort; make room; make a living
+20|have a look; have a rest; have a headache; have a cold; have a fever; have a chat; have an idea; have a problem; have a party; have a baby
+21|do your best; do some work; do exercise; do the shopping; do a favor; do business; do well; do nothing; do the right thing; do without
+22|go away; go down; go up; go around; go through; lock the door; go off; go by; go along; go wrong
+23|be in love; be in trouble; be on time; be in a bad mood; be out of order; be in charge; be on sale; be out of stock; be on a diet; be on fire
+24|a cup of tea; a piece of paper; a bottle of water; a bag of rice; a slice of bread; a pair of shoes; a bowl of soup; a glass of milk; a kind of fruit; a group of friends
+25|knock on the door; after a while; ring the bell; at the beginning; for the first time; for a long time; read the news; write an email; again and again; one by one
+26|so far; up to now; check your email; as a result; in the past; in the future; use a computer; a long time ago; the other day; ever since
+27|more or less; at most; as many as; as much as; surf the web; no longer; not yet; take the stairs; just in case; go upstairs
+28|be proud of; be interested in; be tired of; be full of; be ready for; be famous for; be worried about; be kind to; be angry with; be different from
+29|go downstairs; walk home; run fast; jump up; go out with; get along with; fall down; sit still; keep quiet; keep calm
+30|think of; hear from; wait and see; wash the car; end up; show off; pass away; set off; break out; fix a bike

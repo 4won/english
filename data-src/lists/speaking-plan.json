@@ -1,0 +1,282 @@
+[
+ {
+  "n": 11,
+  "lv": "elementary",
+  "pattern": "I used to ~",
+  "title": "~하곤 했어요 · 예전 습관 말하기",
+  "scene": "Catching up with an old friend at a high school reunion"
+ },
+ {
+  "n": 12,
+  "lv": "elementary",
+  "pattern": "It takes ~ to ~",
+  "title": "~하는 데 …이 걸려요 · 소요 시간 말하기",
+  "scene": "Asking a coworker how long your commute to the new office will take"
+ },
+ {
+  "n": 13,
+  "lv": "elementary",
+  "pattern": "I have to ~",
+  "title": "~해야 해요 · 해야 할 일 말하기",
+  "scene": "Explaining to a friend why you cannot join the party tonight"
+ },
+ {
+  "n": 14,
+  "lv": "elementary",
+  "pattern": "Do you want me to ~?",
+  "title": "제가 ~해 드릴까요? · 도움 제안하기",
+  "scene": "Helping a neighbor carry groceries upstairs"
+ },
+ {
+  "n": 15,
+  "lv": "elementary",
+  "pattern": "I feel like ~ing",
+  "title": "~하고 싶은 기분이에요 · 지금 하고 싶은 것 말하기",
+  "scene": "Deciding with a friend what to do on a lazy Sunday"
+ },
+ {
+  "n": 16,
+  "lv": "elementary",
+  "pattern": "What time does ~?",
+  "title": "~는 몇 시에 …해요? · 시간 묻기",
+  "scene": "Checking train and museum times at a tourist information desk"
+ },
+ {
+  "n": 17,
+  "lv": "elementary",
+  "pattern": "I want you to ~",
+  "title": "~해 주면 좋겠어요 · 부탁과 바람 전하기",
+  "scene": "Telling a roommate what you expect before guests arrive"
+ },
+ {
+  "n": 18,
+  "lv": "elementary",
+  "pattern": "Why don't we ~?",
+  "title": "우리 ~하는 게 어때요? · 제안하기",
+  "scene": "Planning a weekend trip with a classmate"
+ },
+ {
+  "n": 19,
+  "lv": "elementary",
+  "pattern": "I'm good at ~ing",
+  "title": "저는 ~를 잘해요 · 장점과 특기 말하기",
+  "scene": "Introducing yourself at a club's first meeting"
+ },
+ {
+  "n": 20,
+  "lv": "elementary",
+  "pattern": "I'm afraid ~",
+  "title": "유감이지만 ~예요 · 나쁜 소식 정중히 전하기",
+  "scene": "Telling a hotel guest that the room they booked is not ready"
+ },
+ {
+  "n": 21,
+  "lv": "intermediate",
+  "pattern": "I'm not sure if ~",
+  "title": "~인지 잘 모르겠어요 · 불확실함 표현하기",
+  "scene": "Discussing whether a client meeting is still on for tomorrow"
+ },
+ {
+  "n": 22,
+  "lv": "intermediate",
+  "pattern": "Would you mind ~ing?",
+  "title": "~해 주시겠어요? · 정중하게 부탁하기",
+  "scene": "Asking a stranger on a plane to switch seats"
+ },
+ {
+  "n": 23,
+  "lv": "intermediate",
+  "pattern": "I was wondering if ~",
+  "title": "~해 주실 수 있을까 해서요 · 조심스럽게 묻기",
+  "scene": "Calling a landlord to ask about extending your lease"
+ },
+ {
+  "n": 24,
+  "lv": "intermediate",
+  "pattern": "If I were you, I would ~",
+  "title": "제가 당신이라면 ~할 거예요 · 조언하기",
+  "scene": "Giving a friend advice about a job offer abroad"
+ },
+ {
+  "n": 25,
+  "lv": "intermediate",
+  "pattern": "I'd rather ~ than ~",
+  "title": "~하느니 …하는 게 낫겠어요 · 선호 말하기",
+  "scene": "Choosing between a team dinner and a quiet evening with a colleague"
+ },
+ {
+  "n": 26,
+  "lv": "intermediate",
+  "pattern": "It depends on ~",
+  "title": "~에 따라 달라요 · 조건부로 답하기",
+  "scene": "Answering a customer who asks about delivery times and prices"
+ },
+ {
+  "n": 27,
+  "lv": "intermediate",
+  "pattern": "I'm supposed to ~",
+  "title": "~하기로 되어 있어요 · 예정과 의무 말하기",
+  "scene": "Explaining a schedule mix-up to a front-desk receptionist"
+ },
+ {
+  "n": 28,
+  "lv": "intermediate",
+  "pattern": "As far as I know, ~",
+  "title": "제가 아는 한 ~예요 · 아는 범위에서 말하기",
+  "scene": "Answering a new employee's questions about company policy"
+ },
+ {
+  "n": 29,
+  "lv": "intermediate",
+  "pattern": "I can't help ~ing",
+  "title": "~하지 않을 수가 없어요 · 참을 수 없는 감정 말하기",
+  "scene": "Talking with a friend after a funny, embarrassing mistake"
+ },
+ {
+  "n": 30,
+  "lv": "intermediate",
+  "pattern": "I'm used to ~ing",
+  "title": "~하는 데 익숙해요 · 익숙함과 적응 말하기",
+  "scene": "Chatting with an exchange student about adjusting to a new country"
+ },
+ {
+  "n": 31,
+  "lv": "upper",
+  "pattern": "It might be worth ~ing",
+  "title": "~해 볼 만할 수도 있어요 · 완곡하게 제안하기",
+  "scene": "Suggesting a process change to your team in a weekly meeting"
+ },
+ {
+  "n": 32,
+  "lv": "upper",
+  "pattern": "What I'm trying to say is ~",
+  "title": "제가 말씀드리려는 건 ~예요 · 요점 다시 설명하기",
+  "scene": "Clarifying a misunderstanding about project scope with a client"
+ },
+ {
+  "n": 33,
+  "lv": "upper",
+  "pattern": "Let me get back to you on ~",
+  "title": "~는 확인 후 다시 연락드릴게요 · 답변 보류하기",
+  "scene": "Handling a tough pricing question from a customer on a call"
+ },
+ {
+  "n": 34,
+  "lv": "upper",
+  "pattern": "I'd like to follow up on ~",
+  "title": "~에 대해 후속 논의를 하고 싶어요 · 이전 대화 이어가기",
+  "scene": "Sending a follow-up call to a vendor after last week's meeting"
+ },
+ {
+  "n": 35,
+  "lv": "upper",
+  "pattern": "I see your point, but ~",
+  "title": "일리는 있지만 ~예요 · 정중하게 반박하기",
+  "scene": "Disagreeing with a manager about a launch date"
+ },
+ {
+  "n": 36,
+  "lv": "upper",
+  "pattern": "We should take ~ into account",
+  "title": "~를 고려해야 해요 · 변수 짚어 주기",
+  "scene": "Reviewing a budget proposal with the finance team"
+ },
+ {
+  "n": 37,
+  "lv": "upper",
+  "pattern": "I'm afraid we won't be able to ~",
+  "title": "~하기는 어려울 것 같습니다 · 정중하게 거절하기",
+  "scene": "Declining a client's request for an earlier delivery date"
+ },
+ {
+  "n": 38,
+  "lv": "upper",
+  "pattern": "Would it be possible to ~?",
+  "title": "~하는 것이 가능할까요? · 정중하게 요청하기",
+  "scene": "Asking a supplier for a payment extension"
+ },
+ {
+  "n": 39,
+  "lv": "upper",
+  "pattern": "As I mentioned earlier, ~",
+  "title": "앞서 말씀드렸듯이 ~ · 이전 내용 상기시키기",
+  "scene": "Presenting quarterly results to the leadership team"
+ },
+ {
+  "n": 40,
+  "lv": "upper",
+  "pattern": "Correct me if I'm wrong, but ~",
+  "title": "제가 틀렸다면 바로잡아 주세요, ~ · 확인하며 의견 말하기",
+  "scene": "Checking an assumption with a senior engineer in a design review"
+ },
+ {
+  "n": 41,
+  "lv": "advanced",
+  "pattern": "Had I known ~, I would have ~",
+  "title": "~를 알았더라면 …했을 텐데 · 과거 가정과 후회 말하기",
+  "scene": "Reflecting on a failed product launch in a post-mortem meeting"
+ },
+ {
+  "n": 42,
+  "lv": "advanced",
+  "pattern": "Not only ~ but also ~",
+  "title": "~뿐만 아니라 …도 · 강조하며 덧붙이기",
+  "scene": "Pitching your proposal to potential investors"
+ },
+ {
+  "n": 43,
+  "lv": "advanced",
+  "pattern": "It goes without saying that ~",
+  "title": "~는 말할 필요도 없어요 · 당연한 사실 강조하기",
+  "scene": "Opening a keynote on why trust matters in a partnership"
+ },
+ {
+  "n": 44,
+  "lv": "advanced",
+  "pattern": "The way I see it, ~",
+  "title": "제가 보기에는 ~ · 자기 관점 펼치기",
+  "scene": "Debating a policy change in a panel discussion"
+ },
+ {
+  "n": 45,
+  "lv": "advanced",
+  "pattern": "Rather than ~ing, we should ~",
+  "title": "~하기보다는 …해야 합니다 · 대안 제시하기",
+  "scene": "Convincing a board to shift strategy during a crisis"
+ },
+ {
+  "n": 46,
+  "lv": "advanced",
+  "pattern": "Were it not for ~, ~",
+  "title": "~가 없었다면 … · 가정법 도치로 말하기",
+  "scene": "Giving an award speech thanking the team"
+ },
+ {
+  "n": 47,
+  "lv": "advanced",
+  "pattern": "On the one hand, ~; on the other hand, ~",
+  "title": "한편으로는 ~, 다른 한편으로는 … · 장단점 비교하기",
+  "scene": "Weighing a merger offer with a negotiating partner"
+ },
+ {
+  "n": 48,
+  "lv": "advanced",
+  "pattern": "That said, ~",
+  "title": "그렇긴 해도 ~ · 앞말을 인정하며 반전하기",
+  "scene": "Responding to critical feedback in a performance review"
+ },
+ {
+  "n": 49,
+  "lv": "advanced",
+  "pattern": "I couldn't agree more, although ~",
+  "title": "전적으로 동의하지만 ~ · 동의와 단서를 함께 말하기",
+  "scene": "Joining a heated roundtable on remote work"
+ },
+ {
+  "n": 50,
+  "lv": "advanced",
+  "pattern": "All things considered, ~",
+  "title": "모든 것을 고려하면 ~ · 결론 내리기",
+  "scene": "Wrapping up a contract negotiation with a final recommendation"
+ }
+]

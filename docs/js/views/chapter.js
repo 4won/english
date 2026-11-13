@@ -1,7 +1,7 @@
 // One chapter: 20 word cards → quiz 1 (multiple choice) → quiz 2 (typing) → result.
 import { el, btn, h, speakBtn, highlight } from '../ui.js';
 import { chapter, setStep, addWrong, prefs } from '../state.js';
-import { chapterWords, levelInfo, readyChapters, CHAPTERS } from '../data.js';
+import { chapterWords, levelInfo, readyChapters, CHAPTERS, courseLevels } from '../data.js';
 import { say } from '../speech.js';
 import { choiceQuiz, typingQuiz } from '../quiz.js';
 import { go, setLeaveGuard } from '../main.js';
@@ -144,7 +144,11 @@ export async function renderChapter(ctx, lv, ch, wanted) {
     const ready = await readyChapters(lv);
     const row = el('div', 'result-btns');
     if (ch < ready) row.append(btn('btn primary', `${ch + 1}챕터로`, () => go(`ch/${lv}/${ch + 1}`)));
-    else if (ch === CHAPTERS) row.append(h('p', 'muted', `${L.full} 30챕터를 모두 끝냈어요!`));
+    else if (ch === CHAPTERS) {
+      const nextL = courseLevels(L.course)[L.ti + 1];
+      if (nextL && nextL.ready) row.append(btn('btn primary', `${nextL.full} 1챕터로`, () => go(`ch/${nextL.id}/1`)));
+      else row.append(h('p', 'muted', `${L.full} 30챕터를 모두 끝냈어요!`));
+    }
     row.append(btn('btn', '홈으로', () => go('home')));
     stage.append(row);
   }

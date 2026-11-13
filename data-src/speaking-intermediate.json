@@ -1,0 +1,916 @@
+[
+  {
+    "n": 21,
+    "lv": "intermediate",
+    "pattern": "I'm not sure if ~",
+    "title": "~인지 잘 모르겠어요 · 불확실함 표현하기",
+    "tip": "확실하지 않은 정보를 말할 때 쓰는 가장 기본적인 표현입니다. 단정하지 않아서 부드럽고, 상대에게 확인을 구하는 느낌도 줘요. I'm not sure whether ~ 로 바꿔도 같은 뜻입니다.",
+    "items": [
+      {
+        "ko": "내일 회의가 아직 진행되는지 잘 모르겠어요.",
+        "en": "I'm not sure if the meeting is still on tomorrow.",
+        "alt": [
+          "I'm not sure if tomorrow's meeting is still on.",
+          "I'm not sure if the meeting is still happening tomorrow."
+        ]
+      },
+      {
+        "ko": "고객이 올 수 있는지 잘 모르겠어요.",
+        "en": "I'm not sure if the client can come.",
+        "alt": [
+          "I'm not sure if the client is able to come.",
+          "I'm not sure if the client can make it."
+        ]
+      },
+      {
+        "ko": "그가 제 이메일을 받았는지 잘 모르겠어요.",
+        "en": "I'm not sure if he got my email.",
+        "alt": [
+          "I'm not sure if he received my email."
+        ]
+      },
+      {
+        "ko": "시간이 바뀌었는지 잘 모르겠어요.",
+        "en": "I'm not sure if the time has changed.",
+        "alt": [
+          "I'm not sure if the time changed."
+        ]
+      },
+      {
+        "ko": "회의실이 예약되어 있는지 잘 모르겠어요.",
+        "en": "I'm not sure if the meeting room is booked.",
+        "alt": [
+          "I'm not sure if the meeting room is reserved.",
+          "I'm not sure if the room is booked."
+        ]
+      },
+      {
+        "ko": "제가 발표를 해야 하는지 잘 모르겠어요.",
+        "en": "I'm not sure if I have to give a presentation.",
+        "alt": [
+          "I'm not sure if I need to give a presentation.",
+          "I'm not sure if I should give a presentation."
+        ]
+      },
+      {
+        "ko": "자료가 제때 준비될지 잘 모르겠어요.",
+        "en": "I'm not sure if the documents will be ready on time.",
+        "alt": [
+          "I'm not sure if the documents will be ready in time.",
+          "I'm not sure if the files will be ready on time."
+        ]
+      },
+      {
+        "ko": "여기가 맞는 주소인지 잘 모르겠어요.",
+        "en": "I'm not sure if this is the right address.",
+        "alt": [
+          "I'm not sure if this is the correct address."
+        ]
+      },
+      {
+        "ko": "제가 갈 수 있을지 잘 모르겠어요.",
+        "en": "I'm not sure if I can make it.",
+        "alt": [
+          "I'm not sure if I can come.",
+          "I'm not sure if I can go."
+        ]
+      },
+      {
+        "ko": "그가 일정을 바꾸고 싶어 하는지 잘 모르겠어요.",
+        "en": "I'm not sure if he wants to change the schedule.",
+        "alt": [
+          "I'm not sure if he wants to reschedule.",
+          "I'm not sure if he wants to change the time."
+        ]
+      }
+    ],
+    "chat": {
+      "title": "고객 미팅 일정 확인하기",
+      "you": "팀원",
+      "ai": "동료 직원",
+      "goal": "내일 고객 미팅이 예정대로인지 동료에게 물어보고, 확실하지 않은 점 두세 가지를 I'm not sure if ~ 로 말해 보세요.",
+      "setting": "You are a coworker of the user. Tomorrow there may be a client meeting, but some details are unclear: the time, the room, and who is presenting. Answer the user's questions, sometimes admit you are not certain, and help them sort out the plan."
+    }
+  },
+  {
+    "n": 22,
+    "lv": "intermediate",
+    "pattern": "Would you mind ~ing?",
+    "title": "~해 주시겠어요? · 정중하게 부탁하기",
+    "tip": "낯선 사람에게 부탁할 때 아주 정중하게 들리는 표현입니다. mind 뒤에는 동사의 ~ing 형태가 오고, 승낙할 때는 'Not at all.' 처럼 '괜찮아요'의 뜻으로 답해요. Do you mind ~ing? 도 비슷해요.",
+    "items": [
+      {
+        "ko": "자리를 바꿔 주시겠어요?",
+        "en": "Would you mind switching seats with me?",
+        "alt": [
+          "Would you mind changing seats with me?",
+          "Would you mind swapping seats with me?"
+        ]
+      },
+      {
+        "ko": "제 가방을 올리는 것 좀 도와주시겠어요?",
+        "en": "Would you mind helping me with my bag?",
+        "alt": [
+          "Would you mind helping me lift my bag?",
+          "Would you mind giving me a hand with my bag?"
+        ]
+      },
+      {
+        "ko": "창문 덮개를 내려 주시겠어요?",
+        "en": "Would you mind closing the window shade?",
+        "alt": [
+          "Would you mind pulling down the window shade?",
+          "Would you mind lowering the window shade?"
+        ]
+      },
+      {
+        "ko": "잠깐 비켜 주시겠어요?",
+        "en": "Would you mind moving for a moment?",
+        "alt": [
+          "Would you mind stepping aside for a moment?",
+          "Would you mind moving a little?"
+        ]
+      },
+      {
+        "ko": "제 아이 옆에 앉아 주시겠어요?",
+        "en": "Would you mind sitting next to my son?",
+        "alt": [
+          "Would you mind sitting beside my son?",
+          "Would you mind sitting next to my child?"
+        ]
+      },
+      {
+        "ko": "음악 소리를 좀 줄여 주시겠어요?",
+        "en": "Would you mind turning the music down?",
+        "alt": [
+          "Would you mind turning down the music?",
+          "Would you mind lowering the music?"
+        ]
+      },
+      {
+        "ko": "제 자리를 잠깐 봐 주시겠어요?",
+        "en": "Would you mind watching my seat for a minute?",
+        "alt": [
+          "Would you mind keeping an eye on my seat for a minute?",
+          "Would you mind watching my seat for a moment?"
+        ]
+      },
+      {
+        "ko": "사진 한 장만 찍어 주시겠어요?",
+        "en": "Would you mind taking a picture of us?",
+        "alt": [
+          "Would you mind taking a photo of us?",
+          "Would you mind taking our picture?"
+        ]
+      },
+      {
+        "ko": "이 서류를 전달해 주시겠어요?",
+        "en": "Would you mind passing this paper to him?",
+        "alt": [
+          "Would you mind handing this paper to him?",
+          "Would you mind giving this paper to him?"
+        ]
+      },
+      {
+        "ko": "좌석 등받이를 조금만 올려 주시겠어요?",
+        "en": "Would you mind putting your seat up a little?",
+        "alt": [
+          "Would you mind raising your seat a little?",
+          "Would you mind moving your seat up a bit?"
+        ]
+      }
+    ],
+    "chat": {
+      "title": "비행기에서 자리 바꾸기",
+      "you": "승객",
+      "ai": "옆자리 승객",
+      "goal": "옆자리 승객에게 정중하게 부탁해서 일행과 같이 앉을 수 있도록 자리를 바꿔 보세요. 다른 부탁도 한 가지 더 해 보세요.",
+      "setting": "You are a passenger on a long flight sitting in an aisle seat. The user will politely ask you to switch seats. You prefer your aisle seat, so ask a few questions before you decide, then agree if they offer a fair reason. Be friendly and chat a little."
+    }
+  },
+  {
+    "n": 23,
+    "lv": "intermediate",
+    "pattern": "I was wondering if ~",
+    "title": "~해 주실 수 있을까 해서요 · 조심스럽게 묻기",
+    "tip": "무언가를 아주 조심스럽고 공손하게 물어볼 때 쓰는 표현입니다. 거절당할 수도 있는 부탁에 어울려요. 뒤에는 보통 과거형 could나 would가 와서 더 부드러워지고, I wonder if ~ 도 같은 뜻이에요.",
+    "items": [
+      {
+        "ko": "계약을 연장할 수 있을지 여쭤보려고요.",
+        "en": "I was wondering if I could extend my lease.",
+        "alt": [
+          "I was wondering if we could extend the lease.",
+          "I was wondering if it's possible to extend my lease."
+        ]
+      },
+      {
+        "ko": "월세를 조금 깎아 주실 수 있을까 해서요.",
+        "en": "I was wondering if you could lower the rent a little.",
+        "alt": [
+          "I was wondering if you would lower the rent a little.",
+          "I was wondering if you could reduce the rent a bit."
+        ]
+      },
+      {
+        "ko": "내일 방문하셔도 되는지 여쭤보려고요.",
+        "en": "I was wondering if you could visit tomorrow.",
+        "alt": [
+          "I was wondering if you could come by tomorrow."
+        ]
+      },
+      {
+        "ko": "수도꼭지를 고쳐 주실 수 있을까 해서요.",
+        "en": "I was wondering if you could fix the faucet.",
+        "alt": [
+          "I was wondering if you would fix the faucet.",
+          "I was wondering if someone could fix the faucet."
+        ]
+      },
+      {
+        "ko": "이사 날짜를 늦춰도 되는지 여쭤보려고요.",
+        "en": "I was wondering if I could move out later.",
+        "alt": [
+          "I was wondering if I could delay my move-out date.",
+          "I was wondering if I could push back my moving date."
+        ]
+      },
+      {
+        "ko": "보증금을 언제 돌려받을 수 있는지 궁금해서요.",
+        "en": "I was wondering if you could tell me when I get my deposit back.",
+        "alt": [
+          "I was wondering when I will get my deposit back."
+        ]
+      },
+      {
+        "ko": "새 계약서를 보내 주실 수 있을까 해서요.",
+        "en": "I was wondering if you could send me the new contract.",
+        "alt": [
+          "I was wondering if you would send me the new contract."
+        ]
+      },
+      {
+        "ko": "이번 주에 잠깐 통화할 수 있을까 해서요.",
+        "en": "I was wondering if we could talk on the phone this week.",
+        "alt": [
+          "I was wondering if we could have a quick call this week."
+        ]
+      },
+      {
+        "ko": "반려동물을 키워도 되는지 여쭤보려고요.",
+        "en": "I was wondering if I could keep a pet here.",
+        "alt": [
+          "I was wondering if pets are allowed here.",
+          "I was wondering if I could have a pet here."
+        ]
+      },
+      {
+        "ko": "주차 공간이 하나 더 있는지 궁금해서요.",
+        "en": "I was wondering if there is another parking space.",
+        "alt": [
+          "I was wondering if you have another parking space.",
+          "I was wondering if there is one more parking spot."
+        ]
+      }
+    ],
+    "chat": {
+      "title": "집주인에게 계약 연장 문의하기",
+      "you": "세입자",
+      "ai": "집주인",
+      "goal": "집주인에게 전화해서 계약 연장이 가능한지 정중하게 물어보고, 월세나 수리에 대해서도 한 가지씩 문의해 보세요.",
+      "setting": "You are a landlord who owns an apartment building. A tenant is calling to ask about extending the lease. Be polite but a little cautious: mention that the rent may go up slightly, ask when they want to extend until, and respond to their other requests."
+    }
+  },
+  {
+    "n": 24,
+    "lv": "intermediate",
+    "pattern": "If I were you, I would ~",
+    "title": "제가 당신이라면 ~할 거예요 · 조언하기",
+    "tip": "친구나 동료에게 조언할 때 쓰는 대표 표현입니다. 현실과 다른 가정이라서 If I were you를 쓰며, 'was'가 아니라 'were'를 쓰는 점에 주의하세요. 부드럽게 권하는 말이라 강요처럼 들리지 않아요.",
+    "items": [
+      {
+        "ko": "제가 당신이라면 그 제안을 받아들일 거예요.",
+        "en": "If I were you, I would take the offer.",
+        "alt": [
+          "If I were you, I would accept the offer."
+        ]
+      },
+      {
+        "ko": "제가 당신이라면 먼저 가족과 상의할 거예요.",
+        "en": "If I were you, I would talk to my family first.",
+        "alt": [
+          "If I were you, I would discuss it with my family first.",
+          "If I were you, I would speak with my family first."
+        ]
+      },
+      {
+        "ko": "제가 당신이라면 그 도시에 먼저 가 볼 거예요.",
+        "en": "If I were you, I would visit the city first.",
+        "alt": [
+          "If I were you, I would go to the city first."
+        ]
+      },
+      {
+        "ko": "제가 당신이라면 연봉을 더 협상할 거예요.",
+        "en": "If I were you, I would negotiate the salary.",
+        "alt": [
+          "If I were you, I would ask for a higher salary.",
+          "If I were you, I would negotiate for more money."
+        ]
+      },
+      {
+        "ko": "제가 당신이라면 서둘러 결정하지 않을 거예요.",
+        "en": "If I were you, I would not rush the decision.",
+        "alt": [
+          "If I were you, I would take my time deciding.",
+          "If I were you, I wouldn't rush the decision."
+        ]
+      },
+      {
+        "ko": "제가 당신이라면 영어 공부를 시작할 거예요.",
+        "en": "If I were you, I would start studying English.",
+        "alt": [
+          "If I were you, I would begin studying English.",
+          "If I were you, I would start learning English."
+        ]
+      },
+      {
+        "ko": "제가 당신이라면 현지 직원과 이야기해 볼 거예요.",
+        "en": "If I were you, I would talk to a local employee.",
+        "alt": [
+          "If I were you, I would speak to a local employee."
+        ]
+      },
+      {
+        "ko": "제가 당신이라면 집값부터 알아볼 거예요.",
+        "en": "If I were you, I would check the housing prices first.",
+        "alt": [
+          "If I were you, I would look up the housing prices first."
+        ]
+      },
+      {
+        "ko": "제가 당신이라면 그 기회를 놓치지 않을 거예요.",
+        "en": "If I were you, I would not miss the chance.",
+        "alt": [
+          "If I were you, I wouldn't miss the chance.",
+          "If I were you, I wouldn't miss the opportunity."
+        ]
+      },
+      {
+        "ko": "제가 당신이라면 내일 답장을 보낼 거예요.",
+        "en": "If I were you, I would reply tomorrow.",
+        "alt": [
+          "If I were you, I would answer tomorrow.",
+          "If I were you, I would send a reply tomorrow."
+        ]
+      }
+    ],
+    "chat": {
+      "title": "해외 취업 제안 상담",
+      "you": "조언하는 친구",
+      "ai": "고민 중인 친구",
+      "goal": "해외 회사에서 일자리 제안을 받은 친구에게 If I were you 로 조언을 두세 가지 해 주세요.",
+      "setting": "You are the user's friend who just received a job offer from a company in another country. You are excited but worried about the language, the cost of living, and leaving family. Ask the user what they think and respond to their advice."
+    }
+  },
+  {
+    "n": 25,
+    "lv": "intermediate",
+    "pattern": "I'd rather ~ than ~",
+    "title": "~하느니 …하는 게 낫겠어요 · 선호 말하기",
+    "tip": "두 가지 중 더 선호하는 쪽을 말할 때 씁니다. rather 뒤에는 동사원형이 오고, 'than' 뒤에도 동사원형을 써요. 짧게 'I'd rather not.' 하면 정중한 거절이 됩니다.",
+    "items": [
+      {
+        "ko": "저는 외식하느니 집에서 쉬는 게 낫겠어요.",
+        "en": "I'd rather stay home than eat out.",
+        "alt": [
+          "I would rather stay home than eat out.",
+          "I'd rather rest at home than eat out."
+        ]
+      },
+      {
+        "ko": "저는 회식에 가느니 일찍 퇴근하겠어요.",
+        "en": "I'd rather leave early than go to the dinner.",
+        "alt": [
+          "I'd rather go home early than go to the team dinner.",
+          "I would rather leave early than join the dinner."
+        ]
+      },
+      {
+        "ko": "저는 택시를 타느니 걸어가겠어요.",
+        "en": "I'd rather walk than take a taxi.",
+        "alt": [
+          "I would rather walk than take a taxi."
+        ]
+      },
+      {
+        "ko": "저는 전화하느니 문자를 보내겠어요.",
+        "en": "I'd rather send a text than make a call.",
+        "alt": [
+          "I'd rather text than call.",
+          "I would rather send a message than call."
+        ]
+      },
+      {
+        "ko": "저는 커피보다는 차를 마시겠어요.",
+        "en": "I'd rather drink tea than coffee.",
+        "alt": [
+          "I would rather have tea than coffee.",
+          "I'd rather have tea than coffee."
+        ]
+      },
+      {
+        "ko": "저는 늦게까지 일하느니 주말에 일하겠어요.",
+        "en": "I'd rather work on the weekend than stay late.",
+        "alt": [
+          "I would rather work on the weekend than work late."
+        ]
+      },
+      {
+        "ko": "저는 영화를 보느니 책을 읽겠어요.",
+        "en": "I'd rather read a book than watch a movie.",
+        "alt": [
+          "I would rather read a book than watch a movie."
+        ]
+      },
+      {
+        "ko": "저는 시끄러운 곳보다 조용한 곳에서 먹겠어요.",
+        "en": "I'd rather eat somewhere quiet than somewhere loud.",
+        "alt": [
+          "I'd rather eat in a quiet place than a loud place."
+        ]
+      },
+      {
+        "ko": "저는 지금 말하느니 나중에 이야기하겠어요.",
+        "en": "I'd rather talk later than talk now.",
+        "alt": [
+          "I would rather talk later than now.",
+          "I'd rather talk about it later than now."
+        ]
+      },
+      {
+        "ko": "저는 혼자 가느니 같이 가겠어요.",
+        "en": "I'd rather go together than go alone.",
+        "alt": [
+          "I would rather go together than alone.",
+          "I'd rather go with you than go alone."
+        ]
+      }
+    ],
+    "chat": {
+      "title": "회식 대신 조용한 저녁",
+      "you": "동료 직원",
+      "ai": "팀 동료",
+      "goal": "동료가 회식에 가자고 합니다. I'd rather ~ than ~ 으로 선호를 말하고, 대신 할 수 있는 일 한두 가지를 제안해 보세요.",
+      "setting": "You are a friendly colleague who is inviting the user to a big team dinner tonight. You love these dinners. Ask what the user prefers, try to persuade them gently, and accept their choice politely in the end."
+    }
+  },
+  {
+    "n": 26,
+    "lv": "intermediate",
+    "pattern": "It depends on ~",
+    "title": "~에 따라 달라요 · 조건부로 답하기",
+    "tip": "정답이 하나가 아니라 조건에 따라 달라질 때 쓰는 표현입니다. 뒤에는 명사나 what, how much 같은 의문사절이 올 수 있어요. 그 조건을 뒤에 덧붙이면 대화가 훨씬 자연스러워집니다.",
+    "items": [
+      {
+        "ko": "배송 시간은 지역에 따라 달라요.",
+        "en": "It depends on the area you live in.",
+        "alt": [
+          "It depends on where you live.",
+          "It depends on your location."
+        ]
+      },
+      {
+        "ko": "가격은 크기에 따라 달라요.",
+        "en": "It depends on the size of the item.",
+        "alt": [
+          "The price depends on the size.",
+          "It depends on how big it is."
+        ]
+      },
+      {
+        "ko": "얼마나 걸리는지는 재고에 따라 달라요.",
+        "en": "It depends on the stock we have.",
+        "alt": [
+          "It depends on how much stock we have.",
+          "It depends on whether we have it in stock."
+        ]
+      },
+      {
+        "ko": "요금은 무게에 따라 달라요.",
+        "en": "It depends on the weight of the package.",
+        "alt": [
+          "The fee depends on the weight.",
+          "It depends on how heavy it is."
+        ]
+      },
+      {
+        "ko": "배송비는 주문 금액에 따라 달라요.",
+        "en": "It depends on the order amount.",
+        "alt": [
+          "Shipping depends on the order amount.",
+          "It depends on how much you order."
+        ]
+      },
+      {
+        "ko": "도착 날짜는 날씨에 따라 달라요.",
+        "en": "It depends on the weather that day.",
+        "alt": [
+          "The arrival date depends on the weather."
+        ]
+      },
+      {
+        "ko": "할인 여부는 상품에 따라 달라요.",
+        "en": "It depends on the type of product.",
+        "alt": [
+          "Whether there is a discount depends on the product.",
+          "It depends on which product you choose."
+        ]
+      },
+      {
+        "ko": "가능한지는 주문 시간에 따라 달라요.",
+        "en": "It depends on the time of the order.",
+        "alt": [
+          "It depends on when you order.",
+          "It depends on what time you order."
+        ]
+      },
+      {
+        "ko": "비용은 선택하시는 옵션에 따라 달라요.",
+        "en": "It depends on the option you choose.",
+        "alt": [
+          "It depends on which option you choose.",
+          "The cost depends on the option you choose."
+        ]
+      },
+      {
+        "ko": "얼마나 빨리 받는지는 선택하신 배송 방법에 따라 달라요.",
+        "en": "It depends on the shipping method.",
+        "alt": [
+          "It depends on which shipping method you choose.",
+          "It depends on the delivery method you choose."
+        ]
+      }
+    ],
+    "chat": {
+      "title": "고객 문의 응대하기",
+      "you": "고객 응대 직원",
+      "ai": "온라인 쇼핑 고객",
+      "goal": "배송 시간과 가격을 묻는 고객에게 It depends on ~ 을 사용해서 조건에 따라 달라진다고 설명해 보세요. 조건은 두세 가지 말해 주세요.",
+      "setting": "You are an online shopper asking a customer service agent about delivery times and prices for a large order. Ask several short questions: how long, how much, and whether express shipping is possible. React naturally to the agent's explanations."
+    }
+  },
+  {
+    "n": 27,
+    "lv": "intermediate",
+    "pattern": "I'm supposed to ~",
+    "title": "~하기로 되어 있어요 · 예정과 의무 말하기",
+    "tip": "예정되어 있거나 해야 할 의무가 있는 일을 말할 때 씁니다. 약속·일정·규칙에 따른 일이라는 느낌이 있어요. 과거형 I was supposed to ~ 로 하면 '원래 ~하기로 되어 있었는데'라는 뜻이 됩니다.",
+    "items": [
+      {
+        "ko": "저는 열 시에 의사를 만나기로 되어 있어요.",
+        "en": "I'm supposed to meet the doctor at ten.",
+        "alt": [
+          "I'm supposed to see the doctor at ten."
+        ]
+      },
+      {
+        "ko": "저는 오늘 오후에 체크인하기로 되어 있어요.",
+        "en": "I'm supposed to check in this afternoon.",
+        "alt": [
+          "I'm supposed to check in later this afternoon."
+        ]
+      },
+      {
+        "ko": "저는 오늘 저녁에 손님을 만나기로 되어 있어요.",
+        "en": "I'm supposed to meet a guest this evening.",
+        "alt": [
+          "I'm supposed to meet a client this evening."
+        ]
+      },
+      {
+        "ko": "저는 내일 아침 일찍 일어나기로 되어 있어요.",
+        "en": "I'm supposed to wake up early tomorrow.",
+        "alt": [
+          "I'm supposed to get up early tomorrow morning."
+        ]
+      },
+      {
+        "ko": "저는 오늘 오후에 이 짐을 가져가기로 되어 있어요.",
+        "en": "I'm supposed to pick up this bag this afternoon.",
+        "alt": [
+          "I'm supposed to pick up my luggage this afternoon."
+        ]
+      },
+      {
+        "ko": "저는 오늘 이 방에서 회의를 하기로 되어 있어요.",
+        "en": "I'm supposed to have a meeting in this room today.",
+        "alt": [
+          "I'm supposed to hold a meeting in this room today."
+        ]
+      },
+      {
+        "ko": "저는 지금 로비에서 친구를 만나기로 되어 있어요.",
+        "en": "I'm supposed to meet my friend in the lobby now.",
+        "alt": [
+          "I'm supposed to meet a friend in the lobby."
+        ]
+      },
+      {
+        "ko": "저는 이번 주에 이 호텔에 머물기로 되어 있어요.",
+        "en": "I'm supposed to stay at this hotel this week.",
+        "alt": [
+          "I'm supposed to be staying at this hotel this week."
+        ]
+      },
+      {
+        "ko": "저는 이 서류를 오늘까지 제출하기로 되어 있어요.",
+        "en": "I'm supposed to submit this form today.",
+        "alt": [
+          "I'm supposed to hand in this form today.",
+          "I'm supposed to turn in this form today."
+        ]
+      },
+      {
+        "ko": "저는 오늘 밤 열 시에 체크아웃하기로 되어 있어요.",
+        "en": "I'm supposed to check out tonight at ten.",
+        "alt": [
+          "I'm supposed to check out at ten tonight."
+        ]
+      }
+    ],
+    "chat": {
+      "title": "프런트 데스크 일정 착오",
+      "you": "호텔 투숙객",
+      "ai": "프런트 직원",
+      "goal": "예약 일정이 꼬인 상황을 프런트 직원에게 설명하고, I'm supposed to ~ 로 원래 일정을 말해 보세요. 해결책도 요청해 보세요.",
+      "setting": "You are a receptionist at a hotel front desk. A guest says there is a mix-up with their reservation and schedule. Check what they say, apologize politely, ask for the details of what they were supposed to do, and offer a solution."
+    }
+  },
+  {
+    "n": 28,
+    "lv": "intermediate",
+    "pattern": "As far as I know, ~",
+    "title": "제가 아는 한 ~예요 · 아는 범위에서 말하기",
+    "tip": "자신이 확실히 아는 범위 안에서만 말하고 싶을 때 쓰는 표현입니다. 틀릴 수도 있다는 여지를 남겨서 책임감 있게 들려요. As far as I can tell ~ 도 비슷하게 쓰입니다.",
+    "items": [
+      {
+        "ko": "제가 아는 한, 점심시간은 열두 시예요.",
+        "en": "As far as I know, lunch starts at noon.",
+        "alt": [
+          "As far as I know, lunchtime is at twelve.",
+          "As far as I know, lunch is at noon."
+        ]
+      },
+      {
+        "ko": "제가 아는 한, 휴가는 신청서를 내야 해요.",
+        "en": "As far as I know, you have to submit a leave form.",
+        "alt": [
+          "As far as I know, you need to submit a vacation request."
+        ]
+      },
+      {
+        "ko": "제가 아는 한, 재택근무는 주 이틀까지 가능해요.",
+        "en": "As far as I know, you can work from home twice a week.",
+        "alt": [
+          "As far as I know, remote work is allowed two days a week."
+        ]
+      },
+      {
+        "ko": "제가 아는 한, 보너스는 연말에 나와요.",
+        "en": "As far as I know, the bonus comes at the end of the year.",
+        "alt": [
+          "As far as I know, bonuses are paid at year end."
+        ]
+      },
+      {
+        "ko": "제가 아는 한, 사내 식당은 무료예요.",
+        "en": "As far as I know, the cafeteria is free.",
+        "alt": [
+          "As far as I know, meals at the cafeteria are free."
+        ]
+      },
+      {
+        "ko": "제가 아는 한, 주차는 지하에서 할 수 있어요.",
+        "en": "As far as I know, you can park in the basement.",
+        "alt": [
+          "As far as I know, parking is in the basement."
+        ]
+      },
+      {
+        "ko": "제가 아는 한, 출장비는 나중에 정산돼요.",
+        "en": "As far as I know, travel costs are paid back later.",
+        "alt": [
+          "As far as I know, travel expenses are reimbursed later."
+        ]
+      },
+      {
+        "ko": "제가 아는 한, 회의는 매주 월요일에 있어요.",
+        "en": "As far as I know, the meeting is every Monday.",
+        "alt": [
+          "As far as I know, we have a meeting every Monday."
+        ]
+      },
+      {
+        "ko": "제가 아는 한, 사원증은 인사팀에서 받아요.",
+        "en": "As far as I know, you get your ID card from HR.",
+        "alt": [
+          "As far as I know, HR gives out the ID cards."
+        ]
+      },
+      {
+        "ko": "제가 아는 한, 이 규칙은 아직 바뀌지 않았어요.",
+        "en": "As far as I know, this rule has not changed.",
+        "alt": [
+          "As far as I know, this rule hasn't changed yet."
+        ]
+      }
+    ],
+    "chat": {
+      "title": "신입 사원에게 회사 규정 안내",
+      "you": "선배 직원",
+      "ai": "신입 직원",
+      "goal": "신입 직원의 질문에 As far as I know, ~ 로 아는 범위에서 답해 주세요. 확실하지 않은 것은 다른 사람에게 확인해 보라고 말해 보세요.",
+      "setting": "You are a new employee on your first week at a company. Ask the user, who is a senior colleague, about company rules such as vacation, working from home, lunch, and expenses. Thank them and ask follow-up questions when they are unsure."
+    }
+  },
+  {
+    "n": 29,
+    "lv": "intermediate",
+    "pattern": "I can't help ~ing",
+    "title": "~하지 않을 수가 없어요 · 참을 수 없는 감정 말하기",
+    "tip": "어떤 상황에서 감정이나 행동을 억누르기 어려울 때 쓰는 표현입니다. help 뒤에는 ~ing 형태가 와요. 웃음, 걱정, 생각 같은 자연스러운 반응에 자주 쓰입니다.",
+    "items": [
+      {
+        "ko": "그때 일이 생각나서 웃지 않을 수가 없어요.",
+        "en": "I can't help laughing when I think about it.",
+        "alt": [
+          "I can't help laughing whenever I think about it."
+        ]
+      },
+      {
+        "ko": "저는 그 실수를 생각하면 자꾸 부끄러워져요.",
+        "en": "I can't help feeling embarrassed about that mistake.",
+        "alt": [
+          "I can't help feeling ashamed about that mistake."
+        ]
+      },
+      {
+        "ko": "저는 그 사진을 보면 웃음이 나와요.",
+        "en": "I can't help smiling at that photo.",
+        "alt": [
+          "I can't help smiling when I see that photo."
+        ]
+      },
+      {
+        "ko": "그가 이름을 잘못 불렀을 때 웃음을 참을 수 없었어요.",
+        "en": "I couldn't help laughing when he said the wrong name.",
+        "alt": [
+          "I couldn't help but laugh when he said the wrong name."
+        ]
+      },
+      {
+        "ko": "저는 그 일을 계속 생각하게 돼요.",
+        "en": "I can't help thinking about it.",
+        "alt": [
+          "I can't stop thinking about it."
+        ]
+      },
+      {
+        "ko": "저는 이 이야기를 친구들에게 말하지 않을 수가 없어요.",
+        "en": "I can't help telling my friends this story.",
+        "alt": [
+          "I can't help telling my friends about this."
+        ]
+      },
+      {
+        "ko": "저는 그가 걱정되지 않을 수가 없어요.",
+        "en": "I can't help worrying about him.",
+        "alt": [
+          "I can't help being worried about him."
+        ]
+      },
+      {
+        "ko": "저는 케이크를 보면 먹지 않을 수가 없어요.",
+        "en": "I can't help eating cake when I see it.",
+        "alt": [
+          "I can't help eating it when I see cake."
+        ]
+      },
+      {
+        "ko": "저는 그녀가 말할 때마다 귀 기울이지 않을 수가 없어요.",
+        "en": "I can't help listening when she talks.",
+        "alt": [
+          "I can't help listening whenever she talks."
+        ]
+      },
+      {
+        "ko": "저는 그 장면이 떠오르면 웃음이 터져요.",
+        "en": "I can't help laughing when I remember that scene.",
+        "alt": [
+          "I can't help laughing when I picture that scene."
+        ]
+      }
+    ],
+    "chat": {
+      "title": "웃긴 실수 이야기 나누기",
+      "you": "친구",
+      "ai": "친구",
+      "goal": "친구에게 최근에 한 웃기고 창피한 실수를 이야기하며 I can't help ~ing 를 써 보세요. 친구의 반응에도 대답해 보세요.",
+      "setting": "You are the user's close friend. They are about to tell you about a funny, embarrassing mistake they made recently. React with curiosity and laugh, ask follow-up questions, and share a small embarrassing story of your own."
+    }
+  },
+  {
+    "n": 30,
+    "lv": "intermediate",
+    "pattern": "I'm used to ~ing",
+    "title": "~하는 데 익숙해요 · 익숙함과 적응 말하기",
+    "tip": "어떤 일에 익숙해져 있다는 말입니다. to 뒤에 ~ing를 붙이는 게 핵심이고, 동사원형을 쓰지 않도록 주의하세요. 새로 익숙해지는 중이라면 I'm getting used to ~ing 로 말해요.",
+    "items": [
+      {
+        "ko": "저는 일찍 일어나는 데 익숙해요.",
+        "en": "I'm used to waking up early.",
+        "alt": [
+          "I am used to getting up early.",
+          "I'm used to getting up early."
+        ]
+      },
+      {
+        "ko": "저는 혼자 사는 데 익숙해요.",
+        "en": "I'm used to living on my own.",
+        "alt": [
+          "I'm used to living alone.",
+          "I am used to living by myself."
+        ]
+      },
+      {
+        "ko": "저는 매운 음식을 먹는 데 익숙해요.",
+        "en": "I'm used to eating spicy food.",
+        "alt": [
+          "I am used to eating spicy food."
+        ]
+      },
+      {
+        "ko": "저는 추운 날씨에 익숙하지 않아요.",
+        "en": "I'm not used to cold weather.",
+        "alt": [
+          "I am not used to the cold weather.",
+          "I'm not used to the cold."
+        ]
+      },
+      {
+        "ko": "저는 영어로 말하는 데 아직 익숙하지 않아요.",
+        "en": "I'm not used to speaking English yet.",
+        "alt": [
+          "I am not used to speaking English yet.",
+          "I'm not used to speaking in English yet."
+        ]
+      },
+      {
+        "ko": "저는 지하철로 출근하는 데 익숙해요.",
+        "en": "I'm used to taking the subway to work.",
+        "alt": [
+          "I am used to taking the subway to work.",
+          "I'm used to commuting by subway."
+        ]
+      },
+      {
+        "ko": "저는 시차에 아직 익숙해지지 않았어요.",
+        "en": "I'm not used to the time difference yet.",
+        "alt": [
+          "I am not used to the time difference yet.",
+          "I'm not used to the jet lag yet."
+        ]
+      },
+      {
+        "ko": "저는 늦게 자는 데 익숙해요.",
+        "en": "I'm used to going to bed late.",
+        "alt": [
+          "I am used to staying up late.",
+          "I'm used to staying up late."
+        ]
+      },
+      {
+        "ko": "저는 혼자 요리하는 데 익숙하지 않아요.",
+        "en": "I'm not used to cooking for myself.",
+        "alt": [
+          "I am not used to cooking for myself.",
+          "I'm not used to cooking alone."
+        ]
+      },
+      {
+        "ko": "저는 새로운 사람들을 만나는 데 익숙해요.",
+        "en": "I'm used to meeting new people.",
+        "alt": [
+          "I am used to meeting new people."
+        ]
+      }
+    ],
+    "chat": {
+      "title": "교환학생과 적응 이야기",
+      "you": "현지 친구",
+      "ai": "교환학생",
+      "goal": "새 나라에서 적응 중인 교환학생에게 질문하고, I'm used to ~ing 로 자신이 익숙한 것과 아직 익숙하지 않은 것을 말해 보세요.",
+      "setting": "You are an exchange student who recently arrived in the user's country. You are friendly but still adjusting to the food, the weather, the language, and the schedule. Ask the user questions and tell them what you are not used to yet."
+    }
+  }
+]

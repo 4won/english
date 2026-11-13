@@ -1,0 +1,30 @@
+1|touch base; a ballpark figure; on the fence; loop in; circle back; heads up; touch on; run it by; bring to the table; on board
+2|get the ball rolling; drop the ball; take the lead; hit the ground running; back to the drawing board; in the pipeline; on the back burner; up in the air; at stake; in the red
+3|meet the deadline; stay on track; fall behind schedule; ahead of the curve; wrap up; tie up loose ends; push the deadline; run behind; cut it close; down to the wire
+4|take it offline; table the discussion; put it on the agenda; raise a concern; flag an issue; weigh in; chime in; speak up for; talk through; go over the details
+5|a win-win situation; a tough sell; a deal breaker; a sticking point; common ground; meet halfway; bargaining chip; split the difference; close the deal; seal the deal
+6|raise the bar; set the tone; lead by example; set a precedent; call the shots; pull strings; have a say; take responsibility for; hold accountable; pass the buck
+7|cut corners; cut costs; cut back on; scale back; rein in spending; tighten the belt; stretch the budget; run over budget; break the bank; foot the bill
+8|in the long run; in the short term; at the end of the day; all things considered; by and large; for the most part; on balance; to a certain extent; in the grand scheme of things; when it comes down to it
+9|a steep learning curve; a rough patch; a silver lining; a golden opportunity; a gray area; a double standard; a vicious circle; a lose-lose situation; a necessary evil; a mixed bag
+10|get the green light; give the go-ahead; sign off on; rubber-stamp; clear the way; pave the way; open the door to; lay the groundwork; set the stage; plant the seeds
+11|think outside the box; brainstorm ideas; throw around ideas; bounce ideas off; get the picture; put your heads together; come up with a solution; reinvent the wheel; back to basics; a game changer
+12|read the fine print; raise the question; get back to you; reach out to; follow through; follow suit; stay in the loop; out of the loop; on short notice; at your earliest convenience
+13|be swamped with; be snowed under; burn the midnight oil; work around the clock; pull an all-nighter; put in extra hours; wear many hats; juggle priorities; spread yourself thin; bite off more than you can chew
+14|call in sick; take a day off; work from home; be on leave; clock in; clock out; hand in your notice; land a job; get promoted; climb the corporate ladder
+15|learn the ropes; strike while the iron is hot; get up to speed; have it both ways; on the job; hands-on experience; a track record; a fast learner; a team player; a self-starter
+16|come across as; give the impression; make a good impression; leave a lasting impression; read the room; put your best foot forward; play it by ear; wing it; stick to the script; stay on message
+17|it goes without saying; needless to say; to put it mildly; to be fair; to make matters worse; to cut a long story short; for what it's worth; if you ask me; speaking of which; come to think of it
+18|make a strong case; play devil's advocate; throw in the towel; take on board; take into account; take into consideration; take issue with; take it with a grain of salt; take a stand; take sides
+19|beyond a shadow of a doubt; in all likelihood; more often than not; few and far between; hit or miss; touch and go; up and running; ups and downs; pros and cons; give and take
+20|run into trouble; hit a snag; hit a wall; reach a dead end; run out of steam; lose momentum; gain traction; pick up speed; get off the ground; hit the jackpot
+21|bear in mind; keep tabs on; keep a low profile; keep your options open; keep the peace; keep your head above water; keep a straight face; keep your fingers crossed; keep something under wraps; keep it short
+22|play it safe; play hardball; play it cool; play for time; play down; play up; play along; play a part; play by the rules; play your cards right
+23|put your foot down; put your cards on the table; put things in perspective; put it bluntly; run the risk; put something to the test; put a stop to; put the blame on; put at risk; come up short
+24|make waves; lay out the options; catch up on; catch the drift; catch wind of; catch your breath; catch a break; catch fire; catch the eye; catch on to
+25|hold your ground; hold your tongue; hold the fort; hold the line; hold back; hold off; pick up the slack; hold water; hold out hope; hold your own
+26|pull your weight; pull the plug; pull some strings; pull a fast one; pull out all the stops; pull yourself together; pull the rug out from under; pull ahead; pull back; pull apart
+27|rock the boat; miss the boat; take the initiative; burn bridges; cross that bridge when we come to it; jump on the bandwagon; fall through the cracks; slip through the net; swim against the tide; go against the grain
+28|by the book; off the record; on the record; off the top of my head; behind the scenes; under the radar; in the spotlight; out of the question; beyond our control; within reach
+29|a matter of opinion; a blessing and a curse; a fine line; a close-knit team; a hot topic; a long way off; a step in the right direction; a leap of faith; a tall order; a far cry from
+30|come to a head; come into play; come to light; come under fire; come down to; come in handy; come to grips with; come to a standstill; come full circle; come out ahead

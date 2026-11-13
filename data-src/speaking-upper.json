@@ -1,0 +1,962 @@
+[
+ {
+  "n": 31,
+  "lv": "upper",
+  "pattern": "It might be worth ~ing",
+  "title": "~해 볼 만할 수도 있어요 · 완곡하게 제안하기",
+  "tip": "상대의 방식을 바꾸자고 직접 말하기 부담스러울 때 쓰는 부드러운 제안 표현입니다. might 덕분에 강요하는 느낌이 줄어들고, worth 뒤에는 동사원형이 아니라 ~ing가 온다는 점에 주의하세요. It could be worth ~ing이나 It may be worth ~ing으로도 말할 수 있습니다.",
+  "items": [
+   {
+    "ko": "회의 전에 안건을 미리 공유해 보는 것도 좋겠어요.",
+    "en": "It might be worth sharing the agenda before the meeting.",
+    "alt": [
+     "It could be worth sharing the agenda before the meeting.",
+     "It may be worth sharing the agenda before the meeting."
+    ]
+   },
+   {
+    "ko": "주간 보고 방식을 바꿔 볼 만할 수도 있어요.",
+    "en": "It might be worth changing how we do the weekly reports.",
+    "alt": [
+     "It could be worth changing how we do the weekly reports.",
+     "It might be worth changing the way we do the weekly reports."
+    ]
+   },
+   {
+    "ko": "새 도구를 시범적으로 써 보는 것도 괜찮을 것 같아요.",
+    "en": "It might be worth trying the new tool on a small project.",
+    "alt": [
+     "It could be worth trying the new tool on a small project.",
+     "It might be worth testing the new tool on a small project."
+    ]
+   },
+   {
+    "ko": "고객에게 먼저 확인해 보는 게 좋을 수도 있어요.",
+    "en": "It might be worth checking with the client first.",
+    "alt": [
+     "It could be worth checking with the client first.",
+     "It might be worth asking the client first."
+    ]
+   },
+   {
+    "ko": "업무 절차를 문서로 정리해 두는 것도 좋겠어요.",
+    "en": "It might be worth writing down the process in a short document.",
+    "alt": [
+     "It could be worth documenting the process in a short document.",
+     "It might be worth putting the process in writing."
+    ]
+   },
+   {
+    "ko": "회의 시간을 반으로 줄이는 것도 고려해 볼 만해요.",
+    "en": "It might be worth cutting the meeting time in half.",
+    "alt": [
+     "It could be worth cutting the meeting time in half.",
+     "It might be worth shortening the meeting by half."
+    ]
+   },
+   {
+    "ko": "다른 팀의 의견도 들어 보는 게 좋을 수도 있어요.",
+    "en": "It might be worth hearing what the other teams think.",
+    "alt": [
+     "It could be worth hearing what the other teams think.",
+     "It might be worth listening to the other teams."
+    ]
+   },
+   {
+    "ko": "이번 분기에는 교육에 투자해 볼 만도 해요.",
+    "en": "It might be worth investing in training this quarter.",
+    "alt": [
+     "It could be worth investing in training this quarter.",
+     "It might be worth spending money on training this quarter."
+    ]
+   },
+   {
+    "ko": "담당자를 한 명 더 두는 것도 생각해 볼 만해요.",
+    "en": "It might be worth adding one more person to the team.",
+    "alt": [
+     "It could be worth adding one more person to the team.",
+     "It might be worth assigning one more person to the team."
+    ]
+   },
+   {
+    "ko": "마감 전에 한 번 더 검토해 보는 게 좋겠어요.",
+    "en": "It might be worth reviewing everything once more before the deadline.",
+    "alt": [
+     "It could be worth reviewing everything once more before the deadline.",
+     "It might be worth doing one more review before the deadline."
+    ]
+   }
+  ],
+  "chat": {
+   "title": "주간 회의에서 개선안 제안하기",
+   "you": "팀 구성원",
+   "ai": "팀장",
+   "goal": "주간 회의에서 업무 방식 개선안 두세 가지를 완곡하게 제안하고, 팀장의 우려에 답해 보세요.",
+   "setting": "You are a team leader running a weekly meeting. A team member wants to suggest process changes. Listen, ask about the benefits and risks of each idea, and politely raise one concern. Keep your replies short."
+  }
+ },
+ {
+  "n": 32,
+  "lv": "upper",
+  "pattern": "What I'm trying to say is ~",
+  "title": "제가 말씀드리려는 건 ~예요 · 요점 다시 설명하기",
+  "tip": "상대가 내 말을 오해했거나 핵심이 전달되지 않았을 때 요점을 다시 짚는 표현입니다. 말투가 날카롭지 않아 고객이나 상사에게도 쓸 수 있어요. What I mean is ~나 My point is ~로 바꿔 말해도 됩니다.",
+  "items": [
+   {
+    "ko": "제가 말씀드리려는 건 일정이 더 필요하다는 거예요.",
+    "en": "What I'm trying to say is that we need more time.",
+    "alt": [
+     "What I mean is that we need more time.",
+     "What I am trying to say is that we need more time."
+    ]
+   },
+   {
+    "ko": "제가 말하려는 건 이 범위에 디자인은 포함되지 않는다는 거예요.",
+    "en": "What I'm trying to say is that design is not included in this scope.",
+    "alt": [
+     "What I mean is that design is not included in this scope.",
+     "What I'm trying to say is design is not part of this scope."
+    ]
+   },
+   {
+    "ko": "제 말은 비용이 처음 견적과 다르다는 뜻이에요.",
+    "en": "What I'm trying to say is that the cost differs from the first estimate.",
+    "alt": [
+     "What I mean is that the cost is different from the first estimate.",
+     "What I'm trying to say is the cost has changed from the first estimate."
+    ]
+   },
+   {
+    "ko": "제가 하려는 말은 추가 작업은 별도 요금이 든다는 거예요.",
+    "en": "What I'm trying to say is that extra work costs extra money.",
+    "alt": [
+     "What I mean is that additional work is charged separately.",
+     "What I'm trying to say is that extra work is charged separately."
+    ]
+   },
+   {
+    "ko": "제가 말씀드리려는 건 지금 결정을 서두르지 말자는 거예요.",
+    "en": "What I'm trying to say is that we shouldn't rush the decision.",
+    "alt": [
+     "What I mean is that we shouldn't rush the decision.",
+     "What I'm trying to say is we should not rush this decision."
+    ]
+   },
+   {
+    "ko": "제 요점은 우리 팀이 이 일을 혼자 할 수 없다는 거예요.",
+    "en": "What I'm trying to say is that our team can't do this alone.",
+    "alt": [
+     "What I mean is that our team cannot do this alone.",
+     "What I'm trying to say is we can't handle this on our own."
+    ]
+   },
+   {
+    "ko": "제가 전하고 싶은 건 품질이 가장 중요하다는 거예요.",
+    "en": "What I'm trying to say is that quality matters the most.",
+    "alt": [
+     "What I mean is that quality matters the most.",
+     "What I'm trying to say is quality is the most important thing."
+    ]
+   },
+   {
+    "ko": "제 말씀은 계약서 내용을 다시 확인해야 한다는 거예요.",
+    "en": "What I'm trying to say is that we need to recheck the contract.",
+    "alt": [
+     "What I mean is that we need to check the contract again.",
+     "What I'm trying to say is we have to review the contract again."
+    ]
+   },
+   {
+    "ko": "제가 말하려는 건 거절하는 게 아니라 조정하자는 거예요.",
+    "en": "What I'm trying to say is that we're not refusing, just adjusting.",
+    "alt": [
+     "What I mean is that we're not refusing, just adjusting.",
+     "What I'm trying to say is we are not saying no, only adjusting."
+    ]
+   },
+   {
+    "ko": "제가 말씀드리려는 건 고객의 기대치를 먼저 맞추자는 거예요.",
+    "en": "What I'm trying to say is that we should align expectations first.",
+    "alt": [
+     "What I mean is that we should align expectations first.",
+     "What I'm trying to say is we need to align expectations first."
+    ]
+   }
+  ],
+  "chat": {
+   "title": "고객과 프로젝트 범위 오해 풀기",
+   "you": "프로젝트 담당자",
+   "ai": "고객사 담당자",
+   "goal": "고객이 오해한 프로젝트 범위를 차분하게 다시 설명하고, 추가 비용이나 일정에 대한 요점도 짚어 보세요.",
+   "setting": "You are a client who believes that a website project should include a mobile app, and you are slightly annoyed. The learner is the project manager who must clarify the scope. Push back politely at first, then calm down when the explanation is clear."
+  }
+ },
+ {
+  "n": 33,
+  "lv": "upper",
+  "pattern": "Let me get back to you on ~",
+  "title": "~는 확인 후 다시 연락드릴게요 · 답변 보류하기",
+  "tip": "즉답하기 어려운 질문을 받았을 때 시간을 벌면서도 성의 있게 보이는 표현입니다. on 뒤에는 질문의 주제가 오고, 언제까지 답할지 덧붙이면 훨씬 믿음직해요. Let me get back to you about ~이나 I'll get back to you on ~도 자주 씁니다.",
+  "items": [
+   {
+    "ko": "가격 문제는 확인한 뒤 다시 연락드릴게요.",
+    "en": "Let me get back to you on the pricing.",
+    "alt": [
+     "I'll get back to you on the pricing.",
+     "Let me get back to you about the pricing."
+    ]
+   },
+   {
+    "ko": "할인율은 내일까지 확인해서 알려 드릴게요.",
+    "en": "Let me get back to you on the discount rate by tomorrow.",
+    "alt": [
+     "I'll get back to you on the discount rate by tomorrow.",
+     "Let me get back to you about the discount by tomorrow."
+    ]
+   },
+   {
+    "ko": "납기일은 팀에 물어보고 다시 말씀드릴게요.",
+    "en": "Let me get back to you on the delivery date after I ask my team.",
+    "alt": [
+     "I'll get back to you on the delivery date after I ask my team.",
+     "Let me get back to you about the delivery date after checking with my team."
+    ]
+   },
+   {
+    "ko": "그 조건은 오늘 오후에 다시 연락드릴게요.",
+    "en": "Let me get back to you on that condition this afternoon.",
+    "alt": [
+     "I'll get back to you on that condition this afternoon.",
+     "Let me get back to you about that condition this afternoon."
+    ]
+   },
+   {
+    "ko": "계약 기간은 법무팀 확인 후 답변드리겠습니다.",
+    "en": "Let me get back to you on the contract term after legal reviews it.",
+    "alt": [
+     "I'll get back to you on the contract term after legal reviews it.",
+     "Let me get back to you about the contract period once legal checks it."
+    ]
+   },
+   {
+    "ko": "재고 상황은 확인하고 바로 알려 드릴게요.",
+    "en": "Let me get back to you on the stock situation right away.",
+    "alt": [
+     "I'll get back to you on the stock situation right away.",
+     "Let me get back to you about the stock situation right away."
+    ]
+   },
+   {
+    "ko": "대량 구매 조건은 이번 주 안에 다시 연락드릴게요.",
+    "en": "Let me get back to you on the bulk order terms this week.",
+    "alt": [
+     "I'll get back to you on the bulk order terms this week.",
+     "Let me get back to you about the bulk order terms this week."
+    ]
+   },
+   {
+    "ko": "추가 비용은 정확히 계산한 뒤 알려 드릴게요.",
+    "en": "Let me get back to you on the extra cost once I calculate it.",
+    "alt": [
+     "I'll get back to you on the extra cost once I calculate it.",
+     "Let me get back to you about the extra cost after I calculate it."
+    ]
+   },
+   {
+    "ko": "그 문의는 담당자에게 확인하고 연락드리겠습니다.",
+    "en": "Let me get back to you on that question after I check with the manager.",
+    "alt": [
+     "I'll get back to you on that question after I check with the manager.",
+     "Let me get back to you about that question after talking to the manager."
+    ]
+   },
+   {
+    "ko": "환불 절차는 정리해서 이메일로 다시 알려 드릴게요.",
+    "en": "Let me get back to you on the refund process by email.",
+    "alt": [
+     "I'll get back to you on the refund process by email.",
+     "Let me get back to you about the refund process by email."
+    ]
+   }
+  ],
+  "chat": {
+   "title": "까다로운 가격 질문 받기",
+   "you": "영업 담당자",
+   "ai": "고객",
+   "goal": "고객의 난처한 질문 두세 가지에 즉답하지 않고, 확인 후 답변할 시점을 구체적으로 약속해 보세요.",
+   "setting": "You are a customer calling a sales representative about a quote. Ask tough questions about price, discounts, and delivery that the representative cannot answer immediately. Press for a clear time when you will hear back."
+  }
+ },
+ {
+  "n": 34,
+  "lv": "upper",
+  "pattern": "I'd like to follow up on ~",
+  "title": "~에 대해 후속 논의를 하고 싶어요 · 이전 대화 이어가기",
+  "tip": "지난 회의나 통화에서 다룬 주제를 이어서 확인할 때 쓰는 전화·이메일 단골 표현입니다. on 뒤에 지난 논의 주제를 붙이면 됩니다. I'm calling to follow up on ~이라고 하면 전화 첫마디로도 자연스러워요.",
+  "items": [
+   {
+    "ko": "지난주 회의에서 논의한 견적에 대해 이어서 이야기하고 싶어요.",
+    "en": "I'd like to follow up on the quote we discussed last week.",
+    "alt": [
+     "I would like to follow up on the quote we discussed last week.",
+     "I'd like to follow up on last week's quote."
+    ]
+   },
+   {
+    "ko": "보내 드린 제안서에 대해 후속 연락을 드리고 싶습니다.",
+    "en": "I'd like to follow up on the proposal I sent you.",
+    "alt": [
+     "I would like to follow up on the proposal I sent you.",
+     "I'd like to follow up on the proposal that I sent."
+    ]
+   },
+   {
+    "ko": "지난 통화에서 말씀하신 납기 문제를 이어서 확인하고 싶어요.",
+    "en": "I'd like to follow up on the delivery issue from our last call.",
+    "alt": [
+     "I would like to follow up on the delivery issue from our last call.",
+     "I'd like to follow up on the delivery problem from our last call."
+    ]
+   },
+   {
+    "ko": "샘플 검토 결과에 대해 여쭙고 싶습니다.",
+    "en": "I'd like to follow up on the sample review.",
+    "alt": [
+     "I would like to follow up on the sample review.",
+     "I'd like to follow up on the results of the sample review."
+    ]
+   },
+   {
+    "ko": "계약서 수정 사항에 대해 확인하고 싶습니다.",
+    "en": "I'd like to follow up on the changes to the contract.",
+    "alt": [
+     "I would like to follow up on the changes to the contract.",
+     "I'd like to follow up on the contract revisions."
+    ]
+   },
+   {
+    "ko": "저희가 이야기했던 결제 일정에 대해 이어서 논의하고 싶어요.",
+    "en": "I'd like to follow up on the payment schedule we talked about.",
+    "alt": [
+     "I would like to follow up on the payment schedule we talked about.",
+     "I'd like to follow up on the payment schedule we discussed."
+    ]
+   },
+   {
+    "ko": "어제 회의에서 나온 질문들에 대해 후속 논의를 하고 싶습니다.",
+    "en": "I'd like to follow up on the questions from yesterday's meeting.",
+    "alt": [
+     "I would like to follow up on the questions from yesterday's meeting.",
+     "I'd like to follow up on the questions we raised yesterday."
+    ]
+   },
+   {
+    "ko": "제가 요청드린 자료에 대해 진행 상황을 여쭙고 싶어요.",
+    "en": "I'd like to follow up on the documents I requested.",
+    "alt": [
+     "I would like to follow up on the documents I requested.",
+     "I'd like to follow up on the files I asked for."
+    ]
+   },
+   {
+    "ko": "신제품 도입 건에 대해 다시 이야기를 나누고 싶습니다.",
+    "en": "I'd like to follow up on the new product introduction.",
+    "alt": [
+     "I would like to follow up on the new product introduction.",
+     "I'd like to follow up on the launch of the new product."
+    ]
+   },
+   {
+    "ko": "지난번 말씀하신 우려 사항에 대해 후속 논의를 하고 싶어요.",
+    "en": "I'd like to follow up on the concerns you mentioned last time.",
+    "alt": [
+     "I would like to follow up on the concerns you mentioned last time.",
+     "I'd like to follow up on the concerns you raised last time."
+    ]
+   }
+  ],
+  "chat": {
+   "title": "회의 후 거래처에 후속 전화하기",
+   "you": "구매 담당자",
+   "ai": "거래처 영업 담당자",
+   "goal": "지난주 회의에서 다룬 견적과 납기 문제를 이어서 확인하고, 다음 단계와 일정을 정해 보세요.",
+   "setting": "You are a sales representative at a supplier. The learner is calling you after a meeting last week to follow up on a quote and delivery timing. Remember the meeting loosely, answer questions, and agree on the next steps and a date."
+  }
+ },
+ {
+  "n": 35,
+  "lv": "upper",
+  "pattern": "I see your point, but ~",
+  "title": "일리는 있지만 ~예요 · 정중하게 반박하기",
+  "tip": "상대 의견을 먼저 인정한 뒤 내 생각을 말해서 충돌을 줄이는 표현입니다. 상사나 고객에게 반대할 때도 부담이 적어요. I see where you're coming from, but ~이나 That's a fair point, but ~로 바꿔 쓸 수도 있습니다.",
+  "items": [
+   {
+    "ko": "일리는 있지만, 출시일이 너무 빠른 것 같아요.",
+    "en": "I see your point, but the launch date seems too early.",
+    "alt": [
+     "I see your point, but I think the launch date is too early.",
+     "I see your point, but the launch date looks too early."
+    ]
+   },
+   {
+    "ko": "말씀하신 건 이해하지만, 테스트할 시간이 부족해요.",
+    "en": "I see your point, but we don't have enough time to test.",
+    "alt": [
+     "I see your point, but we do not have enough time for testing.",
+     "I see your point, but there isn't enough time to test."
+    ]
+   },
+   {
+    "ko": "일리는 있지만, 고객이 아직 준비되지 않았을 수도 있어요.",
+    "en": "I see your point, but our customers may not be ready yet.",
+    "alt": [
+     "I see your point, but the customers might not be ready yet.",
+     "I see your point, but maybe our customers aren't ready yet."
+    ]
+   },
+   {
+    "ko": "맞는 말씀이지만, 예산이 그걸 감당하지 못해요.",
+    "en": "I see your point, but the budget can't cover that.",
+    "alt": [
+     "I see your point, but the budget cannot cover that.",
+     "I see your point, but we can't afford that with this budget."
+    ]
+   },
+   {
+    "ko": "이해는 하지만, 팀이 이미 너무 바빠요.",
+    "en": "I see your point, but the team is already too busy.",
+    "alt": [
+     "I see your point, but my team is already overloaded.",
+     "I see your point, but the team already has too much work."
+    ]
+   },
+   {
+    "ko": "일리는 있지만, 위험이 더 크다고 생각해요.",
+    "en": "I see your point, but I think the risk is higher.",
+    "alt": [
+     "I see your point, but I believe the risk is higher.",
+     "I see your point, but the risk seems higher to me."
+    ]
+   },
+   {
+    "ko": "말씀하신 점은 알겠지만, 경쟁사는 벌써 움직였어요.",
+    "en": "I see your point, but our competitors have already moved.",
+    "alt": [
+     "I see your point, but our competitors already made their move.",
+     "I see your point, but the competition has already moved."
+    ]
+   },
+   {
+    "ko": "이해는 되지만, 데이터는 다른 이야기를 하고 있어요.",
+    "en": "I see your point, but the data tells a different story.",
+    "alt": [
+     "I see your point, but the numbers tell a different story.",
+     "I see your point, but the data says something different."
+    ]
+   },
+   {
+    "ko": "일리는 있지만, 한 번만 더 검토해 보면 어떨까요?",
+    "en": "I see your point, but could we review it just once more?",
+    "alt": [
+     "I see your point, but can we review it one more time?",
+     "I see your point, but shall we look at it once more?"
+    ]
+   },
+   {
+    "ko": "그 점은 이해하지만, 품질이 떨어질까 걱정돼요.",
+    "en": "I see your point, but I'm worried the quality will suffer.",
+    "alt": [
+     "I see your point, but I am worried about the quality.",
+     "I see your point, but I'm concerned the quality will drop."
+    ]
+   }
+  ],
+  "chat": {
+   "title": "출시일을 두고 상사와 의견 조율하기",
+   "you": "프로젝트 담당자",
+   "ai": "상사",
+   "goal": "상사가 정한 출시일에 정중하게 반대하며, 위험과 대안을 두세 가지 제시해 보세요.",
+   "setting": "You are a manager who wants to launch a product next month, earlier than planned. The learner is a team member who disagrees. Defend your reasons, then listen and consider their alternatives. Stay firm but fair."
+  }
+ },
+ {
+  "n": 36,
+  "lv": "upper",
+  "pattern": "We should take ~ into account",
+  "title": "~를 고려해야 해요 · 변수 짚어 주기",
+  "tip": "계획이나 숫자를 검토할 때 빠뜨리기 쉬운 변수를 짚어 주는 표현입니다. take와 into account 사이에 고려할 대상이 들어가며, 대상이 길면 We should take into account ~ 순서로 써도 됩니다. We need to take ~ into consideration도 같은 뜻이에요.",
+  "items": [
+   {
+    "ko": "환율 변동도 고려해야 해요.",
+    "en": "We should take the exchange rate into account.",
+    "alt": [
+     "We should take exchange rate changes into account.",
+     "We need to take the exchange rate into account."
+    ]
+   },
+   {
+    "ko": "물류 비용도 고려해야 해요.",
+    "en": "We should take the shipping costs into account.",
+    "alt": [
+     "We should take shipping costs into account.",
+     "We need to take the shipping costs into account."
+    ]
+   },
+   {
+    "ko": "계절적 수요 변화를 고려해야 해요.",
+    "en": "We should take seasonal demand into account.",
+    "alt": [
+     "We should take seasonal changes in demand into account.",
+     "We need to take seasonal demand into account."
+    ]
+   },
+   {
+    "ko": "인건비 상승도 고려해야 합니다.",
+    "en": "We should take rising labor costs into account.",
+    "alt": [
+     "We should take the rise in labor costs into account.",
+     "We need to take rising labor costs into account."
+    ]
+   },
+   {
+    "ko": "고객의 피드백을 고려해야 해요.",
+    "en": "We should take customer feedback into account.",
+    "alt": [
+     "We need to take customer feedback into account.",
+     "We should take the customers' feedback into account."
+    ]
+   },
+   {
+    "ko": "경쟁사 가격도 고려해야 합니다.",
+    "en": "We should take our competitors' prices into account.",
+    "alt": [
+     "We should take competitor prices into account.",
+     "We need to take our competitors' prices into account."
+    ]
+   },
+   {
+    "ko": "예상치 못한 지출도 고려해야 해요.",
+    "en": "We should take unexpected expenses into account.",
+    "alt": [
+     "We need to take unexpected expenses into account.",
+     "We should take unexpected costs into account."
+    ]
+   },
+   {
+    "ko": "세금 문제도 고려해야 합니다.",
+    "en": "We should take the tax issue into account.",
+    "alt": [
+     "We should take taxes into account.",
+     "We need to take the tax issue into account."
+    ]
+   },
+   {
+    "ko": "공급업체의 납기 지연 가능성도 고려해야 해요.",
+    "en": "We should take possible supplier delays into account.",
+    "alt": [
+     "We need to take possible supplier delays into account.",
+     "We should take the chance of supplier delays into account."
+    ]
+   },
+   {
+    "ko": "팀의 업무량도 고려해야 합니다.",
+    "en": "We should take the team's workload into account.",
+    "alt": [
+     "We need to take the team's workload into account.",
+     "We should take the workload of the team into account."
+    ]
+   }
+  ],
+  "chat": {
+   "title": "예산안 검토 회의",
+   "you": "사업팀 담당자",
+   "ai": "재무팀 담당자",
+   "goal": "재무팀과 예산안을 검토하면서 빠진 변수를 두세 가지 짚고, 어떻게 반영할지 논의해 보세요.",
+   "setting": "You are a finance team member reviewing a budget proposal from a business team member. Ask how the numbers were calculated, and respond to the factors that the learner says should be taken into account. Suggest how to adjust the budget."
+  }
+ },
+ {
+  "n": 37,
+  "lv": "upper",
+  "pattern": "I'm afraid we won't be able to ~",
+  "title": "~하기는 어려울 것 같습니다 · 정중하게 거절하기",
+  "tip": "고객의 요청을 정중하게 거절하거나 나쁜 소식을 전할 때 쓰는 표현입니다. I'm afraid가 앞에 붙으면 단호함이 줄고 유감스러운 느낌이 더해져요. 이유나 대안을 함께 말하면 더 좋습니다. Unfortunately, we won't be able to ~도 같은 뜻이에요.",
+  "items": [
+   {
+    "ko": "죄송하지만 더 빠른 날짜에 납품하기는 어려울 것 같습니다.",
+    "en": "I'm afraid we won't be able to deliver any earlier.",
+    "alt": [
+     "Unfortunately, we won't be able to deliver any earlier.",
+     "I'm afraid we will not be able to deliver any earlier."
+    ]
+   },
+   {
+    "ko": "죄송하지만 이번 주까지 끝내기는 어려울 것 같아요.",
+    "en": "I'm afraid we won't be able to finish by the end of this week.",
+    "alt": [
+     "Unfortunately, we won't be able to finish by the end of this week.",
+     "I'm afraid we won't be able to finish this week."
+    ]
+   },
+   {
+    "ko": "유감이지만 그 가격을 맞추기는 어려울 것 같습니다.",
+    "en": "I'm afraid we won't be able to match that price.",
+    "alt": [
+     "Unfortunately, we won't be able to match that price.",
+     "I'm afraid we will not be able to match that price."
+    ]
+   },
+   {
+    "ko": "죄송하지만 추가 주문을 받기는 어려울 것 같습니다.",
+    "en": "I'm afraid we won't be able to accept additional orders.",
+    "alt": [
+     "Unfortunately, we won't be able to accept additional orders.",
+     "I'm afraid we won't be able to take any more orders."
+    ]
+   },
+   {
+    "ko": "죄송하지만 이번에는 환불해 드리기 어려울 것 같아요.",
+    "en": "I'm afraid we won't be able to give you a refund this time.",
+    "alt": [
+     "Unfortunately, we won't be able to give you a refund this time.",
+     "I'm afraid we won't be able to refund you this time."
+    ]
+   },
+   {
+    "ko": "유감이지만 그 요청을 수용하기는 어려울 것 같습니다.",
+    "en": "I'm afraid we won't be able to accommodate that request.",
+    "alt": [
+     "Unfortunately, we won't be able to accommodate that request.",
+     "I'm afraid we won't be able to meet that request."
+    ]
+   },
+   {
+    "ko": "죄송하지만 내일 회의에 참석하기는 어려울 것 같습니다.",
+    "en": "I'm afraid we won't be able to attend tomorrow's meeting.",
+    "alt": [
+     "Unfortunately, we won't be able to attend tomorrow's meeting.",
+     "I'm afraid we won't be able to make tomorrow's meeting."
+    ]
+   },
+   {
+    "ko": "죄송하지만 그 기능을 이번 버전에 넣기는 어려울 것 같아요.",
+    "en": "I'm afraid we won't be able to include that feature in this version.",
+    "alt": [
+     "Unfortunately, we won't be able to include that feature in this version.",
+     "I'm afraid we won't be able to add that feature to this version."
+    ]
+   },
+   {
+    "ko": "죄송하지만 오늘 안에 답변을 드리기는 어려울 것 같습니다.",
+    "en": "I'm afraid we won't be able to reply to you today.",
+    "alt": [
+     "Unfortunately, we won't be able to reply to you today.",
+     "I'm afraid we won't be able to give you an answer today."
+    ]
+   },
+   {
+    "ko": "유감이지만 계약 조건을 지금 바꾸기는 어려울 것 같습니다.",
+    "en": "I'm afraid we won't be able to change the contract terms now.",
+    "alt": [
+     "Unfortunately, we won't be able to change the contract terms now.",
+     "I'm afraid we won't be able to change the terms of the contract now."
+    ]
+   }
+  ],
+  "chat": {
+   "title": "앞당긴 납기 요청 거절하기",
+   "you": "공급업체 담당자",
+   "ai": "고객사 구매 담당자",
+   "goal": "더 이른 납기를 요구하는 고객에게 정중하게 거절하고, 이유와 대안을 한두 가지 제시해 보세요.",
+   "setting": "You are a purchasing manager at a client company. You urgently need a delivery earlier than agreed and you push hard. The learner is the supplier who must politely decline. Ask for reasons and alternatives, and finally accept a compromise."
+  }
+ },
+ {
+  "n": 38,
+  "lv": "upper",
+  "pattern": "Would it be possible to ~?",
+  "title": "~하는 것이 가능할까요? · 정중하게 요청하기",
+  "tip": "부담스러운 요청을 정중하게 꺼낼 때 쓰는 대표 표현입니다. possible 뒤에는 to + 동사원형이 오고, 거절하기 쉬운 여지를 주기 때문에 상대가 덜 부담스러워해요. Is it possible to ~?보다 더 공손하고, Could we ~?로도 바꿀 수 있습니다.",
+  "items": [
+   {
+    "ko": "결제 기한을 일주일 연장하는 것이 가능할까요?",
+    "en": "Would it be possible to extend the payment deadline by one week?",
+    "alt": [
+     "Would it be possible to extend the payment due date by a week?",
+     "Would it be possible to push the payment deadline back a week?"
+    ]
+   },
+   {
+    "ko": "부분적으로 나누어 결제하는 것이 가능할까요?",
+    "en": "Would it be possible to pay in installments?",
+    "alt": [
+     "Would it be possible to split the payment into installments?",
+     "Would it be possible to make the payment in parts?"
+    ]
+   },
+   {
+    "ko": "이번 달 청구서를 다음 달로 미루는 것이 가능할까요?",
+    "en": "Would it be possible to move this month's invoice to next month?",
+    "alt": [
+     "Would it be possible to delay this month's invoice until next month?",
+     "Would it be possible to postpone this month's invoice to next month?"
+    ]
+   },
+   {
+    "ko": "수정된 견적서를 다시 받아 볼 수 있을까요?",
+    "en": "Would it be possible to get a revised quote?",
+    "alt": [
+     "Would it be possible to receive a revised quote?",
+     "Would it be possible to see a revised quote?"
+    ]
+   },
+   {
+    "ko": "샘플을 먼저 보내 주실 수 있을까요?",
+    "en": "Would it be possible to send us a sample first?",
+    "alt": [
+     "Would it be possible for you to send us a sample first?",
+     "Would it be possible to get a sample first?"
+    ]
+   },
+   {
+    "ko": "다음 주에 회의 일정을 다시 잡는 것이 가능할까요?",
+    "en": "Would it be possible to reschedule the meeting for next week?",
+    "alt": [
+     "Would it be possible to move the meeting to next week?",
+     "Would it be possible to set the meeting for next week instead?"
+    ]
+   },
+   {
+    "ko": "최소 주문 수량을 조금 줄이는 것이 가능할까요?",
+    "en": "Would it be possible to lower the minimum order quantity a little?",
+    "alt": [
+     "Would it be possible to reduce the minimum order quantity a little?",
+     "Would it be possible to cut the minimum order a little?"
+    ]
+   },
+   {
+    "ko": "계약서 초안을 내일까지 받아 볼 수 있을까요?",
+    "en": "Would it be possible to receive the draft contract by tomorrow?",
+    "alt": [
+     "Would it be possible to get the draft contract by tomorrow?",
+     "Would it be possible to see the contract draft by tomorrow?"
+    ]
+   },
+   {
+    "ko": "배송 방법을 항공편으로 바꾸는 것이 가능할까요?",
+    "en": "Would it be possible to change the shipping method to air freight?",
+    "alt": [
+     "Would it be possible to switch the shipping to air freight?",
+     "Would it be possible to ship by air instead?"
+    ]
+   },
+   {
+    "ko": "담당자와 잠깐 통화하는 것이 가능할까요?",
+    "en": "Would it be possible to speak with the person in charge for a moment?",
+    "alt": [
+     "Would it be possible to talk to the person in charge for a moment?",
+     "Would it be possible to have a quick call with the person in charge?"
+    ]
+   }
+  ],
+  "chat": {
+   "title": "공급업체에 결제 연장 요청하기",
+   "you": "구매 담당자",
+   "ai": "공급업체 담당자",
+   "goal": "결제 기한 연장과 분할 결제를 정중하게 요청하고, 상대가 제시하는 조건에 협의해 보세요.",
+   "setting": "You are an account manager at a supplier. The learner is a customer who needs a payment extension. Be cooperative but cautious, ask why the extension is needed, and offer a conditional compromise such as installments or a small fee."
+  }
+ },
+ {
+  "n": 39,
+  "lv": "upper",
+  "pattern": "As I mentioned earlier, ~",
+  "title": "앞서 말씀드렸듯이 ~ · 이전 내용 상기시키기",
+  "tip": "발표나 회의에서 앞에서 한 이야기를 다시 연결해 요점을 강조할 때 쓰는 표현입니다. 청중이 흐름을 잡는 데 도움이 되고, 같은 말을 반복한다는 느낌도 덜해요. As I said before, ~나 As I pointed out earlier, ~로도 말할 수 있습니다.",
+  "items": [
+   {
+    "ko": "앞서 말씀드렸듯이 이번 분기 매출은 크게 늘었습니다.",
+    "en": "As I mentioned earlier, sales grew significantly this quarter.",
+    "alt": [
+     "As I said earlier, sales grew significantly this quarter.",
+     "As I mentioned before, sales grew a lot this quarter."
+    ]
+   },
+   {
+    "ko": "앞서 말씀드렸듯이 비용 절감이 가장 큰 과제입니다.",
+    "en": "As I mentioned earlier, cost reduction is our biggest challenge.",
+    "alt": [
+     "As I said earlier, cutting costs is our biggest challenge.",
+     "As I mentioned before, reducing costs is our biggest challenge."
+    ]
+   },
+   {
+    "ko": "앞서 말씀드렸듯이 신규 고객이 꾸준히 늘고 있습니다.",
+    "en": "As I mentioned earlier, the number of new customers keeps growing.",
+    "alt": [
+     "As I said earlier, new customers keep increasing.",
+     "As I mentioned before, we keep gaining new customers."
+    ]
+   },
+   {
+    "ko": "앞서 말씀드렸듯이 이 수치는 잠정치입니다.",
+    "en": "As I mentioned earlier, these figures are preliminary.",
+    "alt": [
+     "As I said earlier, these numbers are preliminary.",
+     "As I mentioned before, these figures are only preliminary."
+    ]
+   },
+   {
+    "ko": "앞서 말씀드렸듯이 해외 시장은 아직 성장 초기입니다.",
+    "en": "As I mentioned earlier, the overseas market is still in its early stage.",
+    "alt": [
+     "As I said earlier, the overseas market is still at an early stage.",
+     "As I mentioned before, the overseas market is still early in its growth."
+    ]
+   },
+   {
+    "ko": "앞서 말씀드렸듯이 마진은 조금 하락했습니다.",
+    "en": "As I mentioned earlier, our margin dropped slightly.",
+    "alt": [
+     "As I said earlier, our margin fell slightly.",
+     "As I mentioned before, our margin went down a little."
+    ]
+   },
+   {
+    "ko": "앞서 말씀드렸듯이 새 제품은 다음 달에 출시됩니다.",
+    "en": "As I mentioned earlier, the new product launches next month.",
+    "alt": [
+     "As I said earlier, the new product will launch next month.",
+     "As I mentioned before, we launch the new product next month."
+    ]
+   },
+   {
+    "ko": "앞서 말씀드렸듯이 온라인 채널의 비중이 커졌습니다.",
+    "en": "As I mentioned earlier, the share of online channels has grown.",
+    "alt": [
+     "As I said earlier, online channels now make up a bigger share.",
+     "As I mentioned before, the online share has increased."
+    ]
+   },
+   {
+    "ko": "앞서 말씀드렸듯이 재고 수준은 목표 범위 안에 있습니다.",
+    "en": "As I mentioned earlier, inventory levels are within our target range.",
+    "alt": [
+     "As I said earlier, our inventory is within the target range.",
+     "As I mentioned before, inventory is within the target range."
+    ]
+   },
+   {
+    "ko": "앞서 말씀드렸듯이 다음 단계는 팀 확충입니다.",
+    "en": "As I mentioned earlier, the next step is to expand the team.",
+    "alt": [
+     "As I said earlier, our next step is expanding the team.",
+     "As I mentioned before, the next step is growing the team."
+    ]
+   }
+  ],
+  "chat": {
+   "title": "경영진에게 분기 실적 발표하기",
+   "you": "발표자",
+   "ai": "경영진",
+   "goal": "분기 실적을 요약하면서 앞서 한 말을 두세 번 다시 연결하고, 경영진의 질문에 답해 보세요.",
+   "setting": "You are a senior executive listening to a quarterly results presentation. Ask pointed questions about sales, costs, and next steps. When the presenter refers back to something said earlier, acknowledge it and follow up with another question."
+  }
+ },
+ {
+  "n": 40,
+  "lv": "upper",
+  "pattern": "Correct me if I'm wrong, but ~",
+  "title": "제가 틀렸다면 바로잡아 주세요, ~ · 확인하며 의견 말하기",
+  "tip": "내 가정이 맞는지 겸손하게 확인하면서 의견을 꺼낼 때 쓰는 표현입니다. 윗사람이나 전문가에게도 실례되지 않아요. 뒤에는 완전한 문장이 이어지고, Please correct me if I'm wrong, but ~로 더 공손하게 말할 수 있습니다.",
+  "items": [
+   {
+    "ko": "제가 틀렸다면 말씀해 주세요, 이 서버는 이미 한계에 가까워요.",
+    "en": "Correct me if I'm wrong, but this server is already near its limit.",
+    "alt": [
+     "Correct me if I am wrong, but this server is already close to its limit.",
+     "Please correct me if I'm wrong, but this server is almost at its limit."
+    ]
+   },
+   {
+    "ko": "틀렸다면 바로잡아 주세요, 이 기능은 다음 버전에서 나오는 거죠?",
+    "en": "Correct me if I'm wrong, but this feature comes in the next version.",
+    "alt": [
+     "Correct me if I am wrong, but this feature is coming in the next version.",
+     "Please correct me if I'm wrong, but this feature is in the next version."
+    ]
+   },
+   {
+    "ko": "제가 틀렸다면 알려 주세요, 이 방식은 확장하기 어려울 것 같아요.",
+    "en": "Correct me if I'm wrong, but this approach won't scale well.",
+    "alt": [
+     "Correct me if I am wrong, but this approach will not scale well.",
+     "Please correct me if I'm wrong, but this approach won't scale well."
+    ]
+   },
+   {
+    "ko": "틀렸다면 바로잡아 주세요, 데이터베이스는 이미 이전했다고 알고 있어요.",
+    "en": "Correct me if I'm wrong, but I thought we already moved the database.",
+    "alt": [
+     "Correct me if I am wrong, but I thought we already migrated the database.",
+     "Please correct me if I'm wrong, but I thought the database was already moved."
+    ]
+   },
+   {
+    "ko": "제가 틀렸다면 말씀해 주세요, 테스트는 아직 끝나지 않았어요.",
+    "en": "Correct me if I'm wrong, but the testing isn't finished yet.",
+    "alt": [
+     "Correct me if I am wrong, but the testing is not finished yet.",
+     "Please correct me if I'm wrong, but testing isn't done yet."
+    ]
+   },
+   {
+    "ko": "틀렸다면 바로잡아 주세요, 이 코드는 오래된 라이브러리에 의존해요.",
+    "en": "Correct me if I'm wrong, but this code depends on an old library.",
+    "alt": [
+     "Correct me if I am wrong, but this code relies on an old library.",
+     "Please correct me if I'm wrong, but this code uses an outdated library."
+    ]
+   },
+   {
+    "ko": "제가 틀렸다면 알려 주세요, 사용자가 늘면 속도가 느려질 거예요.",
+    "en": "Correct me if I'm wrong, but it will slow down when users increase.",
+    "alt": [
+     "Correct me if I am wrong, but it will get slower as more users join.",
+     "Please correct me if I'm wrong, but it will slow down with more users."
+    ]
+   },
+   {
+    "ko": "틀렸다면 바로잡아 주세요, 이 설계는 보안 문제가 있을 수 있어요.",
+    "en": "Correct me if I'm wrong, but this design may have a security issue.",
+    "alt": [
+     "Correct me if I am wrong, but this design might have a security problem.",
+     "Please correct me if I'm wrong, but this design could have a security issue."
+    ]
+   },
+   {
+    "ko": "제가 틀렸다면 말씀해 주세요, 이 작업은 두 팀이 같이 해야 해요.",
+    "en": "Correct me if I'm wrong, but two teams need to work on this together.",
+    "alt": [
+     "Correct me if I am wrong, but this task needs two teams working together.",
+     "Please correct me if I'm wrong, but two teams have to do this together."
+    ]
+   },
+   {
+    "ko": "틀렸다면 바로잡아 주세요, 이 비용은 처음 계획에 없었어요.",
+    "en": "Correct me if I'm wrong, but this cost wasn't in the original plan.",
+    "alt": [
+     "Correct me if I am wrong, but this cost was not in the original plan.",
+     "Please correct me if I'm wrong, but this cost wasn't part of the first plan."
+    ]
+   }
+  ],
+  "chat": {
+   "title": "설계 리뷰에서 가정 확인하기",
+   "you": "주니어 엔지니어",
+   "ai": "시니어 엔지니어",
+   "goal": "설계 리뷰에서 자신의 가정을 두세 가지 겸손하게 확인하고, 시니어의 설명을 듣고 의견을 정리해 보세요.",
+   "setting": "You are a senior engineer in a design review. The learner is a junior colleague who checks their assumptions with you. Confirm or gently correct each assumption, explain briefly why, and ask one question about their design choice."
+  }
+ }
+]

@@ -1,22 +1,35 @@
 import { el, btn, h, progressBar } from '../ui.js';
-import { chapter, chapterDone, speakRec, streak, studiedToday, wrongList, get, ymd } from '../state.js';
-import { LEVELS, COURSES, CHAPTERS, SESSIONS, courseLevels, readyChapters, readySessions, session as getSession, levelInfo } from '../data.js';
+import { chapter, chapterDone, speakRec, streak, studiedToday, wrongList, get, ymd, placement } from '../state.js';
+import { LEVELS, COURSES, CHAPTERS, SESSIONS, courseLevels, readyChapters, readySessions, session as getSession, levelInfo, rankOf, sessionTier, fromRank } from '../data.js';
 import { go } from '../main.js';
 
 const STEP_TEXT = { cards: '단어 보기', quiz1: '퀴즈 1단계', quiz2: '퀴즈 2단계', done: '완료' };
 
-// The chapter to study today: the first unfinished chapter of the first level of the course that still has one.
+// The chapter to study today: the first unfinished chapter at or after the level-test start position,
+// or, with no test (or everything after it done), the first unfinished chapter overall.
 export async function nextChapter(course = 'word') {
+  const p = placement(), from = p && Number.isFinite(p[course]) ? p[course] : 0;
+  let first = null;
   for (const L of courseLevels(course)) {
     const n = await readyChapters(L.id);
-    for (let ch = 1; ch <= n; ch++) if (!chapterDone(L.id, ch)) return { lv: L.id, ch };
+    for (let ch = 1; ch <= n; ch++) {
+      if (chapterDone(L.id, ch)) continue;
+      if (rankOf(L.id, ch) >= from) return { lv: L.id, ch };
+      if (!first) first = { lv: L.id, ch };
+    }
   }
-  return null;
+  return first;
 }
 export async function nextSession() {
   const n = await readySessions();
-  for (let i = 1; i <= n; i++) if (!speakRec(i).done) return i;
-  return null;
+  const p = placement(), from = p && p.speak ? p.speak : 1;
+  let first = null;
+  for (let i = 1; i <= n; i++) {
+    if (speakRec(i).done) continue;
+    if (i >= from) return i;
+    if (!first) first = i;
+  }
+  return first;
 }
 const doneCount = lv => Object.values(get().words[lv] || {}).filter(c => c.step === 'done').length;
 const speakDone = () => Object.values(get().speak).filter(s => s.done).length;
@@ -27,6 +40,20 @@ export async function renderHome({ box }) {
   box.append(h('header', 'page-head',
     h('p', 'eyebrow', `${today.getMonth() + 1}월 ${today.getDate()}일 ${days[today.getDay()]}요일`),
     h('h1', '', studiedToday() ? '오늘도 해냈어요' : '오늘의 영어')));
+
+  // Level test: invite before the first test; afterwards a one-line summary with a retake link
+  const p = placement();
+  if (!p) {
+    box.append(h('section', 'card test-invite',
+      h('div', '', h('span', 'chip', '레벨 테스트'), h('h3', '', '내 수준에 맞는 곳부터 시작하세요'),
+        h('p', 'muted small', '단어·숙어 25문항, 5분 정도 걸려요. 결과에 맞춰 단어·숙어·말하기의 시작 위치를 열어 드립니다.')),
+      btn('btn primary', '테스트 시작', () => go('test'))));
+  } else {
+    const w = fromRank('word', p.word);
+    box.append(h('div', 'test-line',
+      h('span', '', '레벨 테스트 결과 ', h('b', '', `${levelInfo(w.lv).name}(${levelInfo(w.lv).cefr})`), ` · 단어 ${levelInfo(w.lv).name} ${w.ch}챕터부터`),
+      btn('link-btn', '다시 테스트', () => go('test'))));
+  }
 
   // Today's chapter, one card per course
   const courseCard = async course => {
@@ -55,7 +82,7 @@ export async function renderHome({ box }) {
     const s = await getSession(ns);
     const rec = speakRec(ns);
     spCard.append(
-      h('div', 'today-top', h('span', 'chip alt', '말하기'), h('span', 'today-meta', `${ns}/${SESSIONS} 회차`)),
+      h('div', 'today-top', h('span', 'chip alt', '말하기'), h('span', 'today-meta', `${sessionTier(ns).name} · ${ns}회차`)),
       h('h2', 'pattern', s.pattern),
       h('p', 'muted', s.title),
       btn('btn primary block alt', rec.idx ? `${rec.idx + 1}번째 문장부터 이어서` : '말하기 시작', () => go(`sp/${ns}`)));

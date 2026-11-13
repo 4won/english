@@ -1,0 +1,2162 @@
+{
+  "1": [
+    {
+      "en": "a double-edged sword",
+      "ko": "양날의 검",
+      "pos": "관용구",
+      "ex": "Social media is a double-edged sword for small firms seeking wider exposure.",
+      "exKo": "소셜 미디어는 더 넓은 노출을 원하는 소기업에 양날의 검이다."
+    },
+    {
+      "en": "the elephant in the room",
+      "ko": "모두가 외면하는 불편한 문제",
+      "pos": "관용구",
+      "ex": "Nobody wanted to mention the elephant in the room: the company was nearly bankrupt.",
+      "exKo": "아무도 회사가 거의 파산 상태라는 불편한 진실을 입에 올리려 하지 않았다."
+    },
+    {
+      "en": "move the goalposts",
+      "ko": "도중에 기준을 바꿔 불리하게 만들다",
+      "pos": "관용구",
+      "ex": "Regulators accused the firm of trying to move the goalposts after the deal was signed.",
+      "exKo": "규제 당국은 그 회사가 계약 체결 후 기준을 바꾸려 했다고 비난했다."
+    },
+    {
+      "en": "a slippery slope",
+      "ko": "위험한 연쇄의 시작",
+      "pos": "관용구",
+      "ex": "Critics warn that relaxing the rule could be a slippery slope toward total deregulation.",
+      "exKo": "비평가들은 규정 완화가 전면적인 규제 철폐로 가는 위험한 내리막이 될 수 있다고 경고한다."
+    },
+    {
+      "en": "a catch-22",
+      "ko": "진퇴양난의 모순 상황",
+      "pos": "관용구",
+      "ex": "Graduates face a catch-22: employers want experience, but no one will hire them without it.",
+      "exKo": "졸업생들은 진퇴양난에 처한다. 기업은 경력을 원하지만 경력이 없으면 아무도 채용하지 않는다."
+    },
+    {
+      "en": "a pyrrhic victory",
+      "ko": "상처뿐인 승리",
+      "pos": "관용구",
+      "ex": "The lawsuit ended as a pyrrhic victory, since legal fees wiped out the settlement.",
+      "exKo": "그 소송은 변호사 비용이 합의금을 날려 버려 상처뿐인 승리로 끝났다."
+    },
+    {
+      "en": "the tip of the iceberg",
+      "ko": "빙산의 일각",
+      "pos": "관용구",
+      "ex": "The reported losses are merely the tip of the iceberg, analysts say.",
+      "exKo": "분석가들은 보고된 손실이 빙산의 일각에 불과하다고 말한다."
+    },
+    {
+      "en": "a perfect storm",
+      "ko": "악재가 겹친 최악의 상황",
+      "pos": "관용구",
+      "ex": "Rising rates, weak demand and supply delays created a perfect storm for retailers.",
+      "exKo": "금리 상승, 수요 부진, 공급 지연이 소매업체들에게 최악의 상황을 만들었다."
+    },
+    {
+      "en": "a Trojan horse",
+      "ko": "위장해 침투하는 수단",
+      "pos": "관용구",
+      "ex": "Some analysts see the free software as a Trojan horse for collecting user data.",
+      "exKo": "일부 분석가들은 그 무료 소프트웨어를 사용자 데이터 수집을 위한 트로이 목마로 본다."
+    },
+    {
+      "en": "a Pandora's box",
+      "ko": "열면 재앙이 쏟아지는 상자",
+      "pos": "관용구",
+      "ex": "Reopening the old contract could open a Pandora's box of legal disputes.",
+      "exKo": "오래된 계약을 다시 여는 것은 법적 분쟁이라는 판도라의 상자를 열 수 있다."
+    }
+  ],
+  "2": [
+    {
+      "en": "the writing on the wall",
+      "ko": "파국의 징조",
+      "pos": "관용구",
+      "ex": "Falling sales were the writing on the wall for the struggling chain.",
+      "exKo": "매출 하락은 고전하던 그 체인점에 닥칠 파국의 징조였다."
+    },
+    {
+      "en": "a foregone conclusion",
+      "ko": "뻔한 결과",
+      "pos": "표현",
+      "ex": "With such a large lead, the election result seemed a foregone conclusion.",
+      "exKo": "격차가 워낙 커서 선거 결과는 뻔해 보였다."
+    },
+    {
+      "en": "a moot point",
+      "ko": "논의할 실익이 없는 문제",
+      "pos": "표현",
+      "ex": "Whether we should have launched earlier is a moot point now.",
+      "exKo": "우리가 더 일찍 출시했어야 했는지는 이제 따져봐야 의미 없는 문제다."
+    },
+    {
+      "en": "a red herring",
+      "ko": "주의를 딴 데로 돌리는 미끼",
+      "pos": "관용구",
+      "ex": "The minister's remarks about taxes were a red herring meant to distract from the scandal.",
+      "exKo": "세금에 관한 장관의 발언은 스캔들에서 시선을 돌리려는 미끼였다."
+    },
+    {
+      "en": "a straw man",
+      "ko": "허수아비 공격용 왜곡 논리",
+      "pos": "관용구",
+      "ex": "Opponents built a straw man by misrepresenting the proposal as a ban on cars.",
+      "exKo": "반대자들은 그 제안을 자동차 금지안으로 왜곡해 허수아비 논리를 만들었다."
+    },
+    {
+      "en": "a vested interest",
+      "ko": "얽힌 이해관계",
+      "pos": "표현",
+      "ex": "Several board members have a vested interest in the merger going ahead.",
+      "exKo": "몇몇 이사들은 합병이 진행되는 데 이해관계가 걸려 있다."
+    },
+    {
+      "en": "a hidden agenda",
+      "ko": "숨은 의도",
+      "pos": "표현",
+      "ex": "Critics suspect the minister of having a hidden agenda behind the reforms.",
+      "exKo": "비평가들은 장관이 개혁안 뒤에 숨은 의도가 있다고 의심한다."
+    },
+    {
+      "en": "a conflict of interest",
+      "ko": "이해충돌",
+      "pos": "표현",
+      "ex": "Owning shares in the supplier created a conflict of interest for the director, who then resigned.",
+      "exKo": "공급업체 지분 보유는 그 이사에게 이해충돌을 일으켰고 그는 결국 사임했다."
+    },
+    {
+      "en": "a point of contention",
+      "ko": "논쟁의 쟁점",
+      "pos": "표현",
+      "ex": "Pay structure remains a point of contention in the ongoing talks.",
+      "exKo": "급여 체계는 진행 중인 협상에서 여전히 쟁점으로 남아 있다."
+    },
+    {
+      "en": "a bone of contention",
+      "ko": "오래된 다툼의 씨앗",
+      "pos": "관용구",
+      "ex": "Water rights have long been a bone of contention between the two regions.",
+      "exKo": "물 사용권은 오랫동안 두 지역 사이의 분쟁거리였다."
+    }
+  ],
+  "3": [
+    {
+      "en": "open a can of worms",
+      "ko": "긁어 부스럼을 만들다",
+      "pos": "관용구",
+      "ex": "Questioning the audit could open a can of worms we are not ready for.",
+      "exKo": "감사에 의문을 제기하면 우리가 감당하지 못할 긁어 부스럼이 될 수 있다."
+    },
+    {
+      "en": "stir up a hornet's nest",
+      "ko": "벌집을 쑤시다",
+      "pos": "관용구",
+      "ex": "The leaked memo threatened to stir up a hornet's nest among shareholders.",
+      "exKo": "유출된 메모는 주주들 사이에서 벌집을 쑤실 위험이 있었다."
+    },
+    {
+      "en": "throw down the gauntlet",
+      "ko": "도전장을 던지다",
+      "pos": "관용구",
+      "ex": "The startup decided to throw down the gauntlet to the established market leaders.",
+      "exKo": "그 스타트업은 기존 시장 선두 업체들에게 도전장을 던지기로 했다."
+    },
+    {
+      "en": "cross the Rubicon",
+      "ko": "돌이킬 수 없는 선을 넘다",
+      "pos": "관용구",
+      "ex": "Once the board signs, we will cross the Rubicon and cannot go back.",
+      "exKo": "이사회가 서명하는 순간 우리는 돌이킬 수 없는 선을 넘고 되돌릴 수 없다."
+    },
+    {
+      "en": "burn your boats",
+      "ko": "배수의 진을 치다",
+      "pos": "관용구",
+      "ex": "Sometimes you have to burn your boats and commit every last dollar to the venture.",
+      "exKo": "때로는 배수의 진을 치고 마지막 한 푼까지 사업에 쏟아부어야 한다."
+    },
+    {
+      "en": "bite the bullet",
+      "ko": "이를 악물고 감수하다",
+      "pos": "숙어",
+      "ex": "We will have to bite the bullet and accept a smaller profit this year.",
+      "exKo": "우리는 올해 이를 악물고 더 적은 이익을 감수해야 할 것이다."
+    },
+    {
+      "en": "face the music",
+      "ko": "책임을 지고 비난을 받아들이다",
+      "pos": "관용구",
+      "ex": "The CEO had to face the music after the product recall.",
+      "exKo": "CEO는 제품 리콜 이후 책임을 지고 비난을 감수해야 했다."
+    },
+    {
+      "en": "grasp the nettle",
+      "ko": "어려운 문제에 과감히 맞서다",
+      "pos": "숙어",
+      "ex": "It is time to grasp the nettle and tackle the pension deficit.",
+      "exKo": "이제 연금 적자 문제에 과감히 맞설 때다."
+    },
+    {
+      "en": "take the bull by the horns",
+      "ko": "위기에 정면 돌파하다",
+      "pos": "관용구",
+      "ex": "The new manager decided to take the bull by the horns and fix the budget himself.",
+      "exKo": "새 매니저는 위기에 정면 돌파하며 직접 예산 문제를 해결하기로 했다."
+    },
+    {
+      "en": "walk a tightrope",
+      "ko": "아슬아슬한 줄타기를 하다",
+      "pos": "숙어",
+      "ex": "Central banks must walk a tightrope between curbing inflation and avoiding recession.",
+      "exKo": "중앙은행은 인플레이션 억제와 경기 침체 방지 사이에서 아슬아슬한 줄타기를 해야 한다."
+    }
+  ],
+  "4": [
+    {
+      "en": "a drop in the ocean",
+      "ko": "새 발의 피",
+      "pos": "관용구",
+      "ex": "The fine was a drop in the ocean compared with the company's annual profits.",
+      "exKo": "그 벌금은 회사의 연간 이익에 비하면 새 발의 피였다."
+    },
+    {
+      "en": "a storm in a teacup",
+      "ko": "찻잔 속의 태풍",
+      "pos": "관용구",
+      "ex": "The dispute turned out to be a storm in a teacup and was resolved within days.",
+      "exKo": "그 분쟁은 찻잔 속의 태풍에 불과해 며칠 만에 해결되었다."
+    },
+    {
+      "en": "a wolf in sheep's clothing",
+      "ko": "양의 탈을 쓴 늑대",
+      "pos": "관용구",
+      "ex": "The charming consultant proved to be a wolf in sheep's clothing.",
+      "exKo": "그 매력적인 컨설턴트는 양의 탈을 쓴 늑대로 드러났다."
+    },
+    {
+      "en": "bury the hatchet",
+      "ko": "앙금을 풀고 화해하다",
+      "pos": "관용구",
+      "ex": "The two rivals agreed to bury the hatchet and work on a joint bid.",
+      "exKo": "두 라이벌은 앙금을 풀고 공동 입찰을 준비하기로 합의했다."
+    },
+    {
+      "en": "a leopard cannot change its spots",
+      "ko": "타고난 본성은 못 바꾼다",
+      "pos": "관용구",
+      "ex": "Old habits die hard, and a leopard cannot change its spots.",
+      "exKo": "오랜 습관은 바꾸기 어렵고, 세 살 버릇은 여든까지 간다."
+    },
+    {
+      "en": "a fly in the ointment",
+      "ko": "옥에 티",
+      "pos": "관용구",
+      "ex": "The deal looked perfect, with a fly in the ointment: the high cost of shipping.",
+      "exKo": "그 거래는 완벽해 보였지만 비싼 배송비라는 옥에 티가 있었다."
+    },
+    {
+      "en": "a thorn in the side",
+      "ko": "눈엣가시",
+      "pos": "관용구",
+      "ex": "The rival's low prices have been a thorn in the side of local retailers.",
+      "exKo": "경쟁사의 낮은 가격은 지역 소매업체들에게 눈엣가시였다."
+    },
+    {
+      "en": "an albatross around the neck",
+      "ko": "짐스러운 족쇄",
+      "pos": "관용구",
+      "ex": "The failed merger became an albatross around the neck of the new chairman.",
+      "exKo": "실패한 합병은 새 회장의 목에 걸린 짐스러운 족쇄가 되었다."
+    },
+    {
+      "en": "a sword of Damocles",
+      "ko": "늘 머리 위에 걸린 위협",
+      "pos": "관용구",
+      "ex": "The threat of layoffs hung like a sword of Damocles over the entire department.",
+      "exKo": "해고 위협이 부서 전체 위에 다모클레스의 검처럼 걸려 있었다."
+    },
+    {
+      "en": "an Achilles heel",
+      "ko": "치명적인 약점",
+      "pos": "관용구",
+      "ex": "Weak cybersecurity remains an Achilles heel of an otherwise strong business.",
+      "exKo": "취약한 사이버 보안은 그 밖에는 탄탄한 사업의 치명적 약점이다."
+    }
+  ],
+  "5": [
+    {
+      "en": "rob Peter to pay Paul",
+      "ko": "아랫돌 빼서 윗돌 괴다",
+      "pos": "관용구",
+      "ex": "Borrowing more to repay old loans is just a way to rob Peter to pay Paul.",
+      "exKo": "오래된 대출을 갚으려 더 빌리는 것은 아랫돌 빼서 윗돌 괴는 일일 뿐이다."
+    },
+    {
+      "en": "kick the can down the road",
+      "ko": "문제를 뒤로 미루다",
+      "pos": "관용구",
+      "ex": "Lawmakers chose to kick the can down the road rather than fix the deficit.",
+      "exKo": "의원들은 적자를 해결하기보다 문제를 뒤로 미루기로 했다."
+    },
+    {
+      "en": "shift the goalposts",
+      "ko": "말을 바꿔 목표 기준을 옮기다",
+      "pos": "관용구",
+      "ex": "Negotiators complained that the other side would shift the goalposts at every meeting.",
+      "exKo": "협상가들은 상대측이 회의 때마다 기준점을 옮긴다고 불평했다."
+    },
+    {
+      "en": "throw good money after bad",
+      "ko": "손실을 만회하려다 돈을 더 날리다",
+      "pos": "관용구",
+      "ex": "It makes no sense to throw good money after bad on a failing project.",
+      "exKo": "실패하는 프로젝트에 돈을 더 쏟아붓는 것은 말이 안 된다."
+    },
+    {
+      "en": "cook the books",
+      "ko": "장부를 조작하다",
+      "pos": "관용구",
+      "ex": "Executives were charged with trying to cook the books to hide the losses.",
+      "exKo": "임원들은 손실을 숨기려고 장부를 조작한 혐의로 기소되었다."
+    },
+    {
+      "en": "feather your nest",
+      "ko": "제 잇속을 챙기다",
+      "pos": "관용구",
+      "ex": "It is wrong to use a public office to feather your nest at taxpayers' expense.",
+      "exKo": "공직을 이용해 세금으로 제 잇속을 챙기는 것은 잘못이다."
+    },
+    {
+      "en": "cut the Gordian knot",
+      "ko": "단칼에 난제를 풀다",
+      "pos": "관용구",
+      "ex": "The CEO tried to cut the Gordian knot by selling the entire division.",
+      "exKo": "CEO는 사업부 전체를 매각해 난제를 단칼에 풀려 했다."
+    },
+    {
+      "en": "sweep under the rug",
+      "ko": "문제를 덮어 감추다",
+      "pos": "관용구",
+      "ex": "Managers who sweep under the rug every safety complaint will eventually pay for it.",
+      "exKo": "안전 관련 불만을 모조리 덮어 감추는 관리자는 결국 대가를 치르게 된다."
+    },
+    {
+      "en": "wash your hands of",
+      "ko": "~에서 손을 떼다",
+      "pos": "구동사",
+      "ex": "You cannot simply wash your hands of the whole affair once the damage is done.",
+      "exKo": "피해가 발생한 뒤에 그 일 전체에서 그냥 손을 뗄 수는 없다."
+    },
+    {
+      "en": "pass the baton",
+      "ko": "바통을 넘기다",
+      "pos": "관용구",
+      "ex": "After thirty years, the founder will pass the baton to his daughter.",
+      "exKo": "30년 만에 창업자는 딸에게 바통을 넘길 것이다."
+    }
+  ],
+  "6": [
+    {
+      "en": "bend over backwards",
+      "ko": "몸을 사리지 않고 돕다",
+      "pos": "숙어",
+      "ex": "The staff were willing to bend over backwards to accommodate the delayed guests.",
+      "exKo": "직원들은 지연된 투숙객들을 맞추기 위해 기꺼이 최선을 다했다."
+    },
+    {
+      "en": "lean over backwards",
+      "ko": "지나치게 신경 써 주다",
+      "pos": "숙어",
+      "ex": "Regulators say they will lean over backwards to avoid favoring any one bidder.",
+      "exKo": "규제 당국은 특정 입찰자를 편들지 않으려고 지나치게 신경 쓰겠다고 말한다."
+    },
+    {
+      "en": "go out on a limb",
+      "ko": "위험을 무릅쓰다",
+      "pos": "관용구",
+      "ex": "The analyst chose to go out on a limb and predict a market crash.",
+      "exKo": "그 분석가는 위험을 무릅쓰고 시장 붕괴를 예측하기로 했다."
+    },
+    {
+      "en": "stick your neck out",
+      "ko": "위험을 자초하며 나서다",
+      "pos": "관용구",
+      "ex": "It takes courage to stick your neck out for a controversial proposal.",
+      "exKo": "논란이 큰 제안을 위해 위험을 자초하며 나서려면 용기가 필요하다."
+    },
+    {
+      "en": "put your head on the block",
+      "ko": "목을 걸다",
+      "pos": "관용구",
+      "ex": "By signing off on it, you would put your head on the block.",
+      "exKo": "그것을 승인하면 당신은 자신의 목을 걸게 될 것이다."
+    },
+    {
+      "en": "hang by a thread",
+      "ko": "풍전등화다",
+      "pos": "관용구",
+      "ex": "The family business seemed to hang by a thread after the supplier collapsed.",
+      "exKo": "공급업체가 무너진 뒤 그 가족 사업은 풍전등화처럼 보였다."
+    },
+    {
+      "en": "walk on eggshells",
+      "ko": "눈치를 보며 조심하다",
+      "pos": "관용구",
+      "ex": "Employees say they have to walk on eggshells whenever the new boss is around.",
+      "exKo": "직원들은 새 상사가 있을 때마다 눈치를 보며 조심해야 한다고 말한다."
+    },
+    {
+      "en": "tread on thin ice",
+      "ko": "살얼음판을 걷다",
+      "pos": "관용구",
+      "ex": "Politicians who insult voters tend to tread on thin ice.",
+      "exKo": "유권자를 모욕하는 정치인은 살얼음판을 걷기 마련이다."
+    },
+    {
+      "en": "skate on thin ice",
+      "ko": "위태로운 처지에 놓이다",
+      "pos": "관용구",
+      "ex": "Firms that miss repeated payments often skate on thin ice with lenders.",
+      "exKo": "거듭 상환을 놓치는 기업은 흔히 대주주와의 관계에서 위태로운 처지에 놓인다."
+    },
+    {
+      "en": "play with fire",
+      "ko": "불장난을 하다",
+      "pos": "관용구",
+      "ex": "Ignoring the safety warnings is simply to play with fire.",
+      "exKo": "안전 경고를 무시하는 것은 그야말로 불장난을 하는 것이다."
+    }
+  ],
+  "7": [
+    {
+      "en": "beat a hasty retreat",
+      "ko": "황급히 물러나다",
+      "pos": "숙어",
+      "ex": "The company had to beat a hasty retreat after the backlash over its new ad.",
+      "exKo": "그 회사는 새 광고에 대한 반발 이후 황급히 물러서야 했다."
+    },
+    {
+      "en": "turn the tables",
+      "ko": "형세를 뒤집다",
+      "pos": "관용구",
+      "ex": "Underdog challengers hope to turn the tables on the industry giants this quarter.",
+      "exKo": "약체 도전자들은 이번 분기에 업계 대기업들을 상대로 형세를 뒤집기를 바란다."
+    },
+    {
+      "en": "steal the show",
+      "ko": "주목을 독차지하다",
+      "pos": "관용구",
+      "ex": "The young designer managed to steal the show at the fashion week.",
+      "exKo": "젊은 디자이너는 패션 위크에서 주목을 독차지했다."
+    },
+    {
+      "en": "wear your heart on your sleeve",
+      "ko": "감정을 숨기지 않다",
+      "pos": "관용구",
+      "ex": "It is unwise to wear your heart on your sleeve during a negotiation.",
+      "exKo": "협상 중에 감정을 숨기지 않는 것은 현명하지 못하다."
+    },
+    {
+      "en": "upstage the competition",
+      "ko": "경쟁자의 빛을 바래게 하다",
+      "pos": "관용구",
+      "ex": "The new model aims to upstage the competition at the autumn trade show.",
+      "exKo": "신모델은 가을 박람회에서 경쟁사들의 빛을 바래게 하는 것을 목표로 한다."
+    },
+    {
+      "en": "rest on your laurels",
+      "ko": "과거의 영광에 안주하다",
+      "pos": "관용구",
+      "ex": "You cannot afford to rest on your laurels in such a fast-moving market.",
+      "exKo": "그렇게 빠르게 움직이는 시장에서는 과거의 영광에 안주할 여유가 없다."
+    },
+    {
+      "en": "sit on the sidelines",
+      "ko": "방관하다",
+      "pos": "관용구",
+      "ex": "Investors cannot afford to sit on the sidelines while rivals expand.",
+      "exKo": "투자자들은 경쟁사들이 확장하는 동안 방관만 하고 있을 수 없다."
+    },
+    {
+      "en": "be thrown in at the deep end",
+      "ko": "준비 없이 어려운 일에 던져지다",
+      "pos": "관용구",
+      "ex": "Many graduates fear they will be thrown in at the deep end in their first jobs.",
+      "exKo": "많은 졸업생이 첫 직장에서 준비 없이 어려운 일에 던져질까 두려워한다."
+    },
+    {
+      "en": "sink or swim",
+      "ko": "알아서 살아남아야 하다",
+      "pos": "관용구",
+      "ex": "New hires are often left to sink or swim in the first month.",
+      "exKo": "신입 직원들은 종종 첫 달에 알아서 살아남아야 하는 상황에 놓인다."
+    },
+    {
+      "en": "trial by fire",
+      "ko": "혹독한 시험대",
+      "pos": "관용구",
+      "ex": "The pandemic was a trial by fire for the shipping industry.",
+      "exKo": "팬데믹은 해운업계에 혹독한 시험대였다."
+    }
+  ],
+  "8": [
+    {
+      "en": "hit the nail on the head",
+      "ko": "정곡을 찌르다",
+      "pos": "관용구",
+      "ex": "The editorial hit the nail on the head about the real cause of the crisis.",
+      "exKo": "그 사설은 위기의 진짜 원인에 대해 정곡을 찔렀다."
+    },
+    {
+      "en": "split hairs",
+      "ko": "사소한 것을 따지다",
+      "pos": "관용구",
+      "ex": "Let's not split hairs over wording when the key terms are agreed.",
+      "exKo": "핵심 조건이 합의됐으니 문구를 두고 사소하게 따지지 맙시다."
+    },
+    {
+      "en": "nitpick",
+      "ko": "사소한 흠을 트집 잡다",
+      "pos": "숙어",
+      "ex": "Some reviewers tend to nitpick instead of judging the overall quality.",
+      "exKo": "일부 평론가들은 전반적 품질을 평가하는 대신 사소한 흠을 트집 잡는 경향이 있다."
+    },
+    {
+      "en": "a baptism of fire",
+      "ko": "혹독한 첫 시련",
+      "pos": "관용구",
+      "ex": "The rookie minister's first week was a baptism of fire.",
+      "exKo": "신임 장관의 첫 주는 혹독한 시련의 세례였다."
+    },
+    {
+      "en": "chew the fat",
+      "ko": "한가롭게 수다를 떨다",
+      "pos": "관용구",
+      "ex": "The two executives stopped to chew the fat over coffee after the meeting.",
+      "exKo": "두 임원은 회의 후 커피를 마시며 한가롭게 수다를 떨었다."
+    },
+    {
+      "en": "talk shop",
+      "ko": "업무 이야기를 하다",
+      "pos": "관용구",
+      "ex": "Colleagues often talk shop even at weekend gatherings.",
+      "exKo": "동료들은 주말 모임에서도 종종 업무 이야기를 한다."
+    },
+    {
+      "en": "talk turkey",
+      "ko": "솔직하게 본론을 이야기하다",
+      "pos": "관용구",
+      "ex": "It's time to talk turkey about the price and delivery dates.",
+      "exKo": "이제 가격과 납기에 대해 솔직하게 본론을 이야기할 때다."
+    },
+    {
+      "en": "talk down to",
+      "ko": "깔보듯 말하다",
+      "pos": "구동사",
+      "ex": "Customers resent staff who talk down to them.",
+      "exKo": "고객들은 자신을 깔보듯 말하는 직원에게 분개한다."
+    },
+    {
+      "en": "a poisoned chalice",
+      "ko": "독이 든 성배",
+      "pos": "관용구",
+      "ex": "Taking over the failing division proved to be a poisoned chalice.",
+      "exKo": "부진한 사업부를 인수한 것은 독이 든 성배로 드러났다."
+    },
+    {
+      "en": "talk the talk",
+      "ko": "말만 번지르르하게 하다",
+      "pos": "관용구",
+      "ex": "It is easy to talk the talk, but delivering results is much harder.",
+      "exKo": "말만 번지르르하게 하기는 쉽지만 성과를 내기는 훨씬 어렵다."
+    }
+  ],
+  "9": [
+    {
+      "en": "a watershed moment",
+      "ko": "분수령이 되는 순간",
+      "pos": "관용구",
+      "ex": "The merger marked a watershed moment for the whole banking sector.",
+      "exKo": "그 합병은 은행 업계 전체에 분수령이 되는 순간이었다."
+    },
+    {
+      "en": "a sea change",
+      "ko": "근본적인 변화",
+      "pos": "관용구",
+      "ex": "The pandemic brought a sea change in how companies view remote work.",
+      "exKo": "팬데믹은 기업들이 원격 근무를 보는 방식에 근본적인 변화를 가져왔다."
+    },
+    {
+      "en": "a paradigm shift",
+      "ko": "패러다임 전환",
+      "pos": "관용구",
+      "ex": "Generative AI represents a paradigm shift in how software is written.",
+      "exKo": "생성형 AI는 소프트웨어를 만드는 방식의 패러다임 전환을 의미한다."
+    },
+    {
+      "en": "a groundswell of support",
+      "ko": "들불처럼 번지는 지지",
+      "pos": "관용구",
+      "ex": "A groundswell of support helped the bill pass the legislature.",
+      "exKo": "들불처럼 번진 지지가 그 법안이 의회를 통과하는 데 도움이 되었다."
+    },
+    {
+      "en": "a tipping point",
+      "ko": "임계점",
+      "pos": "관용구",
+      "ex": "Social media usage has reached a tipping point among older adults.",
+      "exKo": "소셜 미디어 이용은 고령층에서 임계점에 도달했다."
+    },
+    {
+      "en": "a seismic shift",
+      "ko": "지각변동",
+      "pos": "관용구",
+      "ex": "The merger triggered a seismic shift in the media landscape.",
+      "exKo": "그 합병은 미디어 지형에 지각변동을 일으켰다."
+    },
+    {
+      "en": "an uphill battle",
+      "ko": "힘겨운 싸움",
+      "pos": "관용구",
+      "ex": "Reversing the decline will be an uphill battle for the new management.",
+      "exKo": "하락세를 되돌리는 것은 새 경영진에게 힘겨운 싸움이 될 것이다."
+    },
+    {
+      "en": "a long haul",
+      "ko": "장기전",
+      "pos": "관용구",
+      "ex": "Rebuilding consumer trust will be a long haul for the airline.",
+      "exKo": "소비자 신뢰를 회복하는 것은 그 항공사에게 장기전이 될 것이다."
+    },
+    {
+      "en": "a steep climb",
+      "ko": "가파른 오르막 같은 도전",
+      "pos": "관용구",
+      "ex": "Reaching profitability by next year looks like a steep climb.",
+      "exKo": "내년까지 흑자 전환을 이루는 것은 가파른 오르막처럼 보인다."
+    },
+    {
+      "en": "a rocky road",
+      "ko": "험난한 앞길",
+      "pos": "관용구",
+      "ex": "The startup has faced a rocky road since its failed funding round.",
+      "exKo": "그 스타트업은 투자 유치 실패 이후 험난한 길을 걸어 왔다."
+    }
+  ],
+  "10": [
+    {
+      "en": "the benefit of the doubt",
+      "ko": "선의의 해석",
+      "pos": "표현",
+      "ex": "Give new employees the benefit of the doubt when they make early mistakes.",
+      "exKo": "신입 직원이 초기에 실수하면 선의로 봐주세요."
+    },
+    {
+      "en": "the lesser of two evils",
+      "ko": "차악",
+      "pos": "표현",
+      "ex": "Voters often feel they must choose the lesser of two evils.",
+      "exKo": "유권자들은 종종 차악을 선택해야 한다고 느낀다."
+    },
+    {
+      "en": "the lion's share",
+      "ko": "가장 큰 몫",
+      "pos": "표현",
+      "ex": "Large retailers capture the lion's share of holiday spending.",
+      "exKo": "대형 소매업체가 연휴 소비의 가장 큰 몫을 차지한다."
+    },
+    {
+      "en": "the pecking order",
+      "ko": "서열",
+      "pos": "표현",
+      "ex": "Everyone in the office knew their place in the pecking order.",
+      "exKo": "사무실의 모든 사람이 서열 속 자신의 위치를 알고 있었다."
+    },
+    {
+      "en": "the rank and file",
+      "ko": "일반 구성원",
+      "pos": "표현",
+      "ex": "The plan was drawn up without consulting the rank and file.",
+      "exKo": "그 계획은 일반 구성원들과 상의 없이 짜였다."
+    },
+    {
+      "en": "the powers that be",
+      "ko": "권력자들",
+      "pos": "표현",
+      "ex": "Nobody knows what the powers that be will decide about the budget.",
+      "exKo": "예산에 대해 권력자들이 어떻게 결정할지 아무도 모른다."
+    },
+    {
+      "en": "the status quo",
+      "ko": "현상 유지",
+      "pos": "표현",
+      "ex": "Powerful lobbies fought to maintain the status quo in the industry.",
+      "exKo": "강력한 로비 단체들은 업계의 현상 유지를 위해 싸웠다."
+    },
+    {
+      "en": "the bottom of the barrel",
+      "ko": "바닥 수준",
+      "pos": "표현",
+      "ex": "Hiring from the bottom of the barrel will only hurt the team.",
+      "exKo": "최하 수준의 인력을 채용하는 것은 팀에 해만 될 것이다."
+    },
+    {
+      "en": "the shape of things to come",
+      "ko": "다가올 미래의 모습",
+      "pos": "표현",
+      "ex": "Electric trucks may be the shape of things to come in freight.",
+      "exKo": "전기 트럭은 화물 운송의 다가올 미래의 모습일 수 있다."
+    },
+    {
+      "en": "the calm before the storm",
+      "ko": "폭풍 전야의 고요",
+      "pos": "표현",
+      "ex": "Markets were quiet, but traders sensed the calm before the storm.",
+      "exKo": "시장은 조용했지만 트레이더들은 폭풍 전야의 고요함을 느꼈다."
+    }
+  ],
+  "11": [
+    {
+      "en": "at loggerheads",
+      "ko": "첨예하게 대립하는",
+      "pos": "표현",
+      "ex": "Union leaders and management remain at loggerheads over wages.",
+      "exKo": "노조 지도부와 경영진은 임금을 두고 여전히 첨예하게 대립하고 있다."
+    },
+    {
+      "en": "at a crossroads",
+      "ko": "갈림길에 선",
+      "pos": "표현",
+      "ex": "After the buyout offer, the firm is at a crossroads.",
+      "exKo": "인수 제안 이후 그 회사는 갈림길에 서 있다."
+    },
+    {
+      "en": "at a loose end",
+      "ko": "할 일 없이 빈둥대는",
+      "pos": "표현",
+      "ex": "Without a project, several engineers found themselves at a loose end.",
+      "exKo": "프로젝트가 없어서 몇몇 엔지니어들은 할 일 없이 빈둥대고 있었다."
+    },
+    {
+      "en": "at odds with",
+      "ko": "~와 충돌하는",
+      "pos": "표현",
+      "ex": "The new policy is at odds with the company's stated values.",
+      "exKo": "새 정책은 회사가 밝힌 가치와 어긋난다."
+    },
+    {
+      "en": "at arm's length",
+      "ko": "거리를 두고",
+      "pos": "표현",
+      "ex": "The minister kept the lobbyists at arm's length.",
+      "exKo": "장관은 로비스트들과 거리를 두었다."
+    },
+    {
+      "en": "at the helm",
+      "ko": "지휘봉을 잡고",
+      "pos": "표현",
+      "ex": "She has been at the helm of the company for over a decade.",
+      "exKo": "그녀는 10년 넘게 회사의 키를 잡고 있다."
+    },
+    {
+      "en": "at the mercy of",
+      "ko": "~에 휘둘리는",
+      "pos": "표현",
+      "ex": "Small farmers are at the mercy of volatile weather and prices.",
+      "exKo": "소규모 농민들은 변덕스러운 날씨와 가격에 휘둘린다."
+    },
+    {
+      "en": "at a premium",
+      "ko": "귀해서 비싼",
+      "pos": "표현",
+      "ex": "Skilled workers are at a premium in the current labor market.",
+      "exKo": "숙련 인력은 현재 노동 시장에서 귀한 몸이다."
+    },
+    {
+      "en": "at face value",
+      "ko": "액면 그대로",
+      "pos": "표현",
+      "ex": "Investors should not take the forecast at face value.",
+      "exKo": "투자자들은 그 전망을 액면 그대로 받아들여서는 안 된다."
+    },
+    {
+      "en": "at the eleventh hour",
+      "ko": "막판에",
+      "pos": "표현",
+      "ex": "The deal was rescued at the eleventh hour.",
+      "exKo": "그 거래는 막판에 극적으로 살아났다."
+    }
+  ],
+  "12": [
+    {
+      "en": "in the crosshairs",
+      "ko": "표적이 되어",
+      "pos": "표현",
+      "ex": "The bank is now in the crosshairs of regulators across Europe.",
+      "exKo": "그 은행은 이제 유럽 전역 규제 당국의 표적이 되었다."
+    },
+    {
+      "en": "in the firing line",
+      "ko": "비난의 최전선에서",
+      "pos": "표현",
+      "ex": "Frontline managers are in the firing line when the policy fails.",
+      "exKo": "정책이 실패하면 현장 관리자들이 비난의 최전선에 서게 된다."
+    },
+    {
+      "en": "in the doldrums",
+      "ko": "침체에 빠진",
+      "pos": "표현",
+      "ex": "The housing market has been in the doldrums since last spring.",
+      "exKo": "주택 시장은 지난봄부터 침체에 빠져 있다."
+    },
+    {
+      "en": "in the throes of",
+      "ko": "~로 몸부림치는",
+      "pos": "표현",
+      "ex": "The country is in the throes of a severe currency crisis.",
+      "exKo": "그 나라는 심각한 통화 위기로 몸부림치고 있다."
+    },
+    {
+      "en": "in the wake of",
+      "ko": "~의 여파로",
+      "pos": "표현",
+      "ex": "Several executives resigned in the wake of the data breach.",
+      "exKo": "데이터 유출 여파로 여러 임원이 사임했다."
+    },
+    {
+      "en": "in the offing",
+      "ko": "임박하여",
+      "pos": "표현",
+      "ex": "Analysts say a rate cut is in the offing.",
+      "exKo": "분석가들은 금리 인하가 임박했다고 말한다."
+    },
+    {
+      "en": "a Faustian bargain",
+      "ko": "영혼을 파는 거래",
+      "pos": "관용구",
+      "ex": "Accepting funding from the rival was a Faustian bargain for the founders.",
+      "exKo": "경쟁사의 자금을 받아들인 것은 창업자들에게 영혼을 판 거래였다."
+    },
+    {
+      "en": "a Hobson's choice",
+      "ko": "선택의 여지 없는 선택",
+      "pos": "관용구",
+      "ex": "Faced with a Hobson's choice, the board accepted the offer.",
+      "exKo": "선택의 여지 없는 상황에서 이사회는 제안을 받아들였다."
+    },
+    {
+      "en": "in the same breath",
+      "ko": "같은 입으로 연이어",
+      "pos": "표현",
+      "ex": "She praised the plan and criticized it in the same breath.",
+      "exKo": "그녀는 같은 입으로 그 계획을 칭찬하고 비판했다."
+    },
+    {
+      "en": "in good faith",
+      "ko": "선의로",
+      "pos": "표현",
+      "ex": "Both parties must negotiate in good faith for the talks to succeed.",
+      "exKo": "협상이 성공하려면 양측이 선의를 가지고 협상해야 한다."
+    }
+  ],
+  "13": [
+    {
+      "en": "on the back foot",
+      "ko": "수세에 몰려",
+      "pos": "표현",
+      "ex": "The champion was on the back foot after the surprise product launch.",
+      "exKo": "챔피언은 깜짝 신제품 출시 이후 수세에 몰렸다."
+    },
+    {
+      "en": "on the ropes",
+      "ko": "궁지에 몰려",
+      "pos": "표현",
+      "ex": "The airline is on the ropes after months of cancellations.",
+      "exKo": "그 항공사는 몇 달간의 결항 끝에 궁지에 몰렸다."
+    },
+    {
+      "en": "on the brink",
+      "ko": "벼랑 끝에",
+      "pos": "표현",
+      "ex": "The talks collapsed, leaving the two countries on the brink of conflict.",
+      "exKo": "협상이 결렬되며 두 나라는 충돌 직전의 벼랑 끝에 놓였다."
+    },
+    {
+      "en": "on the verge of",
+      "ko": "막 ~하려는 찰나에",
+      "pos": "표현",
+      "ex": "The firm is on the verge of bankruptcy.",
+      "exKo": "그 회사는 파산 직전이다."
+    },
+    {
+      "en": "on the cusp of",
+      "ko": "~의 문턱에",
+      "pos": "표현",
+      "ex": "Researchers say they are on the cusp of a major breakthrough.",
+      "exKo": "연구자들은 중대한 돌파구를 코앞에 두고 있다고 말한다."
+    },
+    {
+      "en": "on the horizon",
+      "ko": "눈앞에 다가온",
+      "pos": "표현",
+      "ex": "With elections on the horizon, spending promises are multiplying.",
+      "exKo": "선거가 눈앞에 다가오면서 지출 공약이 늘고 있다."
+    },
+    {
+      "en": "on the rocks",
+      "ko": "파탄 직전인",
+      "pos": "표현",
+      "ex": "Their partnership is on the rocks after the dispute over profits.",
+      "exKo": "이익을 둘러싼 분쟁 이후 두 사람의 동업은 파탄 직전이다."
+    },
+    {
+      "en": "on the wane",
+      "ko": "쇠퇴하고 있는",
+      "pos": "표현",
+      "ex": "The industry's influence has long been on the wane in the region.",
+      "exKo": "그 산업의 영향력은 이 지역에서 오랫동안 쇠퇴해 왔다."
+    },
+    {
+      "en": "on a knife-edge",
+      "ko": "한 치 앞을 알 수 없는",
+      "pos": "표현",
+      "ex": "The vote was on a knife-edge until the final count.",
+      "exKo": "투표는 마지막 개표까지 한 치 앞을 알 수 없었다."
+    },
+    {
+      "en": "on a shoestring",
+      "ko": "쥐꼬리 예산으로",
+      "pos": "표현",
+      "ex": "The film was made on a shoestring but became a global hit.",
+      "exKo": "그 영화는 쥐꼬리 예산으로 만들어졌지만 세계적 히트작이 되었다."
+    }
+  ],
+  "14": [
+    {
+      "en": "under the thumb of",
+      "ko": "~의 손아귀에",
+      "pos": "표현",
+      "ex": "Small suppliers remain under the thumb of a few large buyers.",
+      "exKo": "소규모 공급업체들은 소수 대형 구매처의 손아귀에 놓여 있다."
+    },
+    {
+      "en": "under scrutiny",
+      "ko": "면밀한 조사를 받는",
+      "pos": "표현",
+      "ex": "The firm's accounts are under scrutiny from regulators.",
+      "exKo": "그 회사의 회계는 규제 당국의 면밀한 조사를 받고 있다."
+    },
+    {
+      "en": "under duress",
+      "ko": "강압에 못 이겨",
+      "pos": "표현",
+      "ex": "He claimed he signed the agreement under duress.",
+      "exKo": "그는 강압에 못 이겨 합의서에 서명했다고 주장했다."
+    },
+    {
+      "en": "under the auspices of",
+      "ko": "~의 후원 아래",
+      "pos": "표현",
+      "ex": "The summit was held under the auspices of the United Nations.",
+      "exKo": "정상회의는 유엔의 후원 아래 열렸다."
+    },
+    {
+      "en": "under a cloud",
+      "ko": "의혹을 받는",
+      "pos": "표현",
+      "ex": "The chairman left office under a cloud last spring, amid fraud claims.",
+      "exKo": "회장은 지난봄 사기 의혹 속에 자리에서 물러났다."
+    },
+    {
+      "en": "a Herculean task",
+      "ko": "엄청난 노력이 드는 일",
+      "pos": "관용구",
+      "ex": "Rebuilding the supply chain from scratch is a Herculean task.",
+      "exKo": "공급망을 처음부터 다시 구축하는 것은 엄청난 노력이 드는 일이다."
+    },
+    {
+      "en": "under fire",
+      "ko": "맹공을 받는",
+      "pos": "표현",
+      "ex": "The central bank has come under fire for acting too slowly.",
+      "exKo": "중앙은행은 대응이 너무 느렸다는 이유로 맹공을 받았다."
+    },
+    {
+      "en": "under wraps",
+      "ko": "비밀에 부쳐",
+      "pos": "표현",
+      "ex": "The new device is being kept under wraps until the launch.",
+      "exKo": "신제품은 출시 때까지 비밀에 부쳐지고 있다."
+    },
+    {
+      "en": "under the hammer",
+      "ko": "경매에 부쳐진",
+      "pos": "표현",
+      "ex": "The rare painting went under the hammer for a record price.",
+      "exKo": "그 희귀한 그림은 기록적인 가격에 경매에 부쳐졌다."
+    },
+    {
+      "en": "under pressure",
+      "ko": "압박 속에",
+      "pos": "표현",
+      "ex": "Many managers make poor choices when they are under pressure.",
+      "exKo": "많은 관리자가 압박을 받을 때 잘못된 선택을 한다."
+    }
+  ],
+  "15": [
+    {
+      "en": "by dint of",
+      "ko": "~의 힘으로",
+      "pos": "표현",
+      "ex": "She succeeded by dint of sheer persistence and long working hours.",
+      "exKo": "그녀는 순전한 끈기와 긴 근무 시간 덕분에 성공했다."
+    },
+    {
+      "en": "by the skin of your teeth",
+      "ko": "간신히 아슬아슬하게",
+      "pos": "표현",
+      "ex": "You cannot expect to survive by the skin of your teeth forever.",
+      "exKo": "영원히 간신히 아슬아슬하게 버티기를 기대할 수는 없다."
+    },
+    {
+      "en": "by leaps and bounds",
+      "ko": "비약적으로",
+      "pos": "표현",
+      "ex": "Online sales have grown by leaps and bounds.",
+      "exKo": "온라인 매출은 비약적으로 성장했다."
+    },
+    {
+      "en": "by the same token",
+      "ko": "같은 이유로",
+      "pos": "표현",
+      "ex": "Costs have risen, and by the same token, prices must follow.",
+      "exKo": "비용이 올랐으니 같은 이유로 가격도 따라 올라야 한다."
+    },
+    {
+      "en": "by no means",
+      "ko": "결코 ~이 아닌",
+      "pos": "표현",
+      "ex": "The outcome of the negotiations is by no means certain.",
+      "exKo": "협상의 결과는 결코 확실하지 않다."
+    },
+    {
+      "en": "by virtue of",
+      "ko": "~의 자격으로",
+      "pos": "표현",
+      "ex": "By virtue of her seniority, she chairs the committee.",
+      "exKo": "그녀는 연공 덕분에 위원회를 이끈다."
+    },
+    {
+      "en": "by way of",
+      "ko": "~를 경유하여",
+      "pos": "표현",
+      "ex": "The package reached Seoul by way of Tokyo.",
+      "exKo": "그 소포는 도쿄를 경유해 서울에 도착했다."
+    },
+    {
+      "en": "by default",
+      "ko": "기본값으로 자동으로",
+      "pos": "표현",
+      "ex": "Members are enrolled in the plan by default.",
+      "exKo": "회원들은 자동으로 그 요금제에 가입된다."
+    },
+    {
+      "en": "by design",
+      "ko": "의도적으로",
+      "pos": "표현",
+      "ex": "The delays were not accidental but by design.",
+      "exKo": "그 지연은 우연이 아니라 의도된 것이었다."
+    },
+    {
+      "en": "a Sisyphean task",
+      "ko": "끝없는 헛수고",
+      "pos": "관용구",
+      "ex": "Cleaning up decades of waste is a Sisyphean task.",
+      "exKo": "수십 년간의 폐기물을 치우는 일은 끝없는 헛수고와 같다."
+    }
+  ],
+  "16": [
+    {
+      "en": "to no avail",
+      "ko": "헛되이",
+      "pos": "표현",
+      "ex": "The union appealed to the board, but to no avail.",
+      "exKo": "노조는 이사회에 호소했지만 소용이 없었다."
+    },
+    {
+      "en": "to the letter",
+      "ko": "글자 그대로 정확히",
+      "pos": "표현",
+      "ex": "Contractors must follow the safety rules to the letter.",
+      "exKo": "계약업체는 안전 수칙을 글자 그대로 정확히 따라야 한다."
+    },
+    {
+      "en": "to a fault",
+      "ko": "지나칠 정도로",
+      "pos": "표현",
+      "ex": "He is generous to a fault, often giving away his own bonus.",
+      "exKo": "그는 지나칠 정도로 너그러워서 종종 자기 보너스를 남에게 준다."
+    },
+    {
+      "en": "to the hilt",
+      "ko": "최대한 끝까지",
+      "pos": "표현",
+      "ex": "The firm is already mortgaged to the hilt and cannot borrow more.",
+      "exKo": "그 회사는 이미 담보 대출이 한도까지 꽉 차서 더 빌릴 수 없다."
+    },
+    {
+      "en": "to the core",
+      "ko": "뼛속까지",
+      "pos": "표현",
+      "ex": "The founder was an engineer to the core.",
+      "exKo": "창업자는 뼛속까지 엔지니어였다."
+    },
+    {
+      "en": "to date",
+      "ko": "지금까지",
+      "pos": "표현",
+      "ex": "The project has raised ten million dollars to date.",
+      "exKo": "그 프로젝트는 지금까지 천만 달러를 모금했다."
+    },
+    {
+      "en": "to boot",
+      "ko": "게다가",
+      "pos": "표현",
+      "ex": "The device is cheaper and, to boot, more reliable.",
+      "exKo": "그 기기는 더 저렴하고, 게다가 더 믿을 만하다."
+    },
+    {
+      "en": "to the bitter end",
+      "ko": "끝까지 버티며",
+      "pos": "표현",
+      "ex": "The old guard fought the reforms to the bitter end.",
+      "exKo": "구세대 지도부는 개혁에 끝까지 맞서 싸웠다."
+    },
+    {
+      "en": "to all intents and purposes",
+      "ko": "사실상",
+      "pos": "표현",
+      "ex": "To all intents and purposes, the merger is already complete.",
+      "exKo": "사실상 합병은 이미 끝난 것이나 다름없다."
+    },
+    {
+      "en": "to the tune of",
+      "ko": "~에 달하는 금액으로",
+      "pos": "표현",
+      "ex": "The company was fined to the tune of fifty million dollars.",
+      "exKo": "그 회사는 5천만 달러에 달하는 벌금을 부과받았다."
+    }
+  ],
+  "17": [
+    {
+      "en": "come hell or high water",
+      "ko": "무슨 일이 있어도",
+      "pos": "표현",
+      "ex": "We will deliver the order come hell or high water.",
+      "exKo": "우리는 무슨 일이 있어도 주문품을 납품할 것이다."
+    },
+    {
+      "en": "come rain or shine",
+      "ko": "날씨에 상관없이 변함없이",
+      "pos": "표현",
+      "ex": "The market opens at dawn, come rain or shine.",
+      "exKo": "그 시장은 날씨와 상관없이 새벽에 문을 연다."
+    },
+    {
+      "en": "through thick and thin",
+      "ko": "좋을 때나 나쁠 때나",
+      "pos": "표현",
+      "ex": "He stayed loyal to the team through thick and thin.",
+      "exKo": "그는 좋을 때나 힘들 때나 팀에 충실했다."
+    },
+    {
+      "en": "for better or worse",
+      "ko": "좋든 싫든",
+      "pos": "표현",
+      "ex": "For better or worse, the policy will take effect in January.",
+      "exKo": "좋든 싫든 그 정책은 1월에 시행된다."
+    },
+    {
+      "en": "the thin end of the wedge",
+      "ko": "큰 변화의 시작",
+      "pos": "관용구",
+      "ex": "Critics see the small fee as the thin end of the wedge.",
+      "exKo": "비평가들은 그 소액 수수료를 더 큰 부담의 시작으로 본다."
+    },
+    {
+      "en": "the last hurrah",
+      "ko": "마지막 화려한 무대",
+      "pos": "관용구",
+      "ex": "The veteran CEO's keynote was billed as the last hurrah of his career.",
+      "exKo": "베테랑 CEO의 기조연설은 마지막 화려한 무대로 홍보되었다."
+    },
+    {
+      "en": "make or break",
+      "ko": "흥망을 가르는",
+      "pos": "표현",
+      "ex": "This quarter's launch will be make or break for the company.",
+      "exKo": "이번 분기 출시는 회사의 흥망을 가를 것이다."
+    },
+    {
+      "en": "win or lose",
+      "ko": "이기든 지든",
+      "pos": "표현",
+      "ex": "Win or lose, the team has earned the public's respect.",
+      "exKo": "이기든 지든 그 팀은 대중의 존경을 얻었다."
+    },
+    {
+      "en": "the fine print",
+      "ko": "깨알 같은 세부 조항",
+      "pos": "표현",
+      "ex": "Always read the fine print before signing a contract.",
+      "exKo": "계약서에 서명하기 전에 항상 깨알 같은 조항을 읽어라."
+    },
+    {
+      "en": "cut and dried",
+      "ko": "이미 정해진 뻔한",
+      "pos": "표현",
+      "ex": "The legal case was not cut and dried, despite early claims.",
+      "exKo": "초기 주장과 달리 그 소송은 결론이 뻔한 것이 아니었다."
+    }
+  ],
+  "18": [
+    {
+      "en": "nip in the bud",
+      "ko": "싹을 자르다",
+      "pos": "관용구",
+      "ex": "Swift action helped nip in the bud any rumors of a layoff.",
+      "exKo": "신속한 조치로 해고설을 초기에 싹부터 잘라냈다."
+    },
+    {
+      "en": "cut off at the pass",
+      "ko": "길목에서 차단하다",
+      "pos": "관용구",
+      "ex": "Police managed to cut off at the pass the smugglers heading north.",
+      "exKo": "경찰은 북쪽으로 향하던 밀수범들을 길목에서 차단했다."
+    },
+    {
+      "en": "head off at the pass",
+      "ko": "선수를 쳐서 막다",
+      "pos": "관용구",
+      "ex": "Regulators moved quickly to head off at the pass the planned merger.",
+      "exKo": "규제 당국은 계획된 합병을 막기 위해 신속히 움직였다."
+    },
+    {
+      "en": "stem the tide",
+      "ko": "확산을 저지하다",
+      "pos": "관용구",
+      "ex": "The government introduced new measures to stem the tide of job losses.",
+      "exKo": "정부는 일자리 감소의 흐름을 막기 위해 새 대책을 내놓았다."
+    },
+    {
+      "en": "turn the tide",
+      "ko": "판세를 뒤집다",
+      "pos": "관용구",
+      "ex": "A bold marketing push helped turn the tide for the struggling brand.",
+      "exKo": "과감한 마케팅이 부진하던 브랜드의 판세를 뒤집는 데 도움이 되었다."
+    },
+    {
+      "en": "swim with the tide",
+      "ko": "대세를 따르다",
+      "pos": "관용구",
+      "ex": "Smaller firms often prefer to swim with the tide rather than resist change.",
+      "exKo": "소규모 기업들은 변화에 저항하기보다 대세를 따르는 쪽을 선호한다."
+    },
+    {
+      "en": "ride the wave",
+      "ko": "호황의 흐름을 타다",
+      "pos": "관용구",
+      "ex": "Savvy investors know how to ride the wave of a rising market.",
+      "exKo": "노련한 투자자들은 오르는 시장의 흐름을 타는 법을 안다."
+    },
+    {
+      "en": "weather the storm",
+      "ko": "위기를 견뎌내다",
+      "pos": "관용구",
+      "ex": "The family business managed to weather the storm of the recession.",
+      "exKo": "그 가족 기업은 불황의 위기를 견뎌냈다."
+    },
+    {
+      "en": "navigate choppy waters",
+      "ko": "험한 시기를 헤쳐 나가다",
+      "pos": "관용구",
+      "ex": "New leaders must navigate choppy waters during the merger.",
+      "exKo": "새 지도부는 합병 기간의 험한 시기를 헤쳐 나가야 한다."
+    },
+    {
+      "en": "keep afloat",
+      "ko": "간신히 버티다",
+      "pos": "구동사",
+      "ex": "The theater barely managed to keep afloat during the pandemic.",
+      "exKo": "그 극장은 팬데믹 동안 간신히 버텨냈다."
+    }
+  ],
+  "19": [
+    {
+      "en": "pour oil on troubled waters",
+      "ko": "분쟁을 진정시키다",
+      "pos": "관용구",
+      "ex": "The mediator tried to pour oil on troubled waters between the two unions.",
+      "exKo": "중재자는 두 노조 사이의 분쟁을 진정시키려 했다."
+    },
+    {
+      "en": "add fuel to the fire",
+      "ko": "불난 집에 부채질하다",
+      "pos": "관용구",
+      "ex": "The minister's careless remarks only helped add fuel to the fire.",
+      "exKo": "장관의 경솔한 발언은 불난 집에 부채질만 했다."
+    },
+    {
+      "en": "fan the flames",
+      "ko": "감정의 불길을 키우다",
+      "pos": "관용구",
+      "ex": "Sensational headlines tend to fan the flames of public anger.",
+      "exKo": "선정적인 헤드라인은 대중의 분노를 부채질하는 경향이 있다."
+    },
+    {
+      "en": "throw a spanner in the works",
+      "ko": "일을 망치다",
+      "pos": "관용구",
+      "ex": "A last-minute lawsuit threatened to throw a spanner in the works.",
+      "exKo": "막판 소송이 일을 망칠 위험이 있었다."
+    },
+    {
+      "en": "put a spoke in the wheel",
+      "ko": "계획에 제동을 걸다",
+      "pos": "관용구",
+      "ex": "Local objections could put a spoke in the wheel of the project.",
+      "exKo": "지역 주민의 반대가 사업에 제동을 걸 수 있다."
+    },
+    {
+      "en": "put the cart before the horse",
+      "ko": "본말을 전도하다",
+      "pos": "관용구",
+      "ex": "Hiring staff before securing funding is like trying to put the cart before the horse.",
+      "exKo": "자금 확보 전에 직원을 뽑는 것은 본말을 뒤집는 일과 같다."
+    },
+    {
+      "en": "flog a dead horse",
+      "ko": "이미 끝난 일에 매달리다",
+      "pos": "관용구",
+      "ex": "Pushing the old strategy again is like trying to flog a dead horse.",
+      "exKo": "낡은 전략을 다시 밀어붙이는 것은 이미 끝난 일에 매달리는 것과 같다."
+    },
+    {
+      "en": "beat a dead horse",
+      "ko": "이미 결론 난 얘기를 되풀이하다",
+      "pos": "관용구",
+      "ex": "There's no point in trying to beat a dead horse over the settled budget.",
+      "exKo": "이미 확정된 예산을 두고 같은 얘기를 되풀이해 봐야 소용없다."
+    },
+    {
+      "en": "let sleeping dogs lie",
+      "ko": "건드리지 않고 그냥 두다",
+      "pos": "관용구",
+      "ex": "The lawyer advised us to let sleeping dogs lie.",
+      "exKo": "변호사는 우리에게 긁어 부스럼 만들지 말고 그냥 두라고 조언했다."
+    },
+    {
+      "en": "barking up the wrong tree",
+      "ko": "헛다리를 짚다",
+      "pos": "관용구",
+      "ex": "If you blame the staff, you are barking up the wrong tree.",
+      "exKo": "직원들을 탓한다면 헛다리를 짚는 것이다."
+    }
+  ],
+  "20": [
+    {
+      "en": "the proof of the pudding",
+      "ko": "해봐야 안다",
+      "pos": "관용구",
+      "ex": "The proof of the pudding will be in next quarter's earnings.",
+      "exKo": "결과는 다음 분기 실적에서 판가름날 것이다."
+    },
+    {
+      "en": "the devil is in the details",
+      "ko": "문제는 세부 사항에 있다",
+      "pos": "관용구",
+      "ex": "Good strategy is easy; the devil is in the details of execution.",
+      "exKo": "좋은 전략은 쉽지만 문제는 실행의 세부 사항에 있다."
+    },
+    {
+      "en": "the ends justify the means",
+      "ko": "목적이 수단을 정당화한다",
+      "pos": "관용구",
+      "ex": "Some executives believe the ends justify the means.",
+      "exKo": "일부 임원들은 목적이 수단을 정당화한다고 믿는다."
+    },
+    {
+      "en": "the buck stops here",
+      "ko": "최종 책임은 내게 있다",
+      "pos": "관용구",
+      "ex": "I approved the plan, so the buck stops here.",
+      "exKo": "내가 계획을 승인했으니 최종 책임은 내게 있다."
+    },
+    {
+      "en": "the jury is still out",
+      "ko": "아직 결론이 나지 않았다",
+      "pos": "관용구",
+      "ex": "On the long-term effects of the drug, the jury is still out.",
+      "exKo": "그 약의 장기적 영향에 대해서는 아직 결론이 나지 않았다."
+    },
+    {
+      "en": "the ball is in your court",
+      "ko": "이제 당신 차례다",
+      "pos": "관용구",
+      "ex": "We made our offer, so the ball is in your court.",
+      "exKo": "우리가 제안을 했으니 이제 당신 차례다."
+    },
+    {
+      "en": "the shoe is on the other foot",
+      "ko": "입장이 뒤바뀌었다",
+      "pos": "관용구",
+      "ex": "Now that he's the client, the shoe is on the other foot.",
+      "exKo": "이제 그가 고객이 되었으니 입장이 뒤바뀌었다."
+    },
+    {
+      "en": "the tail wagging the dog",
+      "ko": "주객이 전도되다",
+      "pos": "관용구",
+      "ex": "When the tool dictates the strategy, it's the tail wagging the dog.",
+      "exKo": "도구가 전략을 좌우한다면 주객이 전도된 것이다."
+    },
+    {
+      "en": "the tide has turned",
+      "ko": "흐름이 바뀌었다",
+      "pos": "관용구",
+      "ex": "With rising demand, the tide has turned for the industry.",
+      "exKo": "수요가 늘면서 그 산업의 흐름이 바뀌었다."
+    },
+    {
+      "en": "the die is cast",
+      "ko": "주사위는 던져졌다",
+      "pos": "관용구",
+      "ex": "The deal has been signed, and the die is cast.",
+      "exKo": "계약이 체결되었고 주사위는 던져졌다."
+    }
+  ],
+  "21": [
+    {
+      "en": "lose face",
+      "ko": "체면을 잃다",
+      "pos": "관용구",
+      "ex": "The minister did not want to lose face before foreign leaders.",
+      "exKo": "장관은 외국 지도자들 앞에서 체면을 잃고 싶지 않았다."
+    },
+    {
+      "en": "save face",
+      "ko": "체면을 지키다",
+      "pos": "관용구",
+      "ex": "Offering a refund helped the firm save face.",
+      "exKo": "환불을 제안한 것은 회사가 체면을 지키는 데 도움이 되었다."
+    },
+    {
+      "en": "lose sight of",
+      "ko": "~를 놓치다",
+      "pos": "구동사",
+      "ex": "Managers can easily lose sight of long-term goals under pressure.",
+      "exKo": "관리자들은 압박 속에서 장기 목표를 쉽게 놓칠 수 있다."
+    },
+    {
+      "en": "lose heart",
+      "ko": "낙심하다",
+      "pos": "관용구",
+      "ex": "Volunteers began to lose heart after months without progress.",
+      "exKo": "자원봉사자들은 몇 달간 진전이 없자 낙심하기 시작했다."
+    },
+    {
+      "en": "lose your grip",
+      "ko": "통제력을 잃다",
+      "pos": "관용구",
+      "ex": "If you lose your grip on the schedule, costs will spiral.",
+      "exKo": "일정에 대한 통제력을 잃으면 비용이 급증할 것이다."
+    },
+    {
+      "en": "lose steam",
+      "ko": "힘이 빠지다",
+      "pos": "관용구",
+      "ex": "The recovery began to lose steam in the second half.",
+      "exKo": "경기 회복은 하반기에 접어들며 힘이 빠지기 시작했다."
+    },
+    {
+      "en": "lose ground",
+      "ko": "입지를 잃다",
+      "pos": "관용구",
+      "ex": "The party continues to lose ground to newer rivals.",
+      "exKo": "그 정당은 신생 경쟁 정당들에게 계속 입지를 잃고 있다."
+    },
+    {
+      "en": "lose your footing",
+      "ko": "발판을 잃고 휘청이다",
+      "pos": "관용구",
+      "ex": "It is easy to lose your footing when markets turn suddenly.",
+      "exKo": "시장이 갑자기 돌아서면 발판을 잃고 휘청이기 쉽다."
+    },
+    {
+      "en": "lose the plot",
+      "ko": "갈피를 못 잡다",
+      "pos": "관용구",
+      "ex": "After the third rewrite, the director seemed to lose the plot.",
+      "exKo": "세 번째 수정 후 감독은 갈피를 못 잡는 듯했다."
+    },
+    {
+      "en": "lose the thread",
+      "ko": "맥락을 놓치다",
+      "pos": "관용구",
+      "ex": "It was easy to lose the thread of the argument.",
+      "exKo": "논지의 맥락을 놓치기 쉬웠다."
+    }
+  ],
+  "22": [
+    {
+      "en": "raise eyebrows",
+      "ko": "의아함을 사다",
+      "pos": "관용구",
+      "ex": "The CEO's sudden departure is likely to raise eyebrows on Wall Street.",
+      "exKo": "CEO의 갑작스러운 퇴진은 월가에서 의아함을 살 가능성이 크다."
+    },
+    {
+      "en": "raise the stakes",
+      "ko": "판돈을 키우다",
+      "pos": "관용구",
+      "ex": "The new tariffs raise the stakes in the trade dispute.",
+      "exKo": "새 관세는 무역 분쟁의 판돈을 키운다."
+    },
+    {
+      "en": "raise hackles",
+      "ko": "반감을 사다",
+      "pos": "관용구",
+      "ex": "The proposal is bound to raise hackles among veteran staff.",
+      "exKo": "그 제안은 베테랑 직원들의 반감을 살 수밖에 없다."
+    },
+    {
+      "en": "raise a red flag",
+      "ko": "경고 신호를 보내다",
+      "pos": "관용구",
+      "ex": "Auditors decided to raise a red flag over the unusual transactions.",
+      "exKo": "감사관들은 이례적인 거래에 대해 경고 신호를 보내기로 했다."
+    },
+    {
+      "en": "raise the alarm",
+      "ko": "경종을 울리다",
+      "pos": "관용구",
+      "ex": "Whistleblowers often raise the alarm about unsafe practices at work.",
+      "exKo": "내부 고발자들은 직장의 안전하지 않은 관행에 대해 종종 경종을 울린다."
+    },
+    {
+      "en": "ruffle feathers",
+      "ko": "심기를 건드리다",
+      "pos": "관용구",
+      "ex": "The reform may ruffle feathers among longtime executives.",
+      "exKo": "그 개혁은 오랜 임원들의 심기를 건드릴 수 있다."
+    },
+    {
+      "en": "rattle cages",
+      "ko": "평온을 뒤흔들다",
+      "pos": "관용구",
+      "ex": "The new CEO is not afraid to rattle cages in a complacent industry.",
+      "exKo": "새 CEO는 안일한 업계의 평온을 뒤흔드는 것을 두려워하지 않는다."
+    },
+    {
+      "en": "strike a chord",
+      "ko": "공감을 불러일으키다",
+      "pos": "관용구",
+      "ex": "His speech on fairness is likely to strike a chord with young voters.",
+      "exKo": "공정성에 관한 그의 연설은 젊은 유권자들의 공감을 불러일으킬 가능성이 크다."
+    },
+    {
+      "en": "strike a balance",
+      "ko": "균형을 맞추다",
+      "pos": "관용구",
+      "ex": "Governments must strike a balance between growth and the environment.",
+      "exKo": "정부는 성장과 환경 사이에서 균형을 맞춰야 한다."
+    },
+    {
+      "en": "strike a deal",
+      "ko": "거래를 성사시키다",
+      "pos": "관용구",
+      "ex": "After weeks of talks, the two firms managed to strike a deal.",
+      "exKo": "몇 주간의 협상 끝에 두 회사는 거래를 성사시켰다."
+    }
+  ],
+  "23": [
+    {
+      "en": "spell out",
+      "ko": "상세히 풀어 설명하다",
+      "pos": "구동사",
+      "ex": "The report fails to spell out how the cuts will be funded.",
+      "exKo": "보고서는 삭감이 어떻게 재원 조달될지 명확히 설명하지 않는다."
+    },
+    {
+      "en": "spell disaster",
+      "ko": "재앙을 부르다",
+      "pos": "관용구",
+      "ex": "Delaying the repairs could spell disaster for the factory.",
+      "exKo": "수리를 미루면 공장에 재앙을 부를 수 있다."
+    },
+    {
+      "en": "drive a hard bargain",
+      "ko": "까다롭게 협상하다",
+      "pos": "관용구",
+      "ex": "The union leader is known to drive a hard bargain.",
+      "exKo": "그 노조 지도자는 협상을 까다롭게 하기로 유명하다."
+    },
+    {
+      "en": "drive a wedge between",
+      "ko": "이간질하다",
+      "pos": "관용구",
+      "ex": "Rumors began to drive a wedge between the two partners.",
+      "exKo": "소문이 두 동업자 사이를 갈라놓기 시작했다."
+    },
+    {
+      "en": "drive home the point",
+      "ko": "요점을 확실히 각인시키다",
+      "pos": "관용구",
+      "ex": "The speaker used a vivid story to drive home the point.",
+      "exKo": "연사는 생생한 이야기를 들어 요점을 확실히 각인시켰다."
+    },
+    {
+      "en": "drive up costs",
+      "ko": "비용을 끌어올리다",
+      "pos": "관용구",
+      "ex": "Supply shortages continue to drive up costs for builders.",
+      "exKo": "공급 부족은 건설업체들의 비용을 계속 끌어올리고 있다."
+    },
+    {
+      "en": "steer clear of",
+      "ko": "멀리하다",
+      "pos": "구동사",
+      "ex": "Wise investors steer clear of companies with opaque accounts.",
+      "exKo": "현명한 투자자들은 회계가 불투명한 기업을 멀리한다."
+    },
+    {
+      "en": "steer the conversation",
+      "ko": "대화를 이끌다",
+      "pos": "관용구",
+      "ex": "A good host knows how to steer the conversation toward shared interests.",
+      "exKo": "좋은 진행자는 대화를 공통 관심사로 이끄는 법을 안다."
+    },
+    {
+      "en": "shy away from",
+      "ko": "꺼리다",
+      "pos": "구동사",
+      "ex": "Politicians tend to shy away from raising taxes.",
+      "exKo": "정치인들은 세금 인상을 꺼리는 경향이 있다."
+    },
+    {
+      "en": "zero in on",
+      "ko": "~에 초점을 맞추다",
+      "pos": "구동사",
+      "ex": "Researchers began to zero in on the source of the leak.",
+      "exKo": "연구자들은 유출 원인에 초점을 맞추기 시작했다."
+    }
+  ],
+  "24": [
+    {
+      "en": "stand your ground",
+      "ko": "입장을 굽히지 않다",
+      "pos": "관용구",
+      "ex": "In a tough negotiation, you must stand your ground on the key terms.",
+      "exKo": "힘든 협상에서는 핵심 조건에 대해 입장을 굽히지 말아야 한다."
+    },
+    {
+      "en": "stand to gain",
+      "ko": "이득을 볼 처지다",
+      "pos": "숙어",
+      "ex": "Shareholders stand to gain if the takeover goes through.",
+      "exKo": "인수가 성사되면 주주들이 이득을 볼 수 있다."
+    },
+    {
+      "en": "stand the test of time",
+      "ko": "세월의 시험을 견디다",
+      "pos": "관용구",
+      "ex": "Only well-built products stand the test of time.",
+      "exKo": "잘 만들어진 제품만이 세월의 시험을 견딘다."
+    },
+    {
+      "en": "stand on ceremony",
+      "ko": "격식을 차리다",
+      "pos": "관용구",
+      "ex": "Please do not stand on ceremony; just help yourself.",
+      "exKo": "격식 차리지 말고 편하게 드세요."
+    },
+    {
+      "en": "stand trial",
+      "ko": "재판을 받다",
+      "pos": "관용구",
+      "ex": "The former executive will stand trial next spring.",
+      "exKo": "전직 임원은 내년 봄 재판을 받게 된다."
+    },
+    {
+      "en": "stand at a crossroads",
+      "ko": "기로에 서다",
+      "pos": "관용구",
+      "ex": "Today the company must stand at a crossroads between growth and stability.",
+      "exKo": "오늘 그 회사는 성장과 안정 사이의 기로에 서야 한다."
+    },
+    {
+      "en": "stand corrected",
+      "ko": "틀렸음을 인정하다",
+      "pos": "관용구",
+      "ex": "I stand corrected; the figures were indeed higher.",
+      "exKo": "제가 틀렸습니다. 수치는 실제로 더 높았습니다."
+    },
+    {
+      "en": "stand firm",
+      "ko": "단호하게 버티다",
+      "pos": "관용구",
+      "ex": "The prime minister has vowed to stand firm against the threats.",
+      "exKo": "총리는 위협에 단호하게 맞서겠다고 다짐했다."
+    },
+    {
+      "en": "stand in good stead",
+      "ko": "두고두고 도움이 되다",
+      "pos": "관용구",
+      "ex": "Her early training should stand in good stead throughout her career.",
+      "exKo": "그녀의 초기 훈련은 경력 내내 두고두고 도움이 될 것이다."
+    },
+    {
+      "en": "stand idly by",
+      "ko": "수수방관하다",
+      "pos": "관용구",
+      "ex": "The government cannot stand idly by while jobs disappear.",
+      "exKo": "정부는 일자리가 사라지는 동안 수수방관할 수 없다."
+    }
+  ],
+  "25": [
+    {
+      "en": "fall on deaf ears",
+      "ko": "무시당하다",
+      "pos": "관용구",
+      "ex": "Repeated warnings from engineers may fall on deaf ears.",
+      "exKo": "엔지니어들의 거듭된 경고는 무시당할 수도 있다."
+    },
+    {
+      "en": "fall short of",
+      "ko": "~에 못 미치다",
+      "pos": "구동사",
+      "ex": "Quarterly profits could fall short of expectations again this year.",
+      "exKo": "분기 이익이 올해도 기대에 못 미칠 수 있다."
+    },
+    {
+      "en": "fall from grace",
+      "ko": "명성을 잃고 몰락하다",
+      "pos": "관용구",
+      "ex": "Few bankers expect to fall from grace so quickly.",
+      "exKo": "그렇게 빨리 몰락하리라고 예상하는 은행가는 거의 없다."
+    },
+    {
+      "en": "fall into place",
+      "ko": "제자리를 찾아가다",
+      "pos": "관용구",
+      "ex": "After months of work, the pieces of the plan began to fall into place.",
+      "exKo": "몇 달간의 작업 끝에 계획의 조각들이 맞아떨어지기 시작했다."
+    },
+    {
+      "en": "fall victim to",
+      "ko": "~의 희생양이 되다",
+      "pos": "관용구",
+      "ex": "Many retirees fall victim to online scams every single year.",
+      "exKo": "많은 은퇴자가 해마다 온라인 사기의 피해자가 된다."
+    },
+    {
+      "en": "fall foul of",
+      "ko": "~에 저촉되다",
+      "pos": "관용구",
+      "ex": "The firm may fall foul of the new privacy law.",
+      "exKo": "그 회사는 새 개인정보법에 저촉될 수 있다."
+    },
+    {
+      "en": "fall by the wayside",
+      "ko": "도중에 낙오하다",
+      "pos": "관용구",
+      "ex": "Many promising start-ups fall by the wayside within two years.",
+      "exKo": "유망한 스타트업 다수가 2년 안에 도중에 사라진다."
+    },
+    {
+      "en": "fall prey to",
+      "ko": "~의 먹잇감이 되다",
+      "pos": "관용구",
+      "ex": "Small firms often fall prey to larger competitors.",
+      "exKo": "소규모 기업은 종종 대형 경쟁사의 먹잇감이 된다."
+    },
+    {
+      "en": "fall flat",
+      "ko": "반응 없이 실패하다",
+      "pos": "관용구",
+      "ex": "The slogan is unlikely to fall flat with younger consumers.",
+      "exKo": "그 슬로건이 젊은 소비자들에게 반응을 못 얻을 가능성은 낮다."
+    },
+    {
+      "en": "fall in line",
+      "ko": "방침에 따르다",
+      "pos": "관용구",
+      "ex": "Dissenting members were pressured to fall in line.",
+      "exKo": "반대하던 의원들은 방침에 따르라는 압박을 받았다."
+    }
+  ],
+  "26": [
+    {
+      "en": "get cold feet",
+      "ko": "겁먹고 망설이다",
+      "pos": "관용구",
+      "ex": "The investor began to get cold feet and considered pulling out of the deal.",
+      "exKo": "투자자는 겁이 나 망설이기 시작했고 거래에서 발을 뺄 생각을 했다."
+    },
+    {
+      "en": "get wind of",
+      "ko": "낌새를 채다",
+      "pos": "관용구",
+      "ex": "If competitors get wind of the launch, they will rush out a rival product.",
+      "exKo": "경쟁사들이 출시 낌새를 채면 서둘러 경쟁 제품을 내놓을 것이다."
+    },
+    {
+      "en": "get a grip on",
+      "ko": "상황을 장악하다",
+      "pos": "관용구",
+      "ex": "The government needs to get a grip on rising prices.",
+      "exKo": "정부는 오르는 물가를 잡아야 한다."
+    },
+    {
+      "en": "get the upper hand",
+      "ko": "우위를 점하다",
+      "pos": "관용구",
+      "ex": "Early investment helped the firm get the upper hand in the market.",
+      "exKo": "초기 투자는 그 회사가 시장에서 우위를 점하는 데 도움이 되었다."
+    },
+    {
+      "en": "get off the hook",
+      "ko": "곤경에서 벗어나다",
+      "pos": "관용구",
+      "ex": "The manager tried to get off the hook by blaming the system.",
+      "exKo": "관리자는 시스템을 탓하며 곤경에서 벗어나려 했다."
+    },
+    {
+      "en": "get a foot in the door",
+      "ko": "발판을 마련하다",
+      "pos": "관용구",
+      "ex": "Interns often hope to get a foot in the door.",
+      "exKo": "인턴들은 흔히 발판을 마련하기를 바란다."
+    },
+    {
+      "en": "get the short end of the stick",
+      "ko": "손해를 보다",
+      "pos": "관용구",
+      "ex": "Small suppliers usually get the short end of the stick in such deals.",
+      "exKo": "이런 거래에서 소규모 공급업체는 보통 손해를 본다."
+    },
+    {
+      "en": "get your wires crossed",
+      "ko": "서로 오해하다",
+      "pos": "관용구",
+      "ex": "A quick call ensures you do not get your wires crossed over deadlines.",
+      "exKo": "짧은 통화 한 번이면 마감일을 두고 서로 오해하는 일이 없다."
+    },
+    {
+      "en": "get to the bottom of",
+      "ko": "진상을 규명하다",
+      "pos": "관용구",
+      "ex": "The committee promised to get to the bottom of the accounting fraud.",
+      "exKo": "위원회는 회계 부정의 진상을 규명하겠다고 약속했다."
+    },
+    {
+      "en": "get out of hand",
+      "ko": "걷잡을 수 없게 되다",
+      "pos": "관용구",
+      "ex": "The protest threatened to get out of hand.",
+      "exKo": "시위는 걷잡을 수 없이 번질 조짐이었다."
+    }
+  ],
+  "27": [
+    {
+      "en": "have an axe to grind",
+      "ko": "속셈이 있다",
+      "pos": "관용구",
+      "ex": "Be cautious of advisers who have an axe to grind.",
+      "exKo": "속셈이 있는 조언자들을 조심하라."
+    },
+    {
+      "en": "have a chip on your shoulder",
+      "ko": "피해의식에 사로잡히다",
+      "pos": "관용구",
+      "ex": "Try not to have a chip on your shoulder about being overlooked.",
+      "exKo": "무시당했다는 피해의식을 품지 않도록 하세요."
+    },
+    {
+      "en": "have a soft spot for",
+      "ko": "특별히 아끼다",
+      "pos": "관용구",
+      "ex": "Many managers have a soft spot for loyal employees.",
+      "exKo": "많은 관리자가 충성스러운 직원을 특별히 아낀다."
+    },
+    {
+      "en": "have skin in the game",
+      "ko": "이해관계가 걸려 있다",
+      "pos": "관용구",
+      "ex": "Founders usually have skin in the game when they seek investors.",
+      "exKo": "창업자들은 보통 투자자를 구할 때 이해관계가 걸려 있다."
+    },
+    {
+      "en": "have the last laugh",
+      "ko": "최후에 웃다",
+      "pos": "관용구",
+      "ex": "Critics laughed at the plan, but the founder hopes to have the last laugh.",
+      "exKo": "비평가들은 그 계획을 비웃었지만 창업자는 마지막에 웃기를 바란다."
+    },
+    {
+      "en": "have your work cut out",
+      "ko": "만만치 않은 일을 안고 있다",
+      "pos": "관용구",
+      "ex": "In a crisis like this, you will have your work cut out.",
+      "exKo": "이런 위기에서는 만만치 않은 일을 떠안게 될 것이다."
+    },
+    {
+      "en": "have a lot on your plate",
+      "ko": "할 일이 산더미다",
+      "pos": "관용구",
+      "ex": "Expect to have a lot on your plate at the end of every quarter.",
+      "exKo": "매 분기 말에는 할 일이 산더미처럼 쌓일 것으로 예상하세요."
+    },
+    {
+      "en": "have egg on your face",
+      "ko": "망신을 당하다",
+      "pos": "관용구",
+      "ex": "Nobody wants to have egg on your face after promising too much, so be careful.",
+      "exKo": "지나치게 약속하고 망신을 당하고 싶은 사람은 없으니 조심하세요."
+    },
+    {
+      "en": "have a hard time of it",
+      "ko": "힘든 시간을 보내다",
+      "pos": "관용구",
+      "ex": "Small farms have a hard time of it in a drought year.",
+      "exKo": "소규모 농장은 가뭄이 든 해에 힘든 시간을 보낸다."
+    },
+    {
+      "en": "have something up your sleeve",
+      "ko": "비책을 숨겨 두다",
+      "pos": "관용구",
+      "ex": "It helps to have something up your sleeve before a tough negotiation.",
+      "exKo": "힘든 협상 전에는 비책을 하나 숨겨 두는 것이 도움이 된다."
+    }
+  ],
+  "28": [
+    {
+      "en": "a fine balance",
+      "ko": "아슬아슬한 균형",
+      "pos": "표현",
+      "ex": "Leaders must find a fine balance between speed and safety.",
+      "exKo": "지도자들은 속도와 안전 사이의 아슬아슬한 균형을 찾아야 한다."
+    },
+    {
+      "en": "a high-stakes gamble",
+      "ko": "큰 판돈이 걸린 도박",
+      "pos": "표현",
+      "ex": "The expansion was a high-stakes gamble for the small chain.",
+      "exKo": "그 확장은 소규모 체인점에 큰 판돈이 걸린 도박이었다."
+    },
+    {
+      "en": "a hollow victory",
+      "ko": "속 빈 승리",
+      "pos": "표현",
+      "ex": "Winning the contract at a loss felt like a hollow victory.",
+      "exKo": "손해를 보며 계약을 따낸 것은 속 빈 승리처럼 느껴졌다."
+    },
+    {
+      "en": "a thinly veiled threat",
+      "ko": "속이 뻔히 보이는 위협",
+      "pos": "표현",
+      "ex": "The warning sounded like a thinly veiled threat.",
+      "exKo": "그 경고는 속이 뻔히 보이는 위협처럼 들렸다."
+    },
+    {
+      "en": "a blanket ban",
+      "ko": "전면 금지",
+      "pos": "표현",
+      "ex": "Several cities have imposed a blanket ban on the devices.",
+      "exKo": "몇몇 도시는 그 기기에 대해 전면 금지를 시행했다."
+    },
+    {
+      "en": "a knee-jerk reaction",
+      "ko": "반사적 반응",
+      "pos": "표현",
+      "ex": "Banning the app was a knee-jerk reaction to bad press.",
+      "exKo": "그 앱 금지는 부정적 보도에 대한 반사적 반응이었다."
+    },
+    {
+      "en": "a war of words",
+      "ko": "설전",
+      "pos": "표현",
+      "ex": "The campaign descended into a war of words.",
+      "exKo": "선거운동은 설전으로 번졌다."
+    },
+    {
+      "en": "a level playing field",
+      "ko": "공정한 경쟁 환경",
+      "pos": "표현",
+      "ex": "Smaller firms are calling for a level playing field.",
+      "exKo": "소규모 기업들은 공정한 경쟁 환경을 요구하고 있다."
+    },
+    {
+      "en": "a bitter pill to swallow",
+      "ko": "받아들이기 쓴 현실",
+      "pos": "표현",
+      "ex": "Losing the contract was a bitter pill to swallow.",
+      "exKo": "계약을 잃은 것은 받아들이기 쓴 일이었다."
+    },
+    {
+      "en": "a tough act to follow",
+      "ko": "뒤따르기 부담스러운 전임자",
+      "pos": "표현",
+      "ex": "His predecessor was a tough act to follow.",
+      "exKo": "그의 전임자는 뒤따르기 부담스러운 인물이었다."
+    }
+  ],
+  "29": [
+    {
+      "en": "break new ground",
+      "ko": "새 분야를 개척하다",
+      "pos": "관용구",
+      "ex": "The lab hopes to break new ground in battery research.",
+      "exKo": "그 연구소는 배터리 연구에서 새 분야를 개척하기를 바란다."
+    },
+    {
+      "en": "break the mold",
+      "ko": "틀을 깨다",
+      "pos": "관용구",
+      "ex": "The designer aims to break the mold with a radical new concept.",
+      "exKo": "디자이너는 급진적인 새 콘셉트로 틀을 깨는 것을 목표로 한다."
+    },
+    {
+      "en": "break ranks",
+      "ko": "대열에서 이탈하다",
+      "pos": "관용구",
+      "ex": "A few senators chose to break ranks and vote against the bill.",
+      "exKo": "몇몇 상원의원은 대열에서 이탈해 법안에 반대표를 던졌다."
+    },
+    {
+      "en": "break the deadlock",
+      "ko": "교착 상태를 풀다",
+      "pos": "관용구",
+      "ex": "A surprise offer helped to break the deadlock in the talks.",
+      "exKo": "뜻밖의 제안이 협상의 교착 상태를 푸는 데 도움이 되었다."
+    },
+    {
+      "en": "break the back of",
+      "ko": "가장 힘든 고비를 넘기다",
+      "pos": "관용구",
+      "ex": "We have finally managed to break the back of the project.",
+      "exKo": "우리는 마침내 프로젝트의 가장 힘든 고비를 넘겼다."
+    },
+    {
+      "en": "a mixed blessing",
+      "ko": "일장일단이 있는 일",
+      "pos": "표현",
+      "ex": "Fame can be a mixed blessing for young entrepreneurs.",
+      "exKo": "명성은 젊은 기업가에게 일장일단이 있을 수 있다."
+    },
+    {
+      "en": "break with tradition",
+      "ko": "전통과 결별하다",
+      "pos": "관용구",
+      "ex": "The new coach chose to break with tradition and sign foreign players.",
+      "exKo": "새 감독은 전통과 결별하고 외국 선수들을 영입하기로 했다."
+    },
+    {
+      "en": "break the news",
+      "ko": "소식을 전하다",
+      "pos": "관용구",
+      "ex": "Nobody wanted to break the news of the layoffs to staff.",
+      "exKo": "아무도 직원들에게 해고 소식을 전하고 싶어 하지 않았다."
+    },
+    {
+      "en": "break the silence",
+      "ko": "침묵을 깨다",
+      "pos": "관용구",
+      "ex": "The star finally decided to break the silence about the scandal.",
+      "exKo": "그 스타는 마침내 스캔들에 대해 침묵을 깨기로 했다."
+    },
+    {
+      "en": "a hard-won victory",
+      "ko": "힘겹게 얻은 승리",
+      "pos": "표현",
+      "ex": "After years of legal battles, they finally celebrated a hard-won victory.",
+      "exKo": "수년간의 법정 다툼 끝에 그들은 마침내 힘겹게 얻은 승리를 축하했다."
+    }
+  ],
+  "30": [
+    {
+      "en": "play second fiddle",
+      "ko": "조연 역할에 머물다",
+      "pos": "관용구",
+      "ex": "She refused to play second fiddle to her more famous partner.",
+      "exKo": "그녀는 더 유명한 파트너의 조연에 머물기를 거부했다."
+    },
+    {
+      "en": "play to the gallery",
+      "ko": "대중의 인기에 영합하다",
+      "pos": "관용구",
+      "ex": "It is tempting to play to the gallery in an election year.",
+      "exKo": "선거가 있는 해에는 대중의 인기에 영합하고 싶은 유혹이 생긴다."
+    },
+    {
+      "en": "a political football",
+      "ko": "정쟁의 도구",
+      "pos": "표현",
+      "ex": "Health care has become a political football between the parties.",
+      "exKo": "의료는 정당 간 정쟁의 도구가 되었다."
+    },
+    {
+      "en": "play fast and loose",
+      "ko": "규칙을 제멋대로 다루다",
+      "pos": "관용구",
+      "ex": "The broker was found to play fast and loose with client funds.",
+      "exKo": "그 중개인은 고객 자금을 제멋대로 다룬 것으로 드러났다."
+    },
+    {
+      "en": "play the long game",
+      "ko": "장기적 안목으로 임하다",
+      "pos": "관용구",
+      "ex": "Patient investors know how to play the long game.",
+      "exKo": "인내심 있는 투자자들은 장기적 안목으로 임하는 법을 안다."
+    },
+    {
+      "en": "play the field",
+      "ko": "여러 선택지를 두고 저울질하다",
+      "pos": "관용구",
+      "ex": "Before settling down, he decided to play the field.",
+      "exKo": "정착하기 전에 그는 여러 선택지를 두고 저울질하기로 했다."
+    },
+    {
+      "en": "play both sides",
+      "ko": "양다리를 걸치다",
+      "pos": "관용구",
+      "ex": "The envoy was accused of trying to play both sides.",
+      "exKo": "그 특사는 양다리를 걸치려 했다는 비난을 받았다."
+    },
+    {
+      "en": "a house of cards",
+      "ko": "사상누각",
+      "pos": "관용구",
+      "ex": "The scheme was a house of cards that collapsed overnight.",
+      "exKo": "그 계획은 하룻밤에 무너진 사상누각이었다."
+    },
+    {
+      "en": "call into question",
+      "ko": "의문을 제기하다",
+      "pos": "관용구",
+      "ex": "The report's findings call into question the safety of the product.",
+      "exKo": "보고서의 결과는 제품의 안전성에 의문을 제기한다."
+    },
+    {
+      "en": "a paper tiger",
+      "ko": "종이호랑이",
+      "pos": "관용구",
+      "ex": "Critics dismissed the regulator as a paper tiger.",
+      "exKo": "비평가들은 그 규제 기관을 종이호랑이라고 일축했다."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 import { el, btn, h, progressBar } from '../ui.js';
-import { chapter, chapterDone, get } from '../state.js';
-import { COURSES, CHAPTERS, courseLevels, readyChapters, levelInfo } from '../data.js';
+import { chapter, chapterDone, get, placement } from '../state.js';
+import { COURSES, CHAPTERS, courseLevels, readyChapters, levelInfo, rankOf } from '../data.js';
 import { go } from '../main.js';
 
 export const doneCount = lv => Object.values(get().words[lv] || {}).filter(c => c.step === 'done').length;
@@ -16,6 +16,13 @@ function courseSwitch(current) {
   return seg;
 }
 
+// "레벨 테스트 시작 위치" tag on the tier the test placed the learner in.
+function startHere(L) {
+  const r = placedStart(L.id);
+  if (r === null || r === undefined || Math.floor(r / CHAPTERS) !== L.ti) return null;
+  return h('span', 'chip place', `레벨 테스트 시작 위치 · ${(r % CHAPTERS) + 1}챕터`);
+}
+
 export async function renderWords({ box }, course = 'word') {
   const C = COURSES[course];
   box.append(h('header', 'page-head', h('p', 'eyebrow', '단어장'), courseSwitch(course),
@@ -24,7 +31,8 @@ export async function renderWords({ box }, course = 'word') {
   for (const L of courseLevels(course)) {
     const n = doneCount(L.id);
     const b = h('button', 'card level' + (L.ready ? '' : ' off'),
-      h('div', 'level-top', h('b', '', L.full), h('span', 'muted', L.ready ? `${n}/${CHAPTERS} 챕터 완료` : '다음 업데이트에서 추가')),
+      h('div', 'level-top', h('b', '', L.full, h('small', 'cefr', L.cefr)), h('span', 'muted', L.ready ? `${n}/${CHAPTERS} 챕터 완료` : '다음 업데이트에서 추가')),
+      startHere(L),
       h('p', 'muted', L.desc), progressBar(n, CHAPTERS));
     b.type = 'button';
     if (L.ready) b.addEventListener('click', () => go(`words/${L.id}`)); else b.disabled = true;
@@ -33,8 +41,11 @@ export async function renderWords({ box }, course = 'word') {
   box.append(list);
 }
 
-// A chapter opens once the one before it is finished.
-export const unlocked = (lv, ch) => ch === 1 || chapterDone(lv, ch - 1);
+// A chapter opens once the one before it is finished. The first chapter of every tier is open, and the
+// level test opens everything up to where it placed the learner (opened only, not counted as done).
+export const placedStart = lv => { const p = placement(); return p ? p[levelInfo(lv).course] : null; };
+export const placedOpen = (lv, ch) => { const r = placedStart(lv); return r !== null && r !== undefined && rankOf(lv, ch) <= r; };
+export const unlocked = (lv, ch) => ch === 1 || chapterDone(lv, ch - 1) || placedOpen(lv, ch);
 
 export async function renderLevel({ box }, lv) {
   const L = levelInfo(lv);
@@ -48,7 +59,8 @@ export async function renderLevel({ box }, lv) {
   for (let ch = 1; ch <= CHAPTERS; ch++) {
     const rec = chapter(lv, ch);
     const avail = ch <= ready, open = avail && unlocked(lv, ch), done = rec.step === 'done';
-    const cls = 'ch-tile' + (done ? ' done' : open ? (rec.step !== 'cards' ? ' going' : ' open') : ' locked');
+    const isStart = placedStart(lv) === rankOf(lv, ch) && !done;
+    const cls = 'ch-tile' + (done ? ' done' : open ? (rec.step !== 'cards' ? ' going' : ' open') : ' locked') + (isStart ? ' start' : '');
     const b = h('button', cls, h('b', '', String(ch)),
       h('span', '', done ? '완료' : !avail ? '준비 중' : !open ? '잠김' : rec.step === 'cards' ? '시작' : rec.step === 'quiz1' ? '퀴즈 1' : '퀴즈 2'));
     b.type = 'button';
@@ -56,5 +68,9 @@ export async function renderLevel({ box }, lv) {
     if (open) b.addEventListener('click', () => go(`ch/${lv}/${ch}`)); else b.disabled = true;
     grid.append(b);
   }
-  box.append(grid, h('p', 'muted small center', '앞 챕터의 퀴즈 2단계까지 끝내면 다음 챕터가 열립니다.'));
+  const r = placedStart(lv);
+  const note = r !== null && r !== undefined && Math.floor(r / CHAPTERS) >= L.ti
+    ? '레벨 테스트 결과에 따라 시작 위치까지 열어 두었어요. 그다음부터는 앞 챕터를 끝내면 열립니다.'
+    : '앞 챕터의 퀴즈 2단계까지 끝내면 다음 챕터가 열립니다.';
+  box.append(grid, h('p', 'muted small center', note));
 }

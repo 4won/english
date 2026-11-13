@@ -1,0 +1,30 @@
+1|bump into; sell out; on the same page; run down; knock out; keep an eye out; sort out; find out about; make up your mind; cheer on
+2|hang on; hold on a second; no big deal; fair enough; sounds like a plan; you bet; not a chance; that's the spirit; so far so good; I'm all ears
+3|talk back; back down; give in; on edge; burn out; get over it; give away; take it easy on; let it go; look on the bright side
+4|give off; sleep over; drop in; pop in; stop by; check in on; head home; drop off; hit the sack; crash at
+5|pick out; get to know; hit it off; get along well; have a lot in common; keep in touch with; lose touch; catch up with; hang out with; pick on
+6|pass by; make sense of; get the point; get the hang of; get used to; catch on; pick up a skill; brush up on; look it up; read between the lines
+7|show around; by accident; settle down; by chance; in a row; in advance; in public; in private; in person; in general
+8|out of the blue; once in a blue moon; every now and then; day after day; around the clock; at once; settle for; in no time; ahead of time; behind schedule
+9|cost a fortune; a rip-off; pay off; save up; break even; make ends meet; on a budget; log in; out of pocket; split the bill
+10|a piece of cake; a pain in the neck; a blessing in disguise; a waste of time; a matter of time; a long shot; a close call; a big deal; a tough call; a slap in the face
+11|log out; wipe out; tell apart; carry out; tell off; hold up; back up; follow up; pass on; leave out
+12|cut down on; give up on; run out; stay out of; run over; run through; use up; wear out; throw up; fall apart
+13|take over; take on; stay away from; take up; take down; shut down; take in; take apart; take for granted; take advantage of
+14|speed up; make a difference; make a point of; make the most of; make up for; make do; make it; make sure; make a scene; make a fuss
+15|blow up; get back at; get around to; get ahead; get by; get away with; get on with; get across; get even; get the message
+16|keep up with; keep away from; keep track of; keep an open mind; keep your word; keep it up; keep it down; keep out; keep on; keep your cool
+17|let down; let off steam; build up; let it slide; let go of; let out; let in on; let alone; leave alone; leave behind
+18|bring up; bring about; bring back; bring down; bring out; bring in; bring together; bring along; bring to mind; bring to an end
+19|cut off; pull off; cut in; pull through; pull together; push on; push back; step up; step down; step in
+20|stick to; stick with; stick around; stick out; stand out; stand for; stand by; stand up for; stand a chance; stand in line
+21|rule out; sum up; wind up; break into; break through; clear up; dig into; fill in; work on; zoom in
+22|bring forward; hand out; hand over; pass out; check up on; cross out; cross off; add up; mix up; tear up
+23|speak your mind; get something off your chest; beat around the bush; cut to the chase; get to the point; in a nutshell; to be honest; to tell the truth; frankly speaking; just between us
+24|have second thoughts; sleep on it; think twice; weigh up; jump to conclusions; on second thought; make a choice; change your mind; see eye to eye; agree to disagree
+25|piece by piece; step by step; carry through; bit by bit; side by side; face to face; back to back; hand in hand; word for word; day by day
+26|come across; as far as I know; as far as I'm concerned; in my opinion; to some extent; come along; as a matter of fact; on top of that; for instance; come apart
+27|a little bird told me; the big picture; a rule of thumb; a red flag; the bottom line; a fresh start; the last straw; a wake-up call; a turning point; a safe bet
+28|go through a lot; go for it; go ahead and ask; go the extra mile; go with the flow; go out of your way; go back to square one; go without saying; go downhill; go bad
+29|have a go; have a word with; have a point; have a good laugh; have a heart; have no idea; have nothing to do with; have mixed feelings; have the time of your life; have your hands full
+30|come by; cope with; come down with; look down on; come through; fed up with; sick and tired of; come to terms with; face up to; live up to

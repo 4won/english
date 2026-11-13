@@ -20,7 +20,7 @@ export const onRemoteChange = fn => remoteListeners.add(fn);
 const notify = () => listeners.forEach(fn => fn());
 
 function blank() {
-  return { v: 1, words: {}, speak: {}, chat: {}, wrong: {}, days: {}, prefs: { rate: 0.9, autoSpeak: true }, prefsAt: 0, at: 0 };
+  return { v: 1, words: {}, speak: {}, chat: {}, wrong: {}, days: {}, place: null, prefs: { rate: 0.9, autoSpeak: true }, prefsAt: 0, at: 0 };
 }
 const key = () => `eng.v1.state.${session.uid || 'local'}`;
 function loadLocal() {
@@ -58,6 +58,8 @@ export function merge(a, b) {
     const x = a.wrong[id], y = b.wrong[id];
     out.wrong[id] = !x ? y : !y ? x : ((x.at || 0) >= (y.at || 0) ? x : y);
   }
+  // level-test placement: the most recent test wins
+  out.place = !a.place ? b.place : !b.place ? a.place : ((a.place.at || 0) >= (b.place.at || 0) ? a.place : b.place);
   out.days = { ...a.days, ...b.days };
   const days = Object.keys(out.days).sort();
   if (days.length > 500) days.slice(0, days.length - 500).forEach(d => delete out.days[d]);
@@ -74,6 +76,8 @@ export const chapterDone = (lv, ch) => chapter(lv, ch).step === 'done';
 export const speakRec = n => S.speak[n] || { done: false, idx: 0 };
 export const prefs = () => S.prefs;
 export const chatRec = n => S.chat[n] || { done: false };
+// Where the level test placed the learner: { word, idiom } as chapter ranks (see data.rankOf), speak as a session number.
+export const placement = () => S.place;
 export const wrongList = () => Object.entries(S.wrong).filter(([, w]) => w && !w.off).map(([id, w]) => ({ id, ...w })).sort((a, b) => (b.at || 0) - (a.at || 0));
 
 const pad = n => String(n).padStart(2, '0');
@@ -131,6 +135,7 @@ export function clearWrong(id) {
   update(s => { if (s.wrong[id]) s.wrong[id] = { ...s.wrong[id], off: true, at: Date.now() }; });
 }
 export function setPrefs(patch) { update(s => { s.prefs = { ...s.prefs, ...patch }; s.prefsAt = Date.now(); }); }
+export function setPlace(p) { update(s => { s.place = { ...p, at: Date.now() }; }); }
 export function markStudied() { update(s => { s.days[ymd()] = 1; }); }
 
 // ---------- server sync ----------

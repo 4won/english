@@ -1,0 +1,962 @@
+[
+ {
+  "n": 41,
+  "lv": "advanced",
+  "pattern": "Had I known ~, I would have ~",
+  "title": "~를 알았더라면 …했을 텐데 · 과거 가정과 후회 말하기",
+  "tip": "과거 사실의 반대를 가정하며 후회나 반성을 말할 때 쓰는 격식 있는 도치 표현입니다. If I had known ~, I would have ~ 와 뜻이 같고, 회의나 글에서 더 정중하고 단단하게 들려요. 뒤에는 would have + 과거분사를 이어 주세요.",
+  "items": [
+   {
+    "ko": "시장이 줄고 있다는 걸 알았더라면 출시를 미뤘을 텐데요.",
+    "en": "Had I known the market was shrinking, I would have delayed the launch.",
+    "alt": [
+     "If I had known the market was shrinking, I would have delayed the launch.",
+     "Had I known that the market was shrinking, I would have delayed the launch."
+    ]
+   },
+   {
+    "ko": "위험을 알았더라면 그 계약에 서명하지 않았을 겁니다.",
+    "en": "Had I known the risks, I would have never signed that contract.",
+    "alt": [
+     "Had I known the risks, I would not have signed that contract.",
+     "Had I known about the risks, I would not have signed that contract."
+    ]
+   },
+   {
+    "ko": "고객 불만을 알았더라면 제품을 더 일찍 고쳤을 거예요.",
+    "en": "Had I known about the customer complaints, I would have fixed the product sooner.",
+    "alt": [
+     "Had I known about the complaints, I would have fixed the product sooner.",
+     "If I had known about the customer complaints, I would have fixed the product sooner."
+    ]
+   },
+   {
+    "ko": "예산이 삭감될 줄 알았더라면 다른 계획을 세웠을 텐데요.",
+    "en": "Had I known the budget would be cut, I would have made a different plan.",
+    "alt": [
+     "Had I known the budget would be cut, I would have made another plan.",
+     "If I had known the budget would be cut, I would have made a different plan."
+    ]
+   },
+   {
+    "ko": "경쟁사가 먼저 나올 줄 알았더라면 더 서둘렀을 거예요.",
+    "en": "Had I known our rival would launch first, I would have moved faster.",
+    "alt": [
+     "Had I known our competitor would launch first, I would have moved faster.",
+     "If I had known our rival would launch first, I would have moved faster."
+    ]
+   },
+   {
+    "ko": "그 문제를 알았더라면 팀에 미리 경고했을 겁니다.",
+    "en": "Had I known about the problem, I would have warned the team in advance.",
+    "alt": [
+     "Had I known about the problem, I would have warned the team earlier.",
+     "If I had known about the problem, I would have warned the team in advance."
+    ]
+   },
+   {
+    "ko": "가격이 그렇게 중요한 줄 알았더라면 조사를 더 했을 텐데요.",
+    "en": "Had I known price mattered so much, I would have done more research.",
+    "alt": [
+     "Had I known that price mattered so much, I would have done more research.",
+     "If I had known price mattered so much, I would have done more research."
+    ]
+   },
+   {
+    "ko": "그 회의가 취소된 걸 알았더라면 집에 있었을 거예요.",
+    "en": "Had I known the meeting was cancelled, I would have stayed home.",
+    "alt": [
+     "Had I known the meeting had been cancelled, I would have stayed home.",
+     "Had I known the meeting was canceled, I would have stayed home."
+    ]
+   },
+   {
+    "ko": "공급업체가 약속을 어길 줄 알았더라면 다른 곳을 찾았을 거예요.",
+    "en": "Had I known the supplier would break its promise, I would have found another one.",
+    "alt": [
+     "Had I known the supplier would break its promise, I would have looked elsewhere.",
+     "If I had known the supplier would break its promise, I would have found another one."
+    ]
+   },
+   {
+    "ko": "상황이 이렇게 심각한 줄 알았더라면 더 일찍 도움을 청했을 겁니다.",
+    "en": "Had I known how serious it was, I would have asked for help earlier.",
+    "alt": [
+     "Had I known how serious it was, I would have asked for help sooner.",
+     "If I had known how serious it was, I would have asked for help earlier."
+    ]
+   }
+  ],
+  "chat": {
+   "title": "실패한 출시 사후 검토 회의",
+   "you": "프로젝트 리더",
+   "ai": "팀 동료",
+   "goal": "출시가 실패한 이유를 되짚으며, 그때 알았더라면 무엇을 다르게 했을지 세 가지 이상 말해 보세요.",
+   "setting": "You are a colleague in a post-mortem meeting after a failed product launch. Ask the project lead what went wrong and what they would have done differently. Encourage them to reflect honestly, and follow up on each regret with a short question."
+  }
+ },
+ {
+  "n": 42,
+  "lv": "advanced",
+  "pattern": "Not only ~ but also ~",
+  "title": "~뿐만 아니라 …도 · 강조하며 덧붙이기",
+  "tip": "장점이나 사실을 하나 더 얹어 강하게 강조할 때 쓰는 표현입니다. Not only 뒤에는 주어와 동사가 도치되어 Not only is it ~, but it is also ~ 처럼 말해요. 일상에서는 It is not only ~ but also ~ 로도 자주 씁니다.",
+  "items": [
+   {
+    "ko": "저희 제품은 더 저렴할 뿐만 아니라 훨씬 오래 갑니다.",
+    "en": "Not only is our product cheaper, but it also lasts much longer.",
+    "alt": [
+     "Not only is our product cheaper, but it is also more durable.",
+     "Our product is not only cheaper but also lasts much longer."
+    ]
+   },
+   {
+    "ko": "이 계획은 비용을 줄일 뿐만 아니라 효율도 높여 줍니다.",
+    "en": "Not only does this plan cut costs, but it also improves efficiency.",
+    "alt": [
+     "Not only does this plan reduce costs, but it also boosts efficiency.",
+     "This plan not only cuts costs but also improves efficiency."
+    ]
+   },
+   {
+    "ko": "저희 팀은 경험이 많을 뿐만 아니라 열정도 넘칩니다.",
+    "en": "Not only is our team experienced, but it is also full of passion.",
+    "alt": [
+     "Not only is our team experienced, but it is also passionate.",
+     "Our team is not only experienced but also passionate."
+    ]
+   },
+   {
+    "ko": "이 앱은 사용하기 쉬울 뿐만 아니라 안전하기도 합니다.",
+    "en": "Not only is this app easy to use, but it is also secure.",
+    "alt": [
+     "Not only is this app easy to use, but it is also safe.",
+     "This app is not only easy to use but also secure."
+    ]
+   },
+   {
+    "ko": "저희는 매출을 늘렸을 뿐만 아니라 새 고객도 확보했습니다.",
+    "en": "Not only did we increase sales, but we also won new customers.",
+    "alt": [
+     "Not only did we raise sales, but we also gained new customers.",
+     "We not only increased sales but also won new customers."
+    ]
+   },
+   {
+    "ko": "이 서비스는 시간을 아껴 줄 뿐만 아니라 실수도 줄여 줍니다.",
+    "en": "Not only does this service save time, but it also reduces mistakes.",
+    "alt": [
+     "Not only does this service save time, but it also reduces errors.",
+     "This service not only saves time but also reduces mistakes."
+    ]
+   },
+   {
+    "ko": "시장은 크기만 한 것이 아니라 빠르게 성장하고 있습니다.",
+    "en": "Not only is the market large, but it is also growing quickly.",
+    "alt": [
+     "Not only is the market big, but it is also growing fast.",
+     "The market is not only large but also growing quickly."
+    ]
+   },
+   {
+    "ko": "저희 기술은 혁신적일 뿐만 아니라 이미 검증되었습니다.",
+    "en": "Not only is our technology innovative, but it has also been proven.",
+    "alt": [
+     "Not only is our technology innovative, but it is also proven.",
+     "Our technology is not only innovative but also proven."
+    ]
+   },
+   {
+    "ko": "이 투자는 수익을 낼 뿐만 아니라 사회에도 도움이 됩니다.",
+    "en": "Not only will this investment bring returns, but it will also help society.",
+    "alt": [
+     "Not only will this investment make a profit, but it will also benefit society.",
+     "This investment will not only bring returns but also help society."
+    ]
+   },
+   {
+    "ko": "저희는 약속을 지켰을 뿐만 아니라 기대를 뛰어넘었습니다.",
+    "en": "Not only did we keep our promise, but we also exceeded expectations.",
+    "alt": [
+     "Not only did we keep our promise, but we also beat expectations.",
+     "We not only kept our promise but also exceeded expectations."
+    ]
+   }
+  ],
+  "chat": {
+   "title": "투자자 앞 사업 제안 발표",
+   "you": "스타트업 대표",
+   "ai": "벤처 투자자",
+   "goal": "자사 제품의 강점을 세 가지 이상 소개하며, 하나를 말할 때마다 장점을 더 얹어 투자자를 설득해 보세요.",
+   "setting": "You are a venture investor listening to a startup founder's pitch. Ask probing but friendly questions about the product, market and team. React to each claim and ask for one more reason to invest."
+  }
+ },
+ {
+  "n": 43,
+  "lv": "advanced",
+  "pattern": "It goes without saying that ~",
+  "title": "~는 말할 필요도 없어요 · 당연한 사실 강조하기",
+  "tip": "모두가 아는 당연한 사실을 짚으며 말의 무게를 더할 때 쓰는 표현입니다. 연설이나 발표 도입부에서 자주 쓰이고, 뒤에 But 같은 반전을 이어 가기도 해요. 비슷한 표현으로 Needless to say, ~ 가 있습니다.",
+  "items": [
+   {
+    "ko": "신뢰가 모든 협력의 기초라는 것은 말할 필요도 없습니다.",
+    "en": "It goes without saying that trust is the foundation of every partnership.",
+    "alt": [
+     "It goes without saying that trust is the basis of every partnership.",
+     "Needless to say, trust is the foundation of every partnership."
+    ]
+   },
+   {
+    "ko": "안전이 최우선이라는 것은 말할 필요도 없습니다.",
+    "en": "It goes without saying that safety comes first.",
+    "alt": [
+     "It goes without saying that safety is the top priority.",
+     "It goes without saying that safety is our first priority."
+    ]
+   },
+   {
+    "ko": "고객 없이는 사업이 존재할 수 없다는 것은 말할 필요도 없습니다.",
+    "en": "It goes without saying that no business can exist without customers.",
+    "alt": [
+     "It goes without saying that a business cannot exist without customers.",
+     "It goes without saying that there is no business without customers."
+    ]
+   },
+   {
+    "ko": "정직이 장기적인 성공의 열쇠라는 것은 말할 필요도 없습니다.",
+    "en": "It goes without saying that honesty is the key to long-term success.",
+    "alt": [
+     "It goes without saying that honesty is key to long-term success.",
+     "It goes without saying that honesty is the key to success in the long run."
+    ]
+   },
+   {
+    "ko": "우리 모두 이 프로젝트가 성공하길 바란다는 것은 말할 필요도 없습니다.",
+    "en": "It goes without saying that we all want this project to succeed.",
+    "alt": [
+     "It goes without saying that all of us want this project to succeed.",
+     "It goes without saying that we all hope this project succeeds."
+    ]
+   },
+   {
+    "ko": "약속을 지키는 것이 중요하다는 것은 말할 필요도 없습니다.",
+    "en": "It goes without saying that keeping promises is important.",
+    "alt": [
+     "It goes without saying that it is important to keep promises.",
+     "It goes without saying that keeping our promises matters."
+    ]
+   },
+   {
+    "ko": "소통이 팀워크의 핵심이라는 것은 말할 필요도 없습니다.",
+    "en": "It goes without saying that communication is at the heart of teamwork.",
+    "alt": [
+     "It goes without saying that communication is the heart of teamwork.",
+     "It goes without saying that communication is key to teamwork."
+    ]
+   },
+   {
+    "ko": "한 번 잃은 신뢰는 되찾기 어렵다는 것은 말할 필요도 없습니다.",
+    "en": "It goes without saying that lost trust is hard to win back.",
+    "alt": [
+     "It goes without saying that trust is hard to regain once it is lost.",
+     "It goes without saying that it is hard to regain lost trust."
+    ]
+   },
+   {
+    "ko": "파트너의 성공이 곧 우리의 성공이라는 것은 말할 필요도 없습니다.",
+    "en": "It goes without saying that our partner's success is our success.",
+    "alt": [
+     "It goes without saying that our partners' success is our success.",
+     "It goes without saying that the success of our partner is our success."
+    ]
+   },
+   {
+    "ko": "투명성이 신뢰를 쌓는다는 것은 말할 필요도 없습니다.",
+    "en": "It goes without saying that transparency builds trust.",
+    "alt": [
+     "It goes without saying that transparency creates trust.",
+     "It goes without saying that being transparent builds trust."
+    ]
+   }
+  ],
+  "chat": {
+   "title": "기조연설 도입부 연습",
+   "you": "기조연설자",
+   "ai": "행사 사회자",
+   "goal": "신뢰가 왜 중요한지를 주제로, 당연한 사실을 짚으며 연설을 여는 말을 세 문장 이상 해 보세요.",
+   "setting": "You are the host of a business conference introducing a keynote speaker who will talk about trust in partnerships. Warmly invite the speaker, then act as a curious audience member asking follow-up questions about the points they make."
+  }
+ },
+ {
+  "n": 44,
+  "lv": "advanced",
+  "pattern": "The way I see it, ~",
+  "title": "제가 보기에는 ~ · 자기 관점 펼치기",
+  "tip": "토론이나 회의에서 자기 생각을 부드럽지만 분명하게 밝힐 때 쓰는 표현입니다. I think ~ 보다 관점을 가진 사람이라는 인상을 줍니다. The way I see it 대신 The way I look at it, ~ 도 같은 뜻으로 써요.",
+  "items": [
+   {
+    "ko": "제가 보기에는 그 정책은 시기가 너무 이릅니다.",
+    "en": "The way I see it, the policy is a little premature.",
+    "alt": [
+     "The way I see it, the policy is too early.",
+     "The way I see it, this policy is premature."
+    ]
+   },
+   {
+    "ko": "제가 보기에는 이 문제는 교육으로 풀어야 합니다.",
+    "en": "The way I see it, this problem should be solved through education.",
+    "alt": [
+     "The way I see it, this issue should be solved through education.",
+     "The way I see it, we should solve this problem through education."
+    ]
+   },
+   {
+    "ko": "제가 보기에는 비용보다 신뢰가 더 중요합니다.",
+    "en": "The way I see it, trust matters more than cost.",
+    "alt": [
+     "The way I see it, trust is more important than cost.",
+     "The way I see it, trust is more important than price."
+    ]
+   },
+   {
+    "ko": "제가 보기에는 변화는 피할 수 없습니다.",
+    "en": "The way I see it, change is unavoidable.",
+    "alt": [
+     "The way I see it, change is inevitable.",
+     "The way I see it, we cannot avoid change."
+    ]
+   },
+   {
+    "ko": "제가 보기에는 양측 모두 조금씩 양보해야 합니다.",
+    "en": "The way I see it, both sides need to give a little.",
+    "alt": [
+     "The way I see it, both sides have to compromise a little.",
+     "The way I see it, both sides should give up a little."
+    ]
+   },
+   {
+    "ko": "제가 보기에는 가장 큰 위험은 아무것도 하지 않는 것입니다.",
+    "en": "The way I see it, the biggest risk is doing nothing.",
+    "alt": [
+     "The way I see it, the greatest risk is doing nothing.",
+     "The way I see it, doing nothing is the biggest risk."
+    ]
+   },
+   {
+    "ko": "제가 보기에는 이 규정은 중소기업에 불리합니다.",
+    "en": "The way I see it, this rule works against small businesses.",
+    "alt": [
+     "The way I see it, this rule is unfair to small businesses.",
+     "The way I see it, this regulation hurts small businesses."
+    ]
+   },
+   {
+    "ko": "제가 보기에는 기술은 사람을 대체하는 게 아니라 돕는 것입니다.",
+    "en": "The way I see it, technology helps people rather than replacing them.",
+    "alt": [
+     "The way I see it, technology supports people instead of replacing them.",
+     "The way I see it, technology does not replace people but helps them."
+    ]
+   },
+   {
+    "ko": "제가 보기에는 이 논쟁은 아무도 이기지 못하고 있습니다.",
+    "en": "The way I see it, nobody is winning this debate.",
+    "alt": [
+     "The way I see it, there is no winner in this debate.",
+     "The way I see it, this debate has no winner."
+    ]
+   },
+   {
+    "ko": "제가 보기에는 그 해결책은 생각보다 간단합니다.",
+    "en": "The way I see it, the solution is simpler than it looks.",
+    "alt": [
+     "The way I see it, the solution is simpler than people think.",
+     "The way I see it, the answer is simpler than it seems."
+    ]
+   }
+  ],
+  "chat": {
+   "title": "정책 변화 패널 토론",
+   "you": "패널 토론자",
+   "ai": "토론 진행자",
+   "goal": "새 정책에 대한 자기 입장을 밝히고, 상대 의견에 대해 다른 관점을 두 번 이상 제시해 보세요.",
+   "setting": "You are the moderator of a panel discussion about a controversial policy change, such as a four-day work week. Ask the panelist for their view, challenge them politely with counterpoints, and keep the debate lively."
+  }
+ },
+ {
+  "n": 45,
+  "lv": "advanced",
+  "pattern": "Rather than ~ing, we should ~",
+  "title": "~하기보다는 …해야 합니다 · 대안 제시하기",
+  "tip": "기존 방식을 비판하면서 더 나은 대안을 제시할 때 쓰는 구조입니다. Rather than 뒤에는 동사의 -ing 형태가 오고, 쉼표 뒤에 we should ~ 로 대안을 말해요. Instead of ~ing, we should ~ 로도 바꿔 쓸 수 있습니다.",
+  "items": [
+   {
+    "ko": "가격을 내리기보다는 품질을 높여야 합니다.",
+    "en": "Rather than cutting prices, we should improve quality.",
+    "alt": [
+     "Rather than lowering prices, we should improve quality.",
+     "Rather than cutting our prices, we should raise quality."
+    ]
+   },
+   {
+    "ko": "비용을 줄이기보다는 새 시장에 투자해야 합니다.",
+    "en": "Rather than reducing costs, we should invest in new markets.",
+    "alt": [
+     "Rather than cutting costs, we should invest in new markets.",
+     "Rather than saving money, we should invest in new markets."
+    ]
+   },
+   {
+    "ko": "직원을 해고하기보다는 재교육을 해야 합니다.",
+    "en": "Rather than laying off staff, we should retrain them.",
+    "alt": [
+     "Rather than firing staff, we should retrain them.",
+     "Rather than laying off employees, we should retrain them."
+    ]
+   },
+   {
+    "ko": "문제를 숨기기보다는 솔직하게 공개해야 합니다.",
+    "en": "Rather than hiding the problem, we should be open about it.",
+    "alt": [
+     "Rather than hiding the problem, we should be honest about it.",
+     "Rather than hiding the issue, we should be open about it."
+    ]
+   },
+   {
+    "ko": "기다리기보다는 지금 행동에 나서야 합니다.",
+    "en": "Rather than waiting, we should take action now.",
+    "alt": [
+     "Rather than waiting, we should act now.",
+     "Rather than waiting around, we should take action now."
+    ]
+   },
+   {
+    "ko": "경쟁사를 따라 하기보다는 우리만의 길을 가야 합니다.",
+    "en": "Rather than copying our competitors, we should find our own path.",
+    "alt": [
+     "Rather than copying our rivals, we should find our own way.",
+     "Rather than copying competitors, we should go our own way."
+    ]
+   },
+   {
+    "ko": "단기 이익을 쫓기보다는 장기 신뢰를 쌓아야 합니다.",
+    "en": "Rather than chasing short-term profits, we should build long-term trust.",
+    "alt": [
+     "Rather than chasing quick profits, we should build long-term trust.",
+     "Rather than pursuing short-term profit, we should build long-term trust."
+    ]
+   },
+   {
+    "ko": "책임을 따지기보다는 해결책을 찾아야 합니다.",
+    "en": "Rather than blaming each other, we should look for solutions.",
+    "alt": [
+     "Rather than assigning blame, we should look for solutions.",
+     "Rather than blaming people, we should find solutions."
+    ]
+   },
+   {
+    "ko": "제품을 늘리기보다는 핵심 제품에 집중해야 합니다.",
+    "en": "Rather than adding products, we should focus on our core product.",
+    "alt": [
+     "Rather than expanding our product line, we should focus on our core product.",
+     "Rather than adding more products, we should focus on our main product."
+    ]
+   },
+   {
+    "ko": "외부 컨설턴트에 의존하기보다는 내부 인재를 키워야 합니다.",
+    "en": "Rather than relying on consultants, we should develop our own talent.",
+    "alt": [
+     "Rather than depending on consultants, we should develop our own talent.",
+     "Rather than relying on outside consultants, we should grow our own talent."
+    ]
+   }
+  ],
+  "chat": {
+   "title": "위기 속 이사회 설득",
+   "you": "최고경영자",
+   "ai": "이사회 임원",
+   "goal": "위기 상황에서 기존 전략의 문제를 지적하고, 더 나은 대안을 두세 가지 제시해 이사회를 설득해 보세요.",
+   "setting": "You are a skeptical board member at a company in crisis. The CEO wants to change strategy. Question their proposals, push back on risks, and ask them to explain why each alternative is better than the current approach."
+  }
+ },
+ {
+  "n": 46,
+  "lv": "advanced",
+  "pattern": "Were it not for ~, ~",
+  "title": "~가 없었다면 … · 가정법 도치로 말하기",
+  "tip": "어떤 도움이나 조건이 없었다면 결과가 달랐을 거라고 감사나 실감을 담아 말하는 격식 있는 표현입니다. If it were not for ~ 의 도치형으로, 수상 소감이나 감사 인사에 잘 어울려요. 과거 일은 Had it not been for ~ 를 씁니다.",
+  "items": [
+   {
+    "ko": "여러분의 지원이 없었다면 우리는 제시간에 끝내지 못했을 거예요.",
+    "en": "Were it not for your support, we would never have finished on time.",
+    "alt": [
+     "Were it not for your support, we could not have finished on time.",
+     "If it were not for your support, we would never have finished on time."
+    ]
+   },
+   {
+    "ko": "팀의 헌신이 없었다면 이 프로젝트는 실패했을 겁니다.",
+    "en": "Were it not for the team's dedication, this project would have failed.",
+    "alt": [
+     "Were it not for our team's dedication, this project would have failed.",
+     "If it were not for the team's dedication, this project would have failed."
+    ]
+   },
+   {
+    "ko": "그분의 조언이 없었다면 저는 길을 잃었을 거예요.",
+    "en": "Were it not for his advice, I would have lost my way.",
+    "alt": [
+     "Were it not for his advice, I would have been lost.",
+     "If it were not for his advice, I would have lost my way."
+    ]
+   },
+   {
+    "ko": "고객들의 믿음이 없었다면 우리 회사는 지금 없을 겁니다.",
+    "en": "Were it not for our customers' trust, this company would not exist today.",
+    "alt": [
+     "Were it not for our customers' trust, our company would not exist today.",
+     "If it were not for our customers' trust, this company would not exist today."
+    ]
+   },
+   {
+    "ko": "가족의 응원이 없었다면 저는 포기했을 거예요.",
+    "en": "Were it not for my family's support, I would have given up.",
+    "alt": [
+     "Were it not for my family's encouragement, I would have given up.",
+     "If it were not for my family's support, I would have given up."
+    ]
+   },
+   {
+    "ko": "여러분의 노력이 없었다면 이 상은 불가능했을 겁니다.",
+    "en": "Were it not for your hard work, this award would not be possible.",
+    "alt": [
+     "Were it not for your efforts, this award would not be possible.",
+     "If it were not for your hard work, this award would not be possible."
+    ]
+   },
+   {
+    "ko": "기술팀이 없었다면 우리 서비스는 멈췄을 거예요.",
+    "en": "Were it not for the tech team, our service would have stopped.",
+    "alt": [
+     "Were it not for our tech team, our service would have shut down.",
+     "If it were not for the tech team, our service would have stopped."
+    ]
+   },
+   {
+    "ko": "그 멘토가 없었다면 저는 이 자리에 서지 못했을 겁니다.",
+    "en": "Were it not for that mentor, I would not be standing here today.",
+    "alt": [
+     "Were it not for that mentor, I would not be here today.",
+     "If it were not for that mentor, I would not be standing here today."
+    ]
+   },
+   {
+    "ko": "투자자들이 없었다면 우리는 첫 해를 넘기지 못했을 거예요.",
+    "en": "Were it not for our investors, we would not have survived the first year.",
+    "alt": [
+     "Were it not for our investors, we could not have survived our first year.",
+     "If it were not for our investors, we would not have survived the first year."
+    ]
+   },
+   {
+    "ko": "서로의 신뢰가 없었다면 이런 성과는 어려웠을 겁니다.",
+    "en": "Were it not for our mutual trust, such results would be difficult.",
+    "alt": [
+     "Were it not for our trust in each other, such results would be hard.",
+     "If it were not for our mutual trust, such results would be difficult."
+    ]
+   }
+  ],
+  "chat": {
+   "title": "시상식 수상 소감",
+   "you": "수상 팀 대표",
+   "ai": "시상식 사회자",
+   "goal": "수상 소감에서 도움을 준 사람이나 팀을 세 곳 이상 언급하며, 그분들 덕분에 가능했음을 말해 보세요.",
+   "setting": "You are the host of an awards ceremony. Congratulate the winning team leader on stage, ask who helped them along the way, and react warmly to each person or group they thank."
+  }
+ },
+ {
+  "n": 47,
+  "lv": "advanced",
+  "pattern": "On the one hand, ~; on the other hand, ~",
+  "title": "한편으로는 ~, 다른 한편으로는 … · 장단점 비교하기",
+  "tip": "두 가지 상반된 면을 공평하게 저울질할 때 쓰는 표현입니다. 협상이나 결정 전에 장단점을 정리하는 데 좋아요. 두 번째 절은 On the other hand 로 시작하고, 말할 때는 쉼표로 자연스럽게 이어 갑니다.",
+  "items": [
+   {
+    "ko": "한편으로는 제안이 매력적이고, 다른 한편으로는 위험이 큽니다.",
+    "en": "On the one hand, the offer is attractive, on the other hand, the risk is high.",
+    "alt": [
+     "On the one hand, the offer is attractive, but on the other hand, the risk is high.",
+     "On the one hand the offer is attractive, on the other the risk is high."
+    ]
+   },
+   {
+    "ko": "한편으로는 합병이 비용을 줄이고, 다른 한편으로는 문화 충돌이 걱정됩니다.",
+    "en": "On the one hand, a merger cuts costs, on the other hand, culture clashes worry me.",
+    "alt": [
+     "On the one hand, the merger would cut costs, on the other hand, I worry about culture clashes.",
+     "On the one hand, merging cuts costs, but on the other hand, culture clashes worry me."
+    ]
+   },
+   {
+    "ko": "한편으로는 가격이 합리적이고, 다른 한편으로는 품질이 아쉽습니다.",
+    "en": "On the one hand, the price is reasonable, on the other hand, the quality is disappointing.",
+    "alt": [
+     "On the one hand, the price is fair, on the other hand, the quality is disappointing.",
+     "On the one hand, the price is reasonable, but on the other hand, the quality is disappointing."
+    ]
+   },
+   {
+    "ko": "한편으로는 성장 기회가 크고, 다른 한편으로는 자금이 부족합니다.",
+    "en": "On the one hand, the growth opportunity is big, on the other hand, our funds are limited.",
+    "alt": [
+     "On the one hand, the growth opportunity is huge, on the other hand, we lack funds.",
+     "On the one hand, the opportunity for growth is big, on the other hand, we are short of money."
+    ]
+   },
+   {
+    "ko": "한편으로는 재택근무가 편하고, 다른 한편으로는 소통이 어렵습니다.",
+    "en": "On the one hand, remote work is convenient, on the other hand, communication is difficult.",
+    "alt": [
+     "On the one hand, working from home is convenient, on the other hand, communication is hard.",
+     "On the one hand, remote work is comfortable, but on the other hand, communication is hard."
+    ]
+   },
+   {
+    "ko": "한편으로는 계약 기간이 짧고, 다른 한편으로는 조건이 유연합니다.",
+    "en": "On the one hand, the contract period is short, on the other hand, the terms are flexible.",
+    "alt": [
+     "On the one hand, the contract is short, on the other hand, the terms are flexible.",
+     "On the one hand, the contract term is short, but on the other hand, the conditions are flexible."
+    ]
+   },
+   {
+    "ko": "한편으로는 기술이 발전했고, 다른 한편으로는 일자리가 줄고 있습니다.",
+    "en": "On the one hand, technology has advanced, on the other hand, jobs are disappearing.",
+    "alt": [
+     "On the one hand, technology has progressed, on the other hand, jobs are decreasing.",
+     "On the one hand, technology has advanced, but on the other hand, jobs are declining."
+    ]
+   },
+   {
+    "ko": "한편으로는 이 거래가 안정적이고, 다른 한편으로는 수익이 낮습니다.",
+    "en": "On the one hand, this deal is stable, on the other hand, the profit is low.",
+    "alt": [
+     "On the one hand, this deal is safe, on the other hand, the profit is low.",
+     "On the one hand, this deal is stable, but on the other hand, the returns are low."
+    ]
+   },
+   {
+    "ko": "한편으로는 인수가 빠르고, 다른 한편으로는 통합이 복잡합니다.",
+    "en": "On the one hand, an acquisition is fast, on the other hand, integration is complicated.",
+    "alt": [
+     "On the one hand, acquiring is quick, on the other hand, integration is complex.",
+     "On the one hand, an acquisition is quick, but on the other hand, integration is complicated."
+    ]
+   },
+   {
+    "ko": "한편으로는 협상이 진전되었고, 다른 한편으로는 핵심 쟁점이 남았습니다.",
+    "en": "On the one hand, the talks have progressed, on the other hand, key issues remain.",
+    "alt": [
+     "On the one hand, the negotiation has progressed, on the other hand, key issues remain.",
+     "On the one hand, the talks have moved forward, but on the other hand, key issues remain."
+    ]
+   }
+  ],
+  "chat": {
+   "title": "합병 제안 저울질하기",
+   "you": "회사 대표",
+   "ai": "협상 상대 회사 대표",
+   "goal": "합병 제안의 좋은 점과 걱정되는 점을 짝지어 두세 번 이상 비교하며 말하고, 조건 하나를 요청해 보세요.",
+   "setting": "You are the head of a company making a merger offer to the user's firm. Present your offer confidently, listen to the user's pros and cons, and respond to their concerns while trying to close the deal."
+  }
+ },
+ {
+  "n": 48,
+  "lv": "advanced",
+  "pattern": "That said, ~",
+  "title": "그렇긴 해도 ~ · 앞말을 인정하며 반전하기",
+  "tip": "상대 말이나 앞선 사실을 인정한 뒤 부드럽게 반대 방향으로 말을 돌릴 때 씁니다. 비판을 받았을 때 방어적으로 보이지 않고 균형 잡힌 인상을 줘요. However 보다 구어적이고, 문장 맨 앞에서 That said, ~ 로 씁니다.",
+  "items": [
+   {
+    "ko": "그렇긴 해도 올해 우리 팀은 목표를 달성했습니다.",
+    "en": "That said, our team met its target this year.",
+    "alt": [
+     "That said, our team reached its target this year.",
+     "That said, our team achieved its goal this year."
+    ]
+   },
+   {
+    "ko": "그렇긴 해도 저는 그 결정이 옳았다고 생각합니다.",
+    "en": "That said, I still believe it was the right decision.",
+    "alt": [
+     "That said, I think the decision was right.",
+     "That said, I believe that was the right decision."
+    ]
+   },
+   {
+    "ko": "그렇긴 해도 일정이 너무 빠듯했다는 점은 이해해 주세요.",
+    "en": "That said, please understand the schedule was extremely tight.",
+    "alt": [
+     "That said, please understand that the schedule was very tight.",
+     "That said, please understand the timeline was extremely tight."
+    ]
+   },
+   {
+    "ko": "그렇긴 해도 고객 반응은 대체로 긍정적이었습니다.",
+    "en": "That said, customer feedback was mostly positive this quarter.",
+    "alt": [
+     "That said, customer reactions were mostly positive.",
+     "That said, the customer response was largely positive."
+    ]
+   },
+   {
+    "ko": "그렇긴 해도 개선할 여지가 있다는 데는 동의합니다.",
+    "en": "That said, I agree there is room for improvement.",
+    "alt": [
+     "That said, I agree that there is room for improvement.",
+     "That said, I agree we can improve."
+    ]
+   },
+   {
+    "ko": "그렇긴 해도 그 실수는 한 번뿐이었습니다.",
+    "en": "That said, that mistake only happened once last year.",
+    "alt": [
+     "That said, the mistake happened only once.",
+     "That said, it was only a one-time mistake."
+    ]
+   },
+   {
+    "ko": "그렇긴 해도 저희는 마감일을 지키려고 최선을 다했습니다.",
+    "en": "That said, we did our best to meet the deadline.",
+    "alt": [
+     "That said, we tried our best to meet the deadline.",
+     "That said, we did everything we could to meet the deadline."
+    ]
+   },
+   {
+    "ko": "그렇긴 해도 그 비판은 일부 타당하다고 봅니다.",
+    "en": "That said, I think the criticism is partly fair.",
+    "alt": [
+     "That said, I think the criticism is partly valid.",
+     "That said, I feel the criticism is partly justified."
+    ]
+   },
+   {
+    "ko": "그렇긴 해도 다음 분기에는 더 잘할 수 있다고 확신합니다.",
+    "en": "That said, I am confident we can do better next quarter.",
+    "alt": [
+     "That said, I am sure we can do better next quarter.",
+     "That said, I'm confident that we can do better next quarter."
+    ]
+   },
+   {
+    "ko": "그렇긴 해도 팀의 노력은 인정받아야 한다고 생각합니다.",
+    "en": "That said, I think the team's effort deserves credit.",
+    "alt": [
+     "That said, I think the team's effort should be recognized.",
+     "That said, I believe our team's hard work deserves recognition."
+    ]
+   }
+  ],
+  "chat": {
+   "title": "성과 면담에서 피드백 받기",
+   "you": "직원",
+   "ai": "팀장",
+   "goal": "팀장의 비판을 일부 인정한 뒤, 반대로 자신의 성과와 개선 계획을 두 가지 이상 말해 보세요.",
+   "setting": "You are a manager conducting a performance review. Give the employee honest, critical feedback about a missed deadline and communication issues, then listen to their response and ask how they will improve."
+  }
+ },
+ {
+  "n": 49,
+  "lv": "advanced",
+  "pattern": "I couldn't agree more, although ~",
+  "title": "전적으로 동의하지만 ~ · 동의와 단서를 함께 말하기",
+  "tip": "상대 의견에 강하게 동의하면서도 한 가지 단서를 붙이고 싶을 때 쓰는 표현입니다. 논쟁의 분위기를 해치지 않고 내 생각을 덧붙일 수 있어요. 비슷한 표현으로 I completely agree, although ~ 도 있습니다.",
+  "items": [
+   {
+    "ko": "전적으로 동의하지만, 모든 직원에게 맞는 건 아닙니다.",
+    "en": "I couldn't agree more, although it doesn't suit every employee.",
+    "alt": [
+     "I couldn't agree more, although it isn't right for every employee.",
+     "I could not agree more, although it does not suit every employee."
+    ]
+   },
+   {
+    "ko": "전적으로 동의하지만, 비용을 먼저 따져 봐야 합니다.",
+    "en": "I couldn't agree more, although we should look at the costs first.",
+    "alt": [
+     "I couldn't agree more, although we need to consider the costs first.",
+     "I could not agree more, although we should check the costs first."
+    ]
+   },
+   {
+    "ko": "전적으로 동의하지만, 시간이 좀 걸릴 겁니다.",
+    "en": "I couldn't agree more, although it will take some time.",
+    "alt": [
+     "I couldn't agree more, although it is going to take some time.",
+     "I could not agree more, although it will take a while."
+    ]
+   },
+   {
+    "ko": "전적으로 동의하지만, 위험도 생각해야 합니다.",
+    "en": "I couldn't agree more, although we must consider the risks too.",
+    "alt": [
+     "I couldn't agree more, although we have to think about the risks too.",
+     "I could not agree more, although we should consider the risks as well."
+    ]
+   },
+   {
+    "ko": "전적으로 동의하지만, 아직 증거가 충분하지는 않아요.",
+    "en": "I couldn't agree more, although the evidence is not strong enough yet.",
+    "alt": [
+     "I couldn't agree more, although we don't have enough evidence yet.",
+     "I could not agree more, although the evidence is not strong yet."
+    ]
+   },
+   {
+    "ko": "전적으로 동의하지만, 사무실 문화가 사라질까 걱정됩니다.",
+    "en": "I couldn't agree more, although I worry about losing our office culture.",
+    "alt": [
+     "I couldn't agree more, although I'm worried about losing our office culture.",
+     "I could not agree more, although I worry we might lose our office culture."
+    ]
+   },
+   {
+    "ko": "전적으로 동의하지만, 신입 직원에게는 어려울 수 있어요.",
+    "en": "I couldn't agree more, although it may be hard for new employees.",
+    "alt": [
+     "I couldn't agree more, although it can be difficult for new employees.",
+     "I could not agree more, although it might be hard for new hires."
+    ]
+   },
+   {
+    "ko": "전적으로 동의하지만, 균형이 필요하다고 봅니다.",
+    "en": "I couldn't agree more, although I think we need balance.",
+    "alt": [
+     "I couldn't agree more, although I think balance is needed.",
+     "I could not agree more, although I believe we need a balance."
+    ]
+   },
+   {
+    "ko": "전적으로 동의하지만, 소통 방식은 바뀌어야 합니다.",
+    "en": "I couldn't agree more, although our way of communicating has to change.",
+    "alt": [
+     "I couldn't agree more, although the way we communicate has to change.",
+     "I could not agree more, although we need to change how we communicate."
+    ]
+   },
+   {
+    "ko": "전적으로 동의하지만, 규칙을 분명히 해야 합니다.",
+    "en": "I couldn't agree more, although we need clear rules.",
+    "alt": [
+     "I couldn't agree more, although the rules must be clear.",
+     "I could not agree more, although we should make the rules clear."
+    ]
+   }
+  ],
+  "chat": {
+   "title": "재택근무 열띤 원탁 토론",
+   "you": "토론 참가자",
+   "ai": "다른 참가자",
+   "goal": "상대 의견에 강하게 동의하면서도, 단서를 붙이는 말을 세 번 이상 해 보세요.",
+   "setting": "You are a participant in a heated roundtable on remote work. Share a strong opinion in favor of remote work, then respond to the user's replies and keep the discussion going with new points."
+  }
+ },
+ {
+  "n": 50,
+  "lv": "advanced",
+  "pattern": "All things considered, ~",
+  "title": "모든 것을 고려하면 ~ · 결론 내리기",
+  "tip": "여러 사항을 따져 본 뒤 최종 판단이나 권고를 말할 때 쓰는 표현입니다. 회의나 협상 마무리에서 신중하게 결론을 내리는 느낌을 줘요. Taking everything into account, ~ 와 같은 뜻입니다.",
+  "items": [
+   {
+    "ko": "모든 것을 고려하면 이 계약을 받아들이는 것이 좋습니다.",
+    "en": "All things considered, I recommend that we accept this contract.",
+    "alt": [
+     "All things considered, I suggest we accept this contract.",
+     "All things considered, we should accept this contract."
+    ]
+   },
+   {
+    "ko": "모든 것을 고려하면 이번 투자는 합리적이라고 봅니다.",
+    "en": "All things considered, I think this investment is reasonable.",
+    "alt": [
+     "All things considered, this investment seems reasonable.",
+     "All things considered, I believe this investment makes sense."
+    ]
+   },
+   {
+    "ko": "모든 것을 고려하면 우리는 협상을 계속해야 합니다.",
+    "en": "All things considered, we should continue negotiating with them.",
+    "alt": [
+     "All things considered, we should keep negotiating.",
+     "All things considered, we ought to continue the negotiations."
+    ]
+   },
+   {
+    "ko": "모든 것을 고려하면 올해는 꽤 성공적이었습니다.",
+    "en": "All things considered, this year was quite successful.",
+    "alt": [
+     "All things considered, this year has been quite successful.",
+     "All things considered, it was a fairly successful year."
+    ]
+   },
+   {
+    "ko": "모든 것을 고려하면 첫 번째 안이 가장 안전합니다.",
+    "en": "All things considered, the first option is the safest.",
+    "alt": [
+     "All things considered, option one is the safest.",
+     "All things considered, the first plan is the safest."
+    ]
+   },
+   {
+    "ko": "모든 것을 고려하면 지금은 가격을 올릴 때가 아닙니다.",
+    "en": "All things considered, this is not the time to raise prices.",
+    "alt": [
+     "All things considered, now is not the time to raise prices.",
+     "All things considered, it's not a good time to raise prices."
+    ]
+   },
+   {
+    "ko": "모든 것을 고려하면 이 제안은 양측에 공정합니다.",
+    "en": "All things considered, this proposal is fair to both sides.",
+    "alt": [
+     "All things considered, this offer is fair for both parties.",
+     "All things considered, this proposal is fair for both sides."
+    ]
+   },
+   {
+    "ko": "모든 것을 고려하면 저는 계약서에 서명할 준비가 되었습니다.",
+    "en": "All things considered, I am ready to sign the contract.",
+    "alt": [
+     "All things considered, I'm ready to sign the contract.",
+     "All things considered, I am prepared to sign the agreement."
+    ]
+   },
+   {
+    "ko": "모든 것을 고려하면 우리 팀이 가장 적합한 선택입니다.",
+    "en": "All things considered, our team is the best choice.",
+    "alt": [
+     "All things considered, our team is the most suitable choice.",
+     "All things considered, our team is the best fit."
+    ]
+   },
+   {
+    "ko": "모든 것을 고려하면 한 번 더 검토한 뒤 결정하는 게 좋겠습니다.",
+    "en": "All things considered, we should review it once more before deciding.",
+    "alt": [
+     "All things considered, it would be better to review it once more before we decide.",
+     "All things considered, we had better review it again before deciding."
+    ]
+   }
+  ],
+  "chat": {
+   "title": "계약 협상 마무리 권고",
+   "you": "협상 책임자",
+   "ai": "상대 회사 담당자",
+   "goal": "협상 마지막에 쟁점들을 짧게 정리하고, 결론과 권고를 두 번 이상 말해 보세요.",
+   "setting": "You are a representative of the other company at the end of a contract negotiation. Ask the user to summarize where things stand and give their final recommendation. Raise one last concern and respond to their conclusion."
+  }
+ }
+]

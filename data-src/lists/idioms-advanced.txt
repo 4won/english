@@ -1,0 +1,30 @@
+1|a double-edged sword; the elephant in the room; move the goalposts; a slippery slope; a catch-22; a pyrrhic victory; the tip of the iceberg; a perfect storm; a Trojan horse; a Pandora's box
+2|the writing on the wall; a foregone conclusion; a moot point; a red herring; a straw man; a vested interest; a hidden agenda; a conflict of interest; a point of contention; a bone of contention
+3|open a can of worms; stir up a hornet's nest; throw down the gauntlet; cross the Rubicon; burn your boats; bite the bullet; face the music; grasp the nettle; take the bull by the horns; walk a tightrope
+4|a drop in the ocean; a storm in a teacup; a wolf in sheep's clothing; bury the hatchet; a leopard cannot change its spots; a fly in the ointment; a thorn in the side; an albatross around the neck; a sword of Damocles; an Achilles heel
+5|rob Peter to pay Paul; kick the can down the road; shift the goalposts; throw good money after bad; cook the books; feather your nest; cut the Gordian knot; sweep under the rug; wash your hands of; pass the baton
+6|bend over backwards; lean over backwards; go out on a limb; stick your neck out; put your head on the block; hang by a thread; walk on eggshells; tread on thin ice; skate on thin ice; play with fire
+7|beat a hasty retreat; turn the tables; steal the show; wear your heart on your sleeve; upstage the competition; rest on your laurels; sit on the sidelines; be thrown in at the deep end; sink or swim; trial by fire
+8|hit the nail on the head; split hairs; nitpick; a baptism of fire; chew the fat; talk shop; talk turkey; talk down to; a poisoned chalice; talk the talk
+9|a watershed moment; a sea change; a paradigm shift; a groundswell of support; a tipping point; a seismic shift; an uphill battle; a long haul; a steep climb; a rocky road
+10|the benefit of the doubt; the lesser of two evils; the lion's share; the pecking order; the rank and file; the powers that be; the status quo; the bottom of the barrel; the shape of things to come; the calm before the storm
+11|at loggerheads; at a crossroads; at a loose end; at odds with; at arm's length; at the helm; at the mercy of; at a premium; at face value; at the eleventh hour
+12|in the crosshairs; in the firing line; in the doldrums; in the throes of; in the wake of; in the offing; a Faustian bargain; a Hobson's choice; in the same breath; in good faith
+13|on the back foot; on the ropes; on the brink; on the verge of; on the cusp of; on the horizon; on the rocks; on the wane; on a knife-edge; on a shoestring
+14|under the thumb of; under scrutiny; under duress; under the auspices of; under a cloud; a Herculean task; under fire; under wraps; under the hammer; under pressure
+15|by dint of; by the skin of your teeth; by leaps and bounds; by the same token; by no means; by virtue of; by way of; by default; by design; a Sisyphean task
+16|to no avail; to the letter; to a fault; to the hilt; to the core; to date; to boot; to the bitter end; to all intents and purposes; to the tune of
+17|come hell or high water; come rain or shine; through thick and thin; for better or worse; the thin end of the wedge; the last hurrah; make or break; win or lose; the fine print; cut and dried
+18|nip in the bud; cut off at the pass; head off at the pass; stem the tide; turn the tide; swim with the tide; ride the wave; weather the storm; navigate choppy waters; keep afloat
+19|pour oil on troubled waters; add fuel to the fire; fan the flames; throw a spanner in the works; put a spoke in the wheel; put the cart before the horse; flog a dead horse; beat a dead horse; let sleeping dogs lie; barking up the wrong tree
+20|the proof of the pudding; the devil is in the details; the ends justify the means; the buck stops here; the jury is still out; the ball is in your court; the shoe is on the other foot; the tail wagging the dog; the tide has turned; the die is cast
+21|lose face; save face; lose sight of; lose heart; lose your grip; lose steam; lose ground; lose your footing; lose the plot; lose the thread
+22|raise eyebrows; raise the stakes; raise hackles; raise a red flag; raise the alarm; ruffle feathers; rattle cages; strike a chord; strike a balance; strike a deal
+23|spell out; spell disaster; drive a hard bargain; drive a wedge between; drive home the point; drive up costs; steer clear of; steer the conversation; shy away from; zero in on
+24|stand your ground; stand to gain; stand the test of time; stand on ceremony; stand trial; stand at a crossroads; stand corrected; stand firm; stand in good stead; stand idly by
+25|fall on deaf ears; fall short of; fall from grace; fall into place; fall victim to; fall foul of; fall by the wayside; fall prey to; fall flat; fall in line
+26|get cold feet; get wind of; get a grip on; get the upper hand; get off the hook; get a foot in the door; get the short end of the stick; get your wires crossed; get to the bottom of; get out of hand
+27|have an axe to grind; have a chip on your shoulder; have a soft spot for; have skin in the game; have the last laugh; have your work cut out; have a lot on your plate; have egg on your face; have a hard time of it; have something up your sleeve
+28|a fine balance; a high-stakes gamble; a hollow victory; a thinly veiled threat; a blanket ban; a knee-jerk reaction; a war of words; a level playing field; a bitter pill to swallow; a tough act to follow
+29|break new ground; break the mold; break ranks; break the deadlock; break the back of; a mixed blessing; break with tradition; break the news; break the silence; a hard-won victory
+30|play second fiddle; play to the gallery; a political football; play fast and loose; play the long game; play the field; play both sides; a house of cards; call into question; a paper tiger

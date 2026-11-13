@@ -420,3 +420,26 @@ p { margin: 0; }
 .chat-end { display: flex; justify-content: center; }
 .fix-item { grid-template-areas: 'ko sp' 'en sp' 'note note' !important; }
 .fix-item .fb-note { grid-area: note; margin-top: 2px; }
+
+/* ---------- five tiers · level test ---------- */
+.cefr { margin-left: 8px; font-size: .74rem; font-weight: 700; color: var(--muted); letter-spacing: .02em; }
+.chip.place { background: var(--ok-soft); color: var(--ok); }
+.ch-tile.start { border: 2px solid var(--ok); box-shadow: 0 0 0 3px var(--ok-soft), var(--glass-shadow); }
+.ch-tile.start b { color: var(--ok); }
+.test-invite { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-bottom: 14px; }
+.test-invite h3 { margin: 6px 0 4px; font-size: 1.1rem; font-weight: 800; }
+@media (max-width: 560px) { .test-invite { flex-direction: column; align-items: stretch; } }
+.test-line { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-bottom: 14px; font-size: .9rem; color: var(--muted); }
+.test-line b { color: var(--ink); }
+.link-btn { background: none; border: 0; padding: 4px 0; color: var(--accent); font: inherit; font-weight: 700; cursor: pointer; text-decoration: underline; text-underline-offset: 3px; }
+.sess-tier { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin: 14px 2px 2px; font-size: 1.05rem; font-weight: 800; }
+.sess-tier:first-child { margin-top: 0; }
+.sess-tier small { font-size: .8rem; font-weight: 500; color: var(--muted); }
+.test-intro { display: grid; gap: 14px; }
+.test-intro h1 { font-size: 1.45rem; font-weight: 800; }
+.test-points { display: grid; gap: 8px; padding-left: 18px; color: var(--muted); line-height: 1.55; }
+.test-dunno { margin-top: 10px; }
+.test-level { font-size: 2rem; font-weight: 800; }
+.test-level small { font-size: 1rem; color: var(--muted); font-weight: 700; }
+.test-starts { list-style: none; padding: 0; display: grid; gap: 8px; margin: 6px 0 4px; }
+.test-starts li { display: flex; align-items: center; gap: 10px; }

@@ -1,0 +1,2162 @@
+{
+  "1": [
+    {
+      "en": "take care of",
+      "ko": "~을 돌보다",
+      "pos": "구동사",
+      "ex": "I take care of my sister after school.",
+      "exKo": "나는 방과 후에 여동생을 돌본다."
+    },
+    {
+      "en": "be in a hurry",
+      "ko": "서두르다",
+      "pos": "표현",
+      "ex": "You don't need to be in a hurry today.",
+      "exKo": "오늘은 서두를 필요 없어."
+    },
+    {
+      "en": "have a day off",
+      "ko": "하루 쉬다",
+      "pos": "표현",
+      "ex": "I want to have a day off next Friday.",
+      "exKo": "다음 주 금요일에 하루 쉬고 싶어."
+    },
+    {
+      "en": "go on a picnic",
+      "ko": "소풍을 가다",
+      "pos": "표현",
+      "ex": "Let's go on a picnic this Sunday.",
+      "exKo": "이번 일요일에 소풍 가자."
+    },
+    {
+      "en": "for sale",
+      "ko": "판매 중인",
+      "pos": "표현",
+      "ex": "This old bike is for sale.",
+      "exKo": "이 오래된 자전거는 팔려고 내놨어."
+    },
+    {
+      "en": "at the moment",
+      "ko": "바로 지금",
+      "pos": "표현",
+      "ex": "He is very busy at the moment.",
+      "exKo": "그는 지금 아주 바빠."
+    },
+    {
+      "en": "play outside",
+      "ko": "밖에서 놀다",
+      "pos": "표현",
+      "ex": "The kids play outside after dinner.",
+      "exKo": "아이들은 저녁 먹고 밖에서 논다."
+    },
+    {
+      "en": "ride a horse",
+      "ko": "말을 타다",
+      "pos": "표현",
+      "ex": "I want to ride a horse someday.",
+      "exKo": "언젠가 말을 타 보고 싶어."
+    },
+    {
+      "en": "walk the dog",
+      "ko": "개를 산책시키다",
+      "pos": "표현",
+      "ex": "I walk the dog every morning.",
+      "exKo": "나는 매일 아침 개를 산책시킨다."
+    },
+    {
+      "en": "feed the cat",
+      "ko": "고양이에게 밥을 주다",
+      "pos": "표현",
+      "ex": "Please feed the cat while I'm away.",
+      "exKo": "내가 없는 동안 고양이 밥 좀 줘."
+    }
+  ],
+  "2": [
+    {
+      "en": "wake up early",
+      "ko": "일찍 일어나다",
+      "pos": "표현",
+      "ex": "I try to wake up early on weekends.",
+      "exKo": "나는 주말에도 일찍 일어나려고 해."
+    },
+    {
+      "en": "stay up late",
+      "ko": "늦게까지 깨어 있다",
+      "pos": "구동사",
+      "ex": "Please don't stay up late tonight.",
+      "exKo": "오늘 밤은 늦게까지 깨어 있지 마."
+    },
+    {
+      "en": "go to sleep",
+      "ko": "잠자리에 들다",
+      "pos": "표현",
+      "ex": "I usually go to sleep around eleven.",
+      "exKo": "나는 보통 열한 시쯤 잠자리에 든다."
+    },
+    {
+      "en": "take a nap",
+      "ko": "낮잠을 자다",
+      "pos": "표현",
+      "ex": "I like to take a nap after lunch.",
+      "exKo": "나는 점심 먹고 낮잠 자는 걸 좋아해."
+    },
+    {
+      "en": "get some rest",
+      "ko": "좀 쉬다",
+      "pos": "표현",
+      "ex": "You look tired, so get some rest.",
+      "exKo": "피곤해 보이니까 좀 쉬어."
+    },
+    {
+      "en": "take a photo",
+      "ko": "사진을 찍다",
+      "pos": "표현",
+      "ex": "Can you take a photo of us?",
+      "exKo": "우리 사진 좀 찍어 줄래?"
+    },
+    {
+      "en": "do a puzzle",
+      "ko": "퍼즐을 맞추다",
+      "pos": "표현",
+      "ex": "We do a puzzle together on rainy days.",
+      "exKo": "우리는 비 오는 날 같이 퍼즐을 맞춰."
+    },
+    {
+      "en": "brush your teeth",
+      "ko": "이를 닦다",
+      "pos": "표현",
+      "ex": "Remember to brush your teeth before bed.",
+      "exKo": "자기 전에 이 닦는 거 잊지 마."
+    },
+    {
+      "en": "wash your face",
+      "ko": "세수하다",
+      "pos": "표현",
+      "ex": "Wash your face with warm water every morning.",
+      "exKo": "매일 아침 따뜻한 물로 세수해."
+    },
+    {
+      "en": "have a bath",
+      "ko": "목욕을 하다",
+      "pos": "표현",
+      "ex": "I like to have a bath at night.",
+      "exKo": "나는 밤에 목욕하는 걸 좋아해."
+    }
+  ],
+  "3": [
+    {
+      "en": "cook dinner",
+      "ko": "저녁을 요리하다",
+      "pos": "표현",
+      "ex": "I cook dinner for my family every night.",
+      "exKo": "나는 매일 밤 가족을 위해 저녁을 요리해."
+    },
+    {
+      "en": "make lunch",
+      "ko": "점심을 만들다",
+      "pos": "표현",
+      "ex": "I'll make lunch while you set the table.",
+      "exKo": "네가 상 차리는 동안 내가 점심 만들게."
+    },
+    {
+      "en": "pay in cash",
+      "ko": "현금으로 내다",
+      "pos": "표현",
+      "ex": "Can I pay in cash here?",
+      "exKo": "여기서 현금으로 내도 돼요?"
+    },
+    {
+      "en": "make a cake",
+      "ko": "케이크를 만들다",
+      "pos": "표현",
+      "ex": "She wants to make a cake for his birthday.",
+      "exKo": "그녀는 그의 생일을 위해 케이크를 만들고 싶어 해."
+    },
+    {
+      "en": "order food",
+      "ko": "음식을 주문하다",
+      "pos": "표현",
+      "ex": "Let's order food online tonight.",
+      "exKo": "오늘 밤엔 온라인으로 음식을 주문하자."
+    },
+    {
+      "en": "pay by card",
+      "ko": "카드로 결제하다",
+      "pos": "표현",
+      "ex": "You can pay by card at the counter.",
+      "exKo": "계산대에서 카드로 결제하시면 돼요."
+    },
+    {
+      "en": "have a snack",
+      "ko": "간식을 먹다",
+      "pos": "표현",
+      "ex": "I often have a snack at three.",
+      "exKo": "나는 세 시에 자주 간식을 먹어."
+    },
+    {
+      "en": "pay the bill",
+      "ko": "요금을 내다",
+      "pos": "표현",
+      "ex": "Dad will pay the bill tonight.",
+      "exKo": "오늘 밤은 아빠가 계산할 거야."
+    },
+    {
+      "en": "leave a tip",
+      "ko": "팁을 남기다",
+      "pos": "표현",
+      "ex": "Do people leave a tip here?",
+      "exKo": "여기서는 사람들이 팁을 남겨요?"
+    },
+    {
+      "en": "take away",
+      "ko": "포장해 가다",
+      "pos": "표현",
+      "ex": "Two coffees to take away, please.",
+      "exKo": "커피 두 잔 포장해 주세요."
+    }
+  ],
+  "4": [
+    {
+      "en": "check the time",
+      "ko": "시간을 확인하다",
+      "pos": "표현",
+      "ex": "Let me check the time on my phone.",
+      "exKo": "휴대폰으로 시간 좀 확인해 볼게."
+    },
+    {
+      "en": "clean the room",
+      "ko": "방을 청소하다",
+      "pos": "표현",
+      "ex": "Please clean the room before dinner.",
+      "exKo": "저녁 전에 방 청소해 줘."
+    },
+    {
+      "en": "go home",
+      "ko": "집에 가다",
+      "pos": "표현",
+      "ex": "I want to go home and rest.",
+      "exKo": "집에 가서 쉬고 싶어."
+    },
+    {
+      "en": "water the plants",
+      "ko": "화분에 물을 주다",
+      "pos": "표현",
+      "ex": "I water the plants every Saturday.",
+      "exKo": "나는 토요일마다 화분에 물을 줘."
+    },
+    {
+      "en": "fix the door",
+      "ko": "문을 고치다",
+      "pos": "표현",
+      "ex": "Dad will fix the door this weekend.",
+      "exKo": "아빠가 이번 주말에 문을 고칠 거야."
+    },
+    {
+      "en": "tidy up",
+      "ko": "정리하다",
+      "pos": "구동사",
+      "ex": "Let's tidy up before the guests arrive.",
+      "exKo": "손님 오기 전에 정리하자."
+    },
+    {
+      "en": "do the cleaning",
+      "ko": "집안 청소를 하다",
+      "pos": "표현",
+      "ex": "We do the cleaning together on Sundays.",
+      "exKo": "우리는 일요일마다 같이 청소해."
+    },
+    {
+      "en": "hang up",
+      "ko": "전화를 끊다",
+      "pos": "구동사",
+      "ex": "Don't hang up, I have one more thing.",
+      "exKo": "끊지 마, 할 말이 하나 더 있어."
+    },
+    {
+      "en": "move house",
+      "ko": "이사하다",
+      "pos": "표현",
+      "ex": "They plan to move house next spring.",
+      "exKo": "그들은 내년 봄에 이사할 계획이야."
+    },
+    {
+      "en": "stay home",
+      "ko": "집에 머무르다",
+      "pos": "표현",
+      "ex": "I'd like to stay home today.",
+      "exKo": "오늘은 집에 있고 싶어."
+    }
+  ],
+  "5": [
+    {
+      "en": "go for a walk",
+      "ko": "산책하러 가다",
+      "pos": "표현",
+      "ex": "Let's go for a walk after dinner.",
+      "exKo": "저녁 먹고 산책하러 가자."
+    },
+    {
+      "en": "ride a bike",
+      "ko": "자전거를 타다",
+      "pos": "표현",
+      "ex": "I ride a bike to work.",
+      "exKo": "나는 자전거를 타고 출근해."
+    },
+    {
+      "en": "play the guitar",
+      "ko": "기타를 치다",
+      "pos": "표현",
+      "ex": "He can play the guitar very well.",
+      "exKo": "그는 기타를 아주 잘 쳐."
+    },
+    {
+      "en": "watch a movie",
+      "ko": "영화를 보다",
+      "pos": "표현",
+      "ex": "We watch a movie every Friday night.",
+      "exKo": "우리는 금요일 밤마다 영화를 봐."
+    },
+    {
+      "en": "listen to music",
+      "ko": "음악을 듣다",
+      "pos": "표현",
+      "ex": "I listen to music on the bus.",
+      "exKo": "나는 버스에서 음악을 들어."
+    },
+    {
+      "en": "read a book",
+      "ko": "책을 읽다",
+      "pos": "표현",
+      "ex": "She likes to read a book before bed.",
+      "exKo": "그녀는 자기 전에 책 읽는 걸 좋아해."
+    },
+    {
+      "en": "go camping",
+      "ko": "캠핑을 가다",
+      "pos": "표현",
+      "ex": "Let's go camping this summer.",
+      "exKo": "이번 여름에 캠핑 가자."
+    },
+    {
+      "en": "go fishing",
+      "ko": "낚시하러 가다",
+      "pos": "표현",
+      "ex": "My dad loves to go fishing on Sundays.",
+      "exKo": "우리 아빠는 일요일마다 낚시 가는 걸 좋아해."
+    },
+    {
+      "en": "go swimming",
+      "ko": "수영하러 가다",
+      "pos": "표현",
+      "ex": "I go swimming twice a week.",
+      "exKo": "나는 일주일에 두 번 수영하러 가."
+    },
+    {
+      "en": "take a trip",
+      "ko": "여행을 떠나다",
+      "pos": "표현",
+      "ex": "We want to take a trip to Jeju.",
+      "exKo": "우리는 제주도로 여행을 떠나고 싶어."
+    }
+  ],
+  "6": [
+    {
+      "en": "stay in bed",
+      "ko": "침대에 누워 있다",
+      "pos": "표현",
+      "ex": "I like to stay in bed on rainy mornings.",
+      "exKo": "나는 비 오는 아침엔 침대에 누워 있는 게 좋아."
+    },
+    {
+      "en": "in the countryside",
+      "ko": "시골에서",
+      "pos": "표현",
+      "ex": "My grandparents live in the countryside.",
+      "exKo": "우리 조부모님은 시골에 사셔."
+    },
+    {
+      "en": "at the airport",
+      "ko": "공항에서",
+      "pos": "표현",
+      "ex": "I'm waiting for you at the airport.",
+      "exKo": "공항에서 너를 기다리고 있어."
+    },
+    {
+      "en": "by plane",
+      "ko": "비행기로",
+      "pos": "표현",
+      "ex": "We will travel by plane.",
+      "exKo": "우리는 비행기로 여행할 거야."
+    },
+    {
+      "en": "by train",
+      "ko": "기차로",
+      "pos": "표현",
+      "ex": "I go to Busan by train.",
+      "exKo": "나는 기차로 부산에 가."
+    },
+    {
+      "en": "on the bus",
+      "ko": "버스 안에서",
+      "pos": "표현",
+      "ex": "I always read my emails on the bus.",
+      "exKo": "나는 항상 버스 안에서 이메일을 읽어."
+    },
+    {
+      "en": "get a ticket",
+      "ko": "표를 구하다",
+      "pos": "표현",
+      "ex": "It's hard to get a ticket for the concert.",
+      "exKo": "그 콘서트 표를 구하기는 어려워."
+    },
+    {
+      "en": "miss the train",
+      "ko": "기차를 놓치다",
+      "pos": "표현",
+      "ex": "Hurry up, or we will miss the train.",
+      "exKo": "서둘러, 안 그러면 기차를 놓칠 거야."
+    },
+    {
+      "en": "buy a map",
+      "ko": "지도를 사다",
+      "pos": "표현",
+      "ex": "We need to buy a map of the city.",
+      "exKo": "우리는 그 도시 지도를 사야 해."
+    },
+    {
+      "en": "pack your bags",
+      "ko": "짐을 싸다",
+      "pos": "표현",
+      "ex": "Don't forget to pack your bags tonight.",
+      "exKo": "오늘 밤 짐 싸는 거 잊지 마."
+    }
+  ],
+  "7": [
+    {
+      "en": "turn left",
+      "ko": "왼쪽으로 돌다",
+      "pos": "표현",
+      "ex": "Turn left at the next light.",
+      "exKo": "다음 신호에서 왼쪽으로 도세요."
+    },
+    {
+      "en": "arrive late",
+      "ko": "늦게 도착하다",
+      "pos": "표현",
+      "ex": "I don't want to arrive late again.",
+      "exKo": "또 늦게 도착하고 싶지 않아."
+    },
+    {
+      "en": "go straight",
+      "ko": "직진하다",
+      "pos": "표현",
+      "ex": "Go straight for two blocks.",
+      "exKo": "두 블록 직진하세요."
+    },
+    {
+      "en": "across the street",
+      "ko": "길 건너편에",
+      "pos": "표현",
+      "ex": "The bank is across the street.",
+      "exKo": "은행은 길 건너편에 있어요."
+    },
+    {
+      "en": "at the corner",
+      "ko": "모퉁이에서",
+      "pos": "표현",
+      "ex": "Please wait for me at the corner.",
+      "exKo": "모퉁이에서 기다려 줘."
+    },
+    {
+      "en": "leave early",
+      "ko": "일찍 떠나다",
+      "pos": "표현",
+      "ex": "We need to leave early tomorrow.",
+      "exKo": "우리는 내일 일찍 떠나야 해."
+    },
+    {
+      "en": "on the right",
+      "ko": "오른쪽에",
+      "pos": "표현",
+      "ex": "The post office is on the right.",
+      "exKo": "우체국은 오른쪽에 있어요."
+    },
+    {
+      "en": "near here",
+      "ko": "이 근처에",
+      "pos": "표현",
+      "ex": "Is there a bank near here?",
+      "exKo": "이 근처에 은행 있어요?"
+    },
+    {
+      "en": "right behind",
+      "ko": "바로 뒤에",
+      "pos": "표현",
+      "ex": "The shop is right behind the station.",
+      "exKo": "그 가게는 역 바로 뒤에 있어."
+    },
+    {
+      "en": "in the middle",
+      "ko": "한가운데에",
+      "pos": "표현",
+      "ex": "There is a big tree in the middle of the park.",
+      "exKo": "공원 한가운데에 큰 나무가 있어."
+    }
+  ],
+  "8": [
+    {
+      "en": "leave home",
+      "ko": "집을 나서다",
+      "pos": "표현",
+      "ex": "I leave home at eight every day.",
+      "exKo": "나는 매일 여덟 시에 집을 나서."
+    },
+    {
+      "en": "ask for directions",
+      "ko": "길을 묻다",
+      "pos": "표현",
+      "ex": "We had to ask for directions.",
+      "exKo": "우리는 길을 물어봐야 했어."
+    },
+    {
+      "en": "find the way",
+      "ko": "길을 찾다",
+      "pos": "표현",
+      "ex": "I can't find the way to the hotel.",
+      "exKo": "호텔 가는 길을 못 찾겠어."
+    },
+    {
+      "en": "drive to work",
+      "ko": "차로 출근하다",
+      "pos": "표현",
+      "ex": "I drive to work on weekdays.",
+      "exKo": "나는 평일에 차로 출근해."
+    },
+    {
+      "en": "come home",
+      "ko": "집에 돌아오다",
+      "pos": "표현",
+      "ex": "I come home at six every day.",
+      "exKo": "나는 매일 여섯 시에 집에 돌아와."
+    },
+    {
+      "en": "stop at the light",
+      "ko": "신호에서 멈추다",
+      "pos": "표현",
+      "ex": "You must stop at the light.",
+      "exKo": "신호에서는 멈춰야 해."
+    },
+    {
+      "en": "park the car",
+      "ko": "주차하다",
+      "pos": "표현",
+      "ex": "Where can I park the car?",
+      "exKo": "차를 어디에 주차할 수 있어요?"
+    },
+    {
+      "en": "fill the tank",
+      "ko": "기름을 가득 넣다",
+      "pos": "표현",
+      "ex": "I need to fill the tank today.",
+      "exKo": "오늘 기름을 가득 넣어야 해."
+    },
+    {
+      "en": "find a job",
+      "ko": "일자리를 구하다",
+      "pos": "표현",
+      "ex": "He is trying to find a job.",
+      "exKo": "그는 일자리를 구하려고 애쓰고 있어."
+    },
+    {
+      "en": "lose your keys",
+      "ko": "열쇠를 잃어버리다",
+      "pos": "표현",
+      "ex": "Be careful not to lose your keys.",
+      "exKo": "열쇠 잃어버리지 않게 조심해."
+    }
+  ],
+  "9": [
+    {
+      "en": "make a phone call",
+      "ko": "전화를 걸다",
+      "pos": "표현",
+      "ex": "I need to make a phone call.",
+      "exKo": "전화 한 통 해야 해."
+    },
+    {
+      "en": "send a message",
+      "ko": "메시지를 보내다",
+      "pos": "표현",
+      "ex": "I will send a message to him now.",
+      "exKo": "지금 그에게 메시지를 보낼게."
+    },
+    {
+      "en": "call me",
+      "ko": "내게 전화하다",
+      "pos": "표현",
+      "ex": "Please call me when you arrive.",
+      "exKo": "도착하면 나한테 전화해 줘."
+    },
+    {
+      "en": "pick up the phone",
+      "ko": "전화를 받다",
+      "pos": "표현",
+      "ex": "Can you pick up the phone, please?",
+      "exKo": "전화 좀 받아 줄래?"
+    },
+    {
+      "en": "leave a message",
+      "ko": "메시지를 남기다",
+      "pos": "표현",
+      "ex": "Can I leave a message for him?",
+      "exKo": "그에게 메시지를 남길 수 있을까요?"
+    },
+    {
+      "en": "text me",
+      "ko": "내게 문자하다",
+      "pos": "표현",
+      "ex": "Text me when you get home.",
+      "exKo": "집에 도착하면 나한테 문자해."
+    },
+    {
+      "en": "hold on",
+      "ko": "잠깐 기다리다",
+      "pos": "구동사",
+      "ex": "Hold on, I'll be right back.",
+      "exKo": "잠깐만, 금방 올게."
+    },
+    {
+      "en": "speak up",
+      "ko": "크게 말하다",
+      "pos": "구동사",
+      "ex": "Could you speak up, please?",
+      "exKo": "좀 더 크게 말해 줄래요?"
+    },
+    {
+      "en": "talk to",
+      "ko": "~와 이야기하다",
+      "pos": "구동사",
+      "ex": "I want to talk to my teacher.",
+      "exKo": "나는 선생님과 이야기하고 싶어."
+    },
+    {
+      "en": "tell the truth",
+      "ko": "사실대로 말하다",
+      "pos": "표현",
+      "ex": "Please tell the truth to your mother.",
+      "exKo": "엄마에게 사실대로 말해."
+    }
+  ],
+  "10": [
+    {
+      "en": "ask a question",
+      "ko": "질문하다",
+      "pos": "표현",
+      "ex": "You can ask a question at the end.",
+      "exKo": "마지막에 질문해도 돼요."
+    },
+    {
+      "en": "give an answer",
+      "ko": "답을 주다",
+      "pos": "표현",
+      "ex": "Please give an answer by Friday.",
+      "exKo": "금요일까지 답을 주세요."
+    },
+    {
+      "en": "lose weight",
+      "ko": "살을 빼다",
+      "pos": "표현",
+      "ex": "He wants to lose weight this year.",
+      "exKo": "그는 올해 살을 빼고 싶어 해."
+    },
+    {
+      "en": "save money",
+      "ko": "돈을 모으다",
+      "pos": "표현",
+      "ex": "I want to save money for a trip.",
+      "exKo": "여행 가려고 돈을 모으고 싶어."
+    },
+    {
+      "en": "shake hands",
+      "ko": "악수하다",
+      "pos": "표현",
+      "ex": "We shake hands when we meet.",
+      "exKo": "우리는 만나면 악수해."
+    },
+    {
+      "en": "say sorry",
+      "ko": "미안하다고 말하다",
+      "pos": "표현",
+      "ex": "You should say sorry to her.",
+      "exKo": "그녀에게 미안하다고 말해야 해."
+    },
+    {
+      "en": "say thanks",
+      "ko": "고맙다고 말하다",
+      "pos": "표현",
+      "ex": "Don't forget to say thanks to your aunt.",
+      "exKo": "이모에게 고맙다고 말하는 거 잊지 마."
+    },
+    {
+      "en": "keep a secret",
+      "ko": "비밀을 지키다",
+      "pos": "표현",
+      "ex": "Can you keep a secret?",
+      "exKo": "비밀 지킬 수 있어?"
+    },
+    {
+      "en": "tell a story",
+      "ko": "이야기를 들려주다",
+      "pos": "표현",
+      "ex": "Grandpa likes to tell a story at night.",
+      "exKo": "할아버지는 밤에 이야기를 들려주시는 걸 좋아해."
+    },
+    {
+      "en": "tell a joke",
+      "ko": "농담하다",
+      "pos": "표현",
+      "ex": "My brother loves to tell a joke.",
+      "exKo": "우리 형은 농담하는 걸 좋아해."
+    }
+  ],
+  "11": [
+    {
+      "en": "come from",
+      "ko": "~ 출신이다",
+      "pos": "구동사",
+      "ex": "Where do you come from?",
+      "exKo": "어디 출신이세요?"
+    },
+    {
+      "en": "live in",
+      "ko": "~에 살다",
+      "pos": "구동사",
+      "ex": "I live in a small town.",
+      "exKo": "나는 작은 마을에 살아."
+    },
+    {
+      "en": "grow up in",
+      "ko": "~에서 자라다",
+      "pos": "구동사",
+      "ex": "I want to grow up in the countryside.",
+      "exKo": "나는 시골에서 자라고 싶어."
+    },
+    {
+      "en": "be born",
+      "ko": "태어나다",
+      "pos": "표현",
+      "ex": "Babies can be born at night.",
+      "exKo": "아기는 밤에도 태어날 수 있어."
+    },
+    {
+      "en": "move to",
+      "ko": "~로 이사 가다",
+      "pos": "구동사",
+      "ex": "We will move to Busan next year.",
+      "exKo": "우리는 내년에 부산으로 이사 갈 거야."
+    },
+    {
+      "en": "stay at",
+      "ko": "~에 묵다",
+      "pos": "구동사",
+      "ex": "We stay at a small hotel.",
+      "exKo": "우리는 작은 호텔에 묵어."
+    },
+    {
+      "en": "work for",
+      "ko": "~ 회사에서 일하다",
+      "pos": "구동사",
+      "ex": "My sister will work for a big company.",
+      "exKo": "내 여동생은 큰 회사에서 일하게 될 거야."
+    },
+    {
+      "en": "work at",
+      "ko": "~에서 근무하다",
+      "pos": "구동사",
+      "ex": "I work at a bank near here.",
+      "exKo": "나는 이 근처 은행에서 근무해."
+    },
+    {
+      "en": "study for",
+      "ko": "~ 시험 공부를 하다",
+      "pos": "구동사",
+      "ex": "I have to study for the test.",
+      "exKo": "나는 시험 공부를 해야 해."
+    },
+    {
+      "en": "learn about",
+      "ko": "~에 대해 배우다",
+      "pos": "구동사",
+      "ex": "We learn about animals in class.",
+      "exKo": "우리는 수업에서 동물에 대해 배워."
+    }
+  ],
+  "12": [
+    {
+      "en": "try to",
+      "ko": "~하려고 노력하다",
+      "pos": "표현",
+      "ex": "I try to walk every day.",
+      "exKo": "나는 매일 걸으려고 노력해."
+    },
+    {
+      "en": "want to",
+      "ko": "~하고 싶다",
+      "pos": "표현",
+      "ex": "I want to learn English.",
+      "exKo": "나는 영어를 배우고 싶어."
+    },
+    {
+      "en": "need to",
+      "ko": "~할 필요가 있다",
+      "pos": "표현",
+      "ex": "You need to rest more.",
+      "exKo": "너는 더 쉴 필요가 있어."
+    },
+    {
+      "en": "spend money",
+      "ko": "돈을 쓰다",
+      "pos": "표현",
+      "ex": "I don't want to spend money today.",
+      "exKo": "오늘은 돈을 쓰고 싶지 않아."
+    },
+    {
+      "en": "spend time",
+      "ko": "시간을 보내다",
+      "pos": "표현",
+      "ex": "I like to spend time with my family.",
+      "exKo": "나는 가족과 시간을 보내는 걸 좋아해."
+    },
+    {
+      "en": "be going to",
+      "ko": "~할 예정이다",
+      "pos": "표현",
+      "ex": "It's fun to be going to a new school.",
+      "exKo": "새 학교에 가게 되는 건 즐거워."
+    },
+    {
+      "en": "be able to",
+      "ko": "~할 수 있다",
+      "pos": "표현",
+      "ex": "I want to be able to swim.",
+      "exKo": "나는 수영할 수 있게 되고 싶어."
+    },
+    {
+      "en": "would like to",
+      "ko": "~하고 싶습니다",
+      "pos": "표현",
+      "ex": "I would like to order a coffee.",
+      "exKo": "커피 한 잔 주문하고 싶습니다."
+    },
+    {
+      "en": "be about to",
+      "ko": "막 ~하려던 참이다",
+      "pos": "표현",
+      "ex": "She seems to be about to cry.",
+      "exKo": "그녀는 막 울 것 같아 보여."
+    },
+    {
+      "en": "be supposed to",
+      "ko": "~하기로 되어 있다",
+      "pos": "표현",
+      "ex": "You will be supposed to wear a uniform here.",
+      "exKo": "여기서는 교복을 입어야 해."
+    }
+  ],
+  "13": [
+    {
+      "en": "look out",
+      "ko": "조심하다",
+      "pos": "구동사",
+      "ex": "Look out! The car is coming.",
+      "exKo": "조심해! 차가 와."
+    },
+    {
+      "en": "look into",
+      "ko": "~을 살펴보다",
+      "pos": "구동사",
+      "ex": "I will look into the problem.",
+      "exKo": "내가 그 문제를 살펴볼게."
+    },
+    {
+      "en": "look through",
+      "ko": "~을 훑어보다",
+      "pos": "구동사",
+      "ex": "Let me look through these pictures.",
+      "exKo": "이 사진들을 좀 훑어볼게."
+    },
+    {
+      "en": "look over",
+      "ko": "~을 검토하다",
+      "pos": "구동사",
+      "ex": "Please look over my report.",
+      "exKo": "내 보고서 좀 검토해 줘."
+    },
+    {
+      "en": "waste time",
+      "ko": "시간을 낭비하다",
+      "pos": "표현",
+      "ex": "Don't waste time on your phone.",
+      "exKo": "휴대폰으로 시간 낭비하지 마."
+    },
+    {
+      "en": "look forward",
+      "ko": "기대하다",
+      "pos": "구동사",
+      "ex": "I look forward to seeing you.",
+      "exKo": "너를 만나기를 기대하고 있어."
+    },
+    {
+      "en": "look back",
+      "ko": "되돌아보다",
+      "pos": "구동사",
+      "ex": "Sometimes I look back at old photos.",
+      "exKo": "가끔 옛날 사진을 되돌아봐."
+    },
+    {
+      "en": "look ahead",
+      "ko": "앞을 내다보다",
+      "pos": "구동사",
+      "ex": "We should look ahead to next year.",
+      "exKo": "우리는 내년을 내다봐야 해."
+    },
+    {
+      "en": "look good",
+      "ko": "좋아 보이다",
+      "pos": "표현",
+      "ex": "You look good in that coat.",
+      "exKo": "그 코트 입으니까 좋아 보여."
+    },
+    {
+      "en": "look tired",
+      "ko": "피곤해 보이다",
+      "pos": "표현",
+      "ex": "You look tired today.",
+      "exKo": "오늘 너 피곤해 보여."
+    }
+  ],
+  "14": [
+    {
+      "en": "wait in line",
+      "ko": "줄을 서서 기다리다",
+      "pos": "표현",
+      "ex": "We had to wait in line for an hour.",
+      "exKo": "우리는 한 시간 동안 줄 서서 기다려야 했어."
+    },
+    {
+      "en": "ask for help",
+      "ko": "도움을 청하다",
+      "pos": "표현",
+      "ex": "Don't be shy to ask for help.",
+      "exKo": "부끄러워하지 말고 도움을 청해."
+    },
+    {
+      "en": "take a look",
+      "ko": "한번 보다",
+      "pos": "표현",
+      "ex": "Take a look at this photo of my dog.",
+      "exKo": "우리 개 사진 좀 봐."
+    },
+    {
+      "en": "take a seat",
+      "ko": "자리에 앉다",
+      "pos": "표현",
+      "ex": "Please take a seat and wait here.",
+      "exKo": "여기 자리에 앉아서 기다려 주세요."
+    },
+    {
+      "en": "take a bath",
+      "ko": "욕조에 몸을 담그다",
+      "pos": "표현",
+      "ex": "I love to take a bath after work.",
+      "exKo": "나는 퇴근하고 욕조에 몸 담그는 걸 좋아해."
+    },
+    {
+      "en": "take a risk",
+      "ko": "위험을 감수하다",
+      "pos": "표현",
+      "ex": "You have to take a risk sometimes.",
+      "exKo": "가끔은 위험을 감수해야 해."
+    },
+    {
+      "en": "need help",
+      "ko": "도움이 필요하다",
+      "pos": "표현",
+      "ex": "I think I need help with this.",
+      "exKo": "이거 도움이 필요한 것 같아."
+    },
+    {
+      "en": "take time",
+      "ko": "시간이 걸리다",
+      "pos": "표현",
+      "ex": "Good things take time.",
+      "exKo": "좋은 일은 시간이 걸려."
+    },
+    {
+      "en": "take place",
+      "ko": "열리다",
+      "pos": "표현",
+      "ex": "The concert will take place in May.",
+      "exKo": "콘서트는 5월에 열릴 거야."
+    },
+    {
+      "en": "take turns",
+      "ko": "번갈아 하다",
+      "pos": "표현",
+      "ex": "Let's take turns driving.",
+      "exKo": "번갈아 가며 운전하자."
+    }
+  ],
+  "15": [
+    {
+      "en": "call a friend",
+      "ko": "친구에게 전화하다",
+      "pos": "표현",
+      "ex": "I will call a friend for advice.",
+      "exKo": "조언을 구하려고 친구에게 전화할 거야."
+    },
+    {
+      "en": "give out",
+      "ko": "나눠 주다",
+      "pos": "구동사",
+      "ex": "The teacher will give out the papers.",
+      "exKo": "선생님이 종이를 나눠 주실 거야."
+    },
+    {
+      "en": "give a hand",
+      "ko": "도와주다",
+      "pos": "표현",
+      "ex": "Can you give a hand with these boxes?",
+      "exKo": "이 상자들 좀 도와줄래?"
+    },
+    {
+      "en": "give a ride",
+      "ko": "태워 주다",
+      "pos": "표현",
+      "ex": "Can you give a ride to my friend?",
+      "exKo": "내 친구를 좀 태워 줄 수 있어?"
+    },
+    {
+      "en": "give advice",
+      "ko": "조언하다",
+      "pos": "표현",
+      "ex": "My mother likes to give advice.",
+      "exKo": "우리 엄마는 조언하는 걸 좋아하셔."
+    },
+    {
+      "en": "give a call",
+      "ko": "전화 한 통 주다",
+      "pos": "표현",
+      "ex": "Please give a call when you're free.",
+      "exKo": "시간 되면 전화 한 통 줘."
+    },
+    {
+      "en": "give it a try",
+      "ko": "한번 해 보다",
+      "pos": "표현",
+      "ex": "You should give it a try.",
+      "exKo": "한번 해 보는 게 좋아."
+    },
+    {
+      "en": "give a speech",
+      "ko": "연설하다",
+      "pos": "표현",
+      "ex": "I have to give a speech tomorrow.",
+      "exKo": "나는 내일 연설을 해야 해."
+    },
+    {
+      "en": "give directions",
+      "ko": "길을 알려 주다",
+      "pos": "표현",
+      "ex": "Can you give directions to the station?",
+      "exKo": "역으로 가는 길 좀 알려 줄래요?"
+    },
+    {
+      "en": "give way",
+      "ko": "양보하다",
+      "pos": "표현",
+      "ex": "You must give way to buses.",
+      "exKo": "버스에게 양보해야 해."
+    }
+  ],
+  "16": [
+    {
+      "en": "get back",
+      "ko": "돌아오다",
+      "pos": "구동사",
+      "ex": "When will you get back?",
+      "exKo": "언제 돌아와?"
+    },
+    {
+      "en": "get away",
+      "ko": "도망치다",
+      "pos": "구동사",
+      "ex": "I want to get away from the city.",
+      "exKo": "나는 도시에서 벗어나고 싶어."
+    },
+    {
+      "en": "meet a friend",
+      "ko": "친구를 만나다",
+      "pos": "표현",
+      "ex": "I meet a friend every Saturday.",
+      "exKo": "나는 토요일마다 친구를 만나."
+    },
+    {
+      "en": "get into",
+      "ko": "~에 들어가다",
+      "pos": "구동사",
+      "ex": "Let's get into the car.",
+      "exKo": "차에 타자."
+    },
+    {
+      "en": "get out of",
+      "ko": "~에서 나오다",
+      "pos": "구동사",
+      "ex": "He needs to get out of bed.",
+      "exKo": "그는 침대에서 나와야 해."
+    },
+    {
+      "en": "get through",
+      "ko": "헤쳐 나가다",
+      "pos": "구동사",
+      "ex": "We can get through this together.",
+      "exKo": "우리는 이걸 함께 헤쳐 나갈 수 있어."
+    },
+    {
+      "en": "get up to",
+      "ko": "~을 하고 지내다",
+      "pos": "구동사",
+      "ex": "What did you get up to last weekend?",
+      "exKo": "지난 주말에 뭐 하고 지냈어?"
+    },
+    {
+      "en": "get started",
+      "ko": "시작하다",
+      "pos": "표현",
+      "ex": "Let's get started with the lesson.",
+      "exKo": "수업을 시작합시다."
+    },
+    {
+      "en": "invite a friend",
+      "ko": "친구를 초대하다",
+      "pos": "표현",
+      "ex": "I want to invite a friend to dinner.",
+      "exKo": "친구를 저녁에 초대하고 싶어."
+    },
+    {
+      "en": "visit a friend",
+      "ko": "친구를 방문하다",
+      "pos": "표현",
+      "ex": "I will visit a friend in Daegu.",
+      "exKo": "나는 대구에 있는 친구를 방문할 거야."
+    }
+  ],
+  "17": [
+    {
+      "en": "put up",
+      "ko": "세우다",
+      "pos": "구동사",
+      "ex": "They put up a tent by the lake.",
+      "exKo": "그들은 호숫가에 텐트를 쳤어."
+    },
+    {
+      "en": "put down",
+      "ko": "내려놓다",
+      "pos": "구동사",
+      "ex": "Please put down your phone.",
+      "exKo": "휴대폰을 내려놔 주세요."
+    },
+    {
+      "en": "put in",
+      "ko": "~을 넣다",
+      "pos": "구동사",
+      "ex": "Put in some more sugar.",
+      "exKo": "설탕을 좀 더 넣어."
+    },
+    {
+      "en": "put out",
+      "ko": "불을 끄다",
+      "pos": "구동사",
+      "ex": "The firefighters put out the fire.",
+      "exKo": "소방관들이 불을 껐어."
+    },
+    {
+      "en": "put together",
+      "ko": "조립하다",
+      "pos": "구동사",
+      "ex": "We put together a desk yesterday.",
+      "exKo": "우리는 어제 책상을 조립했어."
+    },
+    {
+      "en": "open the window",
+      "ko": "창문을 열다",
+      "pos": "표현",
+      "ex": "Please open the window.",
+      "exKo": "창문 좀 열어 줘."
+    },
+    {
+      "en": "put back",
+      "ko": "제자리에 놓다",
+      "pos": "구동사",
+      "ex": "Please put back the books.",
+      "exKo": "책들을 제자리에 놔 줘."
+    },
+    {
+      "en": "put aside",
+      "ko": "따로 떼어 두다",
+      "pos": "구동사",
+      "ex": "I put aside some money each month.",
+      "exKo": "나는 매달 돈을 조금씩 따로 떼어 둬."
+    },
+    {
+      "en": "put on weight",
+      "ko": "살이 찌다",
+      "pos": "표현",
+      "ex": "I'm afraid I'll put on weight.",
+      "exKo": "살이 찔까 봐 걱정이야."
+    },
+    {
+      "en": "put in order",
+      "ko": "정돈하다",
+      "pos": "표현",
+      "ex": "Can you put in order these books by size?",
+      "exKo": "이 책들을 크기별로 정돈해 줄래?"
+    }
+  ],
+  "18": [
+    {
+      "en": "turn around",
+      "ko": "뒤돌다",
+      "pos": "구동사",
+      "ex": "Turn around and look at me.",
+      "exKo": "뒤돌아서 나를 봐."
+    },
+    {
+      "en": "turn into",
+      "ko": "~로 변하다",
+      "pos": "구동사",
+      "ex": "Water can turn into ice.",
+      "exKo": "물은 얼음으로 변할 수 있어."
+    },
+    {
+      "en": "turn over",
+      "ko": "뒤집다",
+      "pos": "구동사",
+      "ex": "Turn over the paper, please.",
+      "exKo": "종이를 뒤집어 주세요."
+    },
+    {
+      "en": "turn back",
+      "ko": "되돌아가다",
+      "pos": "구동사",
+      "ex": "It's too late to turn back.",
+      "exKo": "되돌아가기엔 너무 늦었어."
+    },
+    {
+      "en": "turn away",
+      "ko": "돌려보내다",
+      "pos": "구동사",
+      "ex": "They had to turn away many guests.",
+      "exKo": "그들은 많은 손님을 돌려보내야 했어."
+    },
+    {
+      "en": "turn out",
+      "ko": "결국 ~이 되다",
+      "pos": "구동사",
+      "ex": "Everything will turn out well.",
+      "exKo": "모든 게 잘 풀릴 거야."
+    },
+    {
+      "en": "turn in",
+      "ko": "제출하다",
+      "pos": "구동사",
+      "ex": "Please turn in your homework today.",
+      "exKo": "오늘 숙제를 제출하세요."
+    },
+    {
+      "en": "close the door",
+      "ko": "문을 닫다",
+      "pos": "표현",
+      "ex": "Please close the door quietly.",
+      "exKo": "문을 조용히 닫아 주세요."
+    },
+    {
+      "en": "turn the page",
+      "ko": "페이지를 넘기다",
+      "pos": "표현",
+      "ex": "Turn the page to continue.",
+      "exKo": "계속하려면 페이지를 넘기세요."
+    },
+    {
+      "en": "turn the corner",
+      "ko": "모퉁이를 돌다",
+      "pos": "표현",
+      "ex": "You'll see it when you turn the corner.",
+      "exKo": "모퉁이를 돌면 보일 거예요."
+    }
+  ],
+  "19": [
+    {
+      "en": "make a decision",
+      "ko": "결정을 내리다",
+      "pos": "표현",
+      "ex": "It's hard to make a decision.",
+      "exKo": "결정을 내리기가 어려워."
+    },
+    {
+      "en": "make a wish",
+      "ko": "소원을 빌다",
+      "pos": "표현",
+      "ex": "Close your eyes and make a wish.",
+      "exKo": "눈을 감고 소원을 빌어 봐."
+    },
+    {
+      "en": "make money",
+      "ko": "돈을 벌다",
+      "pos": "표현",
+      "ex": "He wants to make money fast.",
+      "exKo": "그는 돈을 빨리 벌고 싶어 해."
+    },
+    {
+      "en": "make a call",
+      "ko": "전화 한 통 하다",
+      "pos": "표현",
+      "ex": "I need to make a call before lunch.",
+      "exKo": "점심 전에 전화 한 통 해야 해."
+    },
+    {
+      "en": "make noise",
+      "ko": "소음을 내다",
+      "pos": "표현",
+      "ex": "Please don't make noise at night.",
+      "exKo": "밤에는 소음을 내지 말아 주세요."
+    },
+    {
+      "en": "make progress",
+      "ko": "진전을 보이다",
+      "pos": "표현",
+      "ex": "I want to make progress in English this year.",
+      "exKo": "올해는 영어 실력이 늘었으면 좋겠어."
+    },
+    {
+      "en": "make a plan",
+      "ko": "계획을 세우다",
+      "pos": "표현",
+      "ex": "Let's make a plan for the trip.",
+      "exKo": "여행 계획을 세워 보자."
+    },
+    {
+      "en": "make an effort",
+      "ko": "노력하다",
+      "pos": "표현",
+      "ex": "You should make an effort to study.",
+      "exKo": "공부하려고 노력해야 해."
+    },
+    {
+      "en": "make room",
+      "ko": "자리를 만들다",
+      "pos": "표현",
+      "ex": "Can you make room for me?",
+      "exKo": "내가 앉을 자리를 만들어 줄래?"
+    },
+    {
+      "en": "make a living",
+      "ko": "생계를 꾸리다",
+      "pos": "표현",
+      "ex": "He wants to make a living as a driver.",
+      "exKo": "그는 운전기사로 생계를 꾸리고 싶어 해."
+    }
+  ],
+  "20": [
+    {
+      "en": "have a look",
+      "ko": "한번 살펴보다",
+      "pos": "표현",
+      "ex": "Let's have a look at the menu.",
+      "exKo": "메뉴를 한번 살펴보자."
+    },
+    {
+      "en": "have a rest",
+      "ko": "휴식을 취하다",
+      "pos": "표현",
+      "ex": "You should have a rest now.",
+      "exKo": "지금 휴식을 취하는 게 좋아."
+    },
+    {
+      "en": "have a headache",
+      "ko": "머리가 아프다",
+      "pos": "표현",
+      "ex": "I have a headache today.",
+      "exKo": "오늘 머리가 아파."
+    },
+    {
+      "en": "have a cold",
+      "ko": "감기에 걸리다",
+      "pos": "표현",
+      "ex": "I think I have a cold.",
+      "exKo": "나 감기에 걸린 것 같아."
+    },
+    {
+      "en": "have a fever",
+      "ko": "열이 나다",
+      "pos": "표현",
+      "ex": "I think I might have a fever, so I stay in bed.",
+      "exKo": "열이 나는 것 같아서 누워 있어."
+    },
+    {
+      "en": "have a chat",
+      "ko": "수다를 떨다",
+      "pos": "표현",
+      "ex": "Let's have a chat over coffee.",
+      "exKo": "커피 마시면서 수다 떨자."
+    },
+    {
+      "en": "have an idea",
+      "ko": "아이디어가 있다",
+      "pos": "표현",
+      "ex": "I have an idea for dinner.",
+      "exKo": "저녁 메뉴에 대한 아이디어가 있어."
+    },
+    {
+      "en": "have a problem",
+      "ko": "문제가 있다",
+      "pos": "표현",
+      "ex": "I have a problem with my phone.",
+      "exKo": "내 휴대폰에 문제가 있어."
+    },
+    {
+      "en": "have a party",
+      "ko": "파티를 열다",
+      "pos": "표현",
+      "ex": "We want to have a party on Saturday.",
+      "exKo": "우리는 토요일에 파티를 열고 싶어."
+    },
+    {
+      "en": "have a baby",
+      "ko": "아기를 낳다",
+      "pos": "표현",
+      "ex": "My sister will have a baby in May.",
+      "exKo": "내 여동생은 5월에 아기를 낳아."
+    }
+  ],
+  "21": [
+    {
+      "en": "do your best",
+      "ko": "최선을 다하다",
+      "pos": "표현",
+      "ex": "Just do your best on the test.",
+      "exKo": "시험에서 그냥 최선을 다해."
+    },
+    {
+      "en": "do some work",
+      "ko": "일을 좀 하다",
+      "pos": "표현",
+      "ex": "I need to do some work tonight.",
+      "exKo": "오늘 밤에 일을 좀 해야 해."
+    },
+    {
+      "en": "do exercise",
+      "ko": "운동하다",
+      "pos": "표현",
+      "ex": "I try to do exercise every day.",
+      "exKo": "나는 매일 운동하려고 해."
+    },
+    {
+      "en": "do the shopping",
+      "ko": "장을 보다",
+      "pos": "표현",
+      "ex": "I do the shopping on Sundays.",
+      "exKo": "나는 일요일마다 장을 봐."
+    },
+    {
+      "en": "do a favor",
+      "ko": "부탁을 들어주다",
+      "pos": "표현",
+      "ex": "Can you do a favor for me?",
+      "exKo": "내 부탁 하나만 들어줄래?"
+    },
+    {
+      "en": "do business",
+      "ko": "사업을 하다",
+      "pos": "표현",
+      "ex": "My uncle wants to do business abroad.",
+      "exKo": "우리 삼촌은 해외에서 사업을 하고 싶어 해."
+    },
+    {
+      "en": "do well",
+      "ko": "잘하다",
+      "pos": "표현",
+      "ex": "You will do well on the test.",
+      "exKo": "너는 시험을 잘 볼 거야."
+    },
+    {
+      "en": "do nothing",
+      "ko": "아무것도 안 하다",
+      "pos": "표현",
+      "ex": "I want to do nothing this weekend.",
+      "exKo": "이번 주말엔 아무것도 하고 싶지 않아."
+    },
+    {
+      "en": "do the right thing",
+      "ko": "옳은 일을 하다",
+      "pos": "표현",
+      "ex": "It is important to do the right thing.",
+      "exKo": "옳은 일을 하는 건 중요해."
+    },
+    {
+      "en": "do without",
+      "ko": "~ 없이 지내다",
+      "pos": "구동사",
+      "ex": "I can't do without coffee.",
+      "exKo": "나는 커피 없이는 못 살아."
+    }
+  ],
+  "22": [
+    {
+      "en": "go away",
+      "ko": "가 버리다",
+      "pos": "구동사",
+      "ex": "Please go away and leave me alone.",
+      "exKo": "제발 가서 나 좀 혼자 둬."
+    },
+    {
+      "en": "go down",
+      "ko": "내려가다",
+      "pos": "구동사",
+      "ex": "Prices will go down soon.",
+      "exKo": "가격이 곧 내려갈 거야."
+    },
+    {
+      "en": "go up",
+      "ko": "올라가다",
+      "pos": "구동사",
+      "ex": "The prices go up every year.",
+      "exKo": "물가는 해마다 올라가."
+    },
+    {
+      "en": "go around",
+      "ko": "돌아다니다",
+      "pos": "구동사",
+      "ex": "We like to go around the city.",
+      "exKo": "우리는 도시를 돌아다니는 걸 좋아해."
+    },
+    {
+      "en": "go through",
+      "ko": "겪다",
+      "pos": "구동사",
+      "ex": "She had to go through a hard time.",
+      "exKo": "그녀는 힘든 시기를 겪어야 했어."
+    },
+    {
+      "en": "lock the door",
+      "ko": "문을 잠그다",
+      "pos": "표현",
+      "ex": "Don't forget to lock the door.",
+      "exKo": "문 잠그는 거 잊지 마."
+    },
+    {
+      "en": "go off",
+      "ko": "울리다",
+      "pos": "구동사",
+      "ex": "My alarm will go off at six.",
+      "exKo": "내 알람은 여섯 시에 울릴 거야."
+    },
+    {
+      "en": "go by",
+      "ko": "지나가다",
+      "pos": "구동사",
+      "ex": "Time seems to go by so fast.",
+      "exKo": "시간이 정말 빨리 지나가는 것 같아."
+    },
+    {
+      "en": "go along",
+      "ko": "따라가다",
+      "pos": "구동사",
+      "ex": "I will go along with you.",
+      "exKo": "내가 너를 따라갈게."
+    },
+    {
+      "en": "go wrong",
+      "ko": "잘못되다",
+      "pos": "구동사",
+      "ex": "Something might go wrong.",
+      "exKo": "뭔가 잘못될 수도 있어."
+    }
+  ],
+  "23": [
+    {
+      "en": "be in love",
+      "ko": "사랑에 빠져 있다",
+      "pos": "표현",
+      "ex": "They seem to be in love.",
+      "exKo": "그들은 사랑에 빠진 것 같아."
+    },
+    {
+      "en": "be in trouble",
+      "ko": "곤경에 처하다",
+      "pos": "표현",
+      "ex": "I don't want to be in trouble again.",
+      "exKo": "또 곤란해지고 싶지 않아."
+    },
+    {
+      "en": "be on time",
+      "ko": "제시간에 오다",
+      "pos": "표현",
+      "ex": "Please try to be on time.",
+      "exKo": "제시간에 오도록 해 주세요."
+    },
+    {
+      "en": "be in a bad mood",
+      "ko": "기분이 안 좋다",
+      "pos": "표현",
+      "ex": "Why do you seem to be in a bad mood?",
+      "exKo": "왜 기분이 안 좋아 보여?"
+    },
+    {
+      "en": "be out of order",
+      "ko": "고장 나 있다",
+      "pos": "표현",
+      "ex": "The machine seems to be out of order.",
+      "exKo": "그 기계는 고장 난 것 같아."
+    },
+    {
+      "en": "be in charge",
+      "ko": "담당이다",
+      "pos": "표현",
+      "ex": "Who will be in charge today?",
+      "exKo": "오늘은 누가 담당이에요?"
+    },
+    {
+      "en": "be on sale",
+      "ko": "할인 중이다",
+      "pos": "표현",
+      "ex": "These shoes will be on sale tomorrow.",
+      "exKo": "이 신발은 내일부터 할인해."
+    },
+    {
+      "en": "be out of stock",
+      "ko": "품절이다",
+      "pos": "표현",
+      "ex": "That color might be out of stock.",
+      "exKo": "그 색은 품절일지도 몰라."
+    },
+    {
+      "en": "be on a diet",
+      "ko": "다이어트 중이다",
+      "pos": "표현",
+      "ex": "I can't be on a diet and eat cake.",
+      "exKo": "다이어트 중에 케이크를 먹을 순 없어."
+    },
+    {
+      "en": "be on fire",
+      "ko": "불타고 있다",
+      "pos": "표현",
+      "ex": "The kitchen can't be on fire!",
+      "exKo": "부엌에 불이 났을 리 없어!"
+    }
+  ],
+  "24": [
+    {
+      "en": "a cup of tea",
+      "ko": "차 한 잔",
+      "pos": "표현",
+      "ex": "Would you like a cup of tea?",
+      "exKo": "차 한 잔 드시겠어요?"
+    },
+    {
+      "en": "a piece of paper",
+      "ko": "종이 한 장",
+      "pos": "표현",
+      "ex": "Can I have a piece of paper?",
+      "exKo": "종이 한 장 받을 수 있을까요?"
+    },
+    {
+      "en": "a bottle of water",
+      "ko": "물 한 병",
+      "pos": "표현",
+      "ex": "I need a bottle of water.",
+      "exKo": "물 한 병이 필요해."
+    },
+    {
+      "en": "a bag of rice",
+      "ko": "쌀 한 봉지",
+      "pos": "표현",
+      "ex": "We bought a bag of rice.",
+      "exKo": "우리는 쌀 한 봉지를 샀어."
+    },
+    {
+      "en": "a slice of bread",
+      "ko": "빵 한 조각",
+      "pos": "표현",
+      "ex": "She ate a slice of bread.",
+      "exKo": "그녀는 빵 한 조각을 먹었어."
+    },
+    {
+      "en": "a pair of shoes",
+      "ko": "신발 한 켤레",
+      "pos": "표현",
+      "ex": "I want to buy a pair of shoes.",
+      "exKo": "나는 신발 한 켤레를 사고 싶어."
+    },
+    {
+      "en": "a bowl of soup",
+      "ko": "수프 한 그릇",
+      "pos": "표현",
+      "ex": "He ordered a bowl of soup.",
+      "exKo": "그는 수프 한 그릇을 주문했어."
+    },
+    {
+      "en": "a glass of milk",
+      "ko": "우유 한 잔",
+      "pos": "표현",
+      "ex": "I drink a glass of milk every morning.",
+      "exKo": "나는 매일 아침 우유 한 잔을 마셔."
+    },
+    {
+      "en": "a kind of fruit",
+      "ko": "과일의 한 종류",
+      "pos": "표현",
+      "ex": "A kiwi is a kind of fruit.",
+      "exKo": "키위는 과일의 한 종류야."
+    },
+    {
+      "en": "a group of friends",
+      "ko": "친구 무리",
+      "pos": "표현",
+      "ex": "I went out with a group of friends.",
+      "exKo": "나는 친구들 무리와 놀러 나갔어."
+    }
+  ],
+  "25": [
+    {
+      "en": "knock on the door",
+      "ko": "문을 두드리다",
+      "pos": "표현",
+      "ex": "Please knock on the door first.",
+      "exKo": "먼저 문을 두드려 주세요."
+    },
+    {
+      "en": "after a while",
+      "ko": "잠시 후에",
+      "pos": "표현",
+      "ex": "He came back after a while.",
+      "exKo": "그는 잠시 후에 돌아왔어."
+    },
+    {
+      "en": "ring the bell",
+      "ko": "초인종을 누르다",
+      "pos": "표현",
+      "ex": "Ring the bell if nobody answers.",
+      "exKo": "아무도 안 나오면 초인종을 눌러."
+    },
+    {
+      "en": "at the beginning",
+      "ko": "처음에는",
+      "pos": "표현",
+      "ex": "At the beginning, English was hard.",
+      "exKo": "처음에는 영어가 어려웠어."
+    },
+    {
+      "en": "for the first time",
+      "ko": "처음으로",
+      "pos": "표현",
+      "ex": "I saw snow for the first time.",
+      "exKo": "나는 처음으로 눈을 봤어."
+    },
+    {
+      "en": "for a long time",
+      "ko": "오랫동안",
+      "pos": "표현",
+      "ex": "I waited for a long time.",
+      "exKo": "나는 오랫동안 기다렸어."
+    },
+    {
+      "en": "read the news",
+      "ko": "뉴스를 읽다",
+      "pos": "표현",
+      "ex": "I read the news every morning.",
+      "exKo": "나는 매일 아침 뉴스를 읽어."
+    },
+    {
+      "en": "write an email",
+      "ko": "이메일을 쓰다",
+      "pos": "표현",
+      "ex": "I need to write an email to my boss.",
+      "exKo": "상사에게 이메일을 써야 해."
+    },
+    {
+      "en": "again and again",
+      "ko": "여러 번 거듭",
+      "pos": "표현",
+      "ex": "I called him again and again.",
+      "exKo": "나는 그에게 계속 전화했어."
+    },
+    {
+      "en": "one by one",
+      "ko": "하나씩",
+      "pos": "표현",
+      "ex": "Please come in one by one.",
+      "exKo": "한 명씩 들어오세요."
+    }
+  ],
+  "26": [
+    {
+      "en": "so far",
+      "ko": "지금까지",
+      "pos": "표현",
+      "ex": "So far, everything is fine.",
+      "exKo": "지금까지는 다 괜찮아."
+    },
+    {
+      "en": "up to now",
+      "ko": "현재까지",
+      "pos": "표현",
+      "ex": "Up to now, no one has called.",
+      "exKo": "지금까지 아무도 전화하지 않았어."
+    },
+    {
+      "en": "check your email",
+      "ko": "이메일을 확인하다",
+      "pos": "표현",
+      "ex": "Please check your email today.",
+      "exKo": "오늘 이메일을 확인해 주세요."
+    },
+    {
+      "en": "as a result",
+      "ko": "그 결과",
+      "pos": "표현",
+      "ex": "He studied hard. As a result, he passed.",
+      "exKo": "그는 열심히 공부했고, 그 결과 합격했어."
+    },
+    {
+      "en": "in the past",
+      "ko": "과거에",
+      "pos": "표현",
+      "ex": "In the past, people wrote letters.",
+      "exKo": "과거에는 사람들이 편지를 썼어."
+    },
+    {
+      "en": "in the future",
+      "ko": "미래에",
+      "pos": "표현",
+      "ex": "I want to travel more in the future.",
+      "exKo": "나는 미래에는 여행을 더 많이 하고 싶어."
+    },
+    {
+      "en": "use a computer",
+      "ko": "컴퓨터를 쓰다",
+      "pos": "표현",
+      "ex": "Can I use a computer here?",
+      "exKo": "여기서 컴퓨터 써도 돼요?"
+    },
+    {
+      "en": "a long time ago",
+      "ko": "오래전에",
+      "pos": "표현",
+      "ex": "I met him a long time ago.",
+      "exKo": "나는 오래전에 그를 만났어."
+    },
+    {
+      "en": "the other day",
+      "ko": "얼마 전에",
+      "pos": "표현",
+      "ex": "I saw her the other day.",
+      "exKo": "나는 얼마 전에 그녀를 봤어."
+    },
+    {
+      "en": "ever since",
+      "ko": "그 이후로 계속",
+      "pos": "표현",
+      "ex": "I have lived here ever since.",
+      "exKo": "나는 그 이후로 계속 여기 살고 있어."
+    }
+  ],
+  "27": [
+    {
+      "en": "more or less",
+      "ko": "거의",
+      "pos": "표현",
+      "ex": "The work is more or less done.",
+      "exKo": "그 일은 거의 끝났어."
+    },
+    {
+      "en": "at most",
+      "ko": "많아야",
+      "pos": "표현",
+      "ex": "It costs ten dollars at most.",
+      "exKo": "그건 많아야 10달러야."
+    },
+    {
+      "en": "as many as",
+      "ko": "~나 되는 수",
+      "pos": "표현",
+      "ex": "As many as fifty people came.",
+      "exKo": "오십 명이나 왔어."
+    },
+    {
+      "en": "as much as",
+      "ko": "~만큼의 양",
+      "pos": "표현",
+      "ex": "You can eat as much as you like.",
+      "exKo": "원하는 만큼 먹어도 돼."
+    },
+    {
+      "en": "surf the web",
+      "ko": "웹서핑을 하다",
+      "pos": "표현",
+      "ex": "I like to surf the web at night.",
+      "exKo": "나는 밤에 웹서핑하는 걸 좋아해."
+    },
+    {
+      "en": "no longer",
+      "ko": "더 이상 ~않다",
+      "pos": "표현",
+      "ex": "He no longer lives here.",
+      "exKo": "그는 더 이상 여기 살지 않아."
+    },
+    {
+      "en": "not yet",
+      "ko": "아직 ~않다",
+      "pos": "표현",
+      "ex": "Is dinner ready? Not yet.",
+      "exKo": "저녁 다 됐어? 아직이야."
+    },
+    {
+      "en": "take the stairs",
+      "ko": "계단으로 가다",
+      "pos": "표현",
+      "ex": "Let's take the stairs.",
+      "exKo": "계단으로 가자."
+    },
+    {
+      "en": "just in case",
+      "ko": "만일을 대비해서",
+      "pos": "표현",
+      "ex": "Take an umbrella just in case.",
+      "exKo": "만일을 대비해 우산을 가져가."
+    },
+    {
+      "en": "go upstairs",
+      "ko": "위층으로 올라가다",
+      "pos": "표현",
+      "ex": "Please go upstairs and wait.",
+      "exKo": "위층으로 올라가서 기다려 주세요."
+    }
+  ],
+  "28": [
+    {
+      "en": "be proud of",
+      "ko": "~을 자랑스러워하다",
+      "pos": "표현",
+      "ex": "You should be proud of your work.",
+      "exKo": "너는 네 작품을 자랑스러워해도 돼."
+    },
+    {
+      "en": "be interested in",
+      "ko": "~에 관심이 있다",
+      "pos": "표현",
+      "ex": "You will be interested in this book.",
+      "exKo": "너는 이 책에 관심이 생길 거야."
+    },
+    {
+      "en": "be tired of",
+      "ko": "~에 싫증 나다",
+      "pos": "표현",
+      "ex": "You will be tired of this song soon.",
+      "exKo": "너도 곧 이 노래에 싫증 날 거야."
+    },
+    {
+      "en": "be full of",
+      "ko": "~로 가득 차 있다",
+      "pos": "표현",
+      "ex": "The box will be full of toys.",
+      "exKo": "그 상자는 장난감으로 가득 찰 거야."
+    },
+    {
+      "en": "be ready for",
+      "ko": "~할 준비가 되다",
+      "pos": "표현",
+      "ex": "Will you be ready for the trip?",
+      "exKo": "여행 갈 준비가 될까?"
+    },
+    {
+      "en": "be famous for",
+      "ko": "~로 유명하다",
+      "pos": "표현",
+      "ex": "This town will be famous for its food.",
+      "exKo": "이 마을은 음식으로 유명해질 거야."
+    },
+    {
+      "en": "be worried about",
+      "ko": "~을 걱정하다",
+      "pos": "표현",
+      "ex": "You don't need to be worried about me.",
+      "exKo": "나를 걱정할 필요 없어."
+    },
+    {
+      "en": "be kind to",
+      "ko": "~에게 친절하다",
+      "pos": "표현",
+      "ex": "You should be kind to animals.",
+      "exKo": "동물에게 친절해야 해."
+    },
+    {
+      "en": "be angry with",
+      "ko": "~에게 화가 나다",
+      "pos": "표현",
+      "ex": "I don't want to be angry with you.",
+      "exKo": "너에게 화내고 싶지 않아."
+    },
+    {
+      "en": "be different from",
+      "ko": "~와 다르다",
+      "pos": "표현",
+      "ex": "Seoul can be different from Busan.",
+      "exKo": "서울은 부산과 다를 수 있어."
+    }
+  ],
+  "29": [
+    {
+      "en": "go downstairs",
+      "ko": "아래층으로 내려가다",
+      "pos": "표현",
+      "ex": "Let's go downstairs for breakfast.",
+      "exKo": "아침 먹으러 아래층으로 내려가자."
+    },
+    {
+      "en": "walk home",
+      "ko": "걸어서 집에 가다",
+      "pos": "표현",
+      "ex": "I like to walk home after work.",
+      "exKo": "나는 퇴근 후에 걸어서 집에 가는 걸 좋아해."
+    },
+    {
+      "en": "run fast",
+      "ko": "빨리 달리다",
+      "pos": "표현",
+      "ex": "He can run fast.",
+      "exKo": "그는 빨리 달릴 수 있어."
+    },
+    {
+      "en": "jump up",
+      "ko": "뛰어오르다",
+      "pos": "구동사",
+      "ex": "The dog will jump up and say hello.",
+      "exKo": "강아지가 뛰어올라 인사할 거야."
+    },
+    {
+      "en": "go out with",
+      "ko": "~와 사귀다",
+      "pos": "구동사",
+      "ex": "She wants to go out with him.",
+      "exKo": "그녀는 그와 사귀고 싶어 해."
+    },
+    {
+      "en": "get along with",
+      "ko": "~와 잘 지내다",
+      "pos": "구동사",
+      "ex": "I get along with my coworkers.",
+      "exKo": "나는 직장 동료들과 잘 지내."
+    },
+    {
+      "en": "fall down",
+      "ko": "넘어지다",
+      "pos": "구동사",
+      "ex": "Be careful not to fall down.",
+      "exKo": "넘어지지 않게 조심해."
+    },
+    {
+      "en": "sit still",
+      "ko": "가만히 앉아 있다",
+      "pos": "표현",
+      "ex": "Please sit still for a minute.",
+      "exKo": "잠깐만 가만히 앉아 있어."
+    },
+    {
+      "en": "keep quiet",
+      "ko": "조용히 하다",
+      "pos": "표현",
+      "ex": "Please keep quiet in the library.",
+      "exKo": "도서관에서는 조용히 해 주세요."
+    },
+    {
+      "en": "keep calm",
+      "ko": "침착함을 유지하다",
+      "pos": "표현",
+      "ex": "Try to keep calm.",
+      "exKo": "침착하게 있으려고 해 봐."
+    }
+  ],
+  "30": [
+    {
+      "en": "think of",
+      "ko": "~을 생각해 내다",
+      "pos": "구동사",
+      "ex": "I can't think of her name.",
+      "exKo": "그녀의 이름이 생각이 안 나."
+    },
+    {
+      "en": "hear from",
+      "ko": "~에게서 연락을 받다",
+      "pos": "구동사",
+      "ex": "I hope to hear from you soon.",
+      "exKo": "곧 연락 주시길 바라요."
+    },
+    {
+      "en": "wait and see",
+      "ko": "두고 보다",
+      "pos": "표현",
+      "ex": "We will just wait and see.",
+      "exKo": "우리는 그냥 두고 볼 거야."
+    },
+    {
+      "en": "wash the car",
+      "ko": "세차하다",
+      "pos": "표현",
+      "ex": "I wash the car on Sundays.",
+      "exKo": "나는 일요일마다 세차해."
+    },
+    {
+      "en": "end up",
+      "ko": "결국 ~하게 되다",
+      "pos": "구동사",
+      "ex": "We might end up at home.",
+      "exKo": "우리는 결국 집에 있게 될지도 몰라."
+    },
+    {
+      "en": "show off",
+      "ko": "자랑하다",
+      "pos": "구동사",
+      "ex": "Don't show off your new bag.",
+      "exKo": "새 가방 자랑하지 마."
+    },
+    {
+      "en": "pass away",
+      "ko": "세상을 떠나다",
+      "pos": "구동사",
+      "ex": "My dog is old and may pass away soon.",
+      "exKo": "우리 개는 늙어서 곧 세상을 떠날지도 몰라."
+    },
+    {
+      "en": "set off",
+      "ko": "출발하다",
+      "pos": "구동사",
+      "ex": "We set off at six in the morning.",
+      "exKo": "우리는 아침 여섯 시에 출발했어."
+    },
+    {
+      "en": "break out",
+      "ko": "발생하다",
+      "pos": "구동사",
+      "ex": "A fire might break out in dry weather.",
+      "exKo": "건조한 날씨에는 불이 날 수 있어."
+    },
+    {
+      "en": "fix a bike",
+      "ko": "자전거를 고치다",
+      "pos": "표현",
+      "ex": "My dad can fix a bike.",
+      "exKo": "우리 아빠는 자전거를 고칠 수 있어."
+    }
+  ]
+}

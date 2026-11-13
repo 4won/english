@@ -1,0 +1,2132 @@
+{
+ "1": [
+  {
+   "en": "abandon",
+   "ko": "버리다, 포기하다",
+   "pos": "동사",
+   "ex": "The company decided to abandon the project after months of losses.",
+   "exKo": "회사는 몇 달간의 손실 끝에 그 프로젝트를 포기하기로 했다."
+  },
+  {
+   "en": "acquire",
+   "ko": "획득하다, 인수하다",
+   "pos": "동사",
+   "ex": "The firm plans to acquire a smaller rival by the end of the year.",
+   "exKo": "그 회사는 올해 말까지 더 작은 경쟁사를 인수할 계획이다."
+  },
+  {
+   "en": "adapt",
+   "ko": "적응하다, 맞추다",
+   "pos": "동사",
+   "ex": "Businesses must adapt quickly to changing consumer habits.",
+   "exKo": "기업은 변화하는 소비 습관에 빠르게 적응해야 한다."
+  },
+  {
+   "en": "adopt",
+   "ko": "채택하다, 입양하다",
+   "pos": "동사",
+   "ex": "The city council voted to adopt a new recycling policy.",
+   "exKo": "시의회는 새로운 재활용 정책을 채택하기로 표결했다."
+  },
+  {
+   "en": "anticipate",
+   "ko": "예상하다, 기대하다",
+   "pos": "동사",
+   "ex": "Analysts anticipate a sharp rise in oil prices next quarter.",
+   "exKo": "분석가들은 다음 분기에 유가가 급등할 것으로 예상한다."
+  },
+  {
+   "en": "assist",
+   "ko": "돕다, 지원하다",
+   "pos": "동사",
+   "ex": "Volunteers assist the staff in handling thousands of calls every day.",
+   "exKo": "자원봉사자들이 직원들이 매일 수천 통의 전화를 처리하는 것을 돕는다."
+  },
+  {
+   "en": "cope",
+   "ko": "대처하다, 감당하다",
+   "pos": "동사",
+   "ex": "Many small shops struggle to cope with rising rents.",
+   "exKo": "많은 작은 가게들이 치솟는 임대료를 감당하느라 애쓰고 있다."
+  },
+  {
+   "en": "depict",
+   "ko": "묘사하다, 그리다",
+   "pos": "동사",
+   "ex": "The documentary aims to depict the daily lives of rural farmers.",
+   "exKo": "그 다큐멘터리는 시골 농부들의 일상을 그려 낸다."
+  },
+  {
+   "en": "devote",
+   "ko": "바치다, 쏟다",
+   "pos": "동사",
+   "ex": "She decided to devote her career to improving public health.",
+   "exKo": "그녀는 자신의 경력을 공중보건 개선에 바치기로 결심했다."
+  },
+  {
+   "en": "distinguish",
+   "ko": "구별하다, 식별하다",
+   "pos": "동사",
+   "ex": "It is hard to distinguish genuine reviews from fake ones online.",
+   "exKo": "온라인에서 진짜 후기와 가짜 후기를 구별하기는 어렵다."
+  },
+  {
+   "en": "eliminate",
+   "ko": "없애다, 제거하다",
+   "pos": "동사",
+   "ex": "The new system could eliminate hundreds of manual tasks.",
+   "exKo": "새 시스템은 수백 가지 수작업을 없앨 수 있다."
+  },
+  {
+   "en": "enhance",
+   "ko": "높이다, 향상시키다",
+   "pos": "동사",
+   "ex": "The upgrade should enhance the speed and security of the network.",
+   "exKo": "이번 업그레이드는 네트워크의 속도와 보안을 높여 줄 것이다."
+  },
+  {
+   "en": "ensure",
+   "ko": "보장하다, 확실히 하다",
+   "pos": "동사",
+   "ex": "Managers must ensure that every employee follows the safety rules.",
+   "exKo": "관리자는 모든 직원이 안전 수칙을 따르도록 확실히 해야 한다."
+  },
+  {
+   "en": "expand",
+   "ko": "확장하다, 확대하다",
+   "pos": "동사",
+   "ex": "The retailer plans to expand into several overseas markets.",
+   "exKo": "그 소매업체는 여러 해외 시장으로 사업을 확장할 계획이다."
+  },
+  {
+   "en": "found",
+   "ko": "설립하다, 창립하다",
+   "pos": "동사",
+   "ex": "He used his savings to found a software company in his twenties.",
+   "exKo": "그는 20대에 저축한 돈으로 소프트웨어 회사를 설립했다."
+  },
+  {
+   "en": "inherit",
+   "ko": "물려받다, 상속받다",
+   "pos": "동사",
+   "ex": "She will inherit the family business when her father retires.",
+   "exKo": "그녀는 아버지가 은퇴하면 가업을 물려받을 것이다."
+  },
+  {
+   "en": "justify",
+   "ko": "정당화하다, 타당함을 보여주다",
+   "pos": "동사",
+   "ex": "The results do not justify such a huge investment.",
+   "exKo": "그 결과는 그렇게 막대한 투자를 정당화하지 못한다."
+  },
+  {
+   "en": "locate",
+   "ko": "위치를 찾다, 소재를 파악하다",
+   "pos": "동사",
+   "ex": "Rescue teams are still trying to locate the missing hikers.",
+   "exKo": "구조대는 아직도 실종된 등산객들의 위치를 찾으려 애쓰고 있다."
+  },
+  {
+   "en": "pursue",
+   "ko": "추구하다, 추진하다",
+   "pos": "동사",
+   "ex": "Many graduates pursue careers in technology rather than banking.",
+   "exKo": "많은 졸업생이 은행보다는 기술 분야에서 경력을 쌓으려 한다."
+  },
+  {
+   "en": "sacrifice",
+   "ko": "희생하다, 포기하다",
+   "pos": "동사",
+   "ex": "Parents often sacrifice their own comfort for their children's education.",
+   "exKo": "부모는 종종 자녀 교육을 위해 자신의 편안함을 희생한다."
+  }
+ ],
+ "2": [
+  {
+   "en": "accommodate",
+   "ko": "수용하다, 숙박시키다",
+   "pos": "동사",
+   "ex": "The new stadium can accommodate more than fifty thousand fans.",
+   "exKo": "새 경기장은 5만 명이 넘는 팬을 수용할 수 있다."
+  },
+  {
+   "en": "accumulate",
+   "ko": "축적하다, 쌓이다",
+   "pos": "동사",
+   "ex": "Interest will accumulate on the unpaid balance each month.",
+   "exKo": "미납 잔액에는 매달 이자가 쌓인다."
+  },
+  {
+   "en": "accuse",
+   "ko": "비난하다, 고발하다",
+   "pos": "동사",
+   "ex": "Critics accuse the minister of ignoring the warnings.",
+   "exKo": "비평가들은 장관이 경고를 무시했다고 비난한다."
+  },
+  {
+   "en": "acknowledge",
+   "ko": "인정하다, 시인하다",
+   "pos": "동사",
+   "ex": "The company had to acknowledge that the product had a serious flaw.",
+   "exKo": "회사는 마침내 그 제품에 심각한 결함이 있었음을 인정했다."
+  },
+  {
+   "en": "align",
+   "ko": "일치시키다, 정렬하다",
+   "pos": "동사",
+   "ex": "We need to align our sales goals with the overall strategy.",
+   "exKo": "우리는 영업 목표를 전체 전략에 맞춰야 한다."
+  },
+  {
+   "en": "allocate",
+   "ko": "할당하다, 배분하다",
+   "pos": "동사",
+   "ex": "The government will allocate more funds to rural hospitals.",
+   "exKo": "정부는 지방 병원에 더 많은 예산을 배분할 것이다."
+  },
+  {
+   "en": "amend",
+   "ko": "개정하다, 수정하다",
+   "pos": "동사",
+   "ex": "Lawmakers voted to amend the tax law before the deadline.",
+   "exKo": "의원들은 기한 전에 세법을 개정하기로 표결했다."
+  },
+  {
+   "en": "analyze",
+   "ko": "분석하다",
+   "pos": "동사",
+   "ex": "Researchers analyze thousands of customer records to find buying patterns.",
+   "exKo": "연구자들은 구매 패턴을 찾으려고 수천 건의 고객 기록을 분석한다."
+  },
+  {
+   "en": "assure",
+   "ko": "장담하다, 안심시키다",
+   "pos": "동사",
+   "ex": "The manager will assure the clients that the delay would not happen again.",
+   "exKo": "매니저는 고객들에게 그런 지연은 다시 없을 것이라고 장담했다."
+  },
+  {
+   "en": "attain",
+   "ko": "달성하다, 이르다",
+   "pos": "동사",
+   "ex": "The team worked hard to attain its quarterly sales target.",
+   "exKo": "팀은 분기 매출 목표를 달성하기 위해 열심히 일했다."
+  },
+  {
+   "en": "attribute",
+   "ko": "~탓으로 돌리다",
+   "pos": "동사",
+   "ex": "Experts attribute the decline in sales to weak consumer confidence.",
+   "exKo": "전문가들은 매출 감소를 약한 소비자 신뢰 탓으로 돌린다."
+  },
+  {
+   "en": "boost",
+   "ko": "북돋우다, 끌어올리다",
+   "pos": "동사",
+   "ex": "A new advertising campaign helped boost sales by ten percent.",
+   "exKo": "새 광고 캠페인이 매출을 10퍼센트 끌어올리는 데 도움이 되었다."
+  },
+  {
+   "en": "capture",
+   "ko": "포착하다, 사로잡다",
+   "pos": "동사",
+   "ex": "The photo seems to capture the mood of the crowd perfectly.",
+   "exKo": "그 사진은 군중의 분위기를 완벽하게 포착한다."
+  },
+  {
+   "en": "cite",
+   "ko": "인용하다, 언급하다",
+   "pos": "동사",
+   "ex": "The report will cite several studies to support its conclusion.",
+   "exKo": "보고서는 결론을 뒷받침하기 위해 여러 연구를 인용한다."
+  },
+  {
+   "en": "collapse",
+   "ko": "무너지다, 붕괴하다",
+   "pos": "동사",
+   "ex": "Several banks could collapse if the housing market keeps falling.",
+   "exKo": "주택 시장이 계속 하락하면 여러 은행이 무너질 수 있다."
+  },
+  {
+   "en": "commit",
+   "ko": "헌신하다, 약속하다",
+   "pos": "동사",
+   "ex": "The firm promised to commit one million dollars to the research.",
+   "exKo": "그 회사는 연구에 백만 달러를 투입하겠다고 약속했다."
+  },
+  {
+   "en": "compile",
+   "ko": "편집하다, 취합하다",
+   "pos": "동사",
+   "ex": "Our team will compile the survey results into a single report.",
+   "exKo": "우리 팀이 설문 결과를 하나의 보고서로 취합할 것이다."
+  },
+  {
+   "en": "complicate",
+   "ko": "복잡하게 만들다",
+   "pos": "동사",
+   "ex": "Last-minute changes only complicate an already difficult schedule.",
+   "exKo": "막판의 변경은 이미 어려운 일정을 더 복잡하게 만들 뿐이다."
+  },
+  {
+   "en": "encounter",
+   "ko": "맞닥뜨리다, 마주치다",
+   "pos": "동사",
+   "ex": "Travelers may encounter long delays at the border this weekend.",
+   "exKo": "여행객들은 이번 주말 국경에서 긴 지연을 맞닥뜨릴 수 있다."
+  },
+  {
+   "en": "retain",
+   "ko": "유지하다, 보유하다",
+   "pos": "동사",
+   "ex": "The company offers bonuses to retain its most skilled engineers.",
+   "exKo": "회사는 가장 숙련된 엔지니어들을 붙잡아 두기 위해 보너스를 제공한다."
+  }
+ ],
+ "3": [
+  {
+   "en": "ambitious",
+   "ko": "야심 찬, 의욕적인",
+   "pos": "형용사",
+   "ex": "The young founder set an ambitious goal of doubling revenue in a year.",
+   "exKo": "젊은 창업자는 1년 안에 매출을 두 배로 늘리겠다는 야심 찬 목표를 세웠다."
+  },
+  {
+   "en": "arrogant",
+   "ko": "거만한, 오만한",
+   "pos": "형용사",
+   "ex": "Colleagues found the new director arrogant and hard to talk to.",
+   "exKo": "동료들은 새 이사가 거만하고 대화하기 어렵다고 느꼈다."
+  },
+  {
+   "en": "cautious",
+   "ko": "조심스러운, 신중한",
+   "pos": "형용사",
+   "ex": "Investors remain cautious about the outlook for the global economy.",
+   "exKo": "투자자들은 세계 경제 전망에 대해 여전히 신중한 입장이다."
+  },
+  {
+   "en": "competent",
+   "ko": "유능한, 능숙한",
+   "pos": "형용사",
+   "ex": "We are looking for a competent accountant with five years of experience.",
+   "exKo": "우리는 5년 경력의 유능한 회계사를 찾고 있다."
+  },
+  {
+   "en": "considerate",
+   "ko": "배려하는, 사려 깊은",
+   "pos": "형용사",
+   "ex": "He is a considerate boss who always asks about your family.",
+   "exKo": "그는 늘 가족의 안부를 묻는 배려심 깊은 상사다."
+  },
+  {
+   "en": "courteous",
+   "ko": "공손한, 정중한",
+   "pos": "형용사",
+   "ex": "The hotel staff were courteous and helpful throughout our stay.",
+   "exKo": "호텔 직원들은 투숙 내내 공손하고 친절했다."
+  },
+  {
+   "en": "decisive",
+   "ko": "결단력 있는, 결정적인",
+   "pos": "형용사",
+   "ex": "The crisis demanded decisive action from the board of directors.",
+   "exKo": "그 위기는 이사회의 결단력 있는 조치를 요구했다."
+  },
+  {
+   "en": "diligent",
+   "ko": "근면한, 성실한",
+   "pos": "형용사",
+   "ex": "She is a diligent worker who rarely misses a deadline.",
+   "exKo": "그녀는 마감을 거의 놓치지 않는 성실한 직원이다."
+  },
+  {
+   "en": "ethical",
+   "ko": "윤리적인, 도덕적인",
+   "pos": "형용사",
+   "ex": "Many consumers prefer to buy from ethical companies.",
+   "exKo": "많은 소비자는 윤리적인 기업에서 구매하기를 선호한다."
+  },
+  {
+   "en": "generous",
+   "ko": "너그러운, 후한",
+   "pos": "형용사",
+   "ex": "A generous donor gave the hospital two million dollars.",
+   "exKo": "한 후한 기부자가 병원에 200만 달러를 기부했다."
+  },
+  {
+   "en": "humble",
+   "ko": "겸손한, 소박한",
+   "pos": "형용사",
+   "ex": "Despite his success, the chef remains humble and down to earth.",
+   "exKo": "성공했음에도 그 요리사는 여전히 겸손하고 소탈하다."
+  },
+  {
+   "en": "impatient",
+   "ko": "참을성 없는, 조급한",
+   "pos": "형용사",
+   "ex": "Customers grow impatient when the website takes too long to load.",
+   "exKo": "웹사이트 로딩이 너무 오래 걸리면 고객들은 조급해진다."
+  },
+  {
+   "en": "independent",
+   "ko": "독립적인, 자립한",
+   "pos": "형용사",
+   "ex": "An independent committee will review the results of the investigation.",
+   "exKo": "독립 위원회가 조사 결과를 검토할 것이다."
+  },
+  {
+   "en": "insecure",
+   "ko": "불안정한, 자신 없는",
+   "pos": "형용사",
+   "ex": "New employees often feel insecure about their performance at first.",
+   "exKo": "신입 직원들은 처음에는 자신의 성과에 대해 자신 없어 하는 경우가 많다."
+  },
+  {
+   "en": "optimistic",
+   "ko": "낙관적인",
+   "pos": "형용사",
+   "ex": "Executives are optimistic that demand will recover by next spring.",
+   "exKo": "경영진은 수요가 내년 봄까지 회복될 것이라고 낙관한다."
+  },
+  {
+   "en": "pessimistic",
+   "ko": "비관적인",
+   "pos": "형용사",
+   "ex": "Economists are pessimistic about the chances of a quick recovery.",
+   "exKo": "경제학자들은 빠른 회복 가능성에 대해 비관적이다."
+  },
+  {
+   "en": "reserved",
+   "ko": "내성적인, 과묵한",
+   "pos": "형용사",
+   "ex": "He is a reserved man who rarely shares his opinions in meetings.",
+   "exKo": "그는 회의에서 좀처럼 자기 의견을 말하지 않는 과묵한 사람이다."
+  },
+  {
+   "en": "sincere",
+   "ko": "진심 어린, 성실한",
+   "pos": "형용사",
+   "ex": "The mayor offered a sincere apology to the families.",
+   "exKo": "시장은 유가족들에게 진심 어린 사과를 했다."
+  },
+  {
+   "en": "stubborn",
+   "ko": "고집 센, 완강한",
+   "pos": "형용사",
+   "ex": "The union leader was stubborn and refused to change his demands.",
+   "exKo": "노조 위원장은 고집이 세서 요구 사항을 바꾸기를 거부했다."
+  },
+  {
+   "en": "tolerant",
+   "ko": "관대한, 너그럽게 받아들이는",
+   "pos": "형용사",
+   "ex": "A tolerant workplace welcomes people of different backgrounds and views.",
+   "exKo": "관용적인 직장은 다양한 배경과 견해를 가진 사람들을 환영한다."
+  }
+ ],
+ "4": [
+  {
+   "en": "agenda",
+   "ko": "안건, 의제",
+   "pos": "명사",
+   "ex": "The first item on the agenda is next year's budget.",
+   "exKo": "안건의 첫 번째 항목은 내년 예산이다."
+  },
+  {
+   "en": "brochure",
+   "ko": "안내 책자, 소책자",
+   "pos": "명사",
+   "ex": "Please send me a brochure describing your products and prices.",
+   "exKo": "귀사의 제품과 가격이 나와 있는 안내 책자를 보내 주세요."
+  },
+  {
+   "en": "catalog",
+   "ko": "카탈로그, 상품 목록",
+   "pos": "명사",
+   "ex": "The new spring catalog features over two hundred items.",
+   "exKo": "새 봄 카탈로그에는 200여 개의 상품이 실려 있다."
+  },
+  {
+   "en": "conference",
+   "ko": "회의, 학회",
+   "pos": "명사",
+   "ex": "Over three thousand people attended the annual industry conference.",
+   "exKo": "3천 명이 넘는 사람들이 연례 업계 회의에 참석했다."
+  },
+  {
+   "en": "delegate",
+   "ko": "대표, 대의원",
+   "pos": "명사",
+   "ex": "Each country sent a delegate to the trade talks.",
+   "exKo": "각국은 무역 협상에 대표 한 명씩을 보냈다."
+  },
+  {
+   "en": "enterprise",
+   "ko": "기업, 사업체",
+   "pos": "명사",
+   "ex": "Small enterprise owners say the new tax will hurt their business.",
+   "exKo": "소규모 사업체 주인들은 새 세금이 장사에 타격을 줄 것이라고 말한다."
+  },
+  {
+   "en": "exhibit",
+   "ko": "전시품, 전시회",
+   "pos": "명사",
+   "ex": "The most popular exhibit at the museum is the dinosaur skeleton.",
+   "exKo": "박물관에서 가장 인기 있는 전시품은 공룡 골격이다."
+  },
+  {
+   "en": "headquarters",
+   "ko": "본사, 본부",
+   "pos": "명사",
+   "ex": "The company moved its headquarters to a larger building downtown.",
+   "exKo": "회사는 본사를 시내의 더 큰 건물로 옮겼다."
+  },
+  {
+   "en": "inventory",
+   "ko": "재고, 재고 목록",
+   "pos": "명사",
+   "ex": "The store is clearing its winter inventory with big discounts.",
+   "exKo": "그 매장은 큰 폭의 할인으로 겨울 재고를 처분하고 있다."
+  },
+  {
+   "en": "logistics",
+   "ko": "물류",
+   "pos": "명사",
+   "ex": "Rising fuel costs have made logistics more expensive for exporters.",
+   "exKo": "연료비 상승으로 수출업체들의 물류 비용이 더 비싸졌다."
+  },
+  {
+   "en": "merger",
+   "ko": "합병",
+   "pos": "명사",
+   "ex": "Regulators are reviewing the merger of the two largest airlines.",
+   "exKo": "규제 당국은 두 대형 항공사의 합병을 검토하고 있다."
+  },
+  {
+   "en": "negotiation",
+   "ko": "협상, 교섭",
+   "pos": "명사",
+   "ex": "The contract is still under negotiation between the two sides.",
+   "exKo": "그 계약은 양측 간에 아직 협상 중이다."
+  },
+  {
+   "en": "outlet",
+   "ko": "판매점, 아울렛",
+   "pos": "명사",
+   "ex": "The brand opened a new factory outlet near the highway.",
+   "exKo": "그 브랜드는 고속도로 근처에 새 공장형 아울렛을 열었다."
+  },
+  {
+   "en": "presentation",
+   "ko": "발표, 프레젠테이션",
+   "pos": "명사",
+   "ex": "She gave a clear presentation on the company's financial results.",
+   "exKo": "그녀는 회사의 재무 실적에 대해 명확하게 발표했다."
+  },
+  {
+   "en": "procedure",
+   "ko": "절차, 순서",
+   "pos": "명사",
+   "ex": "Employees must follow the standard procedure for reporting expenses.",
+   "exKo": "직원들은 경비 보고에 관한 표준 절차를 따라야 한다."
+  },
+  {
+   "en": "proposal",
+   "ko": "제안, 제안서",
+   "pos": "명사",
+   "ex": "The board rejected the proposal to cut the dividend.",
+   "exKo": "이사회는 배당금을 줄이자는 제안을 거부했다."
+  },
+  {
+   "en": "quota",
+   "ko": "할당량, 쿼터",
+   "pos": "명사",
+   "ex": "Sales staff must meet a monthly quota to earn their bonus.",
+   "exKo": "영업 직원은 보너스를 받으려면 월 할당량을 채워야 한다."
+  },
+  {
+   "en": "revenue",
+   "ko": "매출, 수익",
+   "pos": "명사",
+   "ex": "Annual revenue rose by eight percent compared with last year.",
+   "exKo": "연간 매출은 작년보다 8퍼센트 증가했다."
+  },
+  {
+   "en": "subsidiary",
+   "ko": "자회사",
+   "pos": "명사",
+   "ex": "The firm sold its European subsidiary to a rival for cash.",
+   "exKo": "그 회사는 유럽 자회사를 경쟁사에 현금으로 매각했다."
+  },
+  {
+   "en": "franchise",
+   "ko": "프랜차이즈, 가맹점",
+   "pos": "명사",
+   "ex": "He bought a coffee franchise with money from his savings.",
+   "exKo": "그는 저축한 돈으로 커피 프랜차이즈를 인수했다."
+  }
+ ],
+ "5": [
+  {
+   "en": "abundant",
+   "ko": "풍부한, 많은",
+   "pos": "형용사",
+   "ex": "The region has abundant sunshine and cheap land for solar farms.",
+   "exKo": "그 지역은 햇빛이 풍부하고 땅값이 싸서 태양광 발전소에 적합하다."
+  },
+  {
+   "en": "acute",
+   "ko": "심각한, 급성의",
+   "pos": "형용사",
+   "ex": "The country faces an acute shortage of skilled nurses.",
+   "exKo": "그 나라는 숙련된 간호사의 심각한 부족에 직면해 있다."
+  },
+  {
+   "en": "adjacent",
+   "ko": "인접한, 이웃한",
+   "pos": "형용사",
+   "ex": "The new office is adjacent to the main train station.",
+   "exKo": "새 사무실은 중앙역에 인접해 있다."
+  },
+  {
+   "en": "ample",
+   "ko": "충분한, 넉넉한",
+   "pos": "형용사",
+   "ex": "There is ample parking for visitors behind the building.",
+   "exKo": "건물 뒤에 방문객을 위한 주차 공간이 넉넉하다."
+  },
+  {
+   "en": "apparent",
+   "ko": "명백한, 분명한",
+   "pos": "형용사",
+   "ex": "It soon became apparent that the plan would not work.",
+   "exKo": "그 계획이 효과가 없으리라는 것이 곧 분명해졌다."
+  },
+  {
+   "en": "authentic",
+   "ko": "진짜의, 진정한",
+   "pos": "형용사",
+   "ex": "Experts confirmed that the painting is an authentic work of the artist.",
+   "exKo": "전문가들은 그 그림이 그 화가의 진품임을 확인했다."
+  },
+  {
+   "en": "bizarre",
+   "ko": "기이한, 이상한",
+   "pos": "형용사",
+   "ex": "Police were puzzled by the bizarre pattern of the burglaries.",
+   "exKo": "경찰은 그 절도 사건들의 기이한 양상에 당혹스러워했다."
+  },
+  {
+   "en": "chronic",
+   "ko": "만성적인, 고질적인",
+   "pos": "형용사",
+   "ex": "Chronic traffic congestion costs the city millions each year.",
+   "exKo": "만성적인 교통 체증으로 그 도시는 해마다 수백만 달러를 손해 본다."
+  },
+  {
+   "en": "coherent",
+   "ko": "일관된, 논리 정연한",
+   "pos": "형용사",
+   "ex": "The party has yet to present a coherent plan for health care.",
+   "exKo": "그 정당은 아직 의료에 대한 일관된 계획을 내놓지 못했다."
+  },
+  {
+   "en": "compact",
+   "ko": "소형의, 간결한",
+   "pos": "형용사",
+   "ex": "The compact design makes the device easy to carry on trips.",
+   "exKo": "소형 디자인 덕분에 그 기기는 여행 중에도 휴대하기 쉽다."
+  },
+  {
+   "en": "crucial",
+   "ko": "중대한, 결정적인",
+   "pos": "형용사",
+   "ex": "Early funding is crucial for any new startup.",
+   "exKo": "초기 자금은 모든 신생 기업에 결정적으로 중요하다."
+  },
+  {
+   "en": "decent",
+   "ko": "괜찮은, 적절한",
+   "pos": "형용사",
+   "ex": "Workers are demanding a decent wage and safe conditions.",
+   "exKo": "노동자들은 적절한 임금과 안전한 근무 환경을 요구하고 있다."
+  },
+  {
+   "en": "distinct",
+   "ko": "뚜렷한, 별개의",
+   "pos": "형용사",
+   "ex": "The two products target distinct groups of customers.",
+   "exKo": "두 제품은 서로 별개의 고객층을 겨냥한다."
+  },
+  {
+   "en": "dominant",
+   "ko": "지배적인, 우세한",
+   "pos": "형용사",
+   "ex": "The firm holds a dominant position in the online payment market.",
+   "exKo": "그 회사는 온라인 결제 시장에서 지배적인 위치를 차지하고 있다."
+  },
+  {
+   "en": "drastic",
+   "ko": "과감한, 극단적인",
+   "pos": "형용사",
+   "ex": "The airline took drastic measures to cut costs during the crisis.",
+   "exKo": "그 항공사는 위기 동안 비용을 줄이려고 극단적인 조치를 취했다."
+  },
+  {
+   "en": "evident",
+   "ko": "분명한, 눈에 띄는",
+   "pos": "형용사",
+   "ex": "The effects of the drought are evident across the countryside.",
+   "exKo": "가뭄의 영향은 시골 전역에서 뚜렷이 드러난다."
+  },
+  {
+   "en": "explicit",
+   "ko": "명시적인, 노골적인",
+   "pos": "형용사",
+   "ex": "The contract gives explicit instructions on how to cancel the service.",
+   "exKo": "계약서에는 서비스 해지 방법이 명시적으로 안내되어 있다."
+  },
+  {
+   "en": "extensive",
+   "ko": "광범위한, 대규모의",
+   "pos": "형용사",
+   "ex": "The storm caused extensive damage to homes along the coast.",
+   "exKo": "폭풍은 해안가 주택들에 광범위한 피해를 입혔다."
+  },
+  {
+   "en": "fundamental",
+   "ko": "근본적인, 기본적인",
+   "pos": "형용사",
+   "ex": "The two sides disagree on a fundamental question of fairness.",
+   "exKo": "양측은 공정성이라는 근본적인 문제에 대해 의견이 다르다."
+  },
+  {
+   "en": "grim",
+   "ko": "암울한, 엄혹한",
+   "pos": "형용사",
+   "ex": "The latest jobs report paints a grim picture of the economy.",
+   "exKo": "최근 고용 보고서는 경제에 대한 암울한 그림을 보여 준다."
+  }
+ ],
+ "6": [
+  {
+   "en": "aggression",
+   "ko": "공격성, 침략 행위",
+   "pos": "명사",
+   "ex": "The council condemned the aggression and called for talks.",
+   "exKo": "위원회는 그 침략 행위를 규탄하며 대화를 촉구했다."
+  },
+  {
+   "en": "alliance",
+   "ko": "동맹, 연합",
+   "pos": "명사",
+   "ex": "The two airlines formed an alliance to share routes and customers.",
+   "exKo": "두 항공사는 노선과 고객을 공유하기 위해 제휴를 맺었다."
+  },
+  {
+   "en": "bureaucracy",
+   "ko": "관료제, 관료주의",
+   "pos": "명사",
+   "ex": "Entrepreneurs complain that excessive bureaucracy slows down new projects.",
+   "exKo": "기업가들은 지나친 관료주의가 새 사업의 속도를 늦춘다고 불평한다."
+  },
+  {
+   "en": "coalition",
+   "ko": "연립 정부, 연합체",
+   "pos": "명사",
+   "ex": "The coalition collapsed after a dispute over the national budget.",
+   "exKo": "그 연립 정부는 국가 예산을 둘러싼 갈등 끝에 무너졌다."
+  },
+  {
+   "en": "collaboration",
+   "ko": "협업, 공동 작업",
+   "pos": "명사",
+   "ex": "The new drug is the result of close collaboration between two labs.",
+   "exKo": "그 신약은 두 연구소의 긴밀한 협업의 결과물이다."
+  },
+  {
+   "en": "compromise",
+   "ko": "타협, 절충",
+   "pos": "명사",
+   "ex": "After hours of talks, both sides finally reached a compromise.",
+   "exKo": "몇 시간의 협의 끝에 양측은 마침내 타협에 이르렀다."
+  },
+  {
+   "en": "confrontation",
+   "ko": "대치, 대립",
+   "pos": "명사",
+   "ex": "Police tried to avoid a direct confrontation with the protesters.",
+   "exKo": "경찰은 시위대와의 정면 대치를 피하려 했다."
+  },
+  {
+   "en": "consensus",
+   "ko": "합의, 의견 일치",
+   "pos": "명사",
+   "ex": "There is no consensus among economists about the cause of inflation.",
+   "exKo": "인플레이션의 원인에 대해 경제학자들 사이에 합의된 의견은 없다."
+  },
+  {
+   "en": "controversy",
+   "ko": "논란, 논쟁거리",
+   "pos": "명사",
+   "ex": "The new policy has sparked controversy across the country.",
+   "exKo": "새 정책은 전국적으로 논란을 불러일으켰다."
+  },
+  {
+   "en": "debate",
+   "ko": "토론, 논의",
+   "pos": "명사",
+   "ex": "The candidates will meet for a televised debate on Thursday.",
+   "exKo": "후보들은 목요일에 TV 토론회에서 맞붙는다."
+  },
+  {
+   "en": "delegation",
+   "ko": "대표단, 위임",
+   "pos": "명사",
+   "ex": "A delegation of business leaders will visit the capital next month.",
+   "exKo": "기업인 대표단이 다음 달 수도를 방문할 것이다."
+  },
+  {
+   "en": "dispute",
+   "ko": "분쟁, 다툼",
+   "pos": "명사",
+   "ex": "A long labor dispute forced the factory to close for two weeks.",
+   "exKo": "긴 노사 분쟁 때문에 공장은 2주간 문을 닫아야 했다."
+  },
+  {
+   "en": "diversity",
+   "ko": "다양성",
+   "pos": "명사",
+   "ex": "The company is working to increase diversity among its managers.",
+   "exKo": "그 회사는 관리자층의 다양성을 높이기 위해 노력하고 있다."
+  },
+  {
+   "en": "ethnic",
+   "ko": "민족의, 인종의",
+   "pos": "형용사",
+   "ex": "The city is home to many ethnic communities and restaurants.",
+   "exKo": "그 도시에는 여러 민족 공동체와 식당이 있다."
+  },
+  {
+   "en": "hostility",
+   "ko": "적대감, 적의",
+   "pos": "명사",
+   "ex": "The proposal was met with open hostility from local residents.",
+   "exKo": "그 제안은 지역 주민들의 노골적인 적대감에 부딪혔다."
+  },
+  {
+   "en": "inequality",
+   "ko": "불평등, 격차",
+   "pos": "명사",
+   "ex": "Income inequality has grown steadily over the past decade.",
+   "exKo": "소득 불평등은 지난 10년간 꾸준히 커졌다."
+  },
+  {
+   "en": "minority",
+   "ko": "소수, 소수 집단",
+   "pos": "명사",
+   "ex": "Only a small minority of voters supported the change.",
+   "exKo": "유권자 중 소수만이 그 변화를 지지했다."
+  },
+  {
+   "en": "negotiate",
+   "ko": "협상하다, 교섭하다",
+   "pos": "동사",
+   "ex": "Union leaders will negotiate with management over pay and hours.",
+   "exKo": "노조 지도부는 임금과 근로 시간을 두고 경영진과 협상할 것이다."
+  },
+  {
+   "en": "prejudice",
+   "ko": "편견, 선입견",
+   "pos": "명사",
+   "ex": "Older job seekers often face prejudice from employers.",
+   "exKo": "나이 든 구직자들은 종종 고용주의 편견에 직면한다."
+  },
+  {
+   "en": "tolerance",
+   "ko": "관용, 내성",
+   "pos": "명사",
+   "ex": "The school promotes tolerance and respect among its students.",
+   "exKo": "그 학교는 학생들 사이에 관용과 존중을 장려한다."
+  }
+ ],
+ "7": [
+  {
+   "en": "aftermath",
+   "ko": "여파, 후유증",
+   "pos": "명사",
+   "ex": "Rebuilding continued for years in the aftermath of the earthquake.",
+   "exKo": "지진의 여파로 재건 작업이 수년간 이어졌다."
+  },
+  {
+   "en": "catastrophe",
+   "ko": "재앙, 대참사",
+   "pos": "명사",
+   "ex": "Scientists warn that inaction could lead to an environmental catastrophe.",
+   "exKo": "과학자들은 아무 조치도 취하지 않으면 환경 재앙으로 이어질 수 있다고 경고한다."
+  },
+  {
+   "en": "climate",
+   "ko": "기후",
+   "pos": "명사",
+   "ex": "Rising temperatures are changing the climate of the entire region.",
+   "exKo": "기온 상승이 그 지역 전체의 기후를 바꾸고 있다."
+  },
+  {
+   "en": "contamination",
+   "ko": "오염, 오염 물질",
+   "pos": "명사",
+   "ex": "Officials found contamination in the river near the chemical plant.",
+   "exKo": "당국은 화학 공장 인근 강에서 오염을 발견했다."
+  },
+  {
+   "en": "deforestation",
+   "ko": "삼림 벌채",
+   "pos": "명사",
+   "ex": "Deforestation is destroying the habitat of many rare animals.",
+   "exKo": "삼림 벌채가 많은 희귀 동물의 서식지를 파괴하고 있다."
+  },
+  {
+   "en": "drought",
+   "ko": "가뭄",
+   "pos": "명사",
+   "ex": "A severe drought has cut the wheat harvest by almost half.",
+   "exKo": "극심한 가뭄으로 밀 수확량이 거의 절반으로 줄었다."
+  },
+  {
+   "en": "ecosystem",
+   "ko": "생태계",
+   "pos": "명사",
+   "ex": "Plastic waste is damaging the fragile ecosystem of the coral reef.",
+   "exKo": "플라스틱 쓰레기가 산호초의 취약한 생태계를 해치고 있다."
+  },
+  {
+   "en": "emission",
+   "ko": "배출, 배출물",
+   "pos": "명사",
+   "ex": "The government aims to cut carbon emission by forty percent.",
+   "exKo": "정부는 탄소 배출을 40퍼센트 줄이는 것을 목표로 한다."
+  },
+  {
+   "en": "endangered",
+   "ko": "멸종 위기에 처한",
+   "pos": "형용사",
+   "ex": "The endangered tiger population has slowly begun to recover.",
+   "exKo": "멸종 위기에 처한 호랑이 개체 수가 서서히 회복되기 시작했다."
+  },
+  {
+   "en": "erosion",
+   "ko": "침식, 부식",
+   "pos": "명사",
+   "ex": "Coastal erosion threatens dozens of homes along the cliffs.",
+   "exKo": "해안 침식이 절벽을 따라 늘어선 수십 채의 집을 위협하고 있다."
+  },
+  {
+   "en": "extinction",
+   "ko": "멸종, 소멸",
+   "pos": "명사",
+   "ex": "Hunting pushed the species to the brink of extinction.",
+   "exKo": "사냥으로 그 종은 멸종 직전까지 내몰렸다."
+  },
+  {
+   "en": "famine",
+   "ko": "기근, 대기근",
+   "pos": "명사",
+   "ex": "Aid agencies warn that a famine could spread across the region.",
+   "exKo": "구호 기관들은 기근이 그 지역 전체로 번질 수 있다고 경고한다."
+  },
+  {
+   "en": "fossil",
+   "ko": "화석",
+   "pos": "명사",
+   "ex": "Scientists discovered a rare fossil in a quarry last spring.",
+   "exKo": "과학자들은 지난봄 채석장에서 희귀한 화석을 발견했다."
+  },
+  {
+   "en": "habitat",
+   "ko": "서식지",
+   "pos": "명사",
+   "ex": "New roads have destroyed much of the bird's natural habitat.",
+   "exKo": "새 도로들이 그 새의 자연 서식지 상당 부분을 파괴했다."
+  },
+  {
+   "en": "hazard",
+   "ko": "위험 요소, 위해",
+   "pos": "명사",
+   "ex": "Loose cables in the hallway are a serious safety hazard.",
+   "exKo": "복도에 늘어진 전선은 심각한 안전 위험 요소다."
+  },
+  {
+   "en": "pollution",
+   "ko": "오염, 공해",
+   "pos": "명사",
+   "ex": "Air pollution in the capital reached dangerous levels this week.",
+   "exKo": "이번 주 수도의 대기 오염이 위험한 수준에 이르렀다."
+  },
+  {
+   "en": "preservation",
+   "ko": "보존, 보호",
+   "pos": "명사",
+   "ex": "The group works for the preservation of historic buildings in the city.",
+   "exKo": "그 단체는 도시의 역사적 건축물을 보존하기 위해 활동한다."
+  },
+  {
+   "en": "renewable",
+   "ko": "재생 가능한",
+   "pos": "형용사",
+   "ex": "Renewable energy now supplies a quarter of the country's electricity.",
+   "exKo": "재생 에너지는 이제 그 나라 전력의 4분의 1을 공급한다."
+  },
+  {
+   "en": "sustain",
+   "ko": "지속하다, 떠받치다",
+   "pos": "동사",
+   "ex": "The planet cannot sustain such rapid growth in consumption forever.",
+   "exKo": "지구는 그렇게 빠른 소비 증가를 영원히 지탱할 수 없다."
+  },
+  {
+   "en": "toxic",
+   "ko": "유독한, 독성의",
+   "pos": "형용사",
+   "ex": "Toxic waste from the plant leaked into the nearby stream.",
+   "exKo": "공장에서 나온 유독성 폐기물이 인근 개울로 흘러들었다."
+  }
+ ],
+ "8": [
+  {
+   "en": "apparatus",
+   "ko": "장치, 기구",
+   "pos": "명사",
+   "ex": "Firefighters wore a breathing apparatus to enter the burning building.",
+   "exKo": "소방관들은 불타는 건물에 들어가기 위해 호흡 장치를 착용했다."
+  },
+  {
+   "en": "circuit",
+   "ko": "회로, 순환 경로",
+   "pos": "명사",
+   "ex": "A faulty circuit caused the power failure in the factory.",
+   "exKo": "결함이 있는 회로가 공장 정전의 원인이었다."
+  },
+  {
+   "en": "component",
+   "ko": "부품, 구성 요소",
+   "pos": "명사",
+   "ex": "A shortage of one key component has delayed car production.",
+   "exKo": "핵심 부품 하나가 부족해 자동차 생산이 지연되었다."
+  },
+  {
+   "en": "encrypt",
+   "ko": "암호화하다",
+   "pos": "동사",
+   "ex": "Banks encrypt customer data to protect it from hackers.",
+   "exKo": "은행은 해커로부터 보호하기 위해 고객 정보를 암호화한다."
+  },
+  {
+   "en": "gadget",
+   "ko": "신기한 소형 기기",
+   "pos": "명사",
+   "ex": "He loves to buy every new gadget as soon as it comes out.",
+   "exKo": "그는 새로운 기기가 나오자마자 사는 것을 좋아한다."
+  },
+  {
+   "en": "innovation",
+   "ko": "혁신, 신기술",
+   "pos": "명사",
+   "ex": "The firm owes its success to constant innovation in battery design.",
+   "exKo": "그 회사의 성공은 배터리 설계의 끊임없는 혁신 덕분이다."
+  },
+  {
+   "en": "interface",
+   "ko": "인터페이스, 접점",
+   "pos": "명사",
+   "ex": "The app has a simple interface that older users can learn quickly.",
+   "exKo": "그 앱은 고령 사용자도 빠르게 익힐 수 있는 단순한 인터페이스를 갖췄다."
+  },
+  {
+   "en": "invention",
+   "ko": "발명, 발명품",
+   "pos": "명사",
+   "ex": "The invention of the printing press changed how information spread.",
+   "exKo": "인쇄술의 발명은 정보가 퍼지는 방식을 바꿔 놓았다."
+  },
+  {
+   "en": "prototype",
+   "ko": "시제품, 원형",
+   "pos": "명사",
+   "ex": "Engineers will test the prototype on real roads next month.",
+   "exKo": "엔지니어들은 다음 달 실제 도로에서 시제품을 시험할 것이다."
+  },
+  {
+   "en": "robotics",
+   "ko": "로봇 공학",
+   "pos": "명사",
+   "ex": "She studied robotics before joining a warehouse automation startup.",
+   "exKo": "그녀는 로봇 공학을 공부한 뒤 물류 자동화 스타트업에 입사했다."
+  },
+  {
+   "en": "sensor",
+   "ko": "센서, 감지기",
+   "pos": "명사",
+   "ex": "A small sensor detects when the temperature drops below zero.",
+   "exKo": "작은 센서가 기온이 영하로 떨어지는 것을 감지한다."
+  },
+  {
+   "en": "simulation",
+   "ko": "시뮬레이션, 모의실험",
+   "pos": "명사",
+   "ex": "The pilots trained in a flight simulation before their first real flight.",
+   "exKo": "조종사들은 첫 실제 비행에 앞서 비행 시뮬레이션으로 훈련했다."
+  },
+  {
+   "en": "sophisticated",
+   "ko": "정교한, 세련된",
+   "pos": "형용사",
+   "ex": "Criminals are using increasingly sophisticated methods to steal data.",
+   "exKo": "범죄자들은 점점 더 정교한 방법으로 데이터를 훔치고 있다."
+  },
+  {
+   "en": "surveillance",
+   "ko": "감시, 감시 활동",
+   "pos": "명사",
+   "ex": "Cameras provide round-the-clock surveillance of the parking lot.",
+   "exKo": "카메라가 주차장을 24시간 감시한다."
+  },
+  {
+   "en": "upgrade",
+   "ko": "업그레이드하다, 개선하다",
+   "pos": "동사",
+   "ex": "The airline plans to upgrade its fleet with fuel-efficient planes.",
+   "exKo": "그 항공사는 연료 효율이 높은 항공기로 기단을 업그레이드할 계획이다."
+  },
+  {
+   "en": "virtual",
+   "ko": "가상의, 사실상의",
+   "pos": "형용사",
+   "ex": "More companies now hold virtual meetings instead of flying staff abroad.",
+   "exKo": "이제 더 많은 기업이 직원을 해외로 보내는 대신 가상 회의를 연다."
+  },
+  {
+   "en": "algorithm",
+   "ko": "알고리즘",
+   "pos": "명사",
+   "ex": "The platform's algorithm decides which posts appear in your feed.",
+   "exKo": "그 플랫폼의 알고리즘이 피드에 어떤 게시물이 보일지 결정한다."
+  },
+  {
+   "en": "automation",
+   "ko": "자동화",
+   "pos": "명사",
+   "ex": "Automation has replaced many routine jobs on the assembly line.",
+   "exKo": "자동화가 조립 라인의 많은 단순 업무를 대체했다."
+  },
+  {
+   "en": "blueprint",
+   "ko": "청사진, 설계도",
+   "pos": "명사",
+   "ex": "The report offers a blueprint for rebuilding the local economy.",
+   "exKo": "그 보고서는 지역 경제를 재건하기 위한 청사진을 제시한다."
+  },
+  {
+   "en": "module",
+   "ko": "모듈, 구성 단위",
+   "pos": "명사",
+   "ex": "Each training module takes about thirty minutes to complete.",
+   "exKo": "각 교육 모듈은 이수하는 데 약 30분이 걸린다."
+  }
+ ],
+ "9": [
+  {
+   "en": "accelerate",
+   "ko": "가속하다, 촉진하다",
+   "pos": "동사",
+   "ex": "Low interest rates tend to accelerate economic growth.",
+   "exKo": "저금리는 경제 성장을 가속하는 경향이 있다."
+  },
+  {
+   "en": "advocate",
+   "ko": "옹호하다, 주장하다",
+   "pos": "동사",
+   "ex": "Many doctors advocate a shorter working week to reduce stress.",
+   "exKo": "많은 의사가 스트레스를 줄이기 위해 주 근무 시간 단축을 옹호한다."
+  },
+  {
+   "en": "collaborate",
+   "ko": "협력하다, 공동 작업하다",
+   "pos": "동사",
+   "ex": "The two universities agreed to collaborate on climate research.",
+   "exKo": "두 대학은 기후 연구에서 협력하기로 합의했다."
+  },
+  {
+   "en": "conceive",
+   "ko": "구상하다, 상상하다",
+   "pos": "동사",
+   "ex": "It is hard to conceive how the company could recover from this loss.",
+   "exKo": "그 회사가 이번 손실에서 어떻게 회복할 수 있을지 상상하기 어렵다."
+  },
+  {
+   "en": "contradict",
+   "ko": "모순되다, 반박하다",
+   "pos": "동사",
+   "ex": "The new data contradict the findings of earlier studies.",
+   "exKo": "새 데이터는 이전 연구들의 결과와 모순된다."
+  },
+  {
+   "en": "contribute",
+   "ko": "기여하다, 기부하다",
+   "pos": "동사",
+   "ex": "Tourism continues to contribute billions to the national economy.",
+   "exKo": "관광업은 국가 경제에 계속해서 수십억 달러를 기여하고 있다."
+  },
+  {
+   "en": "convey",
+   "ko": "전달하다, 나타내다",
+   "pos": "동사",
+   "ex": "A good headline should convey the main point in a few words.",
+   "exKo": "좋은 제목은 몇 마디 말로 요점을 전달해야 한다."
+  },
+  {
+   "en": "deduce",
+   "ko": "추론하다, 유추하다",
+   "pos": "동사",
+   "ex": "Investigators could deduce the cause of the fire from the burn marks.",
+   "exKo": "수사관들은 그을린 자국으로 화재 원인을 추론할 수 있었다."
+  },
+  {
+   "en": "demonstrate",
+   "ko": "입증하다, 시연하다",
+   "pos": "동사",
+   "ex": "The study aims to demonstrate that the new method is safe.",
+   "exKo": "이 연구는 새로운 방법이 안전하다는 것을 입증하는 것을 목표로 한다."
+  },
+  {
+   "en": "differentiate",
+   "ko": "구별하다, 차별화하다",
+   "pos": "동사",
+   "ex": "Brands try to differentiate themselves from rivals through design and service.",
+   "exKo": "브랜드들은 디자인과 서비스로 경쟁사와 차별화하려 한다."
+  },
+  {
+   "en": "disclose",
+   "ko": "공개하다, 밝히다",
+   "pos": "동사",
+   "ex": "The firm refused to disclose the terms of the settlement.",
+   "exKo": "그 회사는 합의 조건을 공개하기를 거부했다."
+  },
+  {
+   "en": "dismiss",
+   "ko": "해고하다, 일축하다",
+   "pos": "동사",
+   "ex": "The board voted to dismiss the chief executive over the scandal.",
+   "exKo": "이사회는 스캔들 때문에 최고경영자를 해임하기로 표결했다."
+  },
+  {
+   "en": "enforce",
+   "ko": "집행하다, 시행하다",
+   "pos": "동사",
+   "ex": "Inspectors will enforce the new safety rules starting in January.",
+   "exKo": "감독관들은 1월부터 새 안전 규정을 시행할 것이다."
+  },
+  {
+   "en": "expose",
+   "ko": "폭로하다, 노출시키다",
+   "pos": "동사",
+   "ex": "The investigation helped expose widespread fraud in the industry.",
+   "exKo": "그 조사는 업계에 만연한 사기를 폭로하는 데 도움이 되었다."
+  },
+  {
+   "en": "integrate",
+   "ko": "통합하다, 융합하다",
+   "pos": "동사",
+   "ex": "The company hopes to integrate the two software systems by June.",
+   "exKo": "회사는 6월까지 두 소프트웨어 시스템을 통합하기를 바란다."
+  },
+  {
+   "en": "interpret",
+   "ko": "해석하다, 통역하다",
+   "pos": "동사",
+   "ex": "Economists interpret the weak figures as a sign of slowing demand.",
+   "exKo": "경제학자들은 부진한 수치를 수요 둔화의 신호로 해석한다."
+  },
+  {
+   "en": "interrupt",
+   "ko": "방해하다, 끊다",
+   "pos": "동사",
+   "ex": "Please do not interrupt the speaker until she has finished.",
+   "exKo": "발표자가 끝낼 때까지 말을 끊지 말아 주세요."
+  },
+  {
+   "en": "oversee",
+   "ko": "감독하다, 총괄하다",
+   "pos": "동사",
+   "ex": "A new director will oversee the construction of the bridge.",
+   "exKo": "새 책임자가 다리 건설을 총괄할 것이다."
+  },
+  {
+   "en": "reinforce",
+   "ko": "강화하다, 보강하다",
+   "pos": "동사",
+   "ex": "The latest results reinforce the case for raising interest rates.",
+   "exKo": "최근 결과는 금리 인상의 근거를 더욱 강화한다."
+  },
+  {
+   "en": "restrict",
+   "ko": "제한하다, 규제하다",
+   "pos": "동사",
+   "ex": "The city plans to restrict car traffic in the old town.",
+   "exKo": "시는 구시가지의 자동차 통행을 제한할 계획이다."
+  }
+ ],
+ "10": [
+  {
+   "en": "ally",
+   "ko": "동맹국, 협력자",
+   "pos": "명사",
+   "ex": "The country has long been a close ally of its neighbor.",
+   "exKo": "그 나라는 오랫동안 이웃 나라의 긴밀한 동맹국이었다."
+  },
+  {
+   "en": "assault",
+   "ko": "공격, 폭행",
+   "pos": "명사",
+   "ex": "The army launched a sudden assault on the northern port.",
+   "exKo": "군은 북쪽 항구에 갑작스러운 공격을 개시했다."
+  },
+  {
+   "en": "bomb",
+   "ko": "폭탄",
+   "pos": "명사",
+   "ex": "Police safely removed a bomb found near the train station.",
+   "exKo": "경찰은 기차역 근처에서 발견된 폭탄을 안전하게 제거했다."
+  },
+  {
+   "en": "combat",
+   "ko": "전투, 싸움",
+   "pos": "명사",
+   "ex": "Many soldiers returned from combat with serious injuries.",
+   "exKo": "많은 군인이 심각한 부상을 입은 채 전투에서 돌아왔다."
+  },
+  {
+   "en": "defend",
+   "ko": "방어하다, 옹호하다",
+   "pos": "동사",
+   "ex": "Troops were ordered to defend the bridge at all costs.",
+   "exKo": "병력은 어떤 대가를 치르더라도 다리를 방어하라는 명령을 받았다."
+  },
+  {
+   "en": "defeat",
+   "ko": "패배시키다, 물리치다",
+   "pos": "동사",
+   "ex": "The opposition hopes to defeat the government in next month's vote.",
+   "exKo": "야당은 다음 달 표결에서 정부를 패배시키기를 바란다."
+  },
+  {
+   "en": "enemy",
+   "ko": "적, 적군",
+   "pos": "명사",
+   "ex": "The enemy forces retreated after two days of heavy fighting.",
+   "exKo": "적군은 이틀간의 격전 끝에 후퇴했다."
+  },
+  {
+   "en": "invade",
+   "ko": "침략하다, 침입하다",
+   "pos": "동사",
+   "ex": "The army threatened to invade if talks failed.",
+   "exKo": "군은 협상이 실패하면 침공하겠다고 위협했다."
+  },
+  {
+   "en": "military",
+   "ko": "군대, 군사의",
+   "pos": "명사",
+   "ex": "The military has played a major role in the country's politics.",
+   "exKo": "군부는 그 나라 정치에서 중대한 역할을 해 왔다."
+  },
+  {
+   "en": "occupy",
+   "ko": "점령하다, 차지하다",
+   "pos": "동사",
+   "ex": "Rebel forces continue to occupy several towns in the east.",
+   "exKo": "반군은 동부의 여러 마을을 계속 점령하고 있다."
+  },
+  {
+   "en": "retreat",
+   "ko": "후퇴하다, 물러나다",
+   "pos": "동사",
+   "ex": "The troops had to retreat when supplies ran out.",
+   "exKo": "보급품이 바닥나자 부대는 후퇴해야 했다."
+  },
+  {
+   "en": "siege",
+   "ko": "포위, 포위 공격",
+   "pos": "명사",
+   "ex": "The city survived a siege that lasted nearly a year.",
+   "exKo": "그 도시는 거의 1년간 이어진 포위 공격을 견뎌 냈다."
+  },
+  {
+   "en": "strategy",
+   "ko": "전략",
+   "pos": "명사",
+   "ex": "The company unveiled a new strategy to attract younger customers.",
+   "exKo": "회사는 젊은 고객을 끌어들이기 위한 새 전략을 공개했다."
+  },
+  {
+   "en": "surrender",
+   "ko": "항복하다, 넘겨주다",
+   "pos": "동사",
+   "ex": "The soldiers chose to surrender rather than face certain defeat.",
+   "exKo": "병사들은 확실한 패배를 맞느니 항복하기로 했다."
+  },
+  {
+   "en": "tactic",
+   "ko": "전술, 책략",
+   "pos": "명사",
+   "ex": "Delaying the vote is a tactic the party has used before.",
+   "exKo": "표결을 미루는 것은 그 정당이 전에도 써 온 전술이다."
+  },
+  {
+   "en": "terror",
+   "ko": "공포, 테러",
+   "pos": "명사",
+   "ex": "Residents lived in terror during the weeks of bombing.",
+   "exKo": "주민들은 폭격이 이어진 몇 주 동안 공포 속에 살았다."
+  },
+  {
+   "en": "threat",
+   "ko": "위협, 협박",
+   "pos": "명사",
+   "ex": "Officials say the virus poses a serious threat to public health.",
+   "exKo": "당국은 그 바이러스가 공중보건에 심각한 위협이 된다고 말한다."
+  },
+  {
+   "en": "troops",
+   "ko": "병력, 군대",
+   "pos": "명사",
+   "ex": "More troops arrived at the border early on Monday.",
+   "exKo": "월요일 아침 일찍 더 많은 병력이 국경에 도착했다."
+  },
+  {
+   "en": "violence",
+   "ko": "폭력, 폭행",
+   "pos": "명사",
+   "ex": "Leaders called for calm after a night of violence in the capital.",
+   "exKo": "지도자들은 수도에서 하룻밤 폭력 사태가 벌어진 뒤 침착할 것을 촉구했다."
+  },
+  {
+   "en": "warfare",
+   "ko": "전쟁, 전투 행위",
+   "pos": "명사",
+   "ex": "Modern warfare relies heavily on drones and cyber attacks.",
+   "exKo": "현대 전쟁은 드론과 사이버 공격에 크게 의존한다."
+  }
+ ],
+ "11": [
+  {
+   "en": "affordable",
+   "ko": "가격이 적당한, 부담 없는",
+   "pos": "형용사",
+   "ex": "The startup sells affordable electric bikes to city commuters.",
+   "exKo": "그 스타트업은 도시 통근자들에게 합리적인 가격의 전기 자전거를 판매한다."
+  },
+  {
+   "en": "aggressive",
+   "ko": "공격적인, 적극적인",
+   "pos": "형용사",
+   "ex": "The company launched an aggressive campaign to win new customers.",
+   "exKo": "회사는 신규 고객을 확보하기 위해 공격적인 캠페인을 시작했다."
+  },
+  {
+   "en": "amateur",
+   "ko": "아마추어의, 비전문가의",
+   "pos": "형용사",
+   "ex": "The film was shot by an amateur photographer on a small budget.",
+   "exKo": "그 영화는 아마추어 사진가가 적은 예산으로 촬영했다."
+  },
+  {
+   "en": "annual",
+   "ko": "연례의, 해마다의",
+   "pos": "형용사",
+   "ex": "The firm will publish its annual report in early March.",
+   "exKo": "그 회사는 3월 초에 연차 보고서를 발표할 것이다."
+  },
+  {
+   "en": "beneficial",
+   "ko": "유익한, 이로운",
+   "pos": "형용사",
+   "ex": "The new trade deal should be beneficial to both countries.",
+   "exKo": "새 무역 협정은 양국 모두에 이로울 것이다."
+  },
+  {
+   "en": "brilliant",
+   "ko": "훌륭한, 눈부신",
+   "pos": "형용사",
+   "ex": "She came up with a brilliant solution to the supply problem.",
+   "exKo": "그녀는 공급 문제에 대한 훌륭한 해결책을 내놓았다."
+  },
+  {
+   "en": "commercial",
+   "ko": "상업적인, 상업의",
+   "pos": "형용사",
+   "ex": "The drug is not yet available for commercial use.",
+   "exKo": "그 약은 아직 상업적으로 사용할 수 없다."
+  },
+  {
+   "en": "competitive",
+   "ko": "경쟁력 있는, 경쟁적인",
+   "pos": "형용사",
+   "ex": "The firm offers competitive salaries to attract top graduates.",
+   "exKo": "그 회사는 우수한 졸업생을 끌어들이기 위해 경쟁력 있는 급여를 제시한다."
+  },
+  {
+   "en": "conventional",
+   "ko": "기존의, 관습적인",
+   "pos": "형용사",
+   "ex": "Electric cars are cheaper to run than conventional ones.",
+   "exKo": "전기차는 기존 자동차보다 운행 비용이 저렴하다."
+  },
+  {
+   "en": "current",
+   "ko": "현재의, 지금의",
+   "pos": "형용사",
+   "ex": "The current rate of unemployment is the lowest in ten years.",
+   "exKo": "현재 실업률은 10년 만에 가장 낮다."
+  },
+  {
+   "en": "desperate",
+   "ko": "절박한, 필사적인",
+   "pos": "형용사",
+   "ex": "Farmers are desperate for rain after weeks without a drop.",
+   "exKo": "농부들은 몇 주째 비 한 방울 없자 비를 간절히 기다리고 있다."
+  },
+  {
+   "en": "domestic",
+   "ko": "국내의, 가정의",
+   "pos": "형용사",
+   "ex": "Domestic sales fell while exports continued to grow.",
+   "exKo": "수출은 계속 늘었지만 내수 판매는 감소했다."
+  },
+  {
+   "en": "economic",
+   "ko": "경제의, 경제적인",
+   "pos": "형용사",
+   "ex": "The government unveiled an economic plan to create jobs.",
+   "exKo": "정부는 일자리를 만들기 위한 경제 계획을 발표했다."
+  },
+  {
+   "en": "effective",
+   "ko": "효과적인, 유효한",
+   "pos": "형용사",
+   "ex": "Regular meetings are an effective way to keep the team informed.",
+   "exKo": "정기 회의는 팀에 상황을 알리는 효과적인 방법이다."
+  },
+  {
+   "en": "enormous",
+   "ko": "막대한, 거대한",
+   "pos": "형용사",
+   "ex": "The project required an enormous amount of time and money.",
+   "exKo": "그 프로젝트에는 막대한 시간과 돈이 들었다."
+  },
+  {
+   "en": "financial",
+   "ko": "재정의, 금융의",
+   "pos": "형용사",
+   "ex": "The company is facing serious financial difficulties this year.",
+   "exKo": "그 회사는 올해 심각한 재정난에 직면해 있다."
+  },
+  {
+   "en": "fortunate",
+   "ko": "운이 좋은, 다행한",
+   "pos": "형용사",
+   "ex": "We were fortunate to find a buyer before prices dropped.",
+   "exKo": "우리는 가격이 떨어지기 전에 구매자를 찾은 것이 다행이었다."
+  },
+  {
+   "en": "global",
+   "ko": "세계적인, 전 세계의",
+   "pos": "형용사",
+   "ex": "The pandemic had a global impact on trade and travel.",
+   "exKo": "팬데믹은 무역과 여행에 전 세계적인 영향을 미쳤다."
+  },
+  {
+   "en": "ideal",
+   "ko": "이상적인, 완벽한",
+   "pos": "형용사",
+   "ex": "The quiet town is an ideal location for a remote office.",
+   "exKo": "그 조용한 마을은 원격 사무실을 두기에 이상적인 곳이다."
+  },
+  {
+   "en": "influential",
+   "ko": "영향력 있는",
+   "pos": "형용사",
+   "ex": "She is one of the most influential voices in the industry.",
+   "exKo": "그녀는 업계에서 가장 영향력 있는 목소리 중 한 명이다."
+  }
+ ],
+ "12": [
+  {
+   "en": "allowance",
+   "ko": "수당, 용돈",
+   "pos": "명사",
+   "ex": "Employees receive a monthly allowance to cover travel costs.",
+   "exKo": "직원들은 교통비를 충당하기 위해 매달 수당을 받는다."
+  },
+  {
+   "en": "asset",
+   "ko": "자산, 재산",
+   "pos": "명사",
+   "ex": "The bank sold off a major asset to raise cash quickly.",
+   "exKo": "그 은행은 현금을 빠르게 마련하려고 자산 몇 개를 매각했다."
+  },
+  {
+   "en": "auction",
+   "ko": "경매",
+   "pos": "명사",
+   "ex": "The painting sold at auction for more than ten million dollars.",
+   "exKo": "그 그림은 경매에서 1천만 달러 넘는 가격에 팔렸다."
+  },
+  {
+   "en": "bankruptcy",
+   "ko": "파산, 부도",
+   "pos": "명사",
+   "ex": "The retailer filed for bankruptcy after years of falling sales.",
+   "exKo": "그 소매업체는 수년간의 매출 하락 끝에 파산 신청을 했다."
+  },
+  {
+   "en": "commodity",
+   "ko": "상품, 원자재",
+   "pos": "명사",
+   "ex": "Oil remains the world's most heavily traded commodity.",
+   "exKo": "석유는 여전히 세계에서 가장 활발하게 거래되는 원자재다."
+  },
+  {
+   "en": "consumer",
+   "ko": "소비자",
+   "pos": "명사",
+   "ex": "Rising prices are forcing every consumer to cut back on spending.",
+   "exKo": "물가 상승으로 모든 소비자가 지출을 줄이고 있다."
+  },
+  {
+   "en": "deficit",
+   "ko": "적자, 부족액",
+   "pos": "명사",
+   "ex": "The government is struggling to reduce its budget deficit.",
+   "exKo": "정부는 재정 적자를 줄이는 데 애를 먹고 있다."
+  },
+  {
+   "en": "dividend",
+   "ko": "배당금",
+   "pos": "명사",
+   "ex": "Shareholders will receive a dividend of two dollars per share.",
+   "exKo": "주주들은 주당 2달러의 배당금을 받게 된다."
+  },
+  {
+   "en": "economy",
+   "ko": "경제, 절약",
+   "pos": "명사",
+   "ex": "The economy grew more slowly than analysts had expected.",
+   "exKo": "경제는 분석가들의 예상보다 더디게 성장했다."
+  },
+  {
+   "en": "finance",
+   "ko": "재무, 금융",
+   "pos": "명사",
+   "ex": "She works in finance and manages investments for wealthy clients.",
+   "exKo": "그녀는 금융업에 종사하며 부유한 고객들의 투자를 관리한다."
+  },
+  {
+   "en": "inflation",
+   "ko": "인플레이션, 물가 상승",
+   "pos": "명사",
+   "ex": "Inflation has eaten into the savings of retired workers.",
+   "exKo": "물가 상승이 은퇴한 근로자들의 저축을 갉아먹었다."
+  },
+  {
+   "en": "investment",
+   "ko": "투자, 투자금",
+   "pos": "명사",
+   "ex": "The firm announced a major investment in renewable energy.",
+   "exKo": "그 회사는 재생 에너지에 대한 대규모 투자를 발표했다."
+  },
+  {
+   "en": "liability",
+   "ko": "부채, 법적 책임",
+   "pos": "명사",
+   "ex": "The company's debts have become a heavy liability for investors.",
+   "exKo": "그 회사의 빚은 투자자들에게 무거운 부담이 되었다."
+  },
+  {
+   "en": "merchant",
+   "ko": "상인, 판매업자",
+   "pos": "명사",
+   "ex": "Small merchant owners are worried about the new card fees.",
+   "exKo": "소상공인들은 새 카드 수수료를 걱정하고 있다."
+  },
+  {
+   "en": "monetary",
+   "ko": "통화의, 금전적인",
+   "pos": "형용사",
+   "ex": "The central bank announced a change in monetary policy.",
+   "exKo": "중앙은행은 통화 정책의 변경을 발표했다."
+  },
+  {
+   "en": "poverty",
+   "ko": "가난, 빈곤",
+   "pos": "명사",
+   "ex": "Millions of children still grow up in poverty.",
+   "exKo": "수백만 명의 아이들이 여전히 가난 속에서 자란다."
+  },
+  {
+   "en": "profitable",
+   "ko": "수익성 있는, 이익이 나는",
+   "pos": "형용사",
+   "ex": "The online division became profitable for the first time this year.",
+   "exKo": "온라인 부문은 올해 처음으로 흑자를 냈다."
+  },
+  {
+   "en": "recession",
+   "ko": "경기 침체",
+   "pos": "명사",
+   "ex": "Many economists fear the country is heading into a recession.",
+   "exKo": "많은 경제학자는 그 나라가 경기 침체로 접어들고 있다고 우려한다."
+  },
+  {
+   "en": "subsidy",
+   "ko": "(정부) 보조금",
+   "pos": "명사",
+   "ex": "Farmers rely on a government subsidy to stay in business.",
+   "exKo": "농민들은 사업을 유지하기 위해 정부 보조금에 의존한다."
+  },
+  {
+   "en": "wealth",
+   "ko": "부, 재산",
+   "pos": "명사",
+   "ex": "The report shows that wealth is concentrated among a few families.",
+   "exKo": "보고서는 부가 소수의 가문에 집중되어 있음을 보여 준다."
+  }
+ ],
+ "13": [
+  {
+   "en": "abnormal",
+   "ko": "비정상적인, 이상한",
+   "pos": "형용사",
+   "ex": "Doctors noticed an abnormal heart rhythm during the test.",
+   "exKo": "의사들은 검사 중 비정상적인 심장 박동을 발견했다."
+  },
+  {
+   "en": "alert",
+   "ko": "경계하는, 기민한",
+   "pos": "형용사",
+   "ex": "Drivers must stay alert on long night trips.",
+   "exKo": "운전자는 긴 야간 주행 중에 정신을 바짝 차리고 있어야 한다."
+  },
+  {
+   "en": "brain",
+   "ko": "뇌, 두뇌",
+   "pos": "명사",
+   "ex": "Regular exercise improves blood flow to the brain.",
+   "exKo": "규칙적인 운동은 뇌로 가는 혈류를 개선한다."
+  },
+  {
+   "en": "cell",
+   "ko": "세포",
+   "pos": "명사",
+   "ex": "Scientists used a single cell to grow a whole new plant.",
+   "exKo": "과학자들은 세포 하나로 완전히 새로운 식물을 키웠다."
+  },
+  {
+   "en": "chemical",
+   "ko": "화학 물질, 화학의",
+   "pos": "명사",
+   "ex": "Workers must wear gloves when handling each chemical in the lab.",
+   "exKo": "실험실에서 화학 물질을 다룰 때는 반드시 장갑을 착용해야 한다."
+  },
+  {
+   "en": "diagnose",
+   "ko": "진단하다",
+   "pos": "동사",
+   "ex": "It can take months to diagnose a rare disease correctly.",
+   "exKo": "희귀 질환을 정확히 진단하는 데는 몇 달이 걸릴 수 있다."
+  },
+  {
+   "en": "disability",
+   "ko": "장애, 신체적 결함",
+   "pos": "명사",
+   "ex": "The law protects workers with a disability from unfair treatment.",
+   "exKo": "그 법은 장애가 있는 근로자를 부당한 대우로부터 보호한다."
+  },
+  {
+   "en": "disease",
+   "ko": "질병, 병",
+   "pos": "명사",
+   "ex": "Heart disease remains a leading cause of death worldwide.",
+   "exKo": "심장 질환은 전 세계에서 여전히 주요 사망 원인이다."
+  },
+  {
+   "en": "gene",
+   "ko": "유전자",
+   "pos": "명사",
+   "ex": "Researchers identified a gene linked to a higher risk of diabetes.",
+   "exKo": "연구자들은 당뇨병 위험을 높이는 것과 관련된 유전자를 찾아냈다."
+  },
+  {
+   "en": "hormone",
+   "ko": "호르몬",
+   "pos": "명사",
+   "ex": "Stress causes the body to release a hormone called cortisol.",
+   "exKo": "스트레스를 받으면 몸에서 코르티솔이라는 호르몬이 분비된다."
+  },
+  {
+   "en": "immune",
+   "ko": "면역의, 면역성이 있는",
+   "pos": "형용사",
+   "ex": "Lack of sleep can weaken your immune system.",
+   "exKo": "수면 부족은 면역 체계를 약하게 만들 수 있다."
+  },
+  {
+   "en": "mental",
+   "ko": "정신의, 마음의",
+   "pos": "형용사",
+   "ex": "Employers are paying more attention to the mental health of staff.",
+   "exKo": "고용주들은 직원들의 정신 건강에 더 많은 관심을 기울이고 있다."
+  },
+  {
+   "en": "nerve",
+   "ko": "신경, 담력",
+   "pos": "명사",
+   "ex": "The injury damaged a nerve in his right shoulder.",
+   "exKo": "그 부상으로 그의 오른쪽 어깨 신경이 손상되었다."
+  },
+  {
+   "en": "obesity",
+   "ko": "비만",
+   "pos": "명사",
+   "ex": "Childhood obesity has risen sharply over the past twenty years.",
+   "exKo": "아동 비만은 지난 20년간 급격히 늘었다."
+  },
+  {
+   "en": "organ",
+   "ko": "장기, 기관",
+   "pos": "명사",
+   "ex": "Thousands of patients are waiting for a donor organ.",
+   "exKo": "수천 명의 환자가 기증 장기를 기다리고 있다."
+  },
+  {
+   "en": "physical",
+   "ko": "신체의, 물리적인",
+   "pos": "형용사",
+   "ex": "The job requires a high level of physical fitness.",
+   "exKo": "그 일은 높은 수준의 체력을 요구한다."
+  },
+  {
+   "en": "psychology",
+   "ko": "심리학, 심리",
+   "pos": "명사",
+   "ex": "She studied psychology to understand how people make decisions.",
+   "exKo": "그녀는 사람들이 어떻게 결정을 내리는지 이해하려고 심리학을 공부했다."
+  },
+  {
+   "en": "tissue",
+   "ko": "조직, 휴지",
+   "pos": "명사",
+   "ex": "Surgeons removed the damaged tissue from the patient's lung.",
+   "exKo": "외과의들은 환자의 폐에서 손상된 조직을 제거했다."
+  },
+  {
+   "en": "nutrient",
+   "ko": "영양소",
+   "pos": "명사",
+   "ex": "Leafy greens are rich in every nutrient the body needs.",
+   "exKo": "잎채소에는 몸에 필요한 영양소가 풍부하다."
+  },
+  {
+   "en": "anatomy",
+   "ko": "해부학, 신체 구조",
+   "pos": "명사",
+   "ex": "Medical students spend their first year learning human anatomy.",
+   "exKo": "의대생들은 첫해에 인체 해부학을 배운다."
+  }
+ ],
+ "14": [
+  {
+   "en": "admire",
+   "ko": "존경하다, 감탄하다",
+   "pos": "동사",
+   "ex": "Many employees admire the founder for her honesty and vision.",
+   "exKo": "많은 직원이 창업자의 정직함과 비전을 존경한다."
+  },
+  {
+   "en": "applaud",
+   "ko": "박수를 보내다, 칭찬하다",
+   "pos": "동사",
+   "ex": "Investors applaud the decision to cut costs and focus on growth.",
+   "exKo": "투자자들은 비용을 줄이고 성장에 집중하기로 한 결정에 박수를 보낸다."
+  },
+  {
+   "en": "appreciate",
+   "ko": "고마워하다, 진가를 알아보다",
+   "pos": "동사",
+   "ex": "I appreciate your quick reply to my request.",
+   "exKo": "제 요청에 빠르게 답해 주셔서 감사합니다."
+  },
+  {
+   "en": "attach",
+   "ko": "첨부하다, 붙이다",
+   "pos": "동사",
+   "ex": "Please attach your resume and a short cover letter to the email.",
+   "exKo": "이메일에 이력서와 짧은 자기소개서를 첨부해 주세요."
+  },
+  {
+   "en": "behave",
+   "ko": "행동하다, 처신하다",
+   "pos": "동사",
+   "ex": "Some customers behave rudely when service is slow.",
+   "exKo": "일부 고객은 서비스가 느리면 무례하게 행동한다."
+  },
+  {
+   "en": "boycott",
+   "ko": "불매 운동을 하다, 보이콧하다",
+   "pos": "동사",
+   "ex": "Activists called on shoppers to boycott the brand over its labor practices.",
+   "exKo": "활동가들은 노동 관행을 문제 삼아 소비자들에게 그 브랜드를 불매하라고 촉구했다."
+  },
+  {
+   "en": "clash",
+   "ko": "충돌하다, 대립하다",
+   "pos": "동사",
+   "ex": "The two leaders often clash over how to handle the budget.",
+   "exKo": "두 지도자는 예산을 어떻게 다룰지를 두고 자주 충돌한다."
+  },
+  {
+   "en": "confess",
+   "ko": "고백하다, 자백하다",
+   "pos": "동사",
+   "ex": "The executive was forced to confess that he had hidden the losses.",
+   "exKo": "그 임원은 손실을 숨겼다고 자백할 수밖에 없었다."
+  },
+  {
+   "en": "despise",
+   "ko": "경멸하다, 몹시 싫어하다",
+   "pos": "동사",
+   "ex": "Most voters despise politicians who break their promises so openly.",
+   "exKo": "유권자들은 약속을 어기는 정치인을 경멸한다."
+  },
+  {
+   "en": "embrace",
+   "ko": "받아들이다, 포옹하다",
+   "pos": "동사",
+   "ex": "Banks were slow to embrace mobile payment technology.",
+   "exKo": "은행들은 모바일 결제 기술을 받아들이는 데 더뎠다."
+  },
+  {
+   "en": "exaggerate",
+   "ko": "과장하다",
+   "pos": "동사",
+   "ex": "It would be wrong to exaggerate the benefits of the plan.",
+   "exKo": "그 계획의 이점을 과장하는 것은 잘못일 것이다."
+  },
+  {
+   "en": "fascinate",
+   "ko": "매료시키다",
+   "pos": "동사",
+   "ex": "The idea of space tourism continues to fascinate the public.",
+   "exKo": "우주 관광이라는 발상은 계속해서 대중을 매료시킨다."
+  },
+  {
+   "en": "grumble",
+   "ko": "투덜대다, 불평하다",
+   "pos": "동사",
+   "ex": "Staff grumble about the long hours but rarely complain openly.",
+   "exKo": "직원들은 긴 근무 시간에 투덜대지만 공개적으로 항의하는 일은 거의 없다."
+  },
+  {
+   "en": "mock",
+   "ko": "조롱하다, 비웃다",
+   "pos": "동사",
+   "ex": "Critics mock the minister for his clumsy handling of the crisis.",
+   "exKo": "비평가들은 위기를 서툴게 처리한 장관을 조롱한다."
+  },
+  {
+   "en": "mourn",
+   "ko": "애도하다, 슬퍼하다",
+   "pos": "동사",
+   "ex": "Thousands gathered to mourn the victims of the accident.",
+   "exKo": "수천 명이 모여 사고 희생자들을 애도했다."
+  },
+  {
+   "en": "overcome",
+   "ko": "극복하다, 이겨 내다",
+   "pos": "동사",
+   "ex": "The small firm managed to overcome a series of setbacks.",
+   "exKo": "그 작은 회사는 잇따른 차질을 극복해 냈다."
+  },
+  {
+   "en": "resent",
+   "ko": "분개하다, 괘씸해하다",
+   "pos": "동사",
+   "ex": "Many workers resent the new rules imposed without any consultation.",
+   "exKo": "많은 근로자가 아무런 협의 없이 부과된 새 규칙에 분개한다."
+  },
+  {
+   "en": "tease",
+   "ko": "놀리다, 약 올리다",
+   "pos": "동사",
+   "ex": "His coworkers like to tease him about his terrible singing.",
+   "exKo": "그의 동료들은 형편없는 노래 실력을 두고 그를 놀리기 좋아한다."
+  },
+  {
+   "en": "cherish",
+   "ko": "소중히 여기다",
+   "pos": "동사",
+   "ex": "Many people cherish the memory of their first job.",
+   "exKo": "많은 사람이 첫 직장의 기억을 소중히 간직한다."
+  },
+  {
+   "en": "undermine",
+   "ko": "훼손하다, 약화시키다",
+   "pos": "동사",
+   "ex": "Constant rumors can undermine trust within a team.",
+   "exKo": "끊이지 않는 소문은 팀 내 신뢰를 훼손할 수 있다."
+  }
+ ],
+ "15": [
+  {
+   "en": "accessible",
+   "ko": "접근하기 쉬운, 이해하기 쉬운",
+   "pos": "형용사",
+   "ex": "The museum is accessible to visitors in wheelchairs.",
+   "exKo": "그 박물관은 휠체어를 탄 방문객도 이용할 수 있다."
+  },
+  {
+   "en": "atmosphere",
+   "ko": "분위기, 대기",
+   "pos": "명사",
+   "ex": "The cafe has a warm and relaxed atmosphere.",
+   "exKo": "그 카페는 따뜻하고 편안한 분위기다."
+  },
+  {
+   "en": "curator",
+   "ko": "큐레이터, 전시 기획자",
+   "pos": "명사",
+   "ex": "The curator spent two years planning the exhibition.",
+   "exKo": "큐레이터는 그 전시를 기획하는 데 2년을 들였다."
+  },
+  {
+   "en": "heritage",
+   "ko": "유산, 전통",
+   "pos": "명사",
+   "ex": "The old harbor was named a national heritage site.",
+   "exKo": "그 오래된 항구는 국가 유산 지구로 지정되었다."
+  },
+  {
+   "en": "illustrate",
+   "ko": "설명하다, 삽화를 넣다",
+   "pos": "동사",
+   "ex": "The chart helps illustrate how prices have changed over time.",
+   "exKo": "그 도표는 시간에 따라 가격이 어떻게 변했는지 설명하는 데 도움이 된다."
+  },
+  {
+   "en": "imagery",
+   "ko": "이미지, 형상화",
+   "pos": "명사",
+   "ex": "The novel is famous for its rich imagery of the sea.",
+   "exKo": "그 소설은 바다에 대한 풍부한 이미지 묘사로 유명하다."
+  },
+  {
+   "en": "literary",
+   "ko": "문학의, 문학적인",
+   "pos": "형용사",
+   "ex": "The book won a major literary prize this year.",
+   "exKo": "그 책은 올해 주요 문학상을 받았다."
+  },
+  {
+   "en": "masterpiece",
+   "ko": "걸작, 명작",
+   "pos": "명사",
+   "ex": "Critics called the film a masterpiece of modern cinema.",
+   "exKo": "비평가들은 그 영화를 현대 영화의 걸작이라고 불렀다."
+  },
+  {
+   "en": "narrative",
+   "ko": "서사, 이야기",
+   "pos": "명사",
+   "ex": "The company is trying to change the narrative about its safety record.",
+   "exKo": "그 회사는 자사의 안전 실적에 관한 이야기를 바꾸려 하고 있다."
+  },
+  {
+   "en": "portrait",
+   "ko": "초상화, 인물 묘사",
+   "pos": "명사",
+   "ex": "The portrait of the founder hangs in the main lobby.",
+   "exKo": "창업자의 초상화가 중앙 로비에 걸려 있다."
+  },
+  {
+   "en": "publish",
+   "ko": "출간하다, 발표하다",
+   "pos": "동사",
+   "ex": "The magazine will publish the full interview next week.",
+   "exKo": "그 잡지는 다음 주에 인터뷰 전문을 싣는다."
+  },
+  {
+   "en": "rhetoric",
+   "ko": "수사, 미사여구",
+   "pos": "명사",
+   "ex": "Voters are tired of empty rhetoric and want real results.",
+   "exKo": "유권자들은 공허한 수사에 지쳤고 실질적인 결과를 원한다."
+  },
+  {
+   "en": "satire",
+   "ko": "풍자",
+   "pos": "명사",
+   "ex": "The show uses satire to poke fun at politicians.",
+   "exKo": "그 프로그램은 풍자를 이용해 정치인들을 조롱한다."
+  },
+  {
+   "en": "symbol",
+   "ko": "상징, 기호",
+   "pos": "명사",
+   "ex": "The old bridge has become a symbol of the city's recovery.",
+   "exKo": "그 오래된 다리는 도시 회복의 상징이 되었다."
+  },
+  {
+   "en": "theme",
+   "ko": "주제, 테마",
+   "pos": "명사",
+   "ex": "The main theme of this year's festival is sustainability.",
+   "exKo": "올해 축제의 주제는 지속 가능성이다."
+  },
+  {
+   "en": "tragedy",
+   "ko": "비극, 참사",
+   "pos": "명사",
+   "ex": "The factory fire was a tragedy that shocked the entire nation.",
+   "exKo": "그 공장 화재는 온 나라에 충격을 준 참사였다."
+  },
+  {
+   "en": "vivid",
+   "ko": "생생한, 선명한",
+   "pos": "형용사",
+   "ex": "The reporter gave a vivid account of the flood.",
+   "exKo": "기자는 홍수 상황을 생생하게 전했다."
+  },
+  {
+   "en": "canvas",
+   "ko": "캔버스, 화폭",
+   "pos": "명사",
+   "ex": "The artist stretched a large canvas across the studio wall.",
+   "exKo": "화가는 작업실 벽면에 커다란 캔버스를 펼쳤다."
+  },
+  {
+   "en": "sculptor",
+   "ko": "조각가",
+   "pos": "명사",
+   "ex": "The sculptor spent three years carving the marble statue.",
+   "exKo": "조각가는 대리석 조각상을 깎는 데 3년을 보냈다."
+  },
+  {
+   "en": "folklore",
+   "ko": "민속, 민간전승",
+   "pos": "명사",
+   "ex": "Many local festivals are rooted in ancient folklore.",
+   "exKo": "많은 지역 축제는 오래된 민간전승에 뿌리를 두고 있다."
+  }
+ ]
+}

@@ -1,0 +1,2132 @@
+{
+  "1": [
+    {
+      "en": "afford",
+      "ko": "~할 여유가 되다",
+      "pos": "동사",
+      "ex": "We simply cannot afford a long vacation this year.",
+      "exKo": "올해는 긴 휴가를 갈 여유가 도저히 없어요."
+    },
+    {
+      "en": "attract",
+      "ko": "끌어들이다, 마음을 끌다",
+      "pos": "동사",
+      "ex": "The new store managed to attract many young customers.",
+      "exKo": "새 매장은 많은 젊은 손님을 끌어들이는 데 성공했어요."
+    },
+    {
+      "en": "earn",
+      "ko": "(돈을) 벌다",
+      "pos": "동사",
+      "ex": "She works hard to earn enough money to support her family.",
+      "exKo": "그녀는 가족을 부양할 만큼 돈을 벌려고 열심히 일해요."
+    },
+    {
+      "en": "enable",
+      "ko": "가능하게 하다",
+      "pos": "동사",
+      "ex": "This new app will enable us to work from anywhere.",
+      "exKo": "이 새 앱 덕분에 우리는 어디서든 일할 수 있게 될 거예요."
+    },
+    {
+      "en": "fit",
+      "ko": "(크기가) 맞다",
+      "pos": "동사",
+      "ex": "This jacket used to fit me, but not anymore.",
+      "exKo": "이 재킷은 예전엔 맞았는데 이제는 안 맞아요."
+    },
+    {
+      "en": "gather",
+      "ko": "모으다, 모이다",
+      "pos": "동사",
+      "ex": "Please gather everyone in the meeting room at noon.",
+      "exKo": "정오에 모두를 회의실로 모아 주세요."
+    },
+    {
+      "en": "guess",
+      "ko": "추측하다",
+      "pos": "동사",
+      "ex": "I guess he is stuck in traffic again.",
+      "exKo": "그 사람이 또 차가 막히나 보네요."
+    },
+    {
+      "en": "injure",
+      "ko": "부상을 입히다",
+      "pos": "동사",
+      "ex": "Be careful not to injure your back when lifting heavy boxes.",
+      "exKo": "무거운 상자를 들 때 허리를 다치지 않게 조심하세요."
+    },
+    {
+      "en": "lack",
+      "ko": "부족하다, 결여되다",
+      "pos": "동사",
+      "ex": "Our team seems to lack experience in this particular area.",
+      "exKo": "우리 팀은 이 특정 분야에서 경험이 부족한 것 같아요."
+    },
+    {
+      "en": "obey",
+      "ko": "복종하다, 따르다",
+      "pos": "동사",
+      "ex": "All drivers must obey the traffic rules in this city.",
+      "exKo": "이 도시의 모든 운전자는 교통 규칙을 따라야 해요."
+    },
+    {
+      "en": "ought",
+      "ko": "~해야 하다",
+      "pos": "동사",
+      "ex": "You ought to see a doctor about that cough.",
+      "exKo": "그 기침은 병원에 가 보는 게 좋겠어요."
+    },
+    {
+      "en": "pretend",
+      "ko": "~인 척하다",
+      "pos": "동사",
+      "ex": "He tried to pretend to be asleep when his boss walked in.",
+      "exKo": "그는 상사가 들어오자 자는 척하려고 했어요."
+    },
+    {
+      "en": "quit",
+      "ko": "그만두다",
+      "pos": "동사",
+      "ex": "She decided to quit her job and travel.",
+      "exKo": "그녀는 직장을 그만두고 여행하기로 했어요."
+    },
+    {
+      "en": "realize",
+      "ko": "깨닫다",
+      "pos": "동사",
+      "ex": "I did not realize I had left my wallet at home.",
+      "exKo": "지갑을 집에 두고 온 줄 몰랐어요."
+    },
+    {
+      "en": "tend",
+      "ko": "~하는 경향이 있다",
+      "pos": "동사",
+      "ex": "People tend to forget names after a single meeting.",
+      "exKo": "사람들은 한 번 만나면 이름을 잊어버리는 경향이 있어요."
+    },
+    {
+      "en": "warn",
+      "ko": "경고하다",
+      "pos": "동사",
+      "ex": "The doctor had to warn him to avoid salty food.",
+      "exKo": "의사는 그에게 짠 음식을 피하라고 경고해야 했어요."
+    },
+    {
+      "en": "rely",
+      "ko": "의지하다, 믿고 의존하다",
+      "pos": "동사",
+      "ex": "You can rely on me to finish the report on time.",
+      "exKo": "보고서를 제때 끝낼 테니 믿으셔도 돼요."
+    },
+    {
+      "en": "shrug",
+      "ko": "어깨를 으쓱하다",
+      "pos": "동사",
+      "ex": "When I asked him why, he could only shrug and smile.",
+      "exKo": "왜냐고 물었더니 그는 어깨를 으쓱하며 웃기만 했어요."
+    },
+    {
+      "en": "urge",
+      "ko": "강력히 촉구하다",
+      "pos": "동사",
+      "ex": "Experts urge people to get a flu shot this winter.",
+      "exKo": "전문가들은 이번 겨울에 독감 예방접종을 맞으라고 강하게 권해요."
+    },
+    {
+      "en": "wander",
+      "ko": "돌아다니다, 헤매다",
+      "pos": "동사",
+      "ex": "We like to wander around the old town for hours.",
+      "exKo": "우리는 구시가지를 몇 시간씩 돌아다니는 걸 좋아해요."
+    }
+  ],
+  "2": [
+    {
+      "en": "appointment",
+      "ko": "(만날) 약속, 예약",
+      "pos": "명사",
+      "ex": "I have a dentist appointment at three o'clock.",
+      "exKo": "3시에 치과 예약이 있어요."
+    },
+    {
+      "en": "bakery",
+      "ko": "빵집",
+      "pos": "명사",
+      "ex": "The bakery on the corner opens at six.",
+      "exKo": "모퉁이에 있는 빵집은 6시에 문을 열어요."
+    },
+    {
+      "en": "barbecue",
+      "ko": "바비큐, 야외 숯불구이",
+      "pos": "명사",
+      "ex": "We are having a barbecue in the backyard on Saturday.",
+      "exKo": "토요일에 뒷마당에서 바비큐 파티를 할 거예요."
+    },
+    {
+      "en": "cafeteria",
+      "ko": "구내식당",
+      "pos": "명사",
+      "ex": "Most of us eat lunch in the company cafeteria.",
+      "exKo": "우리 대부분은 회사 구내식당에서 점심을 먹어요."
+    },
+    {
+      "en": "dormitory",
+      "ko": "기숙사",
+      "pos": "명사",
+      "ex": "She shares a room in the university dormitory.",
+      "exKo": "그녀는 대학 기숙사에서 방을 함께 써요."
+    },
+    {
+      "en": "drugstore",
+      "ko": "약국, 드럭스토어",
+      "pos": "명사",
+      "ex": "Could you pick up some vitamins at the drugstore?",
+      "exKo": "드럭스토어에서 비타민 좀 사다 줄래요?"
+    },
+    {
+      "en": "entrance",
+      "ko": "입구",
+      "pos": "명사",
+      "ex": "Let's meet at the main entrance of the mall.",
+      "exKo": "쇼핑몰 정문 입구에서 만나요."
+    },
+    {
+      "en": "exit",
+      "ko": "출구",
+      "pos": "명사",
+      "ex": "The nearest exit is at the end of the hallway.",
+      "exKo": "가장 가까운 출구는 복도 끝에 있어요."
+    },
+    {
+      "en": "furniture",
+      "ko": "가구",
+      "pos": "명사",
+      "ex": "We bought some new furniture for the living room.",
+      "exKo": "우리는 거실에 놓을 새 가구를 샀어요."
+    },
+    {
+      "en": "laundry",
+      "ko": "빨래, 세탁물",
+      "pos": "명사",
+      "ex": "I need to do the laundry before the weekend.",
+      "exKo": "주말 전에 빨래를 해야 해요."
+    },
+    {
+      "en": "lobby",
+      "ko": "로비",
+      "pos": "명사",
+      "ex": "Please wait for me in the hotel lobby.",
+      "exKo": "호텔 로비에서 기다려 주세요."
+    },
+    {
+      "en": "mall",
+      "ko": "쇼핑몰",
+      "pos": "명사",
+      "ex": "The new mall has more than two hundred shops.",
+      "exKo": "새 쇼핑몰에는 상점이 200개가 넘어요."
+    },
+    {
+      "en": "mattress",
+      "ko": "매트리스",
+      "pos": "명사",
+      "ex": "A good mattress can make a big difference to your sleep.",
+      "exKo": "좋은 매트리스는 수면의 질을 크게 바꿔 줄 수 있어요."
+    },
+    {
+      "en": "neighborhood",
+      "ko": "동네, 이웃",
+      "pos": "명사",
+      "ex": "It is a quiet neighborhood with a lot of parks.",
+      "exKo": "공원이 많은 조용한 동네예요."
+    },
+    {
+      "en": "parking",
+      "ko": "주차",
+      "pos": "명사",
+      "ex": "Free parking is available for all customers on weekends.",
+      "exKo": "주말에는 모든 고객에게 무료 주차가 제공돼요."
+    },
+    {
+      "en": "pavement",
+      "ko": "인도, 보도",
+      "pos": "명사",
+      "ex": "Please do not ride your bike on the pavement.",
+      "exKo": "인도에서는 자전거를 타지 말아 주세요."
+    },
+    {
+      "en": "receptionist",
+      "ko": "접수 담당자, 안내 직원",
+      "pos": "명사",
+      "ex": "The receptionist asked me to fill out a form.",
+      "exKo": "안내 직원이 나에게 서류를 작성해 달라고 했어요."
+    },
+    {
+      "en": "rent",
+      "ko": "월세, 임대료",
+      "pos": "명사",
+      "ex": "Our rent is going to go up again next month.",
+      "exKo": "다음 달에 우리 월세가 또 오를 거예요."
+    },
+    {
+      "en": "tenant",
+      "ko": "세입자",
+      "pos": "명사",
+      "ex": "The tenant called the landlord about the broken heater.",
+      "exKo": "세입자는 고장 난 난방기 때문에 집주인에게 전화했어요."
+    },
+    {
+      "en": "vacancy",
+      "ko": "빈 방, 공석",
+      "pos": "명사",
+      "ex": "The hotel has no vacancy during the festival.",
+      "exKo": "축제 기간에는 그 호텔에 빈 방이 없어요."
+    }
+  ],
+  "3": [
+    {
+      "en": "annoyed",
+      "ko": "짜증이 난",
+      "pos": "형용사",
+      "ex": "I was annoyed that nobody answered my email.",
+      "exKo": "아무도 내 이메일에 답하지 않아서 짜증이 났어요."
+    },
+    {
+      "en": "disgusted",
+      "ko": "역겨워하는",
+      "pos": "형용사",
+      "ex": "She was disgusted by the smell coming from the fridge.",
+      "exKo": "그녀는 냉장고에서 나는 냄새에 역겨워했어요."
+    },
+    {
+      "en": "dissatisfied",
+      "ko": "불만스러운",
+      "pos": "형용사",
+      "ex": "Many customers are dissatisfied with the new policy.",
+      "exKo": "많은 고객이 새 정책에 불만을 갖고 있어요."
+    },
+    {
+      "en": "exhausted",
+      "ko": "녹초가 된, 기진맥진한",
+      "pos": "형용사",
+      "ex": "I was completely exhausted after the long flight home.",
+      "exKo": "집으로 오는 긴 비행을 마치고 완전히 녹초가 됐어요."
+    },
+    {
+      "en": "frightened",
+      "ko": "겁먹은",
+      "pos": "형용사",
+      "ex": "The child was frightened by the loud thunder.",
+      "exKo": "아이는 큰 천둥소리에 겁을 먹었어요."
+    },
+    {
+      "en": "furious",
+      "ko": "격노한, 몹시 화난",
+      "pos": "형용사",
+      "ex": "He was furious when he saw the mess in the kitchen.",
+      "exKo": "그는 주방이 엉망인 걸 보고 몹시 화가 났어요."
+    },
+    {
+      "en": "guilty",
+      "ko": "죄책감을 느끼는, 유죄의",
+      "pos": "형용사",
+      "ex": "I feel guilty about missing her birthday party.",
+      "exKo": "그녀의 생일 파티에 못 가서 죄책감이 들어요."
+    },
+    {
+      "en": "horrified",
+      "ko": "공포에 질린, 경악한",
+      "pos": "형용사",
+      "ex": "We were horrified by the news of the accident.",
+      "exKo": "우리는 그 사고 소식에 경악했어요."
+    },
+    {
+      "en": "impressed",
+      "ko": "감명받은",
+      "pos": "형용사",
+      "ex": "The manager was really impressed with her clear presentation.",
+      "exKo": "매니저는 그녀의 명쾌한 발표에 정말 깊은 인상을 받았어요."
+    },
+    {
+      "en": "offended",
+      "ko": "기분이 상한",
+      "pos": "형용사",
+      "ex": "I hope you were not offended by my joke.",
+      "exKo": "제 농담에 기분 상하지 않았으면 좋겠어요."
+    },
+    {
+      "en": "miserable",
+      "ko": "비참한, 불행한",
+      "pos": "형용사",
+      "ex": "He felt miserable for weeks after losing his job.",
+      "exKo": "그는 직장을 잃고 몇 주 동안 비참한 기분이었어요."
+    },
+    {
+      "en": "overwhelmed",
+      "ko": "압도된, 감당이 안 되는",
+      "pos": "형용사",
+      "ex": "I feel overwhelmed by all the work this week.",
+      "exKo": "이번 주 업무량이 너무 많아서 감당이 안 돼요."
+    },
+    {
+      "en": "puzzled",
+      "ko": "어리둥절한",
+      "pos": "형용사",
+      "ex": "She looked puzzled when I mentioned the meeting.",
+      "exKo": "내가 회의 얘기를 꺼내자 그녀는 어리둥절해 보였어요."
+    },
+    {
+      "en": "satisfied",
+      "ko": "만족한",
+      "pos": "형용사",
+      "ex": "We are satisfied with the results of the survey.",
+      "exKo": "우리는 설문조사 결과에 만족해요."
+    },
+    {
+      "en": "shocked",
+      "ko": "충격받은",
+      "pos": "형용사",
+      "ex": "Everyone was shocked to hear that he was leaving.",
+      "exKo": "그가 떠난다는 말에 모두가 충격을 받았어요."
+    },
+    {
+      "en": "stressed",
+      "ko": "스트레스를 받는",
+      "pos": "형용사",
+      "ex": "I get stressed whenever I have a tight deadline.",
+      "exKo": "마감이 빠듯할 때마다 스트레스를 받아요."
+    },
+    {
+      "en": "thrilled",
+      "ko": "아주 신이 난, 흥분한",
+      "pos": "형용사",
+      "ex": "They were thrilled to win the first prize.",
+      "exKo": "그들은 일등상을 받아서 아주 신이 났어요."
+    },
+    {
+      "en": "uneasy",
+      "ko": "불안한, 편치 않은",
+      "pos": "형용사",
+      "ex": "I felt uneasy about walking home alone at night.",
+      "exKo": "밤에 혼자 걸어서 집에 가는 게 불안했어요."
+    },
+    {
+      "en": "worried",
+      "ko": "걱정하는",
+      "pos": "형용사",
+      "ex": "My mother is always worried about my health and sleep.",
+      "exKo": "어머니는 늘 내 건강과 수면을 걱정하세요."
+    },
+    {
+      "en": "terrified",
+      "ko": "몹시 무서워하는",
+      "pos": "형용사",
+      "ex": "He is terrified of speaking in front of large crowds.",
+      "exKo": "그는 많은 사람 앞에서 말하는 걸 몹시 두려워해요."
+    }
+  ],
+  "4": [
+    {
+      "en": "ancestor",
+      "ko": "조상",
+      "pos": "명사",
+      "ex": "My oldest known ancestor came from a small village in the north.",
+      "exKo": "내가 아는 가장 오래된 조상은 북쪽의 작은 마을 출신이에요."
+    },
+    {
+      "en": "birth",
+      "ko": "출생, 출산",
+      "pos": "명사",
+      "ex": "The birth of their first child changed their lives.",
+      "exKo": "첫아이의 출생은 그들의 삶을 바꿔 놓았어요."
+    },
+    {
+      "en": "divorce",
+      "ko": "이혼",
+      "pos": "명사",
+      "ex": "Their divorce was difficult for the whole family.",
+      "exKo": "그들의 이혼은 온 가족에게 힘든 일이었어요."
+    },
+    {
+      "en": "engaged",
+      "ko": "약혼한",
+      "pos": "형용사",
+      "ex": "They got engaged last summer and plan to marry in May.",
+      "exKo": "그들은 지난여름에 약혼했고 5월에 결혼할 계획이에요."
+    },
+    {
+      "en": "funeral",
+      "ko": "장례식",
+      "pos": "명사",
+      "ex": "Many friends came to his funeral to say goodbye.",
+      "exKo": "많은 친구가 작별 인사를 하러 그의 장례식에 왔어요."
+    },
+    {
+      "en": "generation",
+      "ko": "세대",
+      "pos": "명사",
+      "ex": "The younger generation prefers to shop online rather than in stores.",
+      "exKo": "젊은 세대는 매장보다 온라인 쇼핑을 더 좋아해요."
+    },
+    {
+      "en": "grandchild",
+      "ko": "손주",
+      "pos": "명사",
+      "ex": "She has a new grandchild and is very happy.",
+      "exKo": "그녀는 새 손주가 생겨서 아주 행복해해요."
+    },
+    {
+      "en": "marriage",
+      "ko": "결혼, 결혼 생활",
+      "pos": "명사",
+      "ex": "They have had a happy marriage for thirty years.",
+      "exKo": "그들은 30년 동안 행복한 결혼 생활을 해 왔어요."
+    },
+    {
+      "en": "orphan",
+      "ko": "고아",
+      "pos": "명사",
+      "ex": "The orphan was raised by his grandparents in a small town.",
+      "exKo": "그 고아는 작은 마을에서 조부모님 손에 자랐어요."
+    },
+    {
+      "en": "pregnant",
+      "ko": "임신한",
+      "pos": "형용사",
+      "ex": "My sister is pregnant and the baby is due in March.",
+      "exKo": "언니가 임신 중이고 출산 예정일은 3월이에요."
+    },
+    {
+      "en": "relative",
+      "ko": "친척",
+      "pos": "명사",
+      "ex": "We invite every relative we have to the holiday dinner.",
+      "exKo": "우리는 명절 저녁 식사에 친척을 한 명도 빠짐없이 초대해요."
+    },
+    {
+      "en": "retired",
+      "ko": "은퇴한",
+      "pos": "형용사",
+      "ex": "My father is retired and spends his time gardening.",
+      "exKo": "아버지는 은퇴하셔서 정원을 가꾸며 시간을 보내세요."
+    },
+    {
+      "en": "sibling",
+      "ko": "형제자매",
+      "pos": "명사",
+      "ex": "Do you have a sibling, or are you an only child?",
+      "exKo": "형제자매가 있나요, 아니면 외동인가요?"
+    },
+    {
+      "en": "spouse",
+      "ko": "배우자",
+      "pos": "명사",
+      "ex": "You may bring your spouse to the company dinner.",
+      "exKo": "회사 회식에 배우자를 데려와도 돼요."
+    },
+    {
+      "en": "teenager",
+      "ko": "십 대 청소년",
+      "pos": "명사",
+      "ex": "My neighbor's son is a typical teenager who sleeps late.",
+      "exKo": "이웃집 아들은 늦잠 자는 전형적인 십 대예요."
+    },
+    {
+      "en": "twin",
+      "ko": "쌍둥이",
+      "pos": "명사",
+      "ex": "She is a twin, but her sister looks nothing like her.",
+      "exKo": "그녀는 쌍둥이지만 언니와 전혀 닮지 않았어요."
+    },
+    {
+      "en": "wedding",
+      "ko": "결혼식",
+      "pos": "명사",
+      "ex": "We are going to my cousin's wedding this weekend.",
+      "exKo": "우리는 이번 주말에 사촌 결혼식에 가요."
+    },
+    {
+      "en": "widow",
+      "ko": "미망인, 과부",
+      "pos": "명사",
+      "ex": "The widow lives alone but her children visit often.",
+      "exKo": "그 미망인은 혼자 살지만 자녀들이 자주 찾아와요."
+    },
+    {
+      "en": "youth",
+      "ko": "젊은 시절, 청춘",
+      "pos": "명사",
+      "ex": "He spent his youth traveling around the world.",
+      "exKo": "그는 젊은 시절을 세계를 여행하며 보냈어요."
+    },
+    {
+      "en": "infant",
+      "ko": "영아, 갓난아기",
+      "pos": "명사",
+      "ex": "An infant needs to be fed every few hours.",
+      "exKo": "갓난아기는 몇 시간마다 먹여야 해요."
+    }
+  ],
+  "5": [
+    {
+      "en": "accountant",
+      "ko": "회계사",
+      "pos": "명사",
+      "ex": "Our accountant will review the tax forms next week.",
+      "exKo": "우리 회계사가 다음 주에 세금 서류를 검토할 거예요."
+    },
+    {
+      "en": "architect",
+      "ko": "건축가",
+      "pos": "명사",
+      "ex": "The architect showed us the plans for the new library.",
+      "exKo": "건축가가 새 도서관의 설계도를 보여 줬어요."
+    },
+    {
+      "en": "assistant",
+      "ko": "보조, 조수",
+      "pos": "명사",
+      "ex": "She works as an assistant in a busy law office.",
+      "exKo": "그녀는 바쁜 법률 사무소에서 보조로 일해요."
+    },
+    {
+      "en": "cashier",
+      "ko": "계산원",
+      "pos": "명사",
+      "ex": "The cashier at the corner store gave me the wrong change.",
+      "exKo": "동네 가게 계산원이 거스름돈을 잘못 줬어요."
+    },
+    {
+      "en": "consultant",
+      "ko": "컨설턴트, 자문 위원",
+      "pos": "명사",
+      "ex": "We hired a consultant to improve our sales process.",
+      "exKo": "우리는 영업 과정을 개선하려고 컨설턴트를 고용했어요."
+    },
+    {
+      "en": "director",
+      "ko": "(부서의) 책임자, 감독",
+      "pos": "명사",
+      "ex": "The director of marketing will join the call at ten.",
+      "exKo": "마케팅 총괄 책임자가 10시에 통화에 참여할 거예요."
+    },
+    {
+      "en": "electrician",
+      "ko": "전기 기사",
+      "pos": "명사",
+      "ex": "We called an electrician to fix the broken lights.",
+      "exKo": "우리는 고장 난 조명을 고치려고 전기 기사를 불렀어요."
+    },
+    {
+      "en": "executive",
+      "ko": "임원",
+      "pos": "명사",
+      "ex": "Every executive must attend the annual strategy meeting on Monday.",
+      "exKo": "모든 임원은 월요일 연례 전략 회의에 참석해야 해요."
+    },
+    {
+      "en": "mechanic",
+      "ko": "정비사",
+      "pos": "명사",
+      "ex": "The mechanic said my car needs new brakes.",
+      "exKo": "정비사는 내 차에 새 브레이크가 필요하다고 말했어요."
+    },
+    {
+      "en": "officer",
+      "ko": "공무원, 경찰관",
+      "pos": "명사",
+      "ex": "A police officer asked to see my driver's license.",
+      "exKo": "경찰관이 내 운전면허증을 보여 달라고 했어요."
+    },
+    {
+      "en": "plumber",
+      "ko": "배관공",
+      "pos": "명사",
+      "ex": "The plumber fixed the leaking pipe in an hour.",
+      "exKo": "배관공이 한 시간 만에 새는 파이프를 고쳤어요."
+    },
+    {
+      "en": "professor",
+      "ko": "교수",
+      "pos": "명사",
+      "ex": "The professor gave us a very challenging assignment this week.",
+      "exKo": "교수님은 이번 주에 우리에게 아주 어려운 과제를 내 주셨어요."
+    },
+    {
+      "en": "scientist",
+      "ko": "과학자",
+      "pos": "명사",
+      "ex": "The scientist explained her findings in simple terms.",
+      "exKo": "그 과학자는 연구 결과를 쉬운 말로 설명했어요."
+    },
+    {
+      "en": "secretary",
+      "ko": "비서",
+      "pos": "명사",
+      "ex": "Please ask my secretary to book a meeting room.",
+      "exKo": "제 비서에게 회의실을 예약해 달라고 말해 주세요."
+    },
+    {
+      "en": "surgeon",
+      "ko": "외과 의사",
+      "pos": "명사",
+      "ex": "The surgeon performed the operation without any problems.",
+      "exKo": "외과 의사는 아무 문제 없이 수술을 마쳤어요."
+    },
+    {
+      "en": "technician",
+      "ko": "기술자",
+      "pos": "명사",
+      "ex": "A technician is coming to install the internet tomorrow.",
+      "exKo": "내일 기술자가 와서 인터넷을 설치해 줄 거예요."
+    },
+    {
+      "en": "tutor",
+      "ko": "개인 교사, 과외 선생님",
+      "pos": "명사",
+      "ex": "I hired a tutor to help me prepare for the exam.",
+      "exKo": "시험 준비를 돕도록 과외 선생님을 구했어요."
+    },
+    {
+      "en": "translator",
+      "ko": "번역가",
+      "pos": "명사",
+      "ex": "The translator worked on the contract for two days.",
+      "exKo": "번역가는 이틀 동안 그 계약서를 작업했어요."
+    },
+    {
+      "en": "pharmacist",
+      "ko": "약사",
+      "pos": "명사",
+      "ex": "The pharmacist explained how to take the medicine.",
+      "exKo": "약사가 약 먹는 방법을 설명해 줬어요."
+    },
+    {
+      "en": "janitor",
+      "ko": "건물 관리인, 청소 담당자",
+      "pos": "명사",
+      "ex": "The janitor locks the building every night at ten.",
+      "exKo": "관리인이 매일 밤 10시에 건물 문을 잠가요."
+    }
+  ],
+  "6": [
+    {
+      "en": "budget",
+      "ko": "예산",
+      "pos": "명사",
+      "ex": "We need to stay within the budget this quarter.",
+      "exKo": "이번 분기에는 예산 범위를 지켜야 해요."
+    },
+    {
+      "en": "debt",
+      "ko": "빚, 부채",
+      "pos": "명사",
+      "ex": "He worked two jobs to pay off his debt.",
+      "exKo": "그는 빚을 갚으려고 두 가지 일을 했어요."
+    },
+    {
+      "en": "deposit",
+      "ko": "보증금, 예금",
+      "pos": "명사",
+      "ex": "I paid a deposit to reserve the apartment.",
+      "exKo": "아파트를 잡으려고 보증금을 냈어요."
+    },
+    {
+      "en": "income",
+      "ko": "소득, 수입",
+      "pos": "명사",
+      "ex": "Her monthly income is not enough to cover the rent.",
+      "exKo": "그녀의 월 소득으로는 월세를 감당하기 어려워요."
+    },
+    {
+      "en": "insurance",
+      "ko": "보험",
+      "pos": "명사",
+      "ex": "Does your health insurance cover dental treatment and eye exams?",
+      "exKo": "당신의 건강보험은 치과 치료와 안과 검진도 보장하나요?"
+    },
+    {
+      "en": "invest",
+      "ko": "투자하다",
+      "pos": "동사",
+      "ex": "They decided to invest in a small online business.",
+      "exKo": "그들은 작은 온라인 사업에 투자하기로 했어요."
+    },
+    {
+      "en": "loan",
+      "ko": "대출",
+      "pos": "명사",
+      "ex": "We took out a loan to buy our first home.",
+      "exKo": "우리는 첫 집을 사려고 대출을 받았어요."
+    },
+    {
+      "en": "mortgage",
+      "ko": "주택담보대출",
+      "pos": "명사",
+      "ex": "They still have ten years left on their mortgage.",
+      "exKo": "그들은 주택담보대출이 아직 10년 남았어요."
+    },
+    {
+      "en": "pension",
+      "ko": "연금",
+      "pos": "명사",
+      "ex": "My grandfather lives on his small pension and some savings.",
+      "exKo": "할아버지는 적은 연금과 약간의 저축으로 생활하세요."
+    },
+    {
+      "en": "savings",
+      "ko": "저축, 저축한 돈",
+      "pos": "명사",
+      "ex": "She used her savings to start a bakery.",
+      "exKo": "그녀는 저축한 돈으로 빵집을 열었어요."
+    },
+    {
+      "en": "stock",
+      "ko": "주식",
+      "pos": "명사",
+      "ex": "He bought some stock in a technology company.",
+      "exKo": "그는 한 기술 회사의 주식을 샀어요."
+    },
+    {
+      "en": "transfer",
+      "ko": "송금하다, 이체하다",
+      "pos": "동사",
+      "ex": "Could you transfer the money to my account today?",
+      "exKo": "오늘 제 계좌로 돈을 이체해 주실 수 있나요?"
+    },
+    {
+      "en": "wage",
+      "ko": "임금, 시급",
+      "pos": "명사",
+      "ex": "The minimum wage will rise again next year.",
+      "exKo": "내년에 최저임금이 또 오를 거예요."
+    },
+    {
+      "en": "withdraw",
+      "ko": "(돈을) 인출하다",
+      "pos": "동사",
+      "ex": "I need to withdraw some cash before we go.",
+      "exKo": "가기 전에 현금을 좀 인출해야 해요."
+    },
+    {
+      "en": "worth",
+      "ko": "~의 가치가 있는",
+      "pos": "형용사",
+      "ex": "This old watch is worth a lot of money.",
+      "exKo": "이 오래된 시계는 가치가 아주 높아요."
+    },
+    {
+      "en": "currency",
+      "ko": "통화, 화폐",
+      "pos": "명사",
+      "ex": "Which currency do they use in that country?",
+      "exKo": "그 나라에서는 어떤 통화를 쓰나요?"
+    },
+    {
+      "en": "expense",
+      "ko": "비용, 지출",
+      "pos": "명사",
+      "ex": "Travel expense must be approved by your manager.",
+      "exKo": "출장 비용은 매니저의 승인을 받아야 해요."
+    },
+    {
+      "en": "fund",
+      "ko": "기금, 자금",
+      "pos": "명사",
+      "ex": "The school set up a fund to help poor students.",
+      "exKo": "학교는 형편이 어려운 학생을 돕기 위해 기금을 만들었어요."
+    },
+    {
+      "en": "bankrupt",
+      "ko": "파산한",
+      "pos": "형용사",
+      "ex": "The company went bankrupt after losing its biggest client.",
+      "exKo": "그 회사는 가장 큰 고객을 잃은 뒤 파산했어요."
+    },
+    {
+      "en": "interest",
+      "ko": "이자",
+      "pos": "명사",
+      "ex": "The bank pays three percent interest on savings accounts.",
+      "exKo": "그 은행은 예금 계좌에 3퍼센트 이자를 줘요."
+    }
+  ],
+  "7": [
+    {
+      "en": "belief",
+      "ko": "믿음, 신념",
+      "pos": "명사",
+      "ex": "It is my belief that honesty matters most at work.",
+      "exKo": "직장에서는 정직이 가장 중요하다는 게 제 신념이에요."
+    },
+    {
+      "en": "concern",
+      "ko": "우려, 걱정",
+      "pos": "명사",
+      "ex": "Safety is our main concern on this project.",
+      "exKo": "이 프로젝트에서 우리의 가장 큰 우려는 안전이에요."
+    },
+    {
+      "en": "criticism",
+      "ko": "비판, 비난",
+      "pos": "명사",
+      "ex": "He accepted the criticism calmly without getting angry at all.",
+      "exKo": "그는 전혀 화내지 않고 차분하게 비판을 받아들였어요."
+    },
+    {
+      "en": "curiosity",
+      "ko": "호기심",
+      "pos": "명사",
+      "ex": "Curiosity made her open the mysterious box on the table.",
+      "exKo": "호기심 때문에 그녀는 탁자 위의 수상한 상자를 열었어요."
+    },
+    {
+      "en": "emotion",
+      "ko": "감정",
+      "pos": "명사",
+      "ex": "She tried to hide her emotion during the speech.",
+      "exKo": "그녀는 연설하는 동안 감정을 숨기려고 했어요."
+    },
+    {
+      "en": "envy",
+      "ko": "질투, 부러움",
+      "pos": "명사",
+      "ex": "I felt a little envy when I saw his new house.",
+      "exKo": "그의 새 집을 보고 조금 부러웠어요."
+    },
+    {
+      "en": "frustration",
+      "ko": "좌절감, 불만",
+      "pos": "명사",
+      "ex": "You could hear the frustration in his voice.",
+      "exKo": "그의 목소리에서 좌절감이 느껴졌어요."
+    },
+    {
+      "en": "humor",
+      "ko": "유머, 유머 감각",
+      "pos": "명사",
+      "ex": "Her sense of humor makes meetings more fun.",
+      "exKo": "그녀의 유머 감각 덕분에 회의가 더 즐거워져요."
+    },
+    {
+      "en": "impression",
+      "ko": "인상",
+      "pos": "명사",
+      "ex": "He made a good impression at the job interview.",
+      "exKo": "그는 취업 면접에서 좋은 인상을 남겼어요."
+    },
+    {
+      "en": "intention",
+      "ko": "의도",
+      "pos": "명사",
+      "ex": "I had no intention of hurting your feelings.",
+      "exKo": "당신 마음을 상하게 할 의도는 전혀 없었어요."
+    },
+    {
+      "en": "mood",
+      "ko": "기분, 분위기",
+      "pos": "명사",
+      "ex": "He is in a good mood today because it is Friday.",
+      "exKo": "오늘은 금요일이라 그는 기분이 좋아요."
+    },
+    {
+      "en": "passion",
+      "ko": "열정",
+      "pos": "명사",
+      "ex": "She has a real passion for teaching young children.",
+      "exKo": "그녀는 어린아이들을 가르치는 데 진정한 열정이 있어요."
+    },
+    {
+      "en": "pity",
+      "ko": "동정, 안타까움",
+      "pos": "명사",
+      "ex": "I felt pity for the stray dog in the rain.",
+      "exKo": "비 맞는 길 잃은 개가 안쓰러웠어요."
+    },
+    {
+      "en": "regret",
+      "ko": "후회",
+      "pos": "명사",
+      "ex": "I have no regret about moving to a new city.",
+      "exKo": "새로운 도시로 이사한 걸 후회하지 않아요."
+    },
+    {
+      "en": "sympathy",
+      "ko": "공감, 동정심",
+      "pos": "명사",
+      "ex": "We sent our sympathy to the family after the loss.",
+      "exKo": "우리는 상을 당한 가족에게 위로의 마음을 전했어요."
+    },
+    {
+      "en": "tension",
+      "ko": "긴장, 갈등",
+      "pos": "명사",
+      "ex": "There was a lot of tension in the room during the talks.",
+      "exKo": "협상 내내 방 안에는 긴장감이 가득했어요."
+    },
+    {
+      "en": "temper",
+      "ko": "성질, 화",
+      "pos": "명사",
+      "ex": "He has a bad temper when he is tired.",
+      "exKo": "그는 피곤하면 성질이 나빠져요."
+    },
+    {
+      "en": "thought",
+      "ko": "생각",
+      "pos": "명사",
+      "ex": "I will give your offer some thought and call you back.",
+      "exKo": "제안을 좀 생각해 보고 다시 전화드릴게요."
+    },
+    {
+      "en": "courage",
+      "ko": "용기",
+      "pos": "명사",
+      "ex": "It took courage to tell the truth to her boss.",
+      "exKo": "상사에게 사실을 말하려면 용기가 필요했어요."
+    },
+    {
+      "en": "anxiety",
+      "ko": "불안, 걱정",
+      "pos": "명사",
+      "ex": "Many students feel some anxiety before their big final exams.",
+      "exKo": "많은 학생이 중요한 기말시험 전에 어느 정도 불안을 느껴요."
+    }
+  ],
+  "8": [
+    {
+      "en": "ancient",
+      "ko": "고대의",
+      "pos": "형용사",
+      "ex": "We visited the ancient ruins on the island.",
+      "exKo": "우리는 섬에 있는 고대 유적지를 방문했어요."
+    },
+    {
+      "en": "broad",
+      "ko": "넓은, 폭넓은",
+      "pos": "형용사",
+      "ex": "The company offers a broad range of products.",
+      "exKo": "그 회사는 폭넓은 제품군을 제공해요."
+    },
+    {
+      "en": "cruel",
+      "ko": "잔인한",
+      "pos": "형용사",
+      "ex": "It is cruel to leave a dog alone all day.",
+      "exKo": "개를 하루 종일 혼자 두는 건 잔인한 일이에요."
+    },
+    {
+      "en": "dull",
+      "ko": "따분한, 재미없는",
+      "pos": "형용사",
+      "ex": "The lecture was so dull that I almost fell asleep.",
+      "exKo": "강의가 너무 따분해서 거의 잠들 뻔했어요."
+    },
+    {
+      "en": "elderly",
+      "ko": "연세 드신, 나이 든",
+      "pos": "형용사",
+      "ex": "Please give your seat to an elderly passenger.",
+      "exKo": "연세 드신 승객께 자리를 양보해 주세요."
+    },
+    {
+      "en": "fragile",
+      "ko": "깨지기 쉬운, 연약한",
+      "pos": "형용사",
+      "ex": "Be careful with that box because it is fragile.",
+      "exKo": "그 상자는 깨지기 쉬우니 조심하세요."
+    },
+    {
+      "en": "genuine",
+      "ko": "진짜의, 진심의",
+      "pos": "형용사",
+      "ex": "She showed genuine interest in our ideas during the meeting.",
+      "exKo": "그녀는 회의 중에 우리 아이디어에 진심 어린 관심을 보였어요."
+    },
+    {
+      "en": "harsh",
+      "ko": "가혹한, 혹독한",
+      "pos": "형용사",
+      "ex": "The harsh winter made travel almost impossible for everyone.",
+      "exKo": "혹독한 겨울 때문에 누구에게나 이동이 거의 불가능했어요."
+    },
+    {
+      "en": "hollow",
+      "ko": "속이 빈, 공허한",
+      "pos": "형용사",
+      "ex": "The tree was hollow inside, so birds lived there.",
+      "exKo": "그 나무는 속이 비어서 새들이 살고 있었어요."
+    },
+    {
+      "en": "immense",
+      "ko": "엄청난, 막대한",
+      "pos": "형용사",
+      "ex": "The project required an immense amount of work.",
+      "exKo": "그 프로젝트에는 엄청난 양의 작업이 필요했어요."
+    },
+    {
+      "en": "loyal",
+      "ko": "충성스러운, 의리 있는",
+      "pos": "형용사",
+      "ex": "He has been a loyal customer for over ten years.",
+      "exKo": "그는 10년 넘게 충성 고객이에요."
+    },
+    {
+      "en": "mature",
+      "ko": "성숙한",
+      "pos": "형용사",
+      "ex": "She is very mature for her age and works hard.",
+      "exKo": "그녀는 나이에 비해 아주 성숙하고 열심히 일해요."
+    },
+    {
+      "en": "naive",
+      "ko": "순진한",
+      "pos": "형용사",
+      "ex": "It was naive of me to believe his promise.",
+      "exKo": "그의 약속을 믿다니 제가 순진했어요."
+    },
+    {
+      "en": "obvious",
+      "ko": "분명한, 명백한",
+      "pos": "형용사",
+      "ex": "The answer was obvious to everyone except me.",
+      "exKo": "나만 빼고 모두에게 답은 명백했어요."
+    },
+    {
+      "en": "rare",
+      "ko": "드문, 희귀한",
+      "pos": "형용사",
+      "ex": "It is rare to see snow in this city.",
+      "exKo": "이 도시에서 눈을 보는 건 드문 일이에요."
+    },
+    {
+      "en": "sensible",
+      "ko": "분별 있는, 현명한",
+      "pos": "형용사",
+      "ex": "Taking an umbrella with you was a very sensible choice.",
+      "exKo": "우산을 챙겨 온 건 아주 현명한 선택이었어요."
+    },
+    {
+      "en": "tiny",
+      "ko": "아주 작은",
+      "pos": "형용사",
+      "ex": "Their apartment is tiny, but it is very cozy.",
+      "exKo": "그들의 아파트는 아주 작지만 무척 아늑해요."
+    },
+    {
+      "en": "vague",
+      "ko": "모호한, 막연한",
+      "pos": "형용사",
+      "ex": "His answer was vague, so we asked again.",
+      "exKo": "그의 대답이 모호해서 우리는 다시 물었어요."
+    },
+    {
+      "en": "bold",
+      "ko": "대담한",
+      "pos": "형용사",
+      "ex": "She made a bold decision to start her own company.",
+      "exKo": "그녀는 자기 회사를 차리겠다는 대담한 결정을 내렸어요."
+    },
+    {
+      "en": "modest",
+      "ko": "겸손한, 소박한",
+      "pos": "형용사",
+      "ex": "He is very modest about his success at work.",
+      "exKo": "그는 직장에서의 성공에 대해 아주 겸손해요."
+    }
+  ],
+  "9": [
+    {
+      "en": "assume",
+      "ko": "가정하다, 당연하게 여기다",
+      "pos": "동사",
+      "ex": "Do not assume that everyone knows about the schedule change.",
+      "exKo": "모두가 일정 변경을 안다고 당연하게 여기지 마세요."
+    },
+    {
+      "en": "attempt",
+      "ko": "시도하다",
+      "pos": "동사",
+      "ex": "Do not attempt to repair the machine yourself.",
+      "exKo": "기계를 직접 수리하려고 시도하지 마세요."
+    },
+    {
+      "en": "concentrate",
+      "ko": "집중하다",
+      "pos": "동사",
+      "ex": "It is hard to concentrate in a noisy office.",
+      "exKo": "시끄러운 사무실에서는 집중하기가 어려워요."
+    },
+    {
+      "en": "confirm",
+      "ko": "확인해 주다, 확정하다",
+      "pos": "동사",
+      "ex": "Please confirm your hotel reservation by email before Friday.",
+      "exKo": "금요일 전에 이메일로 호텔 예약을 확정해 주세요."
+    },
+    {
+      "en": "convince",
+      "ko": "납득시키다, 설득하여 믿게 하다",
+      "pos": "동사",
+      "ex": "I could not convince him that the plan would work.",
+      "exKo": "그 계획이 성공할 거라고 그를 납득시키지 못했어요."
+    },
+    {
+      "en": "deny",
+      "ko": "부인하다",
+      "pos": "동사",
+      "ex": "He will deny taking the money from the drawer.",
+      "exKo": "그는 서랍에서 돈을 가져간 걸 부인할 거예요."
+    },
+    {
+      "en": "determine",
+      "ko": "알아내다, 결정하다",
+      "pos": "동사",
+      "ex": "We need to determine the cause of the delay.",
+      "exKo": "우리는 지연의 원인을 알아내야 해요."
+    },
+    {
+      "en": "emphasize",
+      "ko": "강조하다",
+      "pos": "동사",
+      "ex": "The teacher wanted to emphasize the importance of reading every day.",
+      "exKo": "선생님은 매일 책을 읽는 것의 중요성을 강조하고 싶어 했어요."
+    },
+    {
+      "en": "estimate",
+      "ko": "추정하다, 어림잡다",
+      "pos": "동사",
+      "ex": "We estimate that the repair will take three days.",
+      "exKo": "수리에 사흘이 걸릴 것으로 추정해요."
+    },
+    {
+      "en": "evaluate",
+      "ko": "평가하다",
+      "pos": "동사",
+      "ex": "The committee will evaluate each proposal very carefully this week.",
+      "exKo": "위원회는 이번 주에 각 제안서를 아주 꼼꼼하게 평가할 거예요."
+    },
+    {
+      "en": "explore",
+      "ko": "탐험하다, 탐구하다",
+      "pos": "동사",
+      "ex": "We want to explore new ways to save energy.",
+      "exKo": "우리는 에너지를 절약할 새로운 방법을 탐구하고 싶어요."
+    },
+    {
+      "en": "generate",
+      "ko": "만들어 내다, 발생시키다",
+      "pos": "동사",
+      "ex": "The new campaign should generate more interest in our brand.",
+      "exKo": "새 캠페인은 우리 브랜드에 대한 관심을 더 끌어낼 거예요."
+    },
+    {
+      "en": "imagine",
+      "ko": "상상하다",
+      "pos": "동사",
+      "ex": "Can you imagine living on a boat for a whole year?",
+      "exKo": "1년 내내 배에서 사는 걸 상상할 수 있어요?"
+    },
+    {
+      "en": "indicate",
+      "ko": "나타내다, 가리키다",
+      "pos": "동사",
+      "ex": "These results indicate that our sales are slowly improving.",
+      "exKo": "이 결과는 우리 매출이 서서히 나아지고 있음을 보여 줘요."
+    },
+    {
+      "en": "insist",
+      "ko": "고집하다, 우기다",
+      "pos": "동사",
+      "ex": "She will insist on paying for the dinner tonight.",
+      "exKo": "그녀는 오늘 저녁 식사비를 내겠다고 고집할 거예요."
+    },
+    {
+      "en": "judge",
+      "ko": "판단하다",
+      "pos": "동사",
+      "ex": "You should not judge a person by their clothes.",
+      "exKo": "옷차림으로 사람을 판단해서는 안 돼요."
+    },
+    {
+      "en": "suppose",
+      "ko": "~라고 생각하다, 가정하다",
+      "pos": "동사",
+      "ex": "I suppose we could meet again tomorrow at the same time.",
+      "exKo": "내일 같은 시간에 다시 만나도 될 것 같아요."
+    },
+    {
+      "en": "assess",
+      "ko": "(상황을) 평가하다, 가늠하다",
+      "pos": "동사",
+      "ex": "Engineers will assess the damage after the storm.",
+      "exKo": "기술자들이 폭풍 뒤에 피해 정도를 평가할 거예요."
+    },
+    {
+      "en": "maintain",
+      "ko": "유지하다",
+      "pos": "동사",
+      "ex": "It is important to maintain a healthy routine.",
+      "exKo": "건강한 생활 습관을 유지하는 것이 중요해요."
+    },
+    {
+      "en": "reveal",
+      "ko": "드러내다, 밝히다",
+      "pos": "동사",
+      "ex": "The manager refused to reveal the new product's price.",
+      "exKo": "매니저는 신제품 가격을 공개하기를 거부했어요."
+    }
+  ],
+  "10": [
+    {
+      "en": "airline",
+      "ko": "항공사",
+      "pos": "명사",
+      "ex": "Which airline are you flying with to Seoul next week?",
+      "exKo": "다음 주에 서울 갈 때 어느 항공사를 이용해요?"
+    },
+    {
+      "en": "aisle",
+      "ko": "통로",
+      "pos": "명사",
+      "ex": "I prefer an aisle seat so I can stretch my legs.",
+      "exKo": "다리를 뻗을 수 있게 통로 쪽 좌석이 좋아요."
+    },
+    {
+      "en": "arrival",
+      "ko": "도착",
+      "pos": "명사",
+      "ex": "The arrival of our flight was delayed by an hour.",
+      "exKo": "우리 비행기의 도착이 한 시간 늦어졌어요."
+    },
+    {
+      "en": "boarding",
+      "ko": "탑승",
+      "pos": "명사",
+      "ex": "Boarding begins forty minutes before the scheduled departure time.",
+      "exKo": "탑승은 예정된 출발 시간 40분 전에 시작해요."
+    },
+    {
+      "en": "cabin",
+      "ko": "(비행기·배의) 객실",
+      "pos": "명사",
+      "ex": "Please keep your bag under the seat in the cabin.",
+      "exKo": "객실에서는 가방을 좌석 밑에 두세요."
+    },
+    {
+      "en": "customs",
+      "ko": "세관",
+      "pos": "명사",
+      "ex": "We had to wait in line at customs for an hour.",
+      "exKo": "우리는 세관에서 한 시간 동안 줄을 서서 기다려야 했어요."
+    },
+    {
+      "en": "delay",
+      "ko": "지연, 연착",
+      "pos": "명사",
+      "ex": "There is a two-hour delay because of the fog.",
+      "exKo": "안개 때문에 두 시간 지연되고 있어요."
+    },
+    {
+      "en": "departure",
+      "ko": "출발",
+      "pos": "명사",
+      "ex": "The departure time has been changed to nine o'clock.",
+      "exKo": "출발 시간이 9시로 변경되었어요."
+    },
+    {
+      "en": "destination",
+      "ko": "목적지",
+      "pos": "명사",
+      "ex": "We finally reached our destination just before the sun went down.",
+      "exKo": "우리는 해가 지기 직전에 마침내 목적지에 도착했어요."
+    },
+    {
+      "en": "exchange",
+      "ko": "환전하다, 교환하다",
+      "pos": "동사",
+      "ex": "Where can I exchange dollars for local money?",
+      "exKo": "달러를 현지 돈으로 어디서 환전할 수 있나요?"
+    },
+    {
+      "en": "immigration",
+      "ko": "입국 심사, 이민",
+      "pos": "명사",
+      "ex": "Immigration officers checked every passport carefully at the airport.",
+      "exKo": "공항에서 입국 심사관들이 모든 여권을 꼼꼼하게 확인했어요."
+    },
+    {
+      "en": "itinerary",
+      "ko": "여행 일정표",
+      "pos": "명사",
+      "ex": "Our itinerary includes three days in the countryside.",
+      "exKo": "우리 여행 일정에는 시골에서의 사흘이 포함돼 있어요."
+    },
+    {
+      "en": "landing",
+      "ko": "착륙",
+      "pos": "명사",
+      "ex": "The landing was smooth despite the strong wind.",
+      "exKo": "강한 바람에도 착륙은 부드러웠어요."
+    },
+    {
+      "en": "reservation",
+      "ko": "(좌석·객실) 예약",
+      "pos": "명사",
+      "ex": "I made a reservation for two at seven o'clock.",
+      "exKo": "7시에 두 명 자리를 예약했어요."
+    },
+    {
+      "en": "resort",
+      "ko": "휴양지",
+      "pos": "명사",
+      "ex": "We stayed at a beach resort for a week.",
+      "exKo": "우리는 일주일 동안 해변 휴양지에서 지냈어요."
+    },
+    {
+      "en": "runway",
+      "ko": "활주로",
+      "pos": "명사",
+      "ex": "The plane waited on the runway for takeoff.",
+      "exKo": "비행기는 활주로에서 이륙을 기다렸어요."
+    },
+    {
+      "en": "sightseeing",
+      "ko": "관광",
+      "pos": "명사",
+      "ex": "We spent the afternoon sightseeing in the old town.",
+      "exKo": "우리는 오후에 구시가지를 관광하며 보냈어요."
+    },
+    {
+      "en": "tourism",
+      "ko": "관광 산업",
+      "pos": "명사",
+      "ex": "Tourism is the main source of income for this island.",
+      "exKo": "관광 산업은 이 섬의 주요 수입원이에요."
+    },
+    {
+      "en": "visa",
+      "ko": "비자, 사증",
+      "pos": "명사",
+      "ex": "You need a visa to enter that country.",
+      "exKo": "그 나라에 입국하려면 비자가 필요해요."
+    },
+    {
+      "en": "backpacker",
+      "ko": "배낭여행객",
+      "pos": "명사",
+      "ex": "A young backpacker asked me how to get to the station.",
+      "exKo": "한 젊은 배낭여행객이 역에 가는 방법을 물었어요."
+    }
+  ],
+  "11": [
+    {
+      "en": "bark",
+      "ko": "짖다",
+      "pos": "동사",
+      "ex": "The neighbor's dog will bark every time someone walks by.",
+      "exKo": "이웃집 개는 누가 지나갈 때마다 짖을 거예요."
+    },
+    {
+      "en": "cage",
+      "ko": "우리, 새장",
+      "pos": "명사",
+      "ex": "The bird flew out of its cage through the open window.",
+      "exKo": "새는 열린 창문을 통해 새장 밖으로 날아갔어요."
+    },
+    {
+      "en": "creature",
+      "ko": "생물, 동물",
+      "pos": "명사",
+      "ex": "That strange creature in the photo lives deep in the ocean.",
+      "exKo": "사진 속 그 이상한 생물은 깊은 바다에 살아요."
+    },
+    {
+      "en": "dolphin",
+      "ko": "돌고래",
+      "pos": "명사",
+      "ex": "A dolphin jumped out of the water next to our boat.",
+      "exKo": "돌고래 한 마리가 우리 배 옆에서 물 밖으로 뛰어올랐어요."
+    },
+    {
+      "en": "eagle",
+      "ko": "독수리",
+      "pos": "명사",
+      "ex": "An eagle was circling high above the mountain.",
+      "exKo": "독수리 한 마리가 산 위 높은 곳에서 맴돌고 있었어요."
+    },
+    {
+      "en": "farm",
+      "ko": "농장",
+      "pos": "명사",
+      "ex": "Her family runs a small farm outside the city.",
+      "exKo": "그녀의 가족은 도시 외곽에서 작은 농장을 운영해요."
+    },
+    {
+      "en": "fur",
+      "ko": "(동물의) 털",
+      "pos": "명사",
+      "ex": "The cat's fur is soft and very thick.",
+      "exKo": "그 고양이의 털은 부드럽고 아주 두툼해요."
+    },
+    {
+      "en": "hunt",
+      "ko": "사냥하다",
+      "pos": "동사",
+      "ex": "Wolves hunt in groups to catch large animals.",
+      "exKo": "늑대는 큰 동물을 잡으려고 무리를 지어 사냥해요."
+    },
+    {
+      "en": "jungle",
+      "ko": "정글",
+      "pos": "명사",
+      "ex": "They trekked through the jungle for three days.",
+      "exKo": "그들은 사흘 동안 정글을 헤치며 걸었어요."
+    },
+    {
+      "en": "lizard",
+      "ko": "도마뱀",
+      "pos": "명사",
+      "ex": "A small green lizard ran quickly across the garden wall.",
+      "exKo": "작은 초록색 도마뱀 한 마리가 정원 담벼락을 재빨리 가로질러 갔어요."
+    },
+    {
+      "en": "nest",
+      "ko": "둥지",
+      "pos": "명사",
+      "ex": "The bird built a nest in the tree outside my window.",
+      "exKo": "새가 내 창밖 나무에 둥지를 지었어요."
+    },
+    {
+      "en": "pet",
+      "ko": "반려동물",
+      "pos": "명사",
+      "ex": "Are you allowed to keep a pet in your apartment building?",
+      "exKo": "당신 아파트 건물에서는 반려동물을 키울 수 있나요?"
+    },
+    {
+      "en": "prey",
+      "ko": "먹잇감",
+      "pos": "명사",
+      "ex": "The owl waited quietly in the tree for its prey.",
+      "exKo": "부엉이는 나무 위에서 조용히 먹잇감을 기다렸어요."
+    },
+    {
+      "en": "species",
+      "ko": "(생물) 종",
+      "pos": "명사",
+      "ex": "Many species of fish are in danger of disappearing.",
+      "exKo": "많은 어류 종이 사라질 위기에 처해 있어요."
+    },
+    {
+      "en": "tail",
+      "ko": "꼬리",
+      "pos": "명사",
+      "ex": "The dog wagged its tail when I came home.",
+      "exKo": "내가 집에 오자 개가 꼬리를 흔들었어요."
+    },
+    {
+      "en": "tame",
+      "ko": "길들여진, 온순한",
+      "pos": "형용사",
+      "ex": "The fox was surprisingly tame and let people come close.",
+      "exKo": "그 여우는 놀랄 만큼 온순해서 사람이 가까이 오게 했어요."
+    },
+    {
+      "en": "wild",
+      "ko": "야생의",
+      "pos": "형용사",
+      "ex": "Wild animals should not be fed by visitors.",
+      "exKo": "야생 동물에게 방문객이 먹이를 주면 안 돼요."
+    },
+    {
+      "en": "wing",
+      "ko": "날개",
+      "pos": "명사",
+      "ex": "The bird had an injured wing and could not fly.",
+      "exKo": "그 새는 날개를 다쳐서 날 수 없었어요."
+    },
+    {
+      "en": "zoo",
+      "ko": "동물원",
+      "pos": "명사",
+      "ex": "We took the kids to the zoo on Sunday.",
+      "exKo": "우리는 일요일에 아이들을 동물원에 데려갔어요."
+    },
+    {
+      "en": "herd",
+      "ko": "(동물) 떼",
+      "pos": "명사",
+      "ex": "A herd of cows was crossing the road.",
+      "exKo": "소 떼가 길을 건너고 있었어요."
+    }
+  ],
+  "12": [
+    {
+      "en": "beverage",
+      "ko": "음료",
+      "pos": "명사",
+      "ex": "Hot and cold beverage options are included in the price.",
+      "exKo": "따뜻한 음료와 차가운 음료 모두 가격에 포함돼 있어요."
+    },
+    {
+      "en": "crisp",
+      "ko": "바삭한",
+      "pos": "형용사",
+      "ex": "These fries are hot, golden, and perfectly crisp on the outside.",
+      "exKo": "이 감자튀김은 뜨겁고 노릇하며 겉이 아주 바삭해요."
+    },
+    {
+      "en": "dish",
+      "ko": "요리, 접시",
+      "pos": "명사",
+      "ex": "The restaurant's most famous dish is seafood pasta.",
+      "exKo": "그 식당에서 가장 유명한 요리는 해산물 파스타예요."
+    },
+    {
+      "en": "flavor",
+      "ko": "맛, 풍미",
+      "pos": "명사",
+      "ex": "This soup has a rich flavor of garlic and herbs.",
+      "exKo": "이 수프는 마늘과 허브의 진한 풍미가 나요."
+    },
+    {
+      "en": "grill",
+      "ko": "(불에) 굽다",
+      "pos": "동사",
+      "ex": "We will grill some fish and vegetables for dinner.",
+      "exKo": "저녁으로 생선과 채소를 구울 거예요."
+    },
+    {
+      "en": "ingredient",
+      "ko": "재료",
+      "pos": "명사",
+      "ex": "Every fresh ingredient makes a big difference in cooking.",
+      "exKo": "신선한 재료 하나하나가 요리에 큰 차이를 만들어요."
+    },
+    {
+      "en": "menu",
+      "ko": "메뉴, 차림표",
+      "pos": "명사",
+      "ex": "Could we see the dessert menu and the coffee list, please?",
+      "exKo": "디저트 메뉴와 커피 목록 좀 볼 수 있을까요?"
+    },
+    {
+      "en": "nutrition",
+      "ko": "영양",
+      "pos": "명사",
+      "ex": "Good nutrition is very important for growing children and teenagers.",
+      "exKo": "좋은 영양은 자라는 아이들과 청소년에게 매우 중요해요."
+    },
+    {
+      "en": "portion",
+      "ko": "(음식의) 1인분, 양",
+      "pos": "명사",
+      "ex": "The portion was so large that I could not finish it.",
+      "exKo": "양이 너무 많아서 다 먹을 수 없었어요."
+    },
+    {
+      "en": "recipe",
+      "ko": "조리법",
+      "pos": "명사",
+      "ex": "Can you share the recipe for this cake?",
+      "exKo": "이 케이크 조리법 좀 알려 줄래요?"
+    },
+    {
+      "en": "roast",
+      "ko": "(오븐에) 굽다",
+      "pos": "동사",
+      "ex": "I like to roast potatoes with a little olive oil.",
+      "exKo": "저는 올리브유를 조금 둘러 감자를 오븐에 굽는 걸 좋아해요."
+    },
+    {
+      "en": "slice",
+      "ko": "(얇은) 조각, 한 장",
+      "pos": "명사",
+      "ex": "Would you like a slice of pizza or some salad?",
+      "exKo": "피자 한 조각 드실래요, 아니면 샐러드 드실래요?"
+    },
+    {
+      "en": "snack",
+      "ko": "간식",
+      "pos": "명사",
+      "ex": "I always keep a healthy snack in my bag.",
+      "exKo": "저는 가방에 늘 건강한 간식을 넣어 둬요."
+    },
+    {
+      "en": "stew",
+      "ko": "스튜, 찌개",
+      "pos": "명사",
+      "ex": "My mother makes a delicious beef stew in winter.",
+      "exKo": "어머니는 겨울에 맛있는 소고기 스튜를 만들어 주세요."
+    },
+    {
+      "en": "tasty",
+      "ko": "맛있는",
+      "pos": "형용사",
+      "ex": "The soup looked simple, but it was really tasty.",
+      "exKo": "수프는 소박해 보였지만 정말 맛있었어요."
+    },
+    {
+      "en": "tip",
+      "ko": "팁, 봉사료",
+      "pos": "명사",
+      "ex": "It is polite to leave a tip in many restaurants.",
+      "exKo": "많은 식당에서는 팁을 남기는 게 예의예요."
+    },
+    {
+      "en": "toast",
+      "ko": "토스트, 구운 빵",
+      "pos": "명사",
+      "ex": "I usually have toast and coffee for breakfast.",
+      "exKo": "저는 보통 아침으로 토스트와 커피를 먹어요."
+    },
+    {
+      "en": "vegetarian",
+      "ko": "채식주의자",
+      "pos": "명사",
+      "ex": "My roommate is a vegetarian and does not eat meat.",
+      "exKo": "제 룸메이트는 채식주의자라서 고기를 먹지 않아요."
+    },
+    {
+      "en": "waste",
+      "ko": "버리다, 낭비하다",
+      "pos": "동사",
+      "ex": "Please do not waste food at the buffet.",
+      "exKo": "뷔페에서 음식을 낭비하지 마세요."
+    },
+    {
+      "en": "yogurt",
+      "ko": "요구르트",
+      "pos": "명사",
+      "ex": "I eat plain yogurt with fresh fruit every morning.",
+      "exKo": "저는 매일 아침 플레인 요구르트에 신선한 과일을 곁들여 먹어요."
+    }
+  ],
+  "13": [
+    {
+      "en": "backache",
+      "ko": "요통, 등 통증",
+      "pos": "명사",
+      "ex": "Sitting all day gave me a terrible backache.",
+      "exKo": "하루 종일 앉아 있었더니 심한 요통이 생겼어요."
+    },
+    {
+      "en": "bruise",
+      "ko": "멍",
+      "pos": "명사",
+      "ex": "She had a large bruise on her arm after the fall.",
+      "exKo": "그녀는 넘어진 뒤 팔에 큰 멍이 들었어요."
+    },
+    {
+      "en": "clinic",
+      "ko": "의원, 진료소",
+      "pos": "명사",
+      "ex": "The clinic opens at eight and closes at six.",
+      "exKo": "그 의원은 8시에 열고 6시에 닫아요."
+    },
+    {
+      "en": "dose",
+      "ko": "(약의) 1회 복용량",
+      "pos": "명사",
+      "ex": "Do not take more than one dose a day.",
+      "exKo": "하루에 한 번 복용량 이상 먹지 마세요."
+    },
+    {
+      "en": "drug",
+      "ko": "약물, 약",
+      "pos": "명사",
+      "ex": "The doctor said this drug may cause sleepiness.",
+      "exKo": "의사는 이 약이 졸음을 유발할 수 있다고 했어요."
+    },
+    {
+      "en": "emergency",
+      "ko": "응급 상황",
+      "pos": "명사",
+      "ex": "Call this number in case of an emergency.",
+      "exKo": "응급 상황이 생기면 이 번호로 전화하세요."
+    },
+    {
+      "en": "hurt",
+      "ko": "아프다, 다치게 하다",
+      "pos": "동사",
+      "ex": "My shoulder will still hurt when I lift my arm.",
+      "exKo": "팔을 들면 어깨가 여전히 아플 거예요."
+    },
+    {
+      "en": "ill",
+      "ko": "아픈, 병든",
+      "pos": "형용사",
+      "ex": "He stayed home from work because he felt quite ill.",
+      "exKo": "그는 몸이 꽤 안 좋아서 출근하지 않고 집에 있었어요."
+    },
+    {
+      "en": "infection",
+      "ko": "감염",
+      "pos": "명사",
+      "ex": "Wash the cut well to avoid an infection.",
+      "exKo": "감염을 막으려면 상처를 깨끗이 씻으세요."
+    },
+    {
+      "en": "operation",
+      "ko": "수술",
+      "pos": "명사",
+      "ex": "She needs an operation on her knee as soon as possible.",
+      "exKo": "그녀는 가능한 한 빨리 무릎 수술을 받아야 해요."
+    },
+    {
+      "en": "prescription",
+      "ko": "처방전",
+      "pos": "명사",
+      "ex": "You need a prescription to buy this medicine.",
+      "exKo": "이 약을 사려면 처방전이 필요해요."
+    },
+    {
+      "en": "scar",
+      "ko": "흉터",
+      "pos": "명사",
+      "ex": "The accident left a small scar on his face.",
+      "exKo": "그 사고로 그의 얼굴에 작은 흉터가 남았어요."
+    },
+    {
+      "en": "sneeze",
+      "ko": "재채기하다",
+      "pos": "동사",
+      "ex": "I always sneeze when I walk into a dusty room.",
+      "exKo": "먼지 많은 방에 들어가면 늘 재채기가 나요."
+    },
+    {
+      "en": "sprain",
+      "ko": "삐다, 접질리다",
+      "pos": "동사",
+      "ex": "Be careful on the stairs or you might sprain your ankle.",
+      "exKo": "계단에서 조심하지 않으면 발목을 삘 수도 있어요."
+    },
+    {
+      "en": "swollen",
+      "ko": "부은",
+      "pos": "형용사",
+      "ex": "My ankle is swollen and hurts when I walk.",
+      "exKo": "발목이 부어서 걸으면 아파요."
+    },
+    {
+      "en": "therapy",
+      "ko": "치료, 요법",
+      "pos": "명사",
+      "ex": "She goes to physical therapy twice a week.",
+      "exKo": "그녀는 일주일에 두 번 물리 치료를 받으러 가요."
+    },
+    {
+      "en": "virus",
+      "ko": "바이러스",
+      "pos": "명사",
+      "ex": "A new virus is spreading quickly through the school.",
+      "exKo": "새로운 바이러스가 학교에 빠르게 퍼지고 있어요."
+    },
+    {
+      "en": "wellness",
+      "ko": "건강, 웰빙",
+      "pos": "명사",
+      "ex": "Our company offers a wellness program for all staff.",
+      "exKo": "우리 회사는 전 직원에게 건강 증진 프로그램을 제공해요."
+    },
+    {
+      "en": "fracture",
+      "ko": "골절",
+      "pos": "명사",
+      "ex": "The X-ray showed a small fracture in his wrist.",
+      "exKo": "엑스레이에 그의 손목에 작은 골절이 보였어요."
+    },
+    {
+      "en": "nausea",
+      "ko": "메스꺼움",
+      "pos": "명사",
+      "ex": "The smell of the boat gave me nausea.",
+      "exKo": "배 냄새 때문에 속이 메스꺼웠어요."
+    }
+  ],
+  "14": [
+    {
+      "en": "adjust",
+      "ko": "조정하다, 적응하다",
+      "pos": "동사",
+      "ex": "It took a few weeks to adjust to the new schedule.",
+      "exKo": "새 일정에 적응하는 데 몇 주가 걸렸어요."
+    },
+    {
+      "en": "admit",
+      "ko": "인정하다",
+      "pos": "동사",
+      "ex": "I am willing to admit that I made a big mistake.",
+      "exKo": "제가 큰 실수를 했다는 걸 기꺼이 인정할게요."
+    },
+    {
+      "en": "announce",
+      "ko": "발표하다",
+      "pos": "동사",
+      "ex": "The company will announce its new product next week.",
+      "exKo": "회사는 다음 주에 신제품을 발표할 거예요."
+    },
+    {
+      "en": "approve",
+      "ko": "승인하다",
+      "pos": "동사",
+      "ex": "The manager did not approve my request for a week off.",
+      "exKo": "매니저는 일주일 휴가를 내겠다는 내 요청을 승인하지 않았어요."
+    },
+    {
+      "en": "blame",
+      "ko": "탓하다, 비난하다",
+      "pos": "동사",
+      "ex": "Please do not blame yourself for what happened last night.",
+      "exKo": "어젯밤에 일어난 일로 자책하지 마세요."
+    },
+    {
+      "en": "compete",
+      "ko": "경쟁하다",
+      "pos": "동사",
+      "ex": "Small shops cannot compete with large online stores.",
+      "exKo": "작은 가게는 대형 온라인 상점과 경쟁할 수 없어요."
+    },
+    {
+      "en": "confuse",
+      "ko": "혼란스럽게 하다",
+      "pos": "동사",
+      "ex": "The unclear instructions might confuse everyone in the class.",
+      "exKo": "불분명한 지시는 반 전체를 혼란스럽게 할 수 있어요."
+    },
+    {
+      "en": "cooperate",
+      "ko": "협력하다",
+      "pos": "동사",
+      "ex": "The two teams agreed to cooperate on the project.",
+      "exKo": "두 팀은 그 프로젝트에서 협력하기로 합의했어요."
+    },
+    {
+      "en": "criticize",
+      "ko": "비판하다",
+      "pos": "동사",
+      "ex": "It is easy to criticize, but harder to offer solutions.",
+      "exKo": "비판하기는 쉽지만 해결책을 내놓기는 더 어려워요."
+    },
+    {
+      "en": "demand",
+      "ko": "요구하다",
+      "pos": "동사",
+      "ex": "The workers demand better working conditions and a higher wage.",
+      "exKo": "근로자들은 더 나은 근무 환경과 더 높은 임금을 요구해요."
+    },
+    {
+      "en": "disagree",
+      "ko": "동의하지 않다, 의견이 다르다",
+      "pos": "동사",
+      "ex": "I disagree with you, but I respect your opinion.",
+      "exKo": "저는 당신과 의견이 다르지만 당신 의견을 존중해요."
+    },
+    {
+      "en": "forgive",
+      "ko": "용서하다",
+      "pos": "동사",
+      "ex": "Please forgive me for being late to the meeting again.",
+      "exKo": "회의에 또 늦은 것 용서해 주세요."
+    },
+    {
+      "en": "insult",
+      "ko": "모욕하다",
+      "pos": "동사",
+      "ex": "I really did not mean to insult you in front of everyone.",
+      "exKo": "모두 앞에서 당신을 모욕하려던 건 정말 아니었어요."
+    },
+    {
+      "en": "persuade",
+      "ko": "설득하다",
+      "pos": "동사",
+      "ex": "I managed to persuade her to join our team.",
+      "exKo": "나는 그녀가 우리 팀에 합류하도록 설득하는 데 성공했어요."
+    },
+    {
+      "en": "reject",
+      "ko": "거절하다, 거부하다",
+      "pos": "동사",
+      "ex": "The bank may reject his application for a small business loan.",
+      "exKo": "은행은 그의 소규모 사업 대출 신청을 거절할 수도 있어요."
+    },
+    {
+      "en": "resist",
+      "ko": "저항하다, 참다",
+      "pos": "동사",
+      "ex": "I can never resist a good slice of chocolate cake.",
+      "exKo": "맛있는 초콜릿 케이크 한 조각은 도저히 거부할 수가 없어요."
+    },
+    {
+      "en": "oppose",
+      "ko": "반대하다",
+      "pos": "동사",
+      "ex": "Many residents oppose the plan to build a new road.",
+      "exKo": "많은 주민이 새 도로 건설 계획에 반대해요."
+    },
+    {
+      "en": "remind",
+      "ko": "상기시키다",
+      "pos": "동사",
+      "ex": "Please remind me to call the dentist tomorrow.",
+      "exKo": "내일 치과에 전화해야 한다고 알려 주세요."
+    },
+    {
+      "en": "suffer",
+      "ko": "고통받다, 시달리다",
+      "pos": "동사",
+      "ex": "Many people suffer from back pain at work.",
+      "exKo": "많은 사람이 직장에서 허리 통증에 시달려요."
+    },
+    {
+      "en": "tolerate",
+      "ko": "참다, 용인하다",
+      "pos": "동사",
+      "ex": "I cannot tolerate such rude behavior from our new neighbors.",
+      "exKo": "새 이웃의 그런 무례한 행동은 참을 수 없어요."
+    }
+  ],
+  "15": [
+    {
+      "en": "absent",
+      "ko": "결석한, 부재한",
+      "pos": "형용사",
+      "ex": "Three students were absent from class today because of the flu.",
+      "exKo": "오늘 학생 세 명이 독감 때문에 수업에 결석했어요."
+    },
+    {
+      "en": "campus",
+      "ko": "캠퍼스, 교정",
+      "pos": "명사",
+      "ex": "The campus looks especially beautiful in the spring when flowers bloom.",
+      "exKo": "꽃이 피는 봄이면 캠퍼스가 특히 아름다워 보여요."
+    },
+    {
+      "en": "certificate",
+      "ko": "수료증, 자격증",
+      "pos": "명사",
+      "ex": "She received a certificate after finishing the course.",
+      "exKo": "그녀는 과정을 마치고 수료증을 받았어요."
+    },
+    {
+      "en": "curriculum",
+      "ko": "교육 과정",
+      "pos": "명사",
+      "ex": "The school is updating its curriculum this year.",
+      "exKo": "학교는 올해 교육 과정을 개편하고 있어요."
+    },
+    {
+      "en": "discipline",
+      "ko": "규율, 훈육",
+      "pos": "명사",
+      "ex": "The school is known for its strict discipline.",
+      "exKo": "그 학교는 엄격한 규율로 유명해요."
+    },
+    {
+      "en": "education",
+      "ko": "교육",
+      "pos": "명사",
+      "ex": "A good education opens many doors later in your life.",
+      "exKo": "좋은 교육은 살면서 나중에 많은 기회의 문을 열어 줘요."
+    },
+    {
+      "en": "enroll",
+      "ko": "등록하다",
+      "pos": "동사",
+      "ex": "I plan to enroll in an evening English class.",
+      "exKo": "저녁 영어 수업에 등록할 계획이에요."
+    },
+    {
+      "en": "graduate",
+      "ko": "졸업하다",
+      "pos": "동사",
+      "ex": "She will graduate from university next June with a biology degree.",
+      "exKo": "그녀는 내년 6월에 생물학 학위를 받고 대학을 졸업해요."
+    },
+    {
+      "en": "kindergarten",
+      "ko": "유치원",
+      "pos": "명사",
+      "ex": "My daughter starts kindergarten this September, and she is excited.",
+      "exKo": "딸이 올해 9월에 유치원에 들어가는데 들떠 있어요."
+    },
+    {
+      "en": "major",
+      "ko": "전공",
+      "pos": "명사",
+      "ex": "Her major is biology, but she loves music.",
+      "exKo": "그녀의 전공은 생물학이지만 음악을 좋아해요."
+    },
+    {
+      "en": "principal",
+      "ko": "교장",
+      "pos": "명사",
+      "ex": "The principal spoke to parents about the new rules.",
+      "exKo": "교장 선생님이 학부모들에게 새 규칙에 대해 말씀하셨어요."
+    },
+    {
+      "en": "pupil",
+      "ko": "학생, 제자",
+      "pos": "명사",
+      "ex": "Each pupil gets a book at the start of term.",
+      "exKo": "각 학생은 학기 초에 책 한 권을 받아요."
+    },
+    {
+      "en": "scholarship",
+      "ko": "장학금",
+      "pos": "명사",
+      "ex": "He won a scholarship that lets him study abroad next year.",
+      "exKo": "그는 내년에 유학 갈 수 있는 장학금을 받았어요."
+    },
+    {
+      "en": "semester",
+      "ko": "학기",
+      "pos": "명사",
+      "ex": "The fall semester begins in early September at most universities.",
+      "exKo": "대부분의 대학에서 가을 학기는 9월 초에 시작해요."
+    },
+    {
+      "en": "tuition",
+      "ko": "수업료, 등록금",
+      "pos": "명사",
+      "ex": "Tuition at private universities can be very high.",
+      "exKo": "사립대학의 등록금은 매우 비쌀 수 있어요."
+    },
+    {
+      "en": "thesis",
+      "ko": "학위 논문",
+      "pos": "명사",
+      "ex": "She is writing her thesis on climate change.",
+      "exKo": "그녀는 기후 변화에 관한 학위 논문을 쓰고 있어요."
+    },
+    {
+      "en": "diploma",
+      "ko": "졸업장",
+      "pos": "명사",
+      "ex": "He hung his diploma on the office wall.",
+      "exKo": "그는 졸업장을 사무실 벽에 걸었어요."
+    },
+    {
+      "en": "faculty",
+      "ko": "교수진, 학부",
+      "pos": "명사",
+      "ex": "The faculty meets every Monday to discuss the schedule.",
+      "exKo": "교수진은 매주 월요일에 모여 일정을 논의해요."
+    },
+    {
+      "en": "academic",
+      "ko": "학업의, 학문적인",
+      "pos": "형용사",
+      "ex": "Her academic results improved a lot this year.",
+      "exKo": "그녀의 학업 성적은 올해 많이 좋아졌어요."
+    },
+    {
+      "en": "syllabus",
+      "ko": "강의 계획서",
+      "pos": "명사",
+      "ex": "Please read the syllabus before the first class.",
+      "exKo": "첫 수업 전에 강의 계획서를 읽어 주세요."
+    }
+  ]
+}
