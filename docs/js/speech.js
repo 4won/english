@@ -36,41 +36,61 @@ export const canListen = !!SR;
 let active = null;
 
 // Resolves with { alts: [transcripts…] } or rejects with an Error whose .code is the recognizer's error.
+// Phones often end the second and later sessions at once with nothing heard, especially right after the
+// app has spoken (the audio is still switching from playback to the mic). So: stop any speech first, and
+// if a session ends empty without the learner pressing stop, start a fresh one until LISTEN_MS is up.
+const LISTEN_MS = 15000;
+let userStopped = false;
 export function listen({ onInterim } = {}) {
   stopListening();
+  userStopped = false;
   return new Promise((resolve, reject) => {
     if (!SR) { const e = new Error('unsupported'); e.code = 'unsupported'; reject(e); return; }
-    const rec = new SR();
-    rec.lang = 'en-US';
-    rec.interimResults = true;
-    rec.maxAlternatives = 5;
-    rec.continuous = false;
-    let alts = [], interim = '', settled = false;
+    const deadline = Date.now() + LISTEN_MS;
+    let alts = [], interim = '', settled = false, rec = null, tries = 0;
+    const timer = setTimeout(() => { userStopped = true; if (rec) try { rec.stop(); } catch (e) {} }, LISTEN_MS);
     const finish = (err) => {
       if (settled) return; settled = true; clearTimeout(timer); active = null;
       if (err) reject(err);
       else resolve({ alts: alts.length ? alts : (interim ? [interim] : []) });
     };
-    rec.onresult = ev => {
-      interim = '';
-      for (let i = ev.resultIndex; i < ev.results.length; i++) {
-        const r = ev.results[i];
-        if (r.isFinal) { alts = [...r].map(a => a.transcript.trim()).filter(Boolean); }
-        else interim += r[0].transcript;
-      }
-      if (onInterim) onInterim(alts[0] || interim);
+    const heardSomething = () => alts.length || interim;
+    const start = () => {
+      tries++;
+      rec = new SR();
+      rec.lang = 'en-US';
+      rec.interimResults = true;
+      rec.maxAlternatives = 5;
+      rec.continuous = false;
+      rec.onresult = ev => {
+        interim = '';
+        for (let i = ev.resultIndex; i < ev.results.length; i++) {
+          const r = ev.results[i];
+          if (r.isFinal) { alts = [...r].map(a => a.transcript.trim()).filter(Boolean); }
+          else interim += r[0].transcript;
+        }
+        if (onInterim) onInterim(alts[0] || interim);
+      };
+      let failed = null;
+      rec.onerror = ev => {
+        if (ev.error === 'no-speech' || ev.error === 'aborted') return; // handled in onend
+        const e = new Error(ev.error); e.code = ev.error; failed = e;
+      };
+      rec.onend = () => {
+        if (failed) return finish(failed);
+        if (heardSomething() || userStopped || Date.now() > deadline - 1500 || tries >= 20) return finish();
+        setTimeout(() => { if (!settled && !userStopped) start(); else finish(); }, 250); // ended empty: listen again
+      };
+      active = rec;
+      try { rec.start(); }
+      catch (e) { if (tries > 1) finish(); else { e.code = 'start'; finish(e); } }
     };
-    rec.onerror = ev => {
-      if (ev.error === 'no-speech' || ev.error === 'aborted') { finish(); return; }
-      const e = new Error(ev.error); e.code = ev.error; finish(e);
-    };
-    rec.onend = () => finish();
-    const timer = setTimeout(() => { try { rec.stop(); } catch (e) {} }, 15000);
-    active = rec;
-    try { rec.start(); } catch (e) { e.code = 'start'; finish(e); }
+    // Let any spoken answer finish switching off before the mic opens.
+    if (synth && (synth.speaking || synth.pending)) { synth.cancel(); setTimeout(() => (userStopped ? finish() : start()), 350); }
+    else start();
   });
 }
-export function stopListening() { if (active) { try { active.stop(); } catch (e) {} } }
+export function stopListening() { userStopped = true; if (active) { try { active.stop(); } catch (e) {} } }
 
 export function listenErrorText(code) {
   if (code === 'not-allowed' || code === 'service-not-allowed') return '마이크 권한이 꺼져 있습니다. 브라우저 설정에서 마이크를 허용하거나, "입력하기"로 답하세요.';
